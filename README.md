@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 16:27:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 17:22:26 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -804,8 +804,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-*.gs.de
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+*.gs.de
+research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1836,8 +1836,8 @@ rockstarnorth.com
 lifeinvader.com
 store.rockstargames.com
 socialclub.rockstargames.com
-support.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -2051,9 +2051,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
+snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
