@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 20:22:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 21:18:00 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -225,8 +225,8 @@ examinator.epam.com
 *.emakina.com
 *.emakina.fr
 *.emakina.group
-*.projects.epam.com
 *.epam.com
+*.projects.epam.com
 training.epam.com
 anywhere.epam.com
 cloud.epam.com
@@ -1138,12 +1138,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 mi.bookmarriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
