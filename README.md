@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 19:19:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 20:22:48 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+*.gs.de
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-*.gs.de
-research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2127,9 +2127,9 @@ one.airbnb.com
 *.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-*.hoteltonight-test.com
 luckey.fr
 luckey.in
+*.hoteltonight-test.com
 *.muscache.com
 *.airbnb.com
 api.airbnb.com
