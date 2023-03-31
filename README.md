@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 31 15:27:54 UTC 2023)
+## Domains with Bounties (Last Updated Fri Mar 31 16:27:07 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -881,9 +881,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -978,10 +978,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-direct.playstation.com
 store.playstation.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1138,12 +1138,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 mi.bookmarriott.com
 activities.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+*.gs.de
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-*.gs.de
-research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2459,10 +2459,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
