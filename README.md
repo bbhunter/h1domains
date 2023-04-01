@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  1 12:33:35 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr  1 13:23:05 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -432,13 +432,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -566,8 +566,8 @@ consensys.net
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1138,12 +1138,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 mi.bookmarriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-*.gs.de
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+*.gs.de
+research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2127,9 +2127,9 @@ one.airbnb.com
 demo.urbandoor.com
 *.airbnbcitizen.com
 *.byairbnb.com
-*.hoteltonight-test.com
 luckey.fr
 luckey.in
+*.hoteltonight-test.com
 *.muscache.com
 *.airbnb.com
 api.airbnb.com
