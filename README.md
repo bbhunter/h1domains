@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  1 09:20:06 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr  1 10:20:27 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -225,8 +225,8 @@ examinator.epam.com
 *.emakina.com
 *.emakina.fr
 *.emakina.group
-*.projects.epam.com
 *.epam.com
+*.projects.epam.com
 training.epam.com
 anywhere.epam.com
 cloud.epam.com
@@ -876,14 +876,14 @@ www.marionnaud.ro
 www.marionnaud.fr
 apptps.theperfumeshop.com
 www.watsons.com.tr
-www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
+www.watsons.co.id
 www.kruidvat.nl
 www.kruidvat.be
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
