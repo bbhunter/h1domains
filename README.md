@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  2 21:18:36 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  2 22:19:39 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -420,13 +420,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -868,9 +868,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1515,8 +1515,8 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2038,9 +2038,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
-snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
+snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
@@ -2458,10 +2458,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
