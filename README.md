@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  2 13:22:25 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  2 14:18:47 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -869,9 +869,9 @@ www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
 www.kruidvat.be
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1126,12 +1126,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -2459,10 +2459,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
