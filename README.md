@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  2 05:18:25 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  2 06:24:49 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -432,13 +432,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-*.gs.de
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+*.gs.de
+research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2051,9 +2051,9 @@ businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 scan.snapchat.com
-snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
+snappublisher.snapchat.com
 my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
@@ -2459,10 +2459,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
