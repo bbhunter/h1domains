@@ -1172,10 +1172,10 @@ gsa_bbp,cloud.gov,True
 gsa_bbp,federalist.18f.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
 ibb,rubygems.org,True
-consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,trufflesuite.com,True
+consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -2177,8 +2177,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -3505,9 +3505,9 @@ capital-one,*.capitalone.co.uk,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
-capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
+capital-one,*.capitalonecards.com,False
 capital-one,*.usejewel.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.wikibuy.com,False
@@ -4350,9 +4350,9 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
@@ -4432,6 +4432,8 @@ adobe,*.typekit.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4689,9 +4691,9 @@ coinbase,*.base.org,True
 slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,app.slack.com,True
 slack,*.quip.com,True
 slack,edgeapi.slack.com,True
