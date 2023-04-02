@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  2 18:23:27 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  2 19:17:32 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -868,9 +868,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1125,12 +1125,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1588,16 +1588,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+*.gs.de
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-*.gs.de
-research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
