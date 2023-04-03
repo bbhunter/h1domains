@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 10:23:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 11:19:04 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -31,6 +31,8 @@ https://www.okx.com/docs/en/
 *.indrive.com
 injob.indriver.com
 super-services.indriverapp.com
+intercity-*.eu-east-1.indriverapp.com
+priority.eu-east-1.indriverapp.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -422,13 +424,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -553,11 +555,11 @@ federalist-docs.18f.gov
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -789,8 +791,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -1127,12 +1129,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
 reservations.all-inclusive.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -2264,11 +2266,11 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
+slackb.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
