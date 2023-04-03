@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 11:19:04 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 12:38:06 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -33,6 +33,10 @@ injob.indriver.com
 super-services.indriverapp.com
 intercity-*.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
+watchdocs.indriverapp.com
+messenger.eu-east-1.indriverapp.comNgi
+ab-platform-api.eu-east-1.indriverapp.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -257,6 +261,8 @@ https://dashboard.razorpay.com
 https://api.razorpay.com
 https://checkout.razorpay.com
 https://invoices.razorpay.com
+https://payroll.razorpay.com
+https://x.razorpay.com/
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
@@ -424,13 +430,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -872,9 +878,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2044,11 +2050,11 @@ story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
-my.snapchat.com
 app.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -2266,9 +2272,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
@@ -2462,10 +2468,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
