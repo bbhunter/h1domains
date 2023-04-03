@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 01:20:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 02:35:13 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -554,8 +554,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1588,16 +1588,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+*.gs.de
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-*.gs.de
-research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2033,10 +2033,10 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 create.snapchat.com
-story.snapchat.com
 businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2290,9 +2290,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
