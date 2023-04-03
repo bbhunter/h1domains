@@ -965,8 +965,8 @@ admin.wickr.com
 www.wickr.com
 community.companyofheroes.com
 redeem.footballmanager.com
-community.twopointcounty.com
 playhyenas.com
+community.twopointcounty.com
 games2gether.com
 games2gether.com
 community.twopointcounty.com
@@ -1174,8 +1174,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -2174,8 +2174,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -2327,9 +2327,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.nl
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2689,8 +2689,8 @@ hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-clean.marriott.com
 homes-and-villas.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3733,8 +3733,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -4147,8 +4147,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 www.starbucks.com.sg
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -4423,8 +4423,8 @@ status.adobe.com
 magentolive.com
 applications.frame.io
 *.marketo.com
-documentcloud.adobe.com
 *.typekit.com
+documentcloud.adobe.com
 u.magento.com
 imagine.magento.com
 account.magento.com
@@ -4943,10 +4943,10 @@ about.postmates.com
 support.postmates.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
-account.magento.com
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
