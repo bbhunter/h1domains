@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  3 21:19:29 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr  3 22:20:31 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -430,13 +430,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -796,9 +796,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -878,9 +878,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.kruidvat.nl
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1135,12 +1135,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 mi.bookmarriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1598,16 +1598,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2044,8 +2044,8 @@ linkpop.com
 shopifyinbox.com
 create.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 story.snapchat.com
+accounts.snapchat.com
 businesshelp.snapchat.com
 scan.snapchat.com
 store.snapchat.com
@@ -2272,11 +2272,11 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
+slackb.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -2468,10 +2468,10 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
-repo.magento.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
+repo.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
