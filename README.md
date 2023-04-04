@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 19:18:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 20:21:33 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -196,8 +196,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-read.amazon.com
 alexa.amazon.com
+read.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -569,8 +569,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -883,9 +883,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.kruidvat.nl
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1140,12 +1140,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1603,16 +1603,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2049,9 +2049,9 @@ linkpop.com
 shopifyinbox.com
 create.snapchat.com
 ads.snapchat.com
-story.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2277,9 +2277,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2313,17 +2313,17 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
+hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 reviewer.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
+cover-photos.hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
