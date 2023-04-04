@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 18:23:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 19:18:50 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -435,13 +435,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -569,8 +569,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -883,9 +883,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.kruidvat.nl
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1948,8 +1948,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 gist.github.com
+*.githubusercontent.com
 npmjs.org
 github.com
 github.com
@@ -2313,17 +2313,17 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
-hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone-ext-content.com
 reviewer.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
 app.pullrequest.com
-b5s.hackerone-ext-content.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
