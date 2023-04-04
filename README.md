@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 21:18:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 22:20:58 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -435,13 +435,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -569,8 +569,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -802,8 +802,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -883,9 +883,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.kruidvat.nl
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2253,11 +2253,11 @@ irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
-pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
 *.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 *.base.org
 api.custody.coinbase.com
@@ -2277,9 +2277,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
