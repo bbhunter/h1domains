@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr  4 15:22:43 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr  4 16:28:38 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -568,8 +568,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1139,19 +1139,19 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-homes-and-villas.marriott.com
 clean.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1947,8 +1947,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 npmjs.org
 github.com
 github.com
