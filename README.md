@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 05:21:09 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 06:27:09 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -569,8 +569,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1601,16 +1601,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2056,8 +2056,8 @@ map.snapchat.com
 app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
