@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 08:28:20 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 09:24:10 UTC 2023)
 ```
 node.e2ro.com/*
 api-user.e2ro.com/*
@@ -1946,8 +1946,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 npmjs.org
 github.com
 github.com
@@ -2471,9 +2471,9 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
