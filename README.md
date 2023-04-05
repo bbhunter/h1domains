@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 21:20:24 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 22:20:26 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -619,15 +619,13 @@ elastic-cloud.com
 *.link.co
 *.touchtechpayments.com
 js.stripe.com
-*.payable.com
 app.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
+api.stripe.com
 api.taxjar.com
 api.stripe.com
-api.stripe.com
 *.stripe.com
-*.payable.com
 *.touchtechpayments.com
 js.stripe.com
 api.taxjar.com
