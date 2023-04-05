@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 22:20:26 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 23:17:45 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -890,9 +890,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.ro
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1538,8 +1538,8 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1611,16 +1611,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1956,8 +1956,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-gist.github.com
 *.githubusercontent.com
+gist.github.com
 npmjs.org
 github.com
 github.com
@@ -2481,9 +2481,9 @@ https://helium-console-dev.herokuapp.com/
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
