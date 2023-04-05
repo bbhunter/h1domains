@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  5 19:20:33 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr  5 20:25:55 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -447,13 +447,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -892,9 +892,9 @@ www.iciparisxl.lu
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.ro
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1150,12 +1150,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1958,8 +1958,8 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 gist.github.com
+*.githubusercontent.com
 npmjs.org
 github.com
 github.com
@@ -2058,10 +2058,10 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 create.snapchat.com
-ads.snapchat.com
 businesshelp.snapchat.com
 story.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
