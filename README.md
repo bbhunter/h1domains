@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  7 19:17:09 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr  7 20:22:15 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -2264,9 +2264,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2482,9 +2482,9 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
+magentocommerce.com
 accounts.magento.cloud
 account.magento.com
-magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com

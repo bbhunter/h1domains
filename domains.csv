@@ -552,8 +552,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.cccsymposium.org,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -4427,6 +4427,8 @@ adobe,documentcloud.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4684,9 +4686,9 @@ coinbase,*.base.org,True
 slack,status.slack.com,True
 slack,spaces.pm,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -4964,9 +4966,9 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
+magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
 magento,account.magento.com,True
-magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,marketplace.magento.com,True
 magento,u.magento.com,True
