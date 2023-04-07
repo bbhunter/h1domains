@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  7 13:24:09 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr  7 14:20:15 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -887,9 +887,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.ro
 www.watsons.co.id
-www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1316,9 +1316,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
-admin.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2056,8 +2056,8 @@ shopifyinbox.com
 businesshelp.snapchat.com
 story.snapchat.com
 accounts.snapchat.com
-create.snapchat.com
 ads.snapchat.com
+create.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
