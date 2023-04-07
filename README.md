@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  7 14:20:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr  7 15:20:55 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -887,9 +887,9 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.ro
 www.watsons.co.id
+www10.watsons.com.my
 www.pns.hk
 api.watsons.com.hk
-www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1145,12 +1145,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
+giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -2067,8 +2067,8 @@ my.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
 geofilters.snapchat.com
-spectacles.com
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
