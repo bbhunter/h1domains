@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  8 17:18:41 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr  8 18:23:40 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -444,13 +444,13 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -578,8 +578,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -888,7 +888,6 @@ www.watsons.com.ph
 www.marionnaud.ro
 www.watsons.co.id
 www10.watsons.com.my
-www.pns.hk
 api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1145,12 +1144,12 @@ gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
 mi.bookmarriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1590,16 +1589,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2045,8 +2044,8 @@ map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 web.snapchat.com
 spectacles.com
@@ -2264,9 +2263,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2482,9 +2481,9 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
+magentocommerce.com
 accounts.magento.cloud
 account.magento.com
-magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
