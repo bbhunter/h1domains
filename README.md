@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  9 22:18:02 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr  9 23:20:26 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -887,8 +887,8 @@ www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.ro
 www.watsons.co.id
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1134,10 +1134,10 @@ maria.casino
 *.kindredext.net
 https://www.32red.com
 *.highrolling.nu
-sso.marriott.com
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
+sso.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2034,10 +2034,10 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 businesshelp.snapchat.com
-story.snapchat.com
 accounts.snapchat.com
 create.snapchat.com
 ads.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2481,9 +2481,9 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
 account.magento.com
+magentocommerce.com
 repo.magento.com
 marketplace.magento.com
 u.magento.com
