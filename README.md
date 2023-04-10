@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 10 08:26:15 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 10 09:22:22 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -1136,8 +1136,8 @@ https://www.32red.com
 *.highrolling.nu
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
-sso.marriott.com
 www.marriott.com
+sso.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -1589,16 +1589,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
