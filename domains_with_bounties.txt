@@ -438,12 +438,12 @@ fallguys.com
 harmonixmusic.com
 *.popjam.com
 fortnite.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -880,8 +880,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1307,8 +1307,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.priceline.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2080,7 +2080,6 @@ magento.com
 magentolive.com
 u.magento.com
 imagine.magento.com
-account.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -2472,10 +2471,10 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
-account.magento.com
+magentocommerce.com
 repo.magento.com
+account.magento.com
 marketplace.magento.com
 u.magento.com
 imagine.magento.com
