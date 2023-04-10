@@ -2343,9 +2343,9 @@ watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.iciparisxl.lu,True
-watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
+watson_group,www.watsons.com.ph,True
 watson_group,api.watsons.com.hk,True
 watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
@@ -2697,11 +2697,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,mi.bookmarriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
@@ -4426,6 +4426,8 @@ adobe,documentcloud.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,account.magento.com,True
+adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4725,11 +4727,11 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
