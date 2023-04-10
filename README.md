@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 10 15:20:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 10 16:27:18 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
-node1.pivcac.staging.login.gov
-secure.login.gov
 idp.staging.login.gov
+secure.login.gov
+node1.pivcac.staging.login.gov
 login.gov
 idp.int.identitysandbox.gov
 idp.staging.login.gov
@@ -450,7 +450,6 @@ fortnite.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.fortnite.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -887,8 +886,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1314,12 +1313,12 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.getaroom.com
-www.bookingholdings.com
 admin.rezserver.com
 www.priceline.com
-secure.rezserver.com
+www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
+secure.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -1589,16 +1588,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1858,10 +1857,10 @@ portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 www.starbucks.fr
-www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
+www.starbucks.co.uk
 secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
@@ -2263,9 +2262,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
