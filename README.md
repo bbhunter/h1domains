@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 11 21:19:38 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 22:18:59 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -1137,18 +1137,18 @@ https://www.32red.com
 *.highrolling.nu
 mgs.marriott.com
 gatewaydsaptst2.marriott.com
-sso.marriott.com
 www.marriott.com
+sso.marriott.com
 jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -2307,9 +2307,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
