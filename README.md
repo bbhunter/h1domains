@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 11 05:20:52 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 06:26:33 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -577,8 +577,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -2039,10 +2039,10 @@ scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
-business.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 web.snapchat.com
 spectacles.com
@@ -2259,9 +2259,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
