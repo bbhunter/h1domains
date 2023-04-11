@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 11 01:20:52 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 02:37:41 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -577,8 +577,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1142,11 +1142,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1312,11 +1312,11 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
+www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
-www.priceline.com
-api.rezserver.com
 secure.rezserver.com
+api.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -2265,8 +2265,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
