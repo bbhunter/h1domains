@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 10 23:22:02 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 01:20:52 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -577,8 +577,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -886,8 +886,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -2259,9 +2259,9 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
