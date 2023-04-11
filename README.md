@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 11 07:21:17 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 11 08:25:41 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -886,8 +886,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1152,9 +1152,9 @@ passwordchallenge.marriott.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
-*uat.marriott.com
 clean.marriott.com
 homes-and-villas.marriott.com
+*uat.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1311,10 +1311,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-admin.rezserver.com
 www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1365,6 +1365,52 @@ dashboard2.omise.co
 www.omise.co
 linksplus-dashboard.omise.co
 www.opn.ooo
+res.vacations.buschgardens.com
+res.sunscaperesorts.com
+mobileapp.hyatt.com
+public.hyatt.com
+vacations.us.palladiumhotelgroup.com
+res.marival.globalbookingsolutions.com
+res.vacations.discoverycove.com
+book.beachbound.com
+www.wynnvacations.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+vacations.universalstudioshollywood.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
+newsroom.images.hyatt.com
+holidays-au.fijiairways.com
+holidays-sg.fijiairways.com
+confluence.hyattdev.com
+ebsext.oft.hyatt.com
+www.cheapcaribbean.com
+vacations.travelimpressions.com
+res.en.travelbrandsagent.com
+vacations.hotelcasavelas.com
+www.globalhotelchoices.com
+holidays-nz.fijiairways.com
+booking.beachbound.com
+res.funjet.com
+login.www.vaxvacationaccess.com
+res.secretsresorts.com
+assets.hyatt.com
+holidays-hk.fijiairways.com
+roominglist.hyatt.com
+sso.oft.hyatt.com
+upsell.hyatt.com
+world.hyatt.com
+www.blueskytours.com
+book.extraholidaysvacations.com
+vacations.velasvallarta.com
+res.breathlessresorts.com
+res.vacations.seaworld.com
+res.skyteam.com
+shop.wyndhamvacationownership.trisept.travel
+www.beachbound.com
+media.triseptsolutions.com
+vacations.outrigger.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1586,16 +1632,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
