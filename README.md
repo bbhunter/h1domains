@@ -2,8 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 16:28:23 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 17:20:53 UTC 2023)
 ```
+*.saytechnologies.com
+*.say.rocks
+*.saytechnologies.com
+*.say.rocks
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
@@ -447,12 +451,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -814,8 +818,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -856,10 +860,6 @@ api.enjinx.cn
 *.api.enjinx.cn
 www.figma.com
 api.figma.com
-cs.money
-support.cs.money
-wiki.cs.money
-3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -1554,8 +1554,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -1639,16 +1639,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2047,7 +2047,6 @@ doorstromen.mijnkombijdepolitie.nl
 acme-challenge.nl
 no-reply.cloud
 wp-mail.nl
-dropr.io
 maxcldapp.net
 maximum-status.com
 preprod.nl
@@ -2357,10 +2356,10 @@ ctf.hacker101.com
 www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
