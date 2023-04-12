@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 12:38:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 13:26:34 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -889,8 +889,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1145,11 +1145,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 activities.marriott.com
 reservations.all-inclusive.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
@@ -1314,8 +1314,8 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.bookingholdings.com
 admin.rezserver.com
+www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
 secure.rezserver.com
@@ -1561,9 +1561,9 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
-*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1982,8 +1982,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com

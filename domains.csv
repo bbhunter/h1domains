@@ -553,8 +553,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.cccsymposium.org,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1531,6 +1531,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1570,8 +1572,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2336,8 +2336,8 @@ watson_group,www.iciparisxl.lu,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
@@ -2686,11 +2686,11 @@ marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,hotel-deals.marriott.com,True
@@ -3523,8 +3523,8 @@ kartpay,*.kartpay.com,False
 chainlink,https://chain.link/,False
 chainlink,*.smartcontract.com,False
 priceline,reservations.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
+priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
 priceline,secure.rezserver.com,True
@@ -3549,8 +3549,8 @@ capital-one,*.capitalone.co.uk,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
-capital-one,*.capitalonebank.com,False
 capital-one,*.capitalonecards.com,False
+capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.usejewel.com,False
 capital-one,*.teamstercardnow.com,False
@@ -3817,9 +3817,9 @@ paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
+paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
-paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -4314,8 +4314,8 @@ github,*.github.net,True
 github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
