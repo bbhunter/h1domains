@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 17:20:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 18:24:36 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -12,8 +12,8 @@ idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
 node1.pivcac.staging.login.gov
-secure.login.gov
 idp.staging.login.gov
+secure.login.gov
 login.gov
 idp.int.identitysandbox.gov
 idp.staging.login.gov
@@ -584,8 +584,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1319,9 +1319,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.priceline.com
 www.bookingholdings.com
 www.getaroom.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 press.priceline.com
@@ -1639,16 +1639,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1986,8 +1986,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2170,6 +2170,7 @@ luckey.in
 *.muscache.com
 *.hoteltonight-test.com
 *.airbnb.com
+www.hoteltonight.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2203,6 +2204,7 @@ provider.demo.urbandoor.com
 admin.demo.urbandoor.com
 *.hoteltonight-test.com
 luckey.partners
+www.hoteltonight.com
 www.vimeo.com
 player.vimeo.com
 api.vimeo.com
@@ -2313,9 +2315,9 @@ paradex.io
 spaces.pm
 api.slack.com
 status.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2341,8 +2343,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
