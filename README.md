@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 03:21:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 04:23:50 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -888,8 +888,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1313,10 +1313,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-admin.rezserver.com
 www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1911,8 +1911,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.co.jp

@@ -882,8 +882,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1307,10 +1307,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-admin.rezserver.com
 www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1905,8 +1905,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.co.jp
