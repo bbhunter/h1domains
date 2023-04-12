@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 15:22:18 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 16:28:23 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -860,6 +860,10 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
+cs.money
+support.cs.money
+wiki.cs.money
+3d.cs.money
 app.faraday.io
 www.aiven.io
 console.aiven.io
@@ -1540,8 +1544,8 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
 *.xoom.com
-*.braintreepayments.com
 py.pl
+*.braintreepayments.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
@@ -2043,6 +2047,8 @@ doorstromen.mijnkombijdepolitie.nl
 acme-challenge.nl
 no-reply.cloud
 wp-mail.nl
+dropr.io
+maxcldapp.net
 maximum-status.com
 preprod.nl
 qatest.nl
@@ -2308,9 +2314,9 @@ paradex.io
 spaces.pm
 api.slack.com
 status.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2353,8 +2359,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
