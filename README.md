@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 12 08:26:52 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 12 09:22:19 UTC 2023)
 ```
 idp.int.identitysandbox.gov
 login.gov
@@ -112,6 +112,7 @@ vcc-*.8x8.com
 voapi.8x8.com
 *.superbet.ro
 *.superbet.rs
+*.superbet.com
 moonpay.com
 *.moonpaycloud.com
 hypermint.com
@@ -888,8 +889,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1313,10 +1314,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
+www.bookingholdings.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1560,9 +1561,9 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1905,8 +1906,8 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.fr
 www.starbucks.com.br
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.co.uk
+www.starbucksreserve.com
 secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
@@ -2336,8 +2337,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -2351,9 +2352,9 @@ ctf.hacker101.com
 www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

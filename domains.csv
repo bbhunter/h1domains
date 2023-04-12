@@ -11,8 +11,8 @@ gsa-h1c3,idp.staging.login.gov,True
 gsa-h1c3,secure.login.gov,True
 gsa-h1c3,node1.pivcac.staging.login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -211,6 +211,7 @@ kkr_vdp,www.kkresg.com,False
 8x8-bounty,voapi.8x8.com,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
+superbet,*.superbet.com,True
 moonpay,moonpay.com,True
 moonpay,*.moonpaycloud.com,True
 moonpay,hypermint.com,True
@@ -2335,8 +2336,8 @@ watson_group,www.iciparisxl.lu,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
-watson_group,api.watsons.com.hk,True
 watson_group,www10.watsons.com.my,True
+watson_group,api.watsons.com.hk,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.cz,True
@@ -3481,10 +3482,10 @@ kartpay,*.kartpay.com,False
 chainlink,https://chain.link/,False
 chainlink,*.smartcontract.com,False
 priceline,reservations.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,www.getaroom.com,True
+priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -3775,9 +3776,9 @@ paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
-paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -4172,8 +4173,8 @@ portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.com.br,True
 starbucks,cart.starbucks.co.jp,True
-starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.co.uk,True
+starbucks,www.starbucksreserve.com,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
@@ -4441,8 +4442,8 @@ adobe,app.frame.io,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,*.adobeaemcloud.com,False
-adobe,magento.com,True
 adobe,*.adobe.com,False
+adobe,magento.com,True
 adobe,*.proofhq.com,False
 adobe,*.omniture.com,False
 adobe,creativecloud.adobe.com,False
@@ -4459,6 +4460,8 @@ adobe,create.adobe.com,False
 adobe,u.magento.com,True
 adobe,imagine.magento.com,True
 adobe,updates.frame.io,False
+adobe,workflow.frame.io,False
+adobe,developer.frame.io,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -4745,8 +4748,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -4760,9 +4763,9 @@ security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
