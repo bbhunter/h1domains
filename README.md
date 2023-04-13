@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 13 15:23:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 13 16:28:20 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -451,12 +451,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -989,9 +989,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 store.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1637,16 +1637,16 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2085,8 +2085,8 @@ shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
@@ -2311,11 +2311,11 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 spaces.pm
-status.slack.com
 api.slack.com
-slackb.com
+status.slack.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
