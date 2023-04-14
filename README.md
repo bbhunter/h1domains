@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 14 04:23:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 14 05:21:08 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -863,8 +863,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1288,14 +1288,14 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.bookingholdings.com
+admin.rezserver.com
 www.priceline.com
 www.getaroom.com
-admin.rezserver.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2314,8 +2314,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -2531,8 +2531,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
