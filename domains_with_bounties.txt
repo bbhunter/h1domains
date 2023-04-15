@@ -667,8 +667,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-hackers_chosendomain.larksuite.com
 internal-api-drive-stream.larksuite.com
+hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 open.larksuite.com
@@ -857,8 +857,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1838,8 +1838,8 @@ rockstarnorth.com
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
