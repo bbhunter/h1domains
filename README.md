@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 15 15:21:26 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 15 16:25:47 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -1114,11 +1114,11 @@ mgs.marriott.com
 gatewaydsaptst2.marriott.com
 www.marriott.com
 sso.marriott.com
-jobs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
+jobs.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
@@ -1288,10 +1288,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
+www.priceline.com
+www.getaroom.com
 admin.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
-www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1617,8 +1617,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
@@ -2531,8 +2531,8 @@ mock.lob.com
 https://github.com/Evolveum/midpoint
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty
 magentolive.com
-magentocommerce.com
 accounts.magento.cloud
+magentocommerce.com
 repo.magento.com
 account.magento.com
 u.magento.com
