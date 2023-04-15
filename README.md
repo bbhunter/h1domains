@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 15 20:20:28 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 15 21:18:59 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -423,12 +423,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -556,8 +556,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -863,8 +863,8 @@ www.iciparisxl.lu
 www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1119,11 +1119,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1294,8 +1294,8 @@ admin.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1617,8 +1617,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
