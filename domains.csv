@@ -1255,8 +1255,8 @@ stripe,*.reckoproduction.com,True
 stripe,*.stripe.com,True
 stripe,*.recko.io,True
 stripe,*.link.co,True
-stripe,*.touchtechpayments.com,True
 stripe,js.stripe.com,True
+stripe,*.touchtechpayments.com,True
 stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.getbouncer.com,True
@@ -1524,6 +1524,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1563,8 +1565,6 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
-gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2177,8 +2177,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
@@ -3896,9 +3896,9 @@ goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.marcus.com,True
-goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
 goldmansachs,developer.gs.com,True
+goldmansachs,www.rocaton.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -4790,12 +4790,12 @@ security,a5s.hackerone-ext-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,www.hackerone.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
@@ -5082,8 +5082,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,magentocommerce.com,True
 magento,accounts.magento.cloud,True
+magento,magentocommerce.com,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,u.magento.com,True
