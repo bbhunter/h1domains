@@ -15,8 +15,8 @@ gsa-h1c3,idp.staging.login.gov,True
 gsa-h1c3,secure.login.gov,True
 gsa-h1c3,node1.pivcac.staging.login.gov,True
 gsa-h1c3,node1.pivcac.prod.login.gov,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -4799,8 +4799,8 @@ security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -5082,8 +5082,8 @@ postmates,about.postmates.com,False
 postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/FileZilla3/trunk/src/putty,True
 magento,magentolive.com,True
-magento,accounts.magento.cloud,True
 magento,magentocommerce.com,True
+magento,accounts.magento.cloud,True
 magento,repo.magento.com,True
 magento,account.magento.com,True
 magento,u.magento.com,True
