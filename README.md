@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 16:31:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 17:24:29 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -1093,8 +1093,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2782,8 +2782,8 @@ map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3093,8 +3093,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
-errors.hackerone.net
 cover-photos.hackerone-user-content.com
+errors.hackerone.net
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
@@ -3331,8 +3331,8 @@ mock.lob.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-accounts.magento.cloud
 magentocommerce.com
+accounts.magento.cloud
 repo.magento.com
 account.magento.com
 u.magento.com
@@ -3357,6 +3357,21 @@ apply.opentech.fund
 http://*.cobinhood.com
 app.upserve.com
 hq.breadcrumb.com
+mossy.breadcrumb.com
+cards.swipely.com
+api.breadcrumb.com
+pos.swipely.com
+orders.upserve.com
+reports.breadcrumb.com
+swipely-merchant-assets.s3.amazonaws.com
+payments.upserve.com
+d2evh2mef3r450.cloudfront.net
+inventory.upserve.com
+teamhelp.upserve.com
+payments.breadcrumb.com
+hq-api.upserve.com
+app.upserve.com
+hq.breadcrumb.com
 cards.swipely.com
 api.breadcrumb.com
 mossy.breadcrumb.com
@@ -3369,7 +3384,7 @@ d2evh2mef3r450.cloudfront.net
 swipely-merchant-assets.s3.amazonaws.com
 inventory.upserve.com
 hq-api.upserve.com
-hq.upserve.com
+https://hq.upserve.com
 https://645892349820.vulnerbug.com
 teamhelp.upserve.com
 https://www.showmax.com
