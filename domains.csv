@@ -833,8 +833,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.bethisraelny.org,False
+mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -1485,12 +1485,12 @@ epicgames,*.popjam.com,True
 epicgames,fortnite.com,True
 epicgames,*.audicagame.com,True
 epicgames,forum.sketchfab.com,False
-epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.dropmix.com,True
 epicgames,www.rockband4.com,True
 epicgames,*.hmxwebservices.com,True
+epicgames,*.psyonix.com,True
+epicgames,*.3lateral.com,True
 epicgames,*.rocketleague.com,True
 epicgames,*.psynet.gg,True
 epicgames,*.unrealtournament.com,True
@@ -1638,8 +1638,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -3017,6 +3017,7 @@ rebellion-defense,http://*.moochirp.io,False
 rebellion-defense,http://*.mooch.rip,False
 rebellion-defense,www.rebelliondefense.com,False
 dropcontact,app.dropcontact.io,False
+dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,beta-cloud.acronis.com,True
@@ -3405,6 +3406,7 @@ magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 qulture_rocks,https://hackerone.qulture.rocks/,False
 stagingdoteverydotorg,staging.every.org,False
+stagingdoteverydotorg,staging.every.org,False
 myndr,www.myndr.nl,False
 myndr,osd.myndr.nl,False
 myndr,osd.myndr.nl,False
@@ -3469,8 +3471,8 @@ endless_group,app.raisable.org,False
 endless_group,api.raisable.org,False
 marriott,mgs.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,www.marriott.com,True
 marriott,sso.marriott.com,True
+marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -4169,10 +4171,12 @@ stripo,my.stripo.email,False
 stripo,stripo.email,False
 filezilla,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 natur_com_gmbh,www.natur.com,False
+natur_com_gmbh,www.natur.com,False
 gmelius,api.gmelius.com,False
 gmelius,gmelius.io,False
 gmelius,api.gmelius.com,False
 gmelius,gmelius.io,False
+lemlist,app.lemlist.com,False
 lemlist,app.lemlist.com,False
 keybank,*.hellowallet.com,False
 keybank,*.laurelroad.com,False
@@ -4187,7 +4191,8 @@ keybank,*.hellowallet.com,False
 keybank,*.laurelroad.com,False
 keybank,*.cainbrothers.com,False
 overloop,app.overloop.com,False
-worklytics,*.worklytics.co,False
+overloop,app.overloop.com,False
+worklytics,http://*.worklytics.co,False
 allegro,http://*.allegro.pl.allegrosandbox.pl,True
 top_echelon_software,bigbiller.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
@@ -4748,6 +4753,7 @@ hyatt,www.triseptdemo.com,True
 hyatt,vacations.united.com,True
 hyatt,www.applevacations.com,True
 cfptime,www.cfptime.org,False
+cfptime,www.cfptime.org,False
 grammarly,grammarly.ai,True
 grammarly,http://*.grammarly.io,True
 grammarly,http://*.grammarlyaws.com,True
@@ -4943,9 +4949,9 @@ goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.marcus.com,True
+goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
 goldmansachs,developer.gs.com,True
-goldmansachs,www.rocaton.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -5433,10 +5439,10 @@ portswigger,portswigger.net,True
 portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
 starbucks,www.starbucks.fr,True
-starbucks,www.starbucks.com.br,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.uk,True
 starbucks,www.starbucksreserve.com,True
+starbucks,www.starbucks.com.br,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
@@ -5546,7 +5552,7 @@ nextcloud,nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
-secnews,*.secnews.gr,True
+secnews,http://*.secnews.gr,True
 pornhub,www.thumbzilla.com,True
 pornhub,www.pornhub.com,True
 pornhub,www.modelhub.com,True
@@ -5828,7 +5834,6 @@ adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
-adobe,app.frame.io,False
 adobe,repo.magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,*.adobeaemcloud.com,False
@@ -5836,6 +5841,7 @@ adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
+adobe,app.frame.io,False
 adobe,*.proofhq.com,False
 adobe,*.omniture.com,False
 adobe,creativecloud.adobe.com,False
@@ -6155,9 +6161,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -6195,10 +6201,10 @@ security,profile-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
-security,www.hackerone.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,cover-photos.hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,errors.hackerone.net,True
+security,cover-photos.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
@@ -6472,6 +6478,7 @@ ozon,www.ozon.ru,False
 ozon,id.ozon.ru,False
 ozon,job.ozon.ru,False
 rghost,rghost.net,False
+rghost,rghost.net,False
 helium,ota.helium.com,True
 helium,burrow.helium.systems,True
 helium,https://helium-console-dev.herokuapp.com/,True
@@ -6504,7 +6511,7 @@ copper,www.copper.com,False
 copper,app.copper.com,False
 copper,app.copper.com,False
 copper,www.copper.com,False
-spell,*.spell.run,False
+spell,http://*.spell.run,False
 lob,arcade.lob.com,True
 lob,lob.com,True
 lob,mock.lob.com,True
@@ -6543,7 +6550,7 @@ lob,lob-assets.com,True
 lob,blog.lob.com,True
 lob,docs.lob.com,True
 lob,mock.lob.com,True
-midpoint_h1c,https://github.com/Evolveum/midpoint,True
+midpoint_h1c,https://github.com/evolveum/midpoint,True
 postmates,postmates.com,False
 postmates,raster-static.postmates.com,False
 postmates,about.postmates.com,False
