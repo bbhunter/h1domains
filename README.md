@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 17 07:20:31 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 17 08:27:18 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -12,8 +12,8 @@ idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
 node1.pivcac.staging.login.gov
-secure.login.gov
 idp.staging.login.gov
+secure.login.gov
 login.gov
 idp.int.identitysandbox.gov
 idp.staging.login.gov
@@ -556,8 +556,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -863,8 +863,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1524,8 +1524,8 @@ swiftcapital.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2057,16 +2057,16 @@ shopifyinbox.com
 businesshelp.snapchat.com
 create.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -2285,9 +2285,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 app.slack.com
 *.quip.com
 edgeapi.slack.com
