@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 16:30:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 17:19:38 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -981,11 +981,11 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1293,19 +1293,19 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-homes-and-villas.marriott.com
 passwordchallenge.marriott.com
 clean.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2743,8 +2743,8 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
