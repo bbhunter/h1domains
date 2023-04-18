@@ -79,7 +79,7 @@ rpki.apnic.net
 submission.apnic.net
 * IPv4 addresses
 * IPv6 addresses
-*.okx.com
+http://*.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 http://*.lacity.org
@@ -321,9 +321,9 @@ work.8x8.com
 user-profile.8x8.com
 http://vcc-*.8x8.com
 voapi.8x8.com
-*.superbet.ro
-*.superbet.rs
-*.superbet.com
+http://*.superbet.ro
+http://*.superbet.rs
+http://*.superbet.com
 moonpay.com
 hypermint.com
 moonpay.com
@@ -832,8 +832,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.bethisraelny.org
 *.snch.org
+*.bethisraelny.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -1987,8 +1987,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2846,8 +2846,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -3045,8 +3045,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -3477,11 +3477,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -4502,8 +4502,8 @@ http://*.smartcontract.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -4800,7 +4800,7 @@ service.tvg.com
 us.tvg.com
 www.4njbets.com
 fanduel.design
-*.smule.com
+http://*.smule.com
 http://*.flickr.com
 casper.com
 bedpost.casper.com
@@ -4948,9 +4948,9 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
+www.rocaton.com
 *.claritymoney.com
 developer.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -5129,6 +5129,9 @@ http://*.vanillacommunities.com
 http://*.vanillastaging.com
 http://*.vanilladevelopment.com
 http://*.vanillacommunity.com
+coalitioninc.com
+platform.thecoalition.com
+api.thecoalition.com
 platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
@@ -5434,6 +5437,8 @@ http://*.quora.com
 *.robinhood.com
 *.robinhood.net
 *.rhinternal.net
+forum.portswigger.net
+portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
@@ -5481,9 +5486,9 @@ www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
 brave.com
-search.brave.com
 talk.brave.com
 basicattentiontoken.org
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -5589,8 +5594,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-gist.github.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -6160,9 +6165,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -6197,11 +6202,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
@@ -6448,6 +6453,14 @@ monzo.me
 monzomail.com
 monzoemail.com
 http://*.prod-ffs.io
+flashpaper.logsnitch.com
+www.logsnitch.com
+api.logsnitch.com
+mta-sts.logsnitch.com
+support.logsnitch.com
+console.logsnitch.com
+logsnitch.com
+mta-sts.mail.logsnitch.com
 api.logsnitch.com
 console.logsnitch.com
 flashpaper.logsnitch.com
@@ -6641,8 +6654,8 @@ http://*.upserve.com
 https://www.showmax.com
 https://secure.showmax.com
 https://api.showmax.com
-vpn.*.platfoo.com
-bastion.*.platfoo.com
+http://vpn.*.platfoo.com
+http://bastion.*.platfoo.com
 https://stories.showmax.com
 federalist-proxy.app.cloud.gov
 cloud.gov
@@ -6672,7 +6685,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
