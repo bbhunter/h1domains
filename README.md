@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 11:24:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 12:43:54 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -340,12 +340,12 @@ smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-www.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
+www.etoro.com
 etoropartners.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -720,8 +720,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -785,10 +785,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 app.spiketrap.io
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1064,8 +1064,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1302,10 +1302,10 @@ www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
-clean.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
 passwordchallenge.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1489,8 +1489,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1850,8 +1850,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2115,8 +2115,8 @@ api.spotify.com
 backstage.io
 api.dashlane.com
 www.dashlane.com
-app.dashlane.com
 logs.dashlane.com
+app.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -2213,10 +2213,10 @@ card.starbucks.com.sg
 app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
-login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -2304,8 +2304,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2624,8 +2624,8 @@ av.urbandictionary.biz
 cloudflareworkers.com
 *.teams.cloudflare.com
 dash.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
@@ -2703,9 +2703,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2982,9 +2982,9 @@ https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 magentocommerce.com
-accounts.magento.cloud
 repo.magento.com
 account.magento.com
+accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magento.com
