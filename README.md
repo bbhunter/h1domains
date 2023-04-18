@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 12:43:54 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 13:45:29 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -587,12 +587,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1064,8 +1064,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1489,8 +1489,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1696,10 +1696,10 @@ login-4ngbets.us.betfair.com
 login-ia.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
+tvg.com
 fdbox.net
 com.fanduel.android.live
 sportsbook.fanduel.com
