@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 18 06:28:04 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 18 07:21:29 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -278,17 +278,16 @@ api.zerobounce.in
 zerobounce.in
 api.zerobounce.in
 zerobounce.net
-*.goteleport.com
-*.gravitational.com
-*.teleport.dev
+cloud.gravitational.io
 teleport.sh
-*.teleportinfra.sh
+get.gravitational.io
+h1-your-domain.teleport.sh
+platform.teleport.sh
+teleport.sh
 get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
-*.gravitational.co
-*.gravitational.io
 test.deribit.com
 pb.deribit.com
 insights.deribit.com
@@ -658,12 +657,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -797,8 +796,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -869,11 +868,11 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 app.spiketrap.io
+old.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1192,8 +1191,8 @@ www.marionnaud.ro
 www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.cz
@@ -1713,8 +1712,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.priceline.com
 admin.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1962,10 +1961,10 @@ us.tvg.com
 www.4njbets.com
 fanduel.design
 http://*.flickr.com
-casper.com
 bedpost.casper.com
 operator.casper.tools
 legacy.casper.com
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2613,8 +2612,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2970,8 +2969,8 @@ http://*.urbanup.com
 cloudflareworkers.com
 *.teams.cloudflare.com
 dash.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
@@ -3082,19 +3081,19 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
@@ -3289,6 +3288,8 @@ secure.vendhq.com
 developers.vendhq.com
 www.vendhq.com
 payment-connectors.vendhq.com
+burrow.helium.systems
+ota.helium.com
 ota.helium.com
 burrow.helium.systems
 https://helium-console-dev.herokuapp.com/
