@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 11:24:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 12:43:05 UTC 2023)
 ```
 *.saytechnologies.com
 *.say.rocks
@@ -173,8 +173,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.fewo-direkt.de
 www.expedia.com
+www.fewo-direkt.de
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -278,6 +278,8 @@ https://www.amazon.com/luna/*
 https://luna.amazon.com/*
 knox.beta.blendlabs.com
 knox.beta.blendlabs.com
+https://www.*mongodb.com/*
+mongodb.live/*
 checksw.com
 royal.checksw.com
 checksw.com
@@ -722,8 +724,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -981,13 +983,13 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1852,8 +1854,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2272,8 +2274,8 @@ id.getharvest.com
 getharvest.com
 www.thumbzilla.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.youporn.com
 www.youpornpremium.com
@@ -2298,8 +2300,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -2705,9 +2707,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2728,7 +2730,6 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
-data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -2745,9 +2746,9 @@ hackerone-ext-content.com
 www.hackerone.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
@@ -2774,8 +2775,6 @@ errors.hackerone.net
 https://*.hackerone-ext-content.com
 https://*.hackerone-user-content.com/
 *.vpn.hackerone.net
-https://www.*mongodb.com/*
-mongodb.live/*
 m.trendyol.com
 www.dolap.com
 www.trendyol.com
@@ -3063,7 +3062,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
