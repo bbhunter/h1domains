@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 19:27:28 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 20:26:23 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -792,8 +792,8 @@ www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
 app.spiketrap.io
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 api.reddit.com
 new.reddit.com
 strapi.reddit.com
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1821,8 +1821,8 @@ staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
 staging-admin.shipt.com
-api.shipt.com
 www.shipt.com
+api.shipt.com
 app.shipt.com
 api.shipt.com
 admin.shipt.com
@@ -1856,8 +1856,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2114,10 +2114,16 @@ heyfiesta.com
 blendr.com
 com.blendr.mobile
 assets.spotify.com
+api.sonantic.io
+app.sonantic.io
 backstage.io
 api.spotify.com
+label-studio-public.sonantic.io
 assets.spotify.com
 api.spotify.com
+api.sonantic.io
+app.sonantic.io
+label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 www.dashlane.com
@@ -2711,9 +2717,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2743,19 +2749,19 @@ hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.com
@@ -3066,6 +3072,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
