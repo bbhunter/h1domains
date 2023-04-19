@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 22:21:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 23:22:30 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1856,8 +1856,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-developer.gs.com
 www.rocaton.com
+developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2225,8 +2225,8 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -2751,19 +2751,19 @@ hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.com
