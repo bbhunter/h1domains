@@ -2,8 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 13:33:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 14:25:13 UTC 2023)
 ```
+www.six-group.com
+www.six-group.com
 *.saytechnologies.com
 *.say.rocks
 *.saytechnologies.com
@@ -339,8 +341,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -591,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -724,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -788,11 +790,11 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-api.reddit.com
 gql.reddit.com
 app.spiketrap.io
 ads.reddit.com
 old.reddit.com
+api.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -985,11 +987,11 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+creatormarketplace.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1297,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -2739,20 +2741,20 @@ hackerone-user-content.com
 api.hackerone.com
 hackerone.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
@@ -3062,6 +3064,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
