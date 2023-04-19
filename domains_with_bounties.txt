@@ -169,8 +169,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.wotif.com
@@ -346,7 +346,6 @@ sts.etoro.com
 watchlistapi.etoro.com
 www.etoro.com
 delta.app
-etoropartners.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -354,6 +353,7 @@ kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
+etoropartners.com
 api.etoro.com
 billing.etoro.com
 charts.etoro.com
@@ -786,8 +786,8 @@ www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 api.reddit.com
 new.reddit.com
 strapi.reddit.com
@@ -1021,8 +1021,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1293,11 +1293,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1488,8 +1488,8 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
@@ -1850,8 +1850,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2108,6 +2108,7 @@ heyfiesta.com
 blendr.com
 com.blendr.mobile
 assets.spotify.com
+heardle.app
 api.sonantic.io
 app.sonantic.io
 backstage.io
@@ -2118,6 +2119,7 @@ api.spotify.com
 api.sonantic.io
 app.sonantic.io
 label-studio-public.sonantic.io
+heardle.app
 backstage.io
 api.dashlane.com
 www.dashlane.com
@@ -2493,9 +2495,9 @@ story.snapchat.com
 community.ui.com
 ispdesign.ui.com
 ca.store.ui.com
-account.ui.com
 rma.ui.com
 careers.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 community.ui.com
@@ -2711,9 +2713,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
