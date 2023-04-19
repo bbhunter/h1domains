@@ -688,8 +688,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.snch.org,False
+mount-sinai-health,*.bethisraelny.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -745,8 +745,8 @@ mars,marsbettertogetherfund.org,False
 mars,banfield.us,False
 cornershop,*.cornershop.io/*,True
 cornershop,*.superpal.com/*,True
-cornershop,*.cornershopapp.com/*,True
 cornershop,*.superpal.io/*,True
+cornershop,*.cornershopapp.com/*,True
 cornershop,*.cornershopapp.com/*,True
 cornershop,*.superpal.com/*,True
 cornershop,*.cornershop.io/*,True
@@ -1347,8 +1347,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1607,8 +1607,8 @@ upchieve,argocd.upchieve.org,False
 upchieve,hackers.upchieve.org,False
 reddit,gql.reddit.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,api.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
@@ -1624,8 +1624,8 @@ reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
-reddit,www.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,www.reddit.com,True
 reddit,old.reddit.com,True
 reddit,new.reddit.com,True
@@ -2553,8 +2553,8 @@ watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
-watson_group,api.watsons.com.hk,True
 watson_group,www10.watsons.com.my,True
+watson_group,api.watsons.com.hk,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.it,True
@@ -3027,7 +3027,6 @@ topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
 topcoder,community-app.topcoder.com,False
 topcoder,dna.topcoder.com,False
-topcoder,innovation.topcoder.com,False
 topcoder,ios.topcoder.com,False
 topcoder,members.topcoder.com,False
 topcoder,software.topcoder.com,False
@@ -3040,6 +3039,7 @@ topcoder,veterans.topcoder.com,False
 topcoder,webhooks.topcoder.com,False
 topcoder,wordpress.topcoder.com,False
 topcoder,app.topcoder.com,False
+topcoder,innovation.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
@@ -4204,8 +4204,8 @@ paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
 paypal,paypalobjects.com,True
-paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -5444,8 +5444,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -5907,7 +5907,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True

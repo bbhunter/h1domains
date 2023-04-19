@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 18:31:01 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 19:27:28 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -288,8 +288,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -792,8 +792,8 @@ www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 api.reddit.com
 new.reddit.com
 strapi.reddit.com
@@ -809,8 +809,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1764,8 +1764,8 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2740,8 +2740,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3066,7 +3066,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
