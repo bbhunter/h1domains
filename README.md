@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 19 15:40:10 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 19 16:37:47 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -985,8 +985,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1204,11 +1204,11 @@ wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
 staking-api.polygon.technology
-wallet.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -2711,9 +2711,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2743,20 +2743,20 @@ hackerone-user-content.com
 api.hackerone.com
 hackerone.com
 a5s.hackerone-ext-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 www.hackerone.com
-ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
+ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
@@ -3066,7 +3066,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
