@@ -1299,8 +1299,8 @@ logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 federalist-docs.18f.gov
 *.login.gov
-inventory.data.gov
 www.fedramp.gov
+inventory.data.gov
 ci.fr.cloud.gov
 idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
@@ -1346,8 +1346,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1723,8 +1723,6 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
-digitalgov.gov
-*.buyamerican.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
@@ -1764,6 +1762,8 @@ ulmt.pbs.gsa.gov
 app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
+dss.gsa.gov
+soa-ext.fas.gsa.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -3905,9 +3905,9 @@ press.priceline.com
 *.paribus.co
 *.capitalone360.com
 *.bluetarp.com
-*.capitaloneshopping.com
 *.capitalone.co.uk
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -4301,9 +4301,9 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
+www.rocaton.com
 *.claritymoney.com
 developer.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -4748,12 +4748,12 @@ secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.kr
 login.starbucks.co.jp
-www.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -5335,6 +5335,7 @@ one.dash.cloudflare.com
 *.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -5344,6 +5345,7 @@ api.cloudflare.com
 http://github.com/cloudflare
 dash.teams.cloudflare.com
 one.dash.cloudflare.com
+waf.cumulusfire.net
 *.cloudflarepartners.com
 akismet.com
 embed.tumblr.com
@@ -5412,9 +5414,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
