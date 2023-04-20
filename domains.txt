@@ -2552,8 +2552,8 @@ www.watsons.co.id
 www.watsons.com.ph
 www.marionnaud.fr
 apptps.theperfumeshop.com
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -2910,11 +2910,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -4165,10 +4165,10 @@ service.tvg.com
 us.tvg.com
 www.4njbets.com
 fanduel.design
-operator.casper.tools
 bedpost.casper.com
 casper.com
 legacy.casper.com
+operator.casper.tools
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -4301,9 +4301,9 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
+www.rocaton.com
 *.claritymoney.com
 developer.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -5133,11 +5133,11 @@ applications.frame.io
 *.marketo.com
 *.tubemogul.com
 documentcloud.adobe.com
-status.adobe.com
 assets.adobe.com
 *.omniture.com
 *.tt.omtrdc.net
 create.adobe.com
+status.adobe.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
@@ -5904,6 +5904,7 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
