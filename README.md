@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 20:26:00 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 21:22:25 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 activities.marriott.com
 jobs.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1840,6 +1840,9 @@ www.shipt.com
 *.marcus.co.uk
 *.unitedcp.com
 *.ayco.com
+apigw.foliofn.com
+*.foliofirst.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
@@ -1848,6 +1851,8 @@ goldmansachsindices.com
 *.gspublishing.com
 *.goldmansachs.com
 *.honestdollar.com
+*.foliodigitalwealth.com
+*.vennhypotheken.nl
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -1855,9 +1860,11 @@ marquee.gs.com
 *.gs.de
 research.gs.com
 *.gs.com
+api.foliofn.com
+*.advisorsolutions.gs.com
+*.folioinstitutional.com
+*.folioclient.com
 *.marcus.com
-www.rocaton.com
-developer.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -1882,6 +1889,18 @@ www.rocaton.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
+apigw.foliofn.com
+api.foliofn.com
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.nnip.com
+*.vennhypotheken.nl
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
 help.steampowered.com
@@ -2719,9 +2738,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
