@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 18:27:25 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 20 19:21:20 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -162,9 +162,9 @@ www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediagroup.com
 www.abritel.fr
+www.expediaagents.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1027,8 +1027,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1727,9 +1727,9 @@ us.tvg.com
 www.4njbets.com
 fanduel.design
 bedpost.casper.com
-legacy.casper.com
 operator.casper.tools
 casper.com
+legacy.casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -1856,8 +1856,8 @@ marquee.gs.com
 research.gs.com
 *.gs.com
 *.marcus.com
-www.rocaton.com
 developer.gs.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2258,10 +2258,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
 talk.brave.com
 basicattentiontoken.org
 search.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2719,9 +2719,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2764,9 +2764,9 @@ ctf.hacker101.com
 www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
