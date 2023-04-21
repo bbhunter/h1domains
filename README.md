@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 21 17:20:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 18:26:51 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -985,8 +985,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
@@ -1299,11 +1299,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
-giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
+giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1594,8 +1594,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-www.blueskytours.com
 assets.hyatt.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1927,8 +1927,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
@@ -2783,8 +2783,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
