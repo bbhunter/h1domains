@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 20 23:21:38 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 01:23:17 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -211,8 +211,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 coralcube.io
 *.coralcube.io
 magiceden.io
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1297,8 +1297,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
@@ -1841,8 +1841,8 @@ www.shipt.com
 *.unitedcp.com
 *.ayco.com
 apigw.foliofn.com
-*.foliofn.com
 *.foliofirst.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
@@ -2203,8 +2203,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -2741,8 +2741,8 @@ api.slack.com
 slackatwork.com
 slack-redir.net
 slackb.com
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
