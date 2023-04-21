@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 21 04:26:33 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 05:21:54 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -593,12 +593,12 @@ harmonixmusic.com
 *.popjam.com
 fortnite.com
 *.audicagame.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1070,8 +1070,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.watsons.com.ph
 www.marionnaud.fr
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1862,8 +1862,8 @@ research.gs.com
 *.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 *.marcus.com
 *.goldmansachs.com
 *.gs.com
@@ -2738,11 +2738,11 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
+slackb.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -2768,19 +2768,19 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
+hackathon-photos.hackerone-user-content.com
+ctf.hacker101.com
 errors.hackerone.net
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
