@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 21 10:24:37 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 21 11:20:06 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -247,8 +247,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-m.poloniex.com
 www.poloniex.com
+m.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -726,8 +726,8 @@ trufflesuite.com
 activate.codefi.network
 consensys.net
 staking.codefi.network
-webhooks-api-experimental.codefi.network
 bridge.codefi.network
+webhooks-api-experimental.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1858,12 +1858,12 @@ goldmansachsindices.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
 *.gs.de
-research.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
 *.gs.com
+research.gs.com
 *.marcus.com
 *.goldmansachs.com
 *.gs.com
@@ -2738,9 +2738,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2783,8 +2783,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 errors.hackerone.net
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
@@ -3084,7 +3084,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
