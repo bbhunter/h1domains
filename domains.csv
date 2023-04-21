@@ -1347,8 +1347,8 @@ consensys,trufflesuite.com,True
 consensys,activate.codefi.network,True
 consensys,consensys.net,True
 consensys,staking.codefi.network,True
-consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
+consensys,webhooks-api-experimental.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -1722,8 +1722,6 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
-gsa_vdp,digitalgov.gov,False
-gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1763,6 +1761,8 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
+gsa_vdp,dss.gsa.gov,False
+gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -2489,9 +2489,9 @@ figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
-cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,3d.cs.money,True
+cs_money,cs.money,True
 cs_money,cs.money,True
 cs_money,support.cs.money,True
 cs_money,wiki.cs.money,True
@@ -2909,11 +2909,11 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,giftcards.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,hotel-deals.marriott.com,True
 marriott,marrtool.com,True
@@ -3547,8 +3547,8 @@ datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
 streak_com,mailfoogae.appspot.com,False
 streak_com,streaklinks.com,False
-streak_com,www.streak.com,False
 streak_com,api.streak.com,False
+streak_com,www.streak.com,False
 streak_com,www.streak.com,False
 streak_com,api.streak.com,False
 streak_com,mailfoogae.appspot.com,False
@@ -3959,9 +3959,9 @@ creditkarma,blog.creditkarma.com,True
 creditkarma,https://www.creditkarma.com/savings,True
 creditkarma,support.creditkarma.ca,True
 omise,vault.omise.co,True
-omise,dashboard.omise.co,True
 omise,link.omise.co,True
 omise,www.opn.ooo,True
+omise,dashboard.omise.co,True
 omise,dashboard2.omise.co,True
 omise,api.omise.co,True
 omise,linksplus-dashboard.omise.co,True
@@ -4287,7 +4287,6 @@ goldmansachs,*.ayco.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.finlife.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
@@ -4297,6 +4296,7 @@ goldmansachs,*.honestdollar.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.vennhypotheken.nl,True
+goldmansachs,*.finlife.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
@@ -5356,8 +5356,8 @@ urbandictionary,help.urbandictionary.com,False
 cloudflare,*.teams.cloudflare.com,True
 cloudflare,dash.teams.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
-cloudflare,*.cloudflare.com,True
 cloudflare,cloudflareworkers.com,True
+cloudflare,*.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
@@ -5439,9 +5439,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5484,8 +5484,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
