@@ -1332,11 +1332,11 @@ ibb,rubygems.org,True
 ibb,rubygems.org,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,trufflesuite.com,True
-consensys,activate.codefi.network,True
 consensys,consensys.net,True
+consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
-consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
+consensys,bridge.codefi.network,True
 consensys,canary.activate.codefi.network,True
 consensys,activate.codefi.network,True
 consensys,staking.codefi.network,True
@@ -2539,8 +2539,8 @@ watson_group,www.watsons.co.id,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
-watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.ph,True
 watson_group,app.marionnaud.it,True
@@ -3872,9 +3872,9 @@ chainlink,chain.link,False
 chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -4018,8 +4018,8 @@ hyatt,www.beachbound.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
-hyatt,www.blueskytours.com,True
 hyatt,assets.hyatt.com,True
+hyatt,www.blueskytours.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -5429,9 +5429,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
-slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
+slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
