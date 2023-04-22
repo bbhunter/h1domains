@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 22 10:22:57 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 22 11:19:03 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1483,8 +1483,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.priceline.com
-www.getaroom.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1582,8 +1582,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-www.blueskytours.com
 assets.hyatt.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
