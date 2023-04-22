@@ -222,8 +222,8 @@ stanford-university,who.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-kkr_vdp,*.kkr.com,False
 kkr_vdp,kkr.com,False
+kkr_vdp,*.kkr.com,False
 kkr_vdp,portal.kkr.com,False
 kkr_vdp,www.fskkradvisor.com,False
 kkr_vdp,*.kkr.cloud,False
@@ -292,8 +292,8 @@ expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
-expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.vrbo.com,True
+expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
@@ -1710,8 +1710,6 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
-gsa_vdp,digitalgov.gov,False
-gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,federalist-proxy.app.cloud.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
@@ -1751,6 +1749,8 @@ gsa_vdp,ulmt.pbs.gsa.gov,False
 gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
+gsa_vdp,dss.gsa.gov,False
+gsa_vdp,soa-ext.fas.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -4018,8 +4018,8 @@ hyatt,www.beachbound.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
-hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
+hyatt,assets.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -4270,11 +4270,11 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
+goldmansachs,*.unitedcp.com,True
 goldmansachs,*.finlifepartners.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
@@ -5053,10 +5053,10 @@ snapchat,scan.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
-snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -5472,8 +5472,8 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -5921,6 +5921,7 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
+tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
