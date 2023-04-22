@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 22 07:21:55 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 22 08:27:03 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1482,9 +1482,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
-www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1852,7 +1852,7 @@ research.gs.com
 *.folioclient.com
 *.gs.com
 *.gsam.com
-*.marcus.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2046,11 +2046,11 @@ api.unikrn.com
 api-w.unikrnb2b.com
 auctionbot.unikrn.com
 affiliates.unikrn.com
-unikrn.com
 news.unikrn.com
 crm.unikrn.com
 connekt-api.unikrn.com
 auth.unikrn.com
+unikrn.com
 jet-api.unikrn.com
 unikrn.com
 auctionbot.unikrn.com
@@ -2771,8 +2771,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3009,8 +3009,8 @@ accounts.magento.cloud
 account.magento.com
 u.magento.com
 imagine.magento.com
-magento.com
 marketplace.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
