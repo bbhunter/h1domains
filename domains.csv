@@ -1710,8 +1710,6 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
-gsa_vdp,digitalgov.gov,False
-gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
 gsa_vdp,diagrams.fr.cloud.gov,False
@@ -1751,6 +1749,8 @@ gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
 gsa_vdp,dss.gsa.gov,False
+gsa_vdp,soa-ext.fas.gsa.gov,False
+gsa_vdp,*.pcscotus.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -4282,9 +4282,9 @@ goldmansachs,*.gspublishing.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.foliodigitalwealth.com,True
 goldmansachs,*.finlife.com,True
-goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.goldmanpfm.com,True
+goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,marquee.gs.com,True
@@ -5427,9 +5427,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5472,8 +5472,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

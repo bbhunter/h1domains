@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 23 21:21:55 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr 23 22:23:03 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1838,9 +1838,9 @@ goldmansachsindices.com
 *.honestdollar.com
 *.foliodigitalwealth.com
 *.finlife.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.goldmanpfm.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2725,9 +2725,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2770,8 +2770,8 @@ hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
