@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 23 04:27:23 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr 23 05:23:11 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -581,12 +581,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -714,8 +714,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1058,8 +1058,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1483,8 +1483,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2426,8 +2426,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
@@ -3082,6 +3082,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
