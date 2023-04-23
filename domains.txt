@@ -2995,7 +2995,6 @@ vpn.topcoder.com
 wordpress-move.topcoder.com
 accounts.topcoder.com
 cmap.topcoder.com
-www.topcoder.com
 crowdsourcing.topcoder.com
 enterprise.topcoder.com
 leaderboards.topcoder.com
@@ -3008,6 +3007,7 @@ zurich.topcoder.com
 challenges.topcoder.com
 accounts-auth0.topcoder.com
 vanilla.topcoder-dev.com
+www.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
@@ -3871,9 +3871,9 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -5426,9 +5426,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
