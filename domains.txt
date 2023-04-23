@@ -675,8 +675,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -3871,9 +3871,9 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -3895,8 +3895,8 @@ press.priceline.com
 *.capitaloneshopping.com
 *.capitalone.com
 *.capitalonecards.com
-*.capitalone.ca
 *.capitalonebank.com
+*.capitalone.ca
 *.usejewel.com
 *.teamstercardnow.com
 *.wikibuy.com
@@ -4017,8 +4017,8 @@ www.beachbound.com
 media.triseptsolutions.com
 vacations.outrigger.com
 vacations.united.com
-assets.hyatt.com
 www.blueskytours.com
+assets.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -4889,8 +4889,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -5426,9 +5426,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -5920,7 +5920,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov

@@ -676,8 +676,8 @@ mount-sinai-health,*.nycepilepsyteam.com,False
 mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.cccsymposium.org,False
-mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.bethisraelny.org,False
+mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.wtcexams.org,False
 mount-sinai-health,*.carelink.mountsinaiconnect.org,False
 mount-sinai-health,*.usmgny.org,False
@@ -3872,9 +3872,9 @@ chainlink,chain.link,False
 chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,admin.rezserver.com,True
-priceline,www.getaroom.com,True
 priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
+priceline,www.getaroom.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -3896,8 +3896,8 @@ capital-one,*.capitalone.co.uk,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
-capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
+capital-one,*.capitalone.ca,False
 capital-one,*.usejewel.com,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.wikibuy.com,False
@@ -4018,8 +4018,8 @@ hyatt,www.beachbound.com,True
 hyatt,media.triseptsolutions.com,True
 hyatt,vacations.outrigger.com,True
 hyatt,vacations.united.com,True
-hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
+hyatt,assets.hyatt.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -4890,8 +4890,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
@@ -5427,9 +5427,9 @@ coinbase,*.base.org,True
 slack,spaces.pm,True
 slack,status.slack.com,True
 slack,api.slack.com,True
+slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
@@ -5921,7 +5921,6 @@ tts,marketplace.fedramp.gov,True
 tts,manage.data.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
-tts,federalist-docs.18f.gov,True
 tts,dashboard.fr.cloud.gov,True
 tts,sdg.data.gov,True
 tts,labs.data.gov,True
