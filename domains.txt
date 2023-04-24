@@ -1195,12 +1195,12 @@ fortnite.com
 *.audicagame.com
 *.unrealtournament.com
 forum.sketchfab.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -4301,7 +4301,7 @@ research.gs.com
 *.gs.com
 *.folioclient.com
 *.folioinstitutional.com
-www.rocaton.com
+*.claritymoney.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -5150,6 +5150,8 @@ status.adobe.com
 *.marketo.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5348,9 +5350,9 @@ av.urbandictionary.biz
 help.urbandictionary.com
 *.teams.cloudflare.com
 dash.teams.cloudflare.com
-one.dash.cloudflare.com
 cloudflareworkers.com
 *.cloudflare.com
+one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
@@ -5477,8 +5479,8 @@ hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -5699,12 +5701,6 @@ static.sandbox.gemini.com
 status.gemini.com
 support.gemini.com
 www.gemini.com
-monzo.me
-monzomail.com
-monzoemail.com
-monzo.me
-monzomail.com
-monzoemail.com
 flashpaper.logsnitch.com
 www.logsnitch.com
 api.logsnitch.com
@@ -5920,7 +5916,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
