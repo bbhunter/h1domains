@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 22:22:59 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 23:23:41 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -979,8 +979,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1858,6 +1858,7 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2563,8 +2564,8 @@ www.hoteltonight.com
 luckey.fr
 *.airbnbcitizen.com
 *.hoteltonight-test.com
-*.airbnb.com
 *.muscache.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3044,6 +3045,7 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
