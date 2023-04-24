@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 07:24:12 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 08:30:23 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -149,10 +149,10 @@ www.hotels.com
 www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
-www.expediapartnersolutions.com
 www.expediaagents.com
 www.expediagroup.com
 www.abritel.fr
+www.expediapartnersolutions.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -328,6 +328,12 @@ ws.sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
+app.smtp2go.com
+smtp2go.com
+api.smtp2go.com
+smtp2go.com
+app.smtp2go.com
+api.smtp2go.com
 app.smtp2go.com
 smtp2go.com
 api.smtp2go.com
@@ -543,8 +549,8 @@ upld.krisp.ai
 account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
-krisp.ai
 download.krisp.ai
+krisp.ai
 krisp.ai
 account.krisp.ai
 api.krisp.ai
@@ -1482,9 +1488,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
+www.getaroom.com
 www.priceline.com
 www.bookingholdings.com
-www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1852,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioclient.com
 *.folioinstitutional.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2477,9 +2482,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
-my.snapchat.com
 app.snapchat.com
 business.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -2506,8 +2511,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 ispdesign.ui.com
-ca.store.ui.com
 community.ui.com
+ca.store.ui.com
 rma.ui.com
 careers.ui.com
 account.ui.com
@@ -2754,8 +2759,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -2771,8 +2776,8 @@ hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -2806,12 +2811,6 @@ idp.staging.login.gov
 secure.login.gov
 node1.pivcac.staging.login.gov
 node1.pivcac.prod.login.gov
-m.trendyol.com
-www.dolap.com
-www.trendyol.com
-www.trendyol.com
-m.trendyol.com
-www.dolap.com
 ioss.gov
 itc.gov
 mojavedata.gov
@@ -3083,7 +3082,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
