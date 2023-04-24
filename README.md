@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 14:25:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 15:27:48 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -18,8 +18,8 @@ hiltonhawaiianvillage.jp
 hiltonjapan.co.jp
 hiltonmanage.com
 hilton.io
-hiltonlocalbiz.com
 hiltonbusinessonline.com
+hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
 hilton.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1486,15 +1486,15 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
+reservations.rezserver.com
 api.rezserver.com
 secure.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1835,8 +1835,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.ayco.com
-*.unitedcp.com
 *.foliofn.com
+*.unitedcp.com
 *.finlifepartners.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2482,9 +2482,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
+my.snapchat.com
 app.snapchat.com
 business.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -2776,8 +2776,8 @@ www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3082,7 +3082,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
