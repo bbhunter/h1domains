@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 17:23:34 UTC 2023)
+## Domains with Bounties (Last Updated Mon Apr 24 18:29:27 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -717,8 +717,8 @@ rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -786,9 +786,9 @@ www.urbancompany.com
 www.urbanclap.com
 gql.reddit.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
 api.reddit.com
+ads.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -803,8 +803,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -979,8 +979,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1486,11 +1486,11 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
 reservations.rezserver.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1834,9 +1834,9 @@ www.shipt.com
 *.marcus.co.uk
 apigw.foliofn.com
 *.foliofirst.com
-*.ayco.com
 *.foliofn.com
 *.unitedcp.com
+*.ayco.com
 *.finlifepartners.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2563,9 +2562,9 @@ luckey.in
 www.hoteltonight.com
 luckey.fr
 *.airbnbcitizen.com
-*.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
+*.airbnb.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2732,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2777,8 +2776,8 @@ www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
