@@ -581,12 +581,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1482,9 +1482,9 @@ cysiv.com
 app.command.cysiv.com
 www.bookingholdings.com
 reservations.rezserver.com
-www.priceline.com
 admin.rezserver.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2480,8 +2480,8 @@ app.snapchat.com
 my.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
-spectacles.com
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net

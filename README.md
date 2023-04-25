@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 14:23:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 15:27:30 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1488,9 +1488,9 @@ cysiv.com
 app.command.cysiv.com
 www.bookingholdings.com
 reservations.rezserver.com
-www.priceline.com
 admin.rezserver.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2486,8 +2486,8 @@ app.snapchat.com
 my.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
-spectacles.com
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
