@@ -675,8 +675,8 @@ www.fossil.co.id
 *.mountsinaidoctors.org
 *.dubinbreastcenter.com
 *.cccsymposium.org
-*.snch.org
 *.bethisraelny.org
+*.snch.org
 *.wtcexams.org
 *.carelink.mountsinaiconnect.org
 *.usmgny.org
@@ -686,9 +686,9 @@ www.fossil.co.id
 *.thechep.org
 *.sinaidowntown.net
 *.southnassau.org
-*.mssm.edu
 *.mountsinaiheartnp.org
 *.mountsinai.org
+*.mssm.edu
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -1727,6 +1727,8 @@ e07r7m-secauth9.ent.ds.gsa.gov
 e04tcm-authdev4.ent.ds.gsa.gov
 r05-voipedge.gsa.gov
 finhrapps.anywhere.gsa.gov
+digitalgov.gov
+*.buyamerican.gov
 account.fr.cloud.gov
 idp.fr.cloud.gov
 diagrams.fr.cloud.gov
@@ -1766,8 +1768,6 @@ app.buyaccessible.gov
 piv.idmanagement.gov
 jss.gsa.gov
 dss.gsa.gov
-soa-ext.fas.gsa.gov
-*.pcscotus.gov
 cio.gov
 cao.gov
 cfo.gov
@@ -2556,8 +2556,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -2914,11 +2914,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -4308,10 +4308,10 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
 *.gsam.com
-*.gs.com
 *.folioinstitutional.com
 *.gs.de
 *.folioclient.com
+*.gs.com
 www.rocaton.com
 *.goldmansachs.com
 *.gs.com
@@ -5161,6 +5161,8 @@ status.adobe.com
 *.tubemogul.com
 u.magento.com
 imagine.magento.com
+updates.frame.io
+workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5443,9 +5445,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
