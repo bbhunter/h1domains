@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 20:26:06 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 21:22:34 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -235,8 +235,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-www.poloniex.com
 m.poloniex.com
+www.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -295,8 +295,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
+payroll.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
 invoices.razorpay.com
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1758,8 +1758,8 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1845,8 +1845,8 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.finlife.com
 *.goldmanpfm.com
-*.goldmansachs.com
 *.vennhypotheken.nl
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.de
 *.gs.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2563,9 +2562,9 @@ luckey.in
 www.hoteltonight.com
 luckey.fr
 *.airbnbcitizen.com
-*.hoteltonight-test.com
 *.muscache.com
 *.airbnb.com
+*.hoteltonight-test.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -2651,8 +2650,8 @@ av.urbandictionary.biz
 *.teams.cloudflare.com
 dash.teams.cloudflare.com
 cloudflareworkers.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -2732,11 +2731,11 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
+slackb.com
 slackatwork.com
 slack-redir.net
-slackb.com
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -2760,9 +2759,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
