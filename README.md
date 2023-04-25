@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr 24 23:23:41 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 01:27:38 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -720,8 +720,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1304,8 +1304,8 @@ marrtool.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
-clean.marriott.com
 homes-and-villas.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2732,9 +2731,9 @@ paradex.io
 spaces.pm
 status.slack.com
 api.slack.com
-slackb.com
 slackatwork.com
 slack-redir.net
+slackb.com
 *.quip.com
 app.slack.com
 edgeapi.slack.com
@@ -2771,9 +2770,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
+www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
@@ -3045,7 +3044,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
