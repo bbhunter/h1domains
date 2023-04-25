@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 04:27:17 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 05:23:44 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -80,10 +80,10 @@ app.xdefi.io
 online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
-www.s-pankki.fi
 extranet.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -720,8 +720,8 @@ trufflesuite.com
 consensys.net
 activate.codefi.network
 staking.codefi.network
-bridge.codefi.network
 webhooks-api-experimental.codefi.network
+bridge.codefi.network
 canary.activate.codefi.network
 activate.codefi.network
 staking.codefi.network
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-www10.watsons.com.my
 api.watsons.com.hk
+www10.watsons.com.my
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1293,11 +1293,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
+giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
-giftcards.marriott.com
 www.ritzcarlton.com
 hotel-deals.marriott.com
 marrtool.com
@@ -1858,6 +1858,7 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2483,8 +2484,8 @@ map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
-business.snapchat.com
 my.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
