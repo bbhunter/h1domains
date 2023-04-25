@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 25 06:28:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Apr 25 07:23:40 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -587,12 +587,12 @@ harmonixmusic.com
 fortnite.com
 *.audicagame.com
 *.unrealtournament.com
-*.psyonix.com
-*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
+*.psyonix.com
+*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -717,8 +717,8 @@ rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
-consensys.net
 activate.codefi.network
+consensys.net
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -802,9 +802,9 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1489,8 +1489,8 @@ app.command.cysiv.com
 www.bookingholdings.com
 reservations.rezserver.com
 admin.rezserver.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -1758,8 +1758,8 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3045,7 +3044,6 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
