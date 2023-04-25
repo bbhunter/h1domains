@@ -287,9 +287,9 @@ expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediaagents.com,True
-expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -1728,6 +1728,8 @@ gsa_vdp,e07r7m-secauth9.ent.ds.gsa.gov,False
 gsa_vdp,e04tcm-authdev4.ent.ds.gsa.gov,False
 gsa_vdp,r05-voipedge.gsa.gov,False
 gsa_vdp,finhrapps.anywhere.gsa.gov,False
+gsa_vdp,digitalgov.gov,False
+gsa_vdp,*.buyamerican.gov,False
 gsa_vdp,account.fr.cloud.gov,False
 gsa_vdp,idp.fr.cloud.gov,False
 gsa_vdp,diagrams.fr.cloud.gov,False
@@ -1767,8 +1769,6 @@ gsa_vdp,app.buyaccessible.gov,False
 gsa_vdp,piv.idmanagement.gov,False
 gsa_vdp,jss.gsa.gov,False
 gsa_vdp,dss.gsa.gov,False
-gsa_vdp,soa-ext.fas.gsa.gov,False
-gsa_vdp,*.pcscotus.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cao.gov,False
 gsa_vdp,cfo.gov,False
@@ -4914,9 +4914,9 @@ github,*.githubapp.com,True
 github,*.github.net,True
 github,education.github.com,True
 github,npmjs.org,True
-github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,github.com,True
+github,gist.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -5450,8 +5450,8 @@ slack,slackb.com,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -5486,11 +5486,11 @@ security,hackerone-ext-content.com,True
 security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
 security,ctf.hacker101.com,True
-security,errors.hackerone.net,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
+security,errors.hackerone.net,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
