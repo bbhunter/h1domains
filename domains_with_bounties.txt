@@ -1058,8 +1058,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1852,7 +1852,6 @@ research.gs.com
 *.gs.de
 *.folioclient.com
 *.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com

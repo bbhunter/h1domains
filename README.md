@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 02:41:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 03:25:05 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1064,8 +1064,8 @@ www.watsons.co.id
 apptps.theperfumeshop.com
 www.marionnaud.fr
 www.watsons.com.ph
-api.watsons.com.hk
 www10.watsons.com.my
+api.watsons.com.hk
 api.watsons.com.tw
 api.watsons.com.ph
 app.marionnaud.it
@@ -1858,7 +1858,6 @@ research.gs.com
 *.gs.de
 *.folioclient.com
 *.gs.com
-www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
