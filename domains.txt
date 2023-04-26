@@ -221,8 +221,8 @@ who.stanford.edu
 workgroup.stanford.edu
 netdb.stanford.edu
 mailman.stanford.edu
-*.kkr.com
 kkr.com
+*.kkr.com
 portal.kkr.com
 www.fskkradvisor.com
 *.kkr.cloud
@@ -1195,12 +1195,12 @@ fortnite.com
 *.audicagame.com
 *.unrealtournament.com
 forum.sketchfab.com
+*.psyonix.com
+*.3lateral.com
 *.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.hmxwebservices.com
-*.psyonix.com
-*.3lateral.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -4310,9 +4310,9 @@ research.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.folioclient.com
 *.gs.com
-*.claritymoney.com
+*.folioclient.com
+www.rocaton.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -5070,9 +5070,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 web.snapchat.com
 spectacles.com
@@ -5161,8 +5161,6 @@ status.adobe.com
 *.tubemogul.com
 u.magento.com
 imagine.magento.com
-updates.frame.io
-workflow.frame.io
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -5889,7 +5887,6 @@ marketplace.fedramp.gov
 manage.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
