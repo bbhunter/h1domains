@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 11:20:48 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 12:41:47 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -276,8 +276,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.superpal.io/*
 *.cornershopapp.com/*
+*.superpal.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1021,14 +1021,14 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-cs.money
 support.cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -1488,8 +1488,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1744,9 +1744,9 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
-*.paypal.com
 *.venmo.com
 my.loanbuilder.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -1827,7 +1827,6 @@ staging-admin.shipt.com
 staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
-*.marcus.co.uk
 *.goldman.com
 *.ayco.com
 *.gs-mosaic.gs.com
@@ -1836,6 +1835,7 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
+*.marcus.co.uk
 *.honestdollar.com
 *.goldmansachs.com
 *.global-liquidity.gs.com
@@ -1850,13 +1850,13 @@ goldmansachsindices.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-*.gs.de
 *.gsam.com
 research.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
 *.folioinstitutional.com
+*.gs.de
 *.marcus.com
 developer.gs.com
 www.rocaton.com
@@ -2328,12 +2328,12 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
+gist.github.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
-github.com
-gist.github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2512,8 +2512,8 @@ scan.snapchat.com
 spectacles.com
 map.snapchat.com
 story.snapchat.com
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2548,10 +2548,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
+luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2565,12 +2565,12 @@ luckey.fr
 luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
+luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2706,11 +2706,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2731,11 +2731,11 @@ paradex.io
 api.slack.com
 status.slack.com
 spaces.pm
-app.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
@@ -2760,19 +2760,19 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 a5s.hackerone-ext-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
-profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackathon-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
@@ -2921,9 +2921,9 @@ examinator.epam.com
 *.opensource.epam.com
 *.emakina.com
 *.emakina.fr
-*.epam.com
 *.projects.epam.com
 *.emakina.group
+*.epam.com
 anywhere.epam.com
 training.epam.com
 *.lab.epam.com
