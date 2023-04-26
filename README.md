@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 19:21:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed Apr 26 20:24:02 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -276,8 +276,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.superpal.io/*
 *.cornershopapp.com/*
+*.superpal.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -801,10 +801,10 @@ www.spiketrap.io
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
-www.reddit.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1060,9 +1060,9 @@ www.watsons.co.id
 www10.watsons.com.hk
 www10.watsons.com.ph
 www.watsons.com.ph
-www.watsons.com.tr
 www10.watsons.com.tw
 mapi-sim.fortress.com.hk
+www.watsons.com.tr
 www.marionnaud.fr
 www.kruidvat.nl
 www.theperfumeshop.com
@@ -1345,9 +1345,9 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 http://apps.dev.lifeomic.com/phc
@@ -1492,8 +1492,8 @@ www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 api.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1836,10 +1836,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.marcus.co.uk
 *.ayco.com
-*.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
+*.honestdollar.com
+*.goldmansachs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2022,8 +2022,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2032,8 +2032,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2230,16 +2230,16 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
-card.starbucks.com.sg
-www.starbucks.com.sg
+www.starbucksreserve.com
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2548,10 +2548,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
-luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
+luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2565,12 +2565,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2706,11 +2706,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2764,16 +2764,16 @@ hackerone-user-content.com
 api.hackerone.com
 hackerone.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
+ctf.hacker101.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
