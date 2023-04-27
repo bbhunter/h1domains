@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 03:24:28 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 04:25:19 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -166,11 +166,11 @@ www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expediapartnercentral.com
-www.wotif.com
 www.hotwire.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -276,8 +276,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -788,10 +788,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
-new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
+new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -1736,27 +1736,27 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+paypal.me
+*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
-paypal.me
 *.venmo.com
 my.loanbuilder.com
 *.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+paypalobjects.com
+*.paypalcorp.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
-*.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
@@ -1835,10 +1835,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.marcus.co.uk
 *.ayco.com
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -1944,10 +1944,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
-learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
+learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1955,9 +1955,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2234,11 +2234,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2327,10 +2327,10 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-gist.github.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
+gist.github.com
 github.com
 *.githubusercontent.com
 github.com
@@ -2705,11 +2705,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
