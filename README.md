@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 09:24:58 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 10:26:03 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -790,10 +790,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
+new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -1197,12 +1197,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -1299,13 +1299,13 @@ www.ritzcarlton.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 clean.marriott.com
 *uat.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1333,14 +1333,6 @@ http://www.shopmarriott.com
 giftcards.marriott.com
 www.goodrx.com
 www.goodrx.com
-app.localizestaging.com
-localizestaging.com
-cdn.localizestaging.com
-api.localizestaging.com
-localizestaging.com
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
 lifeology.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
@@ -1946,10 +1938,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
+learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1957,9 +1949,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1991,15 +1983,15 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
+secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
-secure.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2023,8 +2015,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2033,8 +2025,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2236,11 +2228,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2432,6 +2424,27 @@ ruddercms.com
 ruddercms.nl
 dropr.nl
 devmaximum.com
+developer.zendesk.com
+smooch.io
+h1-your-domain.zendesk.com
+www.zendesk.com
+apps.zendesk.com
+api.smooch.io
+app.futuresimple.com
+app.smooch.io
+zopim.com
+api.getbase.com
+www.zendesk.com
+developer.zendesk.com
+h1-your-domain.zendesk.com
+apps.zendesk.com
+app.smooch.io
+api.smooch.io
+smooch.io
+zopim.com
+app.futuresimple.com
+api.getbase.com
+http://h1-your-domain.zendesk.com/sell
 yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
@@ -2492,8 +2505,8 @@ scan.snapchat.com
 spectacles.com
 map.snapchat.com
 story.snapchat.com
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2528,10 +2541,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
-luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
+luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2545,12 +2558,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -2746,9 +2759,9 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
@@ -3032,10 +3045,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
