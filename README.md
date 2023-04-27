@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 16:29:17 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 17:24:48 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -804,8 +804,8 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -982,11 +982,11 @@ ads.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
-*.tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1061,9 +1061,9 @@ www.watsons.co.id
 www10.watsons.com.hk
 www10.watsons.com.ph
 www.watsons.com.ph
+www.watsons.com.tr
 www10.watsons.com.tw
 mapi-sim.fortress.com.hk
-www.watsons.com.tr
 www.marionnaud.fr
 www.kruidvat.nl
 www.theperfumeshop.com
@@ -1735,8 +1735,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 paypal.me
+*.hyperwallet.com
 *.venmo.com
 my.loanbuilder.com
 *.paypal.com
@@ -1829,10 +1829,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.marcus.co.uk
-*.honestdollar.com
-*.goldmansachs.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
+*.honestdollar.com
+*.goldmansachs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -1847,9 +1847,9 @@ api.foliofn.com
 *.folioclient.com
 *.folioinstitutional.com
 *.gs.de
-*.gsam.com
 research.gs.com
 *.gs.com
+*.gsam.com
 *.marcus.com
 developer.gs.com
 www.rocaton.com
@@ -1938,10 +1938,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
+learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1949,9 +1949,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2015,8 +2015,8 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
-ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+ext-gw.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
@@ -2025,8 +2025,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2218,11 +2218,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2255,10 +2255,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
-basicattentiontoken.org
 search.brave.com
 talk.brave.com
+brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2493,8 +2493,8 @@ web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
-launch.playcanvas.com
 developer.playcanvas.com
+launch.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -2527,8 +2527,8 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2721,11 +2721,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2786,8 +2786,8 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
