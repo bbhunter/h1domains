@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 26 23:24:41 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 01:27:45 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -588,7 +588,6 @@ fortnite.com
 harmonixmusic.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.epicgames.com
 *.3lateral.com
 *.bcbits.com
 *.dropmix.com
@@ -802,9 +801,9 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
 oauth.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1060,9 +1059,9 @@ www.watsons.co.id
 www10.watsons.com.hk
 www10.watsons.com.ph
 www.watsons.com.ph
+www.watsons.com.tr
 www10.watsons.com.tw
 mapi-sim.fortress.com.hk
-www.watsons.com.tr
 www.marionnaud.fr
 www.kruidvat.nl
 www.theperfumeshop.com
@@ -1492,8 +1491,8 @@ www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 api.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1737,28 +1736,28 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+paypal.me
+*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
-paypal.me
 *.venmo.com
 my.loanbuilder.com
 *.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+paypalobjects.com
+*.paypalcorp.com
 *.braintreegateway.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
-*.paypalcorp.com
-paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -1836,10 +1835,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.marcus.co.uk
 *.ayco.com
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2460,9 +2459,9 @@ arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
 shop.app
-partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 your-store.myshopify.com
@@ -2548,10 +2547,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
+luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2565,12 +2564,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3045,10 +3044,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
