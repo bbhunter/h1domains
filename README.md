@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 18:20:22 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 19:21:54 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -797,8 +797,8 @@ sh.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
-ads-api.reddit.com
 www.spiketrap.io
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -984,8 +984,8 @@ partner.tiktokshop.com
 tiktok.com
 business.tiktok.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1338,9 +1338,9 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 http://apps.dev.lifeomic.com/phc
@@ -1730,12 +1730,12 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 *.venmo.com
 my.loanbuilder.com
@@ -1743,13 +1743,13 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+paypalobjects.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
-paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 www.paypal-*.com
@@ -1938,10 +1938,10 @@ tax.crypto.com
 https://crypto.com/nft
 insights.eu.newrelic.com
 docs.newrelic.com
-learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
+learn.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 one.newrelic.com
@@ -1949,9 +1949,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2311,10 +2311,10 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
+gist.github.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
-gist.github.com
 *.githubusercontent.com
 github.com
 github.com
@@ -2563,10 +2563,10 @@ m.airbnb.com
 *.luxuryretreats.com
 provider.demo.urbandoor.com
 luckey.app
-luckeyhomes.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
+luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
 demo.urbandoor.com
@@ -2580,12 +2580,12 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3067,10 +3067,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
