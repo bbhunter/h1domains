@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 06:29:33 UTC 2023)
+## Domains with Bounties (Last Updated Thu Apr 27 07:22:57 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -295,8 +295,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
 invoices.razorpay.com
@@ -640,11 +640,13 @@ app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
 www.recordedfuture.com
+securitytrails.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
 id.recordedfuture.com
+securitytrails.com
 therecord.media
 logs.fr.cloud.gov
 www.data.gov
@@ -788,10 +790,10 @@ api.reddit.com
 ads.reddit.com
 app.spiketrap.io
 gql.reddit.com
+new.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 gateway.reddit.com
 s.reddit.com
@@ -801,9 +803,9 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1059,9 +1061,9 @@ www.watsons.co.id
 www10.watsons.com.hk
 www10.watsons.com.ph
 www.watsons.com.ph
-www.watsons.com.tr
 www10.watsons.com.tw
 mapi-sim.fortress.com.hk
+www.watsons.com.tr
 www.marionnaud.fr
 www.kruidvat.nl
 www.theperfumeshop.com
@@ -1736,27 +1738,27 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+paypal.me
+*.hyperwallet.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
-paypal.me
 *.venmo.com
 my.loanbuilder.com
 *.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+paypalobjects.com
+*.paypalcorp.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
-*.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
@@ -1833,8 +1835,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.marcus.co.uk
 *.ayco.com
+*.marcus.co.uk
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.honestdollar.com
@@ -1854,8 +1856,8 @@ api.foliofn.com
 *.folioinstitutional.com
 *.gs.de
 *.gsam.com
-*.gs.com
 research.gs.com
+*.gs.com
 *.marcus.com
 developer.gs.com
 www.rocaton.com
@@ -1989,15 +1991,15 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
+secure.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2331,8 +2333,8 @@ gist.github.com
 npmjs.org
 *.github.net
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2405,11 +2407,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
-devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
+devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2511,8 +2513,8 @@ scan.snapchat.com
 spectacles.com
 map.snapchat.com
 story.snapchat.com
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
 account.ui.com
 rma.ui.com
@@ -2705,11 +2707,11 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
+*.cbhq.net
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 paradex.io
-*.cbhq.net
 *.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
@@ -2752,7 +2754,6 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
-data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
@@ -3044,10 +3045,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
