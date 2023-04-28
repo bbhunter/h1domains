@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 27 23:24:38 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 28 01:27:40 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1829,10 +1829,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.marcus.co.uk
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -1982,15 +1982,15 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
+secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
-secure.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2217,11 +2217,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2254,10 +2254,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-search.brave.com
-talk.brave.com
 brave.com
 basicattentiontoken.org
+search.brave.com
+talk.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2310,10 +2310,10 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-gist.github.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
+gist.github.com
 *.githubusercontent.com
 github.com
 github.com
@@ -2472,10 +2472,10 @@ forum.playcanvas.com
 scan.snapchat.com
 code.playcanvas.com
 relay.playcanvas.com
-store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
 login.playcanvas.com
+store.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -2526,12 +2526,12 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-community.ui.com
 ispdesign.ui.com
+community.ui.com
 ca.store.ui.com
-account.ui.com
 rma.ui.com
 careers.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 community.ui.com
@@ -3068,10 +3068,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
