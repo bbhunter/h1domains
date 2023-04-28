@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 28 03:24:53 UTC 2023)
+## Domains with Bounties (Last Updated Fri Apr 28 04:26:07 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1485,8 +1485,8 @@ www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 api.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -1829,10 +1829,10 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.marcus.co.uk
-*.global-liquidity.gs.com
-goldmansachsindices.com
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -1982,15 +1982,15 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-secure.plaid.com
 dashboard.plaid.com
 demo.plaid.com
+secure.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2217,11 +2217,11 @@ www.starbucks.co.uk
 www.starbucks.com.br
 cart.starbucks.co.jp
 www.starbucksreserve.com
+card.starbucks.com.sg
+www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2254,10 +2254,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
-basicattentiontoken.org
 search.brave.com
 talk.brave.com
+brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
