@@ -3128,8 +3128,8 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
@@ -3927,8 +3927,8 @@ capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
-capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
+capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
 capital-one,*.wikibuy.com,False
@@ -4778,11 +4778,11 @@ starbucks,www.starbucks.co.uk,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.com.br,True
+starbucks,card.starbucks.com.sg,True
+starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com,True
-starbucks,card.starbucks.com.sg,True
-starbucks,www.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
@@ -4915,9 +4915,9 @@ github,npmjs.com,True
 github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
-github,npmjs.org,True
 github,*.github.net,True
 github,education.github.com,True
+github,npmjs.org,True
 github,github.com,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True

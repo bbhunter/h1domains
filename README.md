@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 29 10:22:00 UTC 2023)
+## Domains with Bounties (Last Updated Sat Apr 29 11:20:06 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1346,8 +1346,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -2225,11 +2225,11 @@ www.starbucks.co.uk
 cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.com.br
+card.starbucks.com.sg
+www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.de
 www.starbucks.com
-card.starbucks.com.sg
-www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -2318,9 +2318,9 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 github.com
 gist.github.com
 *.githubusercontent.com
