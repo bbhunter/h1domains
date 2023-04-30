@@ -548,8 +548,8 @@ www.ausloc.com
 www.yonomi.com
 www.interflex.com
 www.normbau.de
-www.poloniex.com
 m.poloniex.com
+www.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -3129,8 +3129,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -4213,12 +4213,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com

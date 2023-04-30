@@ -549,8 +549,8 @@ allegion,www.ausloc.com,False
 allegion,www.yonomi.com,False
 allegion,www.interflex.com,False
 allegion,www.normbau.de,False
-poloniex,www.poloniex.com,True
 poloniex,m.poloniex.com,True
+poloniex,www.poloniex.com,True
 poloniex,api.poloniex.com,True
 poloniex,api2.poloniex.com,True
 poloniex,public.poloniex.com,True
@@ -3130,8 +3130,8 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
@@ -4214,12 +4214,12 @@ paypal,*.paypal.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
-paypal,prequal.swiftfinancial.com,True
-paypal,decision.swiftfinancial.com,True
 paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
+paypal,prequal.swiftfinancial.com,True
+paypal,decision.swiftfinancial.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
 paypal,paypalobjects.com,True
