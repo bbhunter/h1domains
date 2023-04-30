@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 30 22:21:55 UTC 2023)
+## Domains with Bounties (Last Updated Sun Apr 30 23:22:58 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -227,8 +227,8 @@ get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
-test.deribit.com
 pb.deribit.com
+test.deribit.com
 insights.deribit.com
 tools.deribit.com
 metrics.deribit.com
@@ -1295,19 +1295,19 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-all-inclusive.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
+all-inclusive.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
-hotel-deals.marriott.com
-clean.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
+hotel-deals.marriott.com
+clean.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1753,12 +1753,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1958,9 +1958,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1999,8 +1999,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2404,11 +2404,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
-devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
+devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2493,8 +2493,8 @@ app.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3072,10 +3072,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
