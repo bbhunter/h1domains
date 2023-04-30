@@ -4537,8 +4537,8 @@ localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
-localtapiola,www.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
+localtapiola,www.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,verkkopalvelu.tapiola.fi,True
@@ -4917,9 +4917,9 @@ github,api.github.com,True
 github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
-github,npmjs.org,True
 github,*.github.net,True
 github,education.github.com,True
+github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,github.com,True
@@ -5003,11 +5003,11 @@ radancy,maximum-status.com,True
 radancy,preprod.nl,True
 radancy,ruddercms.nl,True
 radancy,werken.belastingdienst.nl,True
+radancy,devmaximum.com,True
+radancy,www.werkenbijbakertilly.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
 radancy,qatest.nl,True
 radancy,rudderplatform.com,True
-radancy,www.werkenbijbakertilly.nl,True
-radancy,devmaximum.com,True
 radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,www.werkenbijbakertilly.nl,True
@@ -5309,11 +5309,11 @@ airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
-airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
+airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -5512,8 +5512,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
