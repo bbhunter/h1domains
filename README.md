@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 14:23:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 15:26:42 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -804,9 +804,9 @@ reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1517,14 +1517,13 @@ help.smartsheet.com
 developers.smartsheet.com
 blog.creditkarma.com
 support.creditkarma.ca
-help.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
-help.creditkarma.com
+https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
@@ -1590,8 +1589,8 @@ media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
-www.blueskytours.com
 assets.hyatt.com
+www.blueskytours.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -1958,9 +1957,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1999,8 +1998,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2034,8 +2033,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2320,9 +2319,9 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 gist.github.com
 *.githubusercontent.com
 github.com
@@ -2477,14 +2476,14 @@ businesshelp.snapchat.com
 story.snapchat.com
 ads.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
-login.playcanvas.com
 code.playcanvas.com
+login.playcanvas.com
 blog.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
@@ -2493,8 +2492,8 @@ app.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3072,10 +3071,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
