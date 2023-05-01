@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 13:27:37 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 14:23:33 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -734,8 +734,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 consensys.net
 bridge.codefi.network
 trufflesuite.com
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1753,12 +1753,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1993,8 +1993,8 @@ bounty-node.rsk.co
 *.deliveroo-streams.net
 app.quovo.com
 dashboard.plaid.com
-demo.plaid.com
 secure.plaid.com
+demo.plaid.com
 production.plaid.com
 my.plaid.com
 plaid.com
@@ -2404,11 +2404,11 @@ maximum-status.com
 preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
-devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
+devmaximum.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -2492,13 +2492,13 @@ map.snapchat.com
 app.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
-snappublisher.snapchat.com
 business.snapchat.com
 playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -2589,11 +2589,11 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
