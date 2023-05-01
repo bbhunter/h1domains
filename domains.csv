@@ -5,8 +5,8 @@ saytechnologies,*.saytechnologies.com,True
 saytechnologies,*.say.rocks,True
 saytechnologies,*.saytechnologies.com,True
 saytechnologies,*.say.rocks,True
-msd,*.merck.com,False
 msd,*.msd.com,False
+msd,*.merck.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 eero,node.e2ro.com/*,True
@@ -2287,10 +2287,10 @@ mendix,3s.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
 mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,event.us-east-1.sws.siemens.com,False
 mendix,http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev,False
 mendix,gateway.us-east-1.sws.siemens.com,False
@@ -2750,8 +2750,8 @@ nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -4212,12 +4212,12 @@ paypal,*.paypal.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
+paypal,prequal.swiftfinancial.com,True
+paypal,decision.swiftfinancial.com,True
 paypal,www.loanbuilder.com,True
 paypal,api.swiftfinancial.com,True
 paypal,api.loanbuilder.com,True
 paypal,loanbuilder.com,True
-paypal,prequal.swiftfinancial.com,True
-paypal,decision.swiftfinancial.com,True
 paypal,*.braintreegateway.com,True
 paypal,*.paypalcorp.com,True
 paypal,paypalobjects.com,True
@@ -4488,8 +4488,8 @@ plaid,production.plaid.com,True
 plaid,my.plaid.com,True
 plaid,plaid.com,True
 plaid,api.blockscore.com,True
-plaid,cdn.plaid.com,True
 plaid,secure.quovo.com,True
+plaid,cdn.plaid.com,True
 plaid,manage.blockscore.com,True
 plaid,production.plaid.com,True
 plaid,dashboard.plaid.com,True
