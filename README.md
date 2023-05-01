@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May  1 16:31:35 UTC 2023)
+## Domains with Bounties (Last Updated Mon May  1 17:23:47 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -981,9 +981,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -1857,8 +1857,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.gs.com
 *.folioclient.com
+*.gs.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -1957,9 +1957,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1998,8 +1998,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2319,12 +2319,12 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
+npmjs.org
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -2751,9 +2751,9 @@ api.coinbase.com
 api.custody.coinbase.com
 paradex.io
 *.base.org
-status.slack.com
 spaces.pm
 api.slack.com
+status.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
@@ -2776,6 +2776,7 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
+data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
