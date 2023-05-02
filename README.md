@@ -2,14 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 21:21:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 22:25:30 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
-*.saytechnologies.com
-*.say.rocks
-*.saytechnologies.com
-*.say.rocks
 node.e2ro.com/*
 api-user.e2ro.com/*
 api-eu.floqast.app
@@ -1746,18 +1742,18 @@ swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1898,8 +1894,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-store.steampowered.com
 playartifact.com
+store.steampowered.com
 help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
@@ -1907,9 +1903,9 @@ partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-steamcommunity.com
 support.steampowered.com
 www.dota2.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -1998,8 +1994,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2033,8 +2029,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2792,11 +2788,11 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
-hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
