@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 17:21:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 18:30:27 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1067,15 +1067,14 @@ www.marionnaud.fr
 www.watsons.com.tr
 apptps.theperfumeshop.com
 app.marionnaud.hu
-app.marionnaud.it
 api.watsons.com.tw
-api.watsons.com.ph
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 www.marionnaud.sk
+www.pns.hk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1186,8 +1185,8 @@ transact.playstation.com
 api.direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
-*.api.playstation.com
 direct.playstation.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1306,8 +1305,8 @@ gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
-marrtool.com
 hotel-deals.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1347,8 +1346,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -1488,10 +1487,10 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 www.priceline.com
 admin.rezserver.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -1956,9 +1955,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1997,8 +1996,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2314,13 +2313,13 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 *.githubusercontent.com
 gist.github.com
 github.com
@@ -2481,9 +2480,9 @@ scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
-code.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
+code.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -2584,14 +2583,14 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
+*.hoteltonight-test.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
