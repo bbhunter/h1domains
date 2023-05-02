@@ -830,8 +830,8 @@ metamask,portfolio.metamask.io,True
 recargapay,api.recarga.com,True
 recargapay,api.recarga.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,payroll.razorpay.com,True
 razorpay,api.razorpay.com,True
+razorpay,payroll.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -4506,10 +4506,10 @@ jamieweb,jamiewebgbelqfno.onion,False
 jamieweb,nyc01.jamieweb.net,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False
-jamieweb,ldn01.jamieweb.net,False
 jamieweb,jamieweb.net,False
 jamieweb,jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion,False
 jamieweb,www.jamieweb.net,False
+jamieweb,ldn01.jamieweb.net,False
 jamieweb,www.jamieweb.net,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False
@@ -4527,8 +4527,8 @@ plaid,production.plaid.com,True
 plaid,my.plaid.com,True
 plaid,plaid.com,True
 plaid,api.blockscore.com,True
-plaid,secure.quovo.com,True
 plaid,cdn.plaid.com,True
+plaid,secure.quovo.com,True
 plaid,manage.blockscore.com,True
 plaid,production.plaid.com,True
 plaid,dashboard.plaid.com,True
@@ -4574,8 +4574,8 @@ localtapiola,tunnistus.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
-localtapiola,www.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
+localtapiola,www.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,verkkopalvelu.tapiola.fi,True
@@ -5114,9 +5114,9 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,story.snapchat.com,True
 snapchat,msg.playcanvas.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
@@ -5211,7 +5211,6 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.mixamo.com,False
-adobe,auth.services.adobe.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
@@ -5222,6 +5221,7 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
+adobe,auth.services.adobe.com,False
 adobe,applications.frame.io,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.tubemogul.com,False
@@ -5346,11 +5346,11 @@ airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
-airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
+airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
