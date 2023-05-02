@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 07:25:09 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 08:28:44 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -803,10 +803,10 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-oauth.reddit.com
 matrix.redditspace.com
 www.reddit.com
 accounts.reddit.com
+oauth.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1751,12 +1751,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1997,8 +1997,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2032,8 +2032,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.tapiola.fi
 asiointi.lahitapiola.fi
+www.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2318,9 +2318,9 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 *.githubusercontent.com
 gist.github.com
 github.com
@@ -2783,8 +2783,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
