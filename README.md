@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 02:42:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 03:25:56 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1069,13 +1069,13 @@ www.marionnaud.fr
 www.watsons.com.tr
 app.marionnaud.cz
 app.marionnaud.it
-app.marionnaud.ro
 api.watsons.com.tw
 api.watsons.com.ph
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
 www.kruidvat.nl
+www.kruidvat.be
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1302,12 +1302,12 @@ marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
-marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1997,8 +1997,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2587,11 +2587,11 @@ luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3071,10 +3071,10 @@ tock.18f.gov
 marketplace.fedramp.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
