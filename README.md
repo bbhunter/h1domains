@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 18:30:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 19:30:39 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1075,6 +1075,7 @@ www.kruidvat.be
 www.theperfumeshop.com
 www.marionnaud.sk
 www.pns.hk
+www.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1750,12 +1751,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1996,8 +1997,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-cdn.plaid.com
 secure.quovo.com
+cdn.plaid.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2313,8 +2314,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -2486,12 +2487,12 @@ code.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
-app.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
