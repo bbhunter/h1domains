@@ -1668,8 +1668,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -3167,8 +3167,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -4359,8 +4359,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.claritymoney.com
@@ -4503,10 +4503,10 @@ jamiewebgbelqfno.onion
 nyc01.jamieweb.net
 ipv6.jamieweb.net
 ipv4.jamieweb.net
-ldn01.jamieweb.net
 jamieweb.net
 jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion
 www.jamieweb.net
+ldn01.jamieweb.net
 www.jamieweb.net
 ipv6.jamieweb.net
 ipv4.jamieweb.net

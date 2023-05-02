@@ -1669,8 +1669,8 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
 reddit,old.reddit.com,True
 reddit,new.reddit.com,True
@@ -3168,8 +3168,8 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
@@ -4360,8 +4360,8 @@ goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,developer.gs.com,True
 goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
@@ -4504,10 +4504,10 @@ jamieweb,jamiewebgbelqfno.onion,False
 jamieweb,nyc01.jamieweb.net,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False
-jamieweb,ldn01.jamieweb.net,False
 jamieweb,jamieweb.net,False
 jamieweb,jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion,False
 jamieweb,www.jamieweb.net,False
+jamieweb,ldn01.jamieweb.net,False
 jamieweb,www.jamieweb.net,False
 jamieweb,ipv6.jamieweb.net,False
 jamieweb,ipv4.jamieweb.net,False

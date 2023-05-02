@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  2 06:28:47 UTC 2023)
+## Domains with Bounties (Last Updated Tue May  2 07:25:09 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -805,8 +805,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1347,8 +1347,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -1856,8 +1856,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
