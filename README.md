@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  3 05:24:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed May  3 06:29:50 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -801,8 +801,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1343,8 +1343,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
+apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -1848,12 +1848,12 @@ goldmansachsindices.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.gs.de
 research.gs.com
 *.gsam.com
 *.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -1952,9 +1952,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2487,8 +2487,8 @@ my.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -2583,11 +2583,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com

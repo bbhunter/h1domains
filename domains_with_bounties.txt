@@ -795,8 +795,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1337,8 +1337,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
+apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -1842,12 +1842,12 @@ goldmansachsindices.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.gs.de
 research.gs.com
 *.gsam.com
 *.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -1946,9 +1946,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -2481,8 +2481,8 @@ my.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -2577,11 +2577,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
