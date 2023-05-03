@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  3 18:36:59 UTC 2023)
+## Domains with Bounties (Last Updated Wed May  3 19:23:31 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1069,8 +1069,8 @@ api.watsons.co.id
 app.watsons.com.tr
 www.kruidvat.be
 www.marionnaud.sk
-www.watsons.com.tw
 www10.watsons.com.my
+www.kruidvat.nl
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1301,8 +1301,8 @@ gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 *uat.marriott.com
 homes-and-villas.marriott.com
-hotel-deals.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1746,12 +1746,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -1851,8 +1851,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -1951,9 +1951,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
+login.newrelic.com
 discuss.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 infrastructure.newrelic.com
 synthetics.newrelic.com
 alerts.newrelic.com
@@ -1992,8 +1992,8 @@ production.plaid.com
 my.plaid.com
 plaid.com
 api.blockscore.com
-secure.quovo.com
 cdn.plaid.com
+secure.quovo.com
 manage.blockscore.com
 production.plaid.com
 dashboard.plaid.com
@@ -2582,11 +2582,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
-luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -2667,8 +2667,8 @@ av.urbandictionary.biz
 cloudflareworkers.com
 *.teams.cloudflare.com
 dash.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
