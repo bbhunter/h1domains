@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  3 04:28:00 UTC 2023)
+## Domains with Bounties (Last Updated Wed May  3 05:24:38 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1747,12 +1747,12 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 paypalobjects.com
@@ -2028,8 +2028,8 @@ tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
+asiointi.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 verkkopalvelu.tapiola.fi
@@ -2314,9 +2314,9 @@ npmjs.com
 api.github.com
 classroom.github.com
 *.githubapp.com
-npmjs.org
 *.github.net
 education.github.com
+npmjs.org
 *.githubusercontent.com
 gist.github.com
 github.com
@@ -2583,11 +2583,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
