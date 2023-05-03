@@ -2339,10 +2339,10 @@ deskallocation.mendixcloud.com
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
 3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+mxbpconfig.mendixcloud.com
 event.us-east-1.sws.siemens.com
 http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
@@ -2608,7 +2608,6 @@ www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
@@ -2616,6 +2615,7 @@ www.marionnaud.fr
 www.watsons.com.tr
 apptps.theperfumeshop.com
 app.marionnaud.hu
+www.watsons.com.ph
 api.watsons.com.tw
 api.watsons.com.hk
 api.watsons.co.id
@@ -3182,8 +3182,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -5358,11 +5358,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -5473,8 +5473,8 @@ simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com

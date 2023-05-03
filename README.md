@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  3 01:28:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed May  3 02:38:58 UTC 2023)
 ```
 www.six-group.com
 www.six-group.com
@@ -1055,7 +1055,6 @@ www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
@@ -1063,6 +1062,7 @@ www.marionnaud.fr
 www.watsons.com.tr
 apptps.theperfumeshop.com
 app.marionnaud.hu
+www.watsons.com.ph
 api.watsons.com.tw
 api.watsons.com.hk
 api.watsons.co.id
@@ -1344,8 +1344,8 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
 lifeology.dev.lifeomic.com
@@ -2584,11 +2584,11 @@ luckey.in
 www.hoteltonight.com
 *.airbnb.com
 *.hoteltonight-test.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -2691,8 +2691,8 @@ simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com

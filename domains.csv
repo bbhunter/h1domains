@@ -2340,10 +2340,10 @@ mendix,3s.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
 mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,event.us-east-1.sws.siemens.com,False
 mendix,http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev,False
 mendix,gateway.us-east-1.sws.siemens.com,False
@@ -2609,7 +2609,6 @@ watson_group,www.marionnaud.ro,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
-watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
@@ -2617,6 +2616,7 @@ watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.tr,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,app.marionnaud.hu,True
+watson_group,www.watsons.com.ph,True
 watson_group,api.watsons.com.tw,True
 watson_group,api.watsons.com.hk,True
 watson_group,api.watsons.co.id,True
@@ -3183,8 +3183,8 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
@@ -5359,11 +5359,11 @@ airbnb,luckey.in,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -5474,8 +5474,8 @@ automattic,simperium.com,True
 automattic,happy.tools,True
 automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
-automattic,wordpress.com,True
 automattic,intensedebate.com,True
+automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,mailpoet.com,True
