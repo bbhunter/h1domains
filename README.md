@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 16:31:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 17:21:51 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -2823,8 +2823,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
