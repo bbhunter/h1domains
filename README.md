@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 19:19:27 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 20:23:23 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -146,9 +146,9 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 voapi.8x8.com
 platform.8x8.com
-sms.8x8.com
 user-profile.8x8.com
 sso.8x8pilot.com
+sms.8x8.com
 connect.8x8.com
 sms.8x8.com
 platform.8x8pilot.com
