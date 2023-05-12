@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 18:27:24 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 19:19:27 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -2564,8 +2564,8 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
 app.snapchat.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
