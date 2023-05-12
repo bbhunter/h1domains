@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 12 17:21:51 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 12 18:27:24 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -669,8 +669,8 @@ fallguys.com
 fortnite.com
 hmxservices.com
 harmonixmusic.com
-therecord.media
 app.recordedfuture.com
+therecord.media
 api.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
@@ -1963,8 +1963,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com
@@ -2532,8 +2532,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
+shopify.plus
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
