@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 22:19:32 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 23:20:20 UTC 2023)
 ```
 accounts.firefox.com
 firefox.settings.services.mozilla.com
@@ -261,8 +261,8 @@ get.gravitational.io
 h1-your-domain.teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
-test.deribit.com
 pb.deribit.com
+test.deribit.com
 insights.deribit.com
 tools.deribit.com
 metrics.deribit.com
@@ -2532,8 +2532,8 @@ shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
+accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
