@@ -1891,8 +1891,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioinstitutional.com
 *.folioclient.com
+*.folioinstitutional.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
