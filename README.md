@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 13 18:24:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 13 19:16:59 UTC 2023)
 ```
 accounts.firefox.com
 firefox.settings.services.mozilla.com
@@ -116,8 +116,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.prisma.fi
-tunnistus.s-ryhma.fi
 www.s-pankki.fi
+tunnistus.s-ryhma.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -838,8 +838,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
