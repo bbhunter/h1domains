@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 14 02:39:24 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 14 03:22:06 UTC 2023)
 ```
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
@@ -189,10 +189,10 @@ www.expediagroup.com
 www.abritel.fr
 www.hotels.com
 www.orbitz.com
-www.vrbo.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
+www.vrbo.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -2562,10 +2562,10 @@ store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-app.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
