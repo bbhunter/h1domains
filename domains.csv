@@ -5859,8 +5859,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
@@ -6175,8 +6175,8 @@ twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,*.cloudflare.com,True
 cloudflare,one.dash.cloudflare.com,True
+cloudflare,*.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,waf.cumulusfire.net,True
 cloudflare,api.cloudflare.com,True
