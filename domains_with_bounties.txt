@@ -1933,8 +1933,8 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-help.steampowered.com
 store.steampowered.com
+help.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
