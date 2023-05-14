@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 14 18:24:22 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 14 19:17:35 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -836,10 +836,10 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 www.reddit.com
+oauth.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2297,9 +2297,9 @@ www.starbucks.com.br
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
