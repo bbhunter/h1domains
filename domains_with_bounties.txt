@@ -2561,9 +2561,9 @@ business.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
-*.sc-corp.net
 spectacles.com
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
