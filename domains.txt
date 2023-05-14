@@ -3362,8 +3362,8 @@ www.marionnaud.ro
 www.watsons.com.tr
 www.watsons.co.id
 www.marionnaud.fr
-www.watsons.com.ph
 www.iciparisxl.lu
+www.watsons.com.ph
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -5871,11 +5871,11 @@ www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
