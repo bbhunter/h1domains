@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 14 23:21:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 01:26:41 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -838,8 +838,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2525,8 +2525,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 shop.app
 exchangemarketplace.com
@@ -2562,10 +2562,10 @@ store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
 my.snapchat.com
-playcanvas.com
 business.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
