@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 19:19:09 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 20:24:09 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -211,9 +211,9 @@ platform.8x8pilot.com
 *.jit.si
 *.chalet.8x8.com
 platform.8x8.com
-voapi.8x8.com
 *.8x8staging.com
 *.packet8.net
+voapi.8x8.com
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -810,8 +810,8 @@ harmonixmusic.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1719,8 +1719,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -1735,10 +1735,10 @@ app.localizestaging.com
 cdn.localizestaging.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 *.dev.lifeomic.com
+ga4gh.dev.lifeomic.com
 apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
@@ -2186,8 +2186,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2803,8 +2803,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com.sg
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -3422,19 +3422,19 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
