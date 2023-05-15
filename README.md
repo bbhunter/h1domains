@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 04:24:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 05:20:25 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -838,8 +838,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -1037,8 +1037,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitech.com.cn
 www.logitechg.com
+www.logitech.com.cn
 circle.logi.com
 www.ultimateears.com
 id.logi.com

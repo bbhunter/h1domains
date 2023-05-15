@@ -2429,8 +2429,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -3240,8 +3240,8 @@ www.logitechstore.com.br
 alert.logitech.com
 buy.logitech.com
 outage.logitech.com
-www.logitech.com.cn
 www.logitechg.com
+www.logitech.com.cn
 logitechgchallenge.com
 jira.logitech.com
 circle.logi.com
