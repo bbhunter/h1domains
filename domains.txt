@@ -224,12 +224,14 @@ app.xdefi.io
 staking.xdefi.io
 app.xdefi.io
 online.s-pankki.fi
+api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
+www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -240,6 +242,8 @@ extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
 www.prisma.fi
+www.sokos.fi
+api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
 www.kiwi.com
@@ -866,8 +870,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -5131,8 +5135,8 @@ api.foliofn.com
 *.claritymoney.com
 developer.valvesoftware.com
 playartifact.com
-store.steampowered.com
 help.steampowered.com
+store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com

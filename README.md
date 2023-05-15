@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 05:20:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 06:26:19 UTC 2023)
 ```
 firefox.settings.services.mozilla.com
 accounts.firefox.com
@@ -112,12 +112,14 @@ app.xdefi.io
 staking.xdefi.io
 app.xdefi.io
 online.s-pankki.fi
+api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
+www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -128,6 +130,8 @@ extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
 www.prisma.fi
+www.sokos.fi
+api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
 www.kiwi.com
@@ -1939,8 +1943,8 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-store.steampowered.com
 help.steampowered.com
+store.steampowered.com
 partner.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
