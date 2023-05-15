@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 12:42:08 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 13:28:17 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -2752,8 +2752,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 *.cloudflare.com
 one.dash.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
