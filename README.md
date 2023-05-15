@@ -2,8 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 10:24:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 11:20:06 UTC 2023)
 ```
+login.tide.co
+api.tideplatform.in
+www.tide.co
+web.tide.co
+api.tide.co
+app.tide.co
+web.tide.co
+api.tide.co
+login.tide.co
+app.tide.co
+api.tideplatform.in
+www.tide.co
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
@@ -23,8 +35,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
