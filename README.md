@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 11:20:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 12:42:08 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -830,8 +830,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
 www.myetherwallet.com
 www.myetherwallet.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
@@ -854,8 +854,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 www.reddit.com
 old.reddit.com
 new.reddit.com
@@ -2557,9 +2557,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-forum.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -2578,8 +2578,8 @@ snappublisher.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -2833,8 +2833,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

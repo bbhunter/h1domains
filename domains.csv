@@ -1,9 +1,9 @@
 handle,domain,eligible_for_bounty
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,www.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -2365,8 +2365,8 @@ blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
 myetherwallet,www.myetherwallet.com,True
 myetherwallet,www.myetherwallet.com,True
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 aktia,www.aktia.fi,False
@@ -2446,8 +2446,8 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
+reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
 reddit,old.reddit.com,True
 reddit,new.reddit.com,True
@@ -3059,8 +3059,8 @@ jimdo,ns2.jimdo.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,ns11.jimdo.com,False
 jimdo,logo.e.jimdo.com,False
-jimdo,www.jimdo.com,False
 jimdo,account.e.jimdo.com,False
+jimdo,www.jimdo.com,False
 jimdo,subscriptions.jimdosite.com,False
 jimdo,storage.jimdosite.com,False
 jimdo,websitegenerator.jimdosite.com,False
@@ -5868,9 +5868,9 @@ snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
@@ -5889,8 +5889,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
 snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -6270,8 +6270,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
