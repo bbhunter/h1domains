@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 20:24:09 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 21:19:55 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -572,8 +572,8 @@ delta.app
 bullsheet.me
 etorox.com
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -810,8 +810,8 @@ harmonixmusic.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
