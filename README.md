@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 15 22:21:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 15 23:22:24 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -2144,8 +2144,8 @@ tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2322,8 +2322,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -3096,8 +3096,8 @@ relay.playcanvas.com
 playcanv.as
 code.playcanvas.com
 store.playcanvas.com
-login.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -3326,8 +3326,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
-www.tumblr.com
 *.tumblr.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
