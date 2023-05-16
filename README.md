@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 08:27:32 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 09:22:45 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -987,8 +987,8 @@ old.reddit.com
 app.spiketrap.io
 gql.reddit.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -1589,8 +1589,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -1937,8 +1937,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com

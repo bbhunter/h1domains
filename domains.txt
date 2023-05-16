@@ -1,8 +1,8 @@
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -870,8 +870,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -997,12 +997,12 @@ www.skagen-japan.com
 *.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
-www.fossil.com.au
 www.fossil.fr
 www.fossil.hk
 www.fossilchina.cn
 m.skagen.de
 www.111watches.com
+www.fossil.com.au
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -1156,8 +1156,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1348,9 +1348,9 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
+*.modernfertility.com
 *.ro.co
 *.myplenity.com
-*.modernfertility.com
 *.ro.co
 *.getroman.com
 *.ropharmacy.com
@@ -3134,8 +3134,8 @@ old.reddit.com
 app.spiketrap.io
 gql.reddit.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -4627,8 +4627,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -5874,8 +5874,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com

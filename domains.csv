@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,web.tide.co,True
-tide,www.tide.co,True
 tide,api.tide.co,True
+tide,www.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -871,8 +871,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -998,12 +998,12 @@ fossil,www.skagen-japan.com,False
 fossil,*.fossil.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
-fossil,www.fossil.com.au,False
 fossil,www.fossil.fr,False
 fossil,www.fossil.hk,False
 fossil,www.fossilchina.cn,False
 fossil,m.skagen.de,False
 fossil,www.111watches.com,False
+fossil,www.fossil.com.au,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -1157,8 +1157,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1349,9 +1349,9 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.myplenity.com,False
-ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
 ro,*.ropharmacy.com,False
@@ -3135,8 +3135,8 @@ reddit,old.reddit.com,True
 reddit,app.spiketrap.io,True
 reddit,gql.reddit.com,True
 reddit,api.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,*.redditmedia.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,new.reddit.com,True
@@ -4628,8 +4628,8 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
@@ -5875,8 +5875,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
