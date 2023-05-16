@@ -804,8 +804,8 @@ harmonixmusic.com
 *.tinder.com
 *.gotinder.com
 *.tstaging.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1583,9 +1583,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1681,10 +1681,10 @@ marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3292,9 +3292,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
 cloudflareworkers.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
