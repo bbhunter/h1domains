@@ -34,9 +34,9 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
-mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,developer.mozilla.org,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -146,10 +146,10 @@ paystack-vdp,decodefintech.com,False
 apnic,* IPv6 addresses,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
-apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
 apnic,*.seedalliance.net,False
 apnic,*.isif.asia,False
+apnic,*.apnic.net,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
@@ -722,10 +722,10 @@ avalara,*.papercrane.io,False
 avalara,*.crowdreason.com,False
 avalara,*.track1099.com,False
 avalara,*.davosalestax.com,False
-avalara,*.avalara.io,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.net,False
+avalara,*.avalara.io,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1349,9 +1349,9 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
 ro,*.ropharmacy.com,False
@@ -2576,8 +2576,8 @@ jfrog,www.jfrog.co.jp,False
 jfrog,www.jfrogchina.com,False
 tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
-tinder,*.gotinder.com,True
 tinder,*.tstaging.com,True
+tinder,*.gotinder.com,True
 tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
@@ -4511,16 +4511,16 @@ xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.miwifi.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.paddypower.it,True
-flutteruki,*.betfair.com,True
 flutteruki,*.betviewapi.com,True
 flutteruki,*.sbgcdn.com,True
-flutteruki,*.skybet.com,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.operationstechnology.io,True
 flutteruki,*.msgsvc.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
+flutteruki,*.betfair.com,True
+flutteruki,*.skybet.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -4528,8 +4528,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4628,8 +4628,8 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.tmall.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
@@ -5875,8 +5875,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True

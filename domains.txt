@@ -33,9 +33,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 www.mozilla.org
-monitor.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -145,10 +145,10 @@ decodefintech.com
 * IPv6 addresses
 * IPv4 addresses
 aso.apnic.net
-*.apnic.net
 *.apnic.foundation
 *.seedalliance.net
 *.isif.asia
+*.apnic.net
 orbit.apnic.net
 stats.labs.apnic.net
 nori.apnic.net
@@ -721,10 +721,10 @@ www.divvyhomes.com
 *.crowdreason.com
 *.track1099.com
 *.davosalestax.com
-*.avalara.io
 *.ttrus.com
 *.impendulo.com
 *.avalara.net
+*.avalara.io
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -1348,9 +1348,9 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.modernfertility.com
 *.ro.co
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.getroman.com
 *.ropharmacy.com
@@ -2575,8 +2575,8 @@ www.jfrog.co.jp
 www.jfrogchina.com
 *.tinderops.net
 *.tinder.com
-*.gotinder.com
 *.tstaging.com
+*.gotinder.com
 *.tinderwebstaging.com
 *.tstaging.tools
 *.tinder.com
@@ -4510,16 +4510,16 @@ faucet.polygon.technology
 *.miwifi.com
 *.betfair.it
 *.paddypower.it
-*.betfair.com
 *.betviewapi.com
 *.sbgcdn.com
-*.skybet.com
 *.skyvegas.com
 *.skybingo.com
 *.operationstechnology.io
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
+*.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -4527,8 +4527,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4627,8 +4627,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -5874,8 +5874,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
