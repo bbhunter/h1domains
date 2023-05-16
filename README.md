@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 12:42:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 13:27:39 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -33,10 +33,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-www.mozilla.org
 hubs.mozilla.com
 developer.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -171,8 +171,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-www.prisma.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -753,12 +753,12 @@ api.evernote.com
 *.unrealtournament.com
 *.audicagame.com
 harmonixmusic.com
-*.mediatonic.co.uk
 *.easy.ac
 fallguys.com
 fortnite.com
 *.popjam.com
 wonderboxdev.com
+*.mediatonic.co.uk
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -1325,9 +1325,9 @@ help.aiven.io
 beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
-*.acronis.com
 *.devicelock.com
 *-api-*.acronis.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -1953,8 +1953,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
