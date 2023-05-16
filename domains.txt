@@ -44,9 +44,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1314,8 +1314,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -3258,9 +3258,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 *.reddithelp.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4629,8 +4629,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4729,8 +4729,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -5103,8 +5103,8 @@ connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5976,8 +5976,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
