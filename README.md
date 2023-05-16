@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 14:23:35 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 15:28:07 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -827,8 +827,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1343,14 +1343,14 @@ www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
-apptps.theperfumeshop.com
 app.marionnaud.hu
-www.marionnaud.ro
-www.watsons.com.tr
 www.watsons.co.id
-www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.ph
+www.marionnaud.fr
+www.watsons.com.tr
+apptps.theperfumeshop.com
+www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -1358,8 +1358,8 @@ app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
 api.watsons.com.ph
-www.marionnaud.sk
 www.pns.hk
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1531,8 +1531,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1605,8 +1605,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -1953,8 +1953,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2767,6 +2767,7 @@ gutenberg.run
  github.com/WordPress
 rockstarnorth.com
 *.rockstargames.com
+circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
@@ -2777,6 +2778,7 @@ prod.ros.rockstargames.com
 support.rockstargames.com
 *.rockstargames.com
 store.rockstargames.com
+circolocorecords.com/
 lifeinvader.com
 rockstarnorth.com
 app.files.com
@@ -2914,8 +2916,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3595,8 +3597,8 @@ examinator.epam.com
 *.emakina.com
 *.emakina.fr
 *.emakina.group
-*.epam.com
 *.projects.epam.com
+*.epam.com
 anywhere.epam.com
 training.epam.com
 *.lab.epam.com
