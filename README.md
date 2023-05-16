@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 16:30:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 17:19:36 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -222,9 +222,9 @@ platform.8x8pilot.com
 *.jit.si
 *.chalet.8x8.com
 platform.8x8.com
-*.8x8staging.com
 *.packet8.net
 voapi.8x8.com
+*.8x8staging.com
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -849,8 +849,8 @@ wonderboxdev.com
 app.recordedfuture.com
 therecord.media
 api.recordedfuture.com
-www.recordedfuture.com
 securitytrails.com
+www.recordedfuture.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -1533,8 +1533,8 @@ faucet.polygon.technology
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1616,8 +1616,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -1964,8 +1964,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
