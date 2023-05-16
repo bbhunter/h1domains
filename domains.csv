@@ -1,4 +1,15 @@
 handle,domain,eligible_for_bounty
+ring,ring.com/*,True
+ring,api.ring.com/*,True
+ring,fw.ring.com/*,True
+ring,app.ring.com/*,True
+ring,admin.ring.com/*,True
+ring,nw.ring.com/*,True
+ring,oauth.ring.com/*,True
+ring,billing.ring.com/*,True
+ring,prd-ring-web-us.prd.rings.solutions,True
+ring,*.immedia-semi.com/*,True
+ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,web.tide.co,True
@@ -1167,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1359,9 +1370,9 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.myplenity.com,False
-ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
 ro,*.ropharmacy.com,False
@@ -2605,8 +2616,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -2616,8 +2627,8 @@ tinder,*.tinderwebstaging.com,True
 recorded-future,app.recordedfuture.com,True
 recorded-future,therecord.media,True
 recorded-future,api.recordedfuture.com,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
@@ -3239,8 +3250,8 @@ reddit,*.snooguts.net,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,*.reddit.com,True
 reddit,ads-api.reddit.com,True
+reddit,*.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4386,8 +4397,8 @@ watson_group,www.watsons.co.id,True
 watson_group,www.iciparisxl.lu,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.marionnaud.fr,True
-watson_group,www.watsons.com.tr,True
 watson_group,apptps.theperfumeshop.com,True
+watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.kruidvat.be,True
 watson_group,www.kruidvat.nl,True
@@ -4619,8 +4630,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4719,8 +4730,8 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
@@ -5563,8 +5574,8 @@ pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line-apps.com,True
 line,*.line.me,True
+line,*.line-apps.com,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
@@ -7087,8 +7098,8 @@ github,*.github.net,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
