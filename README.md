@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 11:20:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 12:42:42 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -758,6 +758,7 @@ harmonixmusic.com
 fallguys.com
 fortnite.com
 *.popjam.com
+wonderboxdev.com
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -806,12 +807,28 @@ fallguys.com
 fortnite.com
 hmxservices.com
 harmonixmusic.com
+aqtooling.com
+aquiris.com.br
+aquiris.studio
+aquiristech.com
+ballistic.com
+ballistic.com.br
+buckingfuggy.com
+hc2services.com
+hc2tooling.com
+horizonchase.com.br
+horizonchase.com
+horizonchaseturbo.com
+playwonderbox.com.br
+playwonderbox.com
+wonderboxapi.com
+wonderboxdev.com
 *.tinderops.net
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1241,8 +1258,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -1682,8 +1699,8 @@ cpp.marriott.com
 www.ritzcarlton.com
 lawmanager.marriott.com
 giftcards.marriott.com
-marriottfranchisetransactions.marriott.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -1936,8 +1953,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2008,8 +2025,8 @@ holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
-login.www.vaxvacationaccess.com
 vacations.travelimpressions.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -3069,8 +3086,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
