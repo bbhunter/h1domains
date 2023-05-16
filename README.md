@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 22:19:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 23:21:31 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -153,10 +153,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -1361,8 +1361,8 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.fr
-www.watsons.com.tr
 apptps.theperfumeshop.com
+www.watsons.com.tr
 www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1617,10 +1617,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 *.alibaba.com
+www.alibabagroup.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
