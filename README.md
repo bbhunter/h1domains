@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 04:26:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 05:21:45 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -934,11 +934,11 @@ main.trafficfactory.biz
 elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
-cloud.elastic.co
 *.swiftype.com
 *.elstc.co
 *.eops.nl
 *.elasticnet.co
+cloud.elastic.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -3243,8 +3243,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.magisto.com
 *.livestream.com
+*.magisto.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
