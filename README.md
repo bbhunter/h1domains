@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 02:40:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 03:22:38 UTC 2023)
 ```
 login.tide.co
 api.tideplatform.in
@@ -34,9 +34,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 www.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
 hubs.mozilla.com
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1515,8 +1515,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1589,9 +1589,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -2301,8 +2301,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
+*.ayco.com
 *.honestdollar.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
@@ -2977,8 +2977,8 @@ binary.bot
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
