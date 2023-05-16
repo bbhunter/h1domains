@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 17:19:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 16 18:27:11 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-api.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 *.reddithelp.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1098,8 +1098,8 @@ app.launchdarkly.com
 events.launchdarkly.com
 stream.launchdarkly.com
 *.runpanther.io
-*.panther.com
 *.runpanther.com
+*.panther.com
 *.panther.com
 *.runpanther.io
 *.runpanther.com
@@ -1616,8 +1616,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -2235,8 +2235,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2927,8 +2927,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net

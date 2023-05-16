@@ -12,8 +12,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-api.tide.co
 www.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1006,10 +1006,10 @@ www.watchstation.co.uk
 jp.misfit.com
 prod.shopkatchin.com
 www.skagen-japan.com
-*.fossil.com
 fossilcare.com
 misfitwearable.com
 linkplatforms.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -3258,9 +3258,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 *.reddithelp.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3384,8 +3384,8 @@ www.getincentive.com
 api.getincentive.com
 home.getincentive.com
 *.runpanther.io
-*.panther.com
 *.runpanther.com
+*.panther.com
 *.panther.com
 *.runpanther.io
 *.runpanther.com
@@ -4729,8 +4729,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 *.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
@@ -5103,8 +5103,8 @@ connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.fuze.com
 *.thinkingphones.net
+*.fuze.com
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -6265,8 +6265,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -7089,8 +7089,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
