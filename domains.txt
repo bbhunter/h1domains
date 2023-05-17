@@ -276,8 +276,8 @@ my.malwarebytes.com
 *.mbamupdates.com
 forums.malwarebytes.com
 oneview.malwarebytes.com
-*.malwarebytes.com
 *.mwb-threatintel.com
+*.malwarebytes.com
 support.malwarebytes.com
 blog.malwarebytes.com
 www.malwarebytes.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1007,9 +1007,9 @@ jp.misfit.com
 prod.shopkatchin.com
 www.skagen-japan.com
 misfitwearable.com
-*.fossil.com
 linkplatforms.com
 fossilcare.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -2897,8 +2897,8 @@ zeus.agrisync.com
 *.link.co
 js.stripe.com
 *.touchtechpayments.com
-www.stripe.partners
 app.taxjar.com
+www.stripe.partners
 *.reckostaging.com
 *.getbouncer.com
 api.taxjar.com
@@ -4314,8 +4314,8 @@ goerli.cloud.enjin.io
 jumpnet.cloud.enjin.io
 beam.enjin.io
 jumpnet.beam.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -4730,8 +4730,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -5978,8 +5978,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
