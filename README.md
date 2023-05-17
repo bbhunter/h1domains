@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 16:27:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 17:21:11 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,9 +32,9 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-phabricator.services.mozilla.com
 aus5.mozilla.org
 addons.allizom.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -44,10 +44,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-hubs.mozilla.com
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -2214,9 +2214,9 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintreepayments.com
 *.braintree-api.com
 *.xoom.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2711,7 +2711,6 @@ chatdate.app
 heyfiesta.com
 zodia.studio
 assets.spotify.com
-heardle.app
 api.sonantic.io
 app.sonantic.io
 backstage.io
@@ -2722,7 +2721,6 @@ api.spotify.com
 api.sonantic.io
 app.sonantic.io
 label-studio-public.sonantic.io
-heardle.app
 backstage.io
 api.dashlane.com
 www.dashlane.com
