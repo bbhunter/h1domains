@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 16 23:21:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 01:25:46 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1361,8 +1361,8 @@ www.watsons.co.id
 www.iciparisxl.lu
 www.watsons.com.ph
 www.marionnaud.fr
-apptps.theperfumeshop.com
 www.watsons.com.tr
+apptps.theperfumeshop.com
 www.marionnaud.ro
 www.kruidvat.be
 www.kruidvat.nl
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1619,8 +1619,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
 *.tmall.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3125,10 +3125,10 @@ accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
-code.playcanvas.com
 store.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
+code.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
@@ -3655,11 +3655,8 @@ gocorp.gojek.com
 gofood.co.id
 gosend.id
 go-tix.id
-burrow.helium.systems
 ota.helium.com
 ota.helium.com
-burrow.helium.systems
-https://helium-console-dev.herokuapp.com/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
