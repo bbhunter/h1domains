@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 21:19:24 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 22:20:56 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,13 +27,13 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -886,8 +886,8 @@ logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-*.login.gov
 inventory.data.gov
+*.login.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2826,8 +2826,8 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.fr
 www.starbucks.co.uk
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.com.br
+www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
