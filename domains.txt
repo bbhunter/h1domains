@@ -12,8 +12,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -30,10 +30,10 @@ firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
-aus5.mozilla.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 addons.allizom.org
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -3259,8 +3259,8 @@ mod.reddit.com
 accounts.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3293,8 +3293,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 *.on-running.com
 *.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -4732,8 +4732,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -5978,8 +5978,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6072,7 +6072,6 @@ world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-book.extraholidaysvacations.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
@@ -6085,6 +6084,7 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -7158,6 +7158,12 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+*.algolianet.com
+*.algolia.net
+www.algolia.com
+*.algolia.net
+*.algolianet.com
+www.algolia.com
 webtrader.binary.com
 *.binaryws.com
 secure-dfadmin.binary.com
@@ -8315,12 +8321,6 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
-*.algolianet.com
-*.algolia.net
-www.algolia.com
-*.algolia.net
-*.algolianet.com
-www.algolia.com
 www.codeigniter.com
 www.codeigniter.com
 ok.ru

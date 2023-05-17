@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 08:26:23 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 09:23:19 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -31,10 +31,10 @@ firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
-aus5.mozilla.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 addons.allizom.org
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1037,8 +1037,8 @@ mod.reddit.com
 accounts.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1069,8 +1069,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1619,8 +1619,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.1688.com
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2044,7 +2044,6 @@ world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-book.extraholidaysvacations.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
@@ -2057,6 +2056,7 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2996,6 +2996,12 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+*.algolianet.com
+*.algolia.net
+www.algolia.com
+*.algolia.net
+*.algolianet.com
+www.algolia.com
 webtrader.binary.com
 *.binaryws.com
 secure-dfadmin.binary.com
@@ -3822,12 +3828,6 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
-*.algolianet.com
-*.algolia.net
-www.algolia.com
-*.algolia.net
-*.algolianet.com
-www.algolia.com
 provider.enter.health
 api.enter.health
 login.enter.health
