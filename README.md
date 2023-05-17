@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 09:23:19 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 10:24:12 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -867,11 +867,11 @@ admin-catalog-bsp.data.gov
 www.usa.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
-catalog.data.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
+catalog.data.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
@@ -881,13 +881,13 @@ tock.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
-inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
+inventory.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 *.reddithelp.com
-matrix.redditspace.com
 www.reddit.com
 oauth.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -3427,8 +3427,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
