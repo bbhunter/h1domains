@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 14:23:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 15:27:05 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -309,8 +309,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.fewo-direkt.de
 www.expedia.com
+www.fewo-direkt.de
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 *.reddithelp.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1617,8 +1617,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.alibaba-inc.com
@@ -2350,9 +2350,9 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.gs.com
 *.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -3079,9 +3079,9 @@ apps.zendesk.com
 www.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 zopim.com
 api.getbase.com
+app.smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3126,8 +3126,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -3141,9 +3141,9 @@ map.snapchat.com
 rt.playcanvas.com
 my.snapchat.com
 business.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3468,9 +3468,9 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
+cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.com
 api.hackerone.com
