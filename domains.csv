@@ -130,8 +130,8 @@ hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,*.hiltonjapan.co.jp,True
-hilton,hilton.com,True
 hilton,*.hiltonmanage.com,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -4632,8 +4632,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4701,8 +4701,8 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,music.amazon.com,True
-amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
+amazonvrp,api.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -5979,8 +5979,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
