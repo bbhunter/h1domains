@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 17 03:23:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 17 04:25:08 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,9 +32,9 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
-addons.allizom.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1014,9 +1014,9 @@ www.urbanclap.com
 old.reddit.com
 app.spiketrap.io
 gql.reddit.com
-api.reddit.com
 *.redditmedia.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
