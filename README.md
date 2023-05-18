@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 22:20:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 23:21:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,13 +27,13 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1482,9 +1482,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-store.playstation.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2192,8 +2192,8 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-casper.com
 legacy.casper.com
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
