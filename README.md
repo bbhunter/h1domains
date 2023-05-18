@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 14:21:31 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 15:29:57 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -27,13 +27,13 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1535,8 +1535,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.skybet.com
-*.betfair.com
 *.betfair.it
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -1753,14 +1753,6 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
-app.localizestaging.com
-localizestaging.com
-cdn.localizestaging.com
-api.localizestaging.com
-localizestaging.com
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
@@ -2214,8 +2206,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.xoom.com
-*.braintree-api.com
 *.braintreepayments.com
+*.braintree-api.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3103,9 +3095,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
-shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3660,6 +3652,14 @@ gosend.id
 go-tix.id
 ota.helium.com
 ota.helium.com
+app.localizestaging.com
+localizestaging.com
+cdn.localizestaging.com
+api.localizestaging.com
+localizestaging.com
+api.localizestaging.com
+app.localizestaging.com
+cdn.localizestaging.com
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
