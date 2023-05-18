@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 18:25:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 19:17:46 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1037,8 +1037,8 @@ mod.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1288,8 +1288,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitechg.com
 www.logitech.com.cn
+www.logitechg.com
 circle.logi.com
 www.ultimateears.com
 id.logi.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2342,8 +2342,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -3227,8 +3227,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
