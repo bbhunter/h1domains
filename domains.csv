@@ -64,10 +64,10 @@ mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,hello.dev.myhubs.net,True
 mozilla_core_services,www.mozilla.org,True
 shutterfly_vdp,snapfish.ie,False
-shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,snapfish.fr,False
 shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,photo.walgreens.com,False
+shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
@@ -125,10 +125,10 @@ hilton,hiltonmanage.com,True
 hilton,hiltonhawaiianvillage.jp,True
 hilton,*.hilton.io,True
 hilton,*.hiltonbusinessonline.com,True
-hilton,hiltonlocalbiz.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
+hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonjapan.co.jp,True
 hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True

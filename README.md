@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 20:22:51 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 21:19:14 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -78,10 +78,10 @@ hiltonmanage.com
 hiltonhawaiianvillage.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hiltonlocalbiz.com
 hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
