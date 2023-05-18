@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 08:27:12 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 09:20:14 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1965,8 +1965,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2868,8 +2868,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 talk.brave.com
-search.brave.com
 brave.com
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -3138,9 +3138,9 @@ map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3235,9 +3235,9 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
+*.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3669,9 +3669,9 @@ repo.magento.com
 account.magento.com
 accounts.magento.cloud
 marketplace.magento.com
-magento.com
 u.magento.com
 imagine.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
