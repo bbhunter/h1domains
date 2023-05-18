@@ -1960,8 +1960,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3131,11 +3131,11 @@ www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
-my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

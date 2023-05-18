@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 18 02:39:08 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 18 03:22:17 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1966,8 +1966,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3137,11 +3137,11 @@ www.bitmoji.com
 store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
-my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

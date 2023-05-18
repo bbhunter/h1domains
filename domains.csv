@@ -5106,8 +5106,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
+8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -5979,8 +5979,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -7302,11 +7302,11 @@ snapchat,www.bitmoji.com,True
 snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
-snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
