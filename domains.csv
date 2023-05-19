@@ -32,8 +32,8 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
-mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,aus5.mozilla.org,True
+mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -1001,7 +1001,6 @@ fossil,www.fossil.es,False
 fossil,www.fossil.in,False
 fossil,www.fossil.it,False
 fossil,www.fossilaustralia.com.au,False
-fossil,www.fossilglobal.com,False
 fossil,www.fossilsingapore.com.sg,False
 fossil,www.watchstation.co.uk,False
 fossil,jp.misfit.com,False
@@ -1011,6 +1010,7 @@ fossil,misfitwearable.com,False
 fossil,fossilcare.com,False
 fossil,linkplatforms.com,False
 fossil,*.fossil.com,False
+fossil,www.fossilglobal.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -1315,8 +1315,8 @@ fidelity,www.myfidelitysolutions.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.photoaffections.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,www.simplytoimpress.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,www.personalcreations.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,my.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -1545,16 +1545,16 @@ alohi,www.alohi.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
-anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
-anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.corcoran.*,False
+anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
-anywhererealestate,*.realogy.*,False
-anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
+anywhererealestate,*.cbcworldwide.*,False
+anywhererealestate,*.realogy.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -2416,8 +2416,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4730,8 +4730,8 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*widget.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
+trustpilot,*widget.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6740,8 +6740,8 @@ delight_im,delight.im,False
 delight_im,www.delight.im,False
 grab,grab.careers,True
 grab,*.grabtaxi.com,True
-grab,gifts.grab.com,True
 grab,wiki.grab.com,True
+grab,gifts.grab.com,True
 grab,*.grabpay.com,True
 grab,*.grab-sure.com,True
 grab,p.grabtaxi.com,True
@@ -7387,9 +7387,9 @@ adobe,community.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
-adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,magento.com,True
+adobe,*.adobe.com,False
 adobe,applications.frame.io,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.typekit.com,False
@@ -7512,8 +7512,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
