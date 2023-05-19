@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 17:20:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 18:25:38 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -212,9 +212,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
-connect.8x8.com
 *.jitsi.net
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -1926,8 +1926,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2208,13 +2208,13 @@ swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
 *.braintree-api.com
-paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
+paypal.me
 my.loanbuilder.com
 *.paypal.com
 *.venmo.com
