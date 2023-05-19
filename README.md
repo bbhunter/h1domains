@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 15:23:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 16:27:49 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -219,8 +219,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 platform.8x8pilot.com
-*.jit.si
 *.chalet.8x8.com
+*.jit.si
 platform.8x8.com
 *.packet8.net
 voapi.8x8.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3096,8 +3096,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3135,8 +3135,8 @@ playcanvas.com
 my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
