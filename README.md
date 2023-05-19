@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 09:22:42 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 19 10:22:56 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 *.reddithelp.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1747,8 +1747,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2918,8 +2918,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
