@@ -31,8 +31,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 my.ro.co
 *.ropharmacy.com
 *.getroman.com
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -4203,9 +4203,9 @@ creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com

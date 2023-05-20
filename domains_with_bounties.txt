@@ -26,8 +26,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1267,9 +1267,9 @@ creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
