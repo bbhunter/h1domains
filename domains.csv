@@ -32,8 +32,8 @@ mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,contile.services.mozilla.com,True
-mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
+mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
@@ -498,13 +498,13 @@ us-department-of-state,*.USDOSCLOUD.GOV,False
 us-department-of-state,*.FAN.GOV,False
 us-department-of-state,*.USMISSION.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
-us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.PREPRODFAN.GOV,False
 us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
+us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -3249,9 +3249,9 @@ reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,s.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -4631,8 +4631,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4730,8 +4730,8 @@ amazonvrp,payments.amazon.*,True
 amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
@@ -7257,9 +7257,9 @@ shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopifycloud.com,True
 shopify,exchangemarketplace.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True

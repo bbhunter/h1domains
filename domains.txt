@@ -31,8 +31,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -497,13 +497,13 @@ share.doppler.com
 *.FAN.GOV
 *.USMISSION.GOV
 *.AMERICA.GOV
-*.OSAC.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.PREPRODFAN.GOV
 *.SECURITYTESTFAN.GOV
 *.ELGUARDIA.NET
 *.REWARDSFORJUSTICE.NET
+*.OSAC.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
 *.USEMBASSY.GOV
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1547,9 +1547,9 @@ www.alohi.com
 *.century21.*
 *.bhgre.*
 *.era.com
+*.sothebysrealty.*
 *.corcoran.*
 *.nrtllc.*
-*.sothebysrealty.*
 *.mycbdesk.com
 *.coldwellbanker.*
 *.cbcworldwide.*
@@ -3248,9 +3248,9 @@ strapi.reddit.com
 *.snooguts.net
 gateway.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 s.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4729,8 +4729,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -7256,9 +7256,9 @@ linkpop.com
 shop.app
 *.shopifycloud.com
 exchangemarketplace.com
-partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
