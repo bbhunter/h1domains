@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 20 11:17:03 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 20 12:34:20 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1270,9 +1270,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2642,8 +2642,8 @@ manage.grab.co
 api.grabpay.com
 xtramile.grabpay.com
 *.grab.co
-*.grab.com
 *.myteksi.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
