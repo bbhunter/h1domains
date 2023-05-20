@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 19 23:19:28 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 20 01:21:08 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2895,9 +2895,9 @@ www.redtube.com
 www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
-www.youporn.com
 www.youpornpremium.com
 api.pornhub.com
+www.youporn.com
 mobile.pornhub.com
 ht.pornhub.com
 www.pornmd.com
@@ -3095,9 +3095,9 @@ exchangemarketplace.com
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3228,8 +3228,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
