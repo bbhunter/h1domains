@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 02:41:51 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 03:22:15 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -32,8 +32,8 @@ accounts.firefox.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
+addons.allizom.org
 phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3113,10 +3113,10 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 ads.snapchat.com
+story.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
