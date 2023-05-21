@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 19:17:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 20:21:32 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -2922,11 +2922,11 @@ api.github.com
 npmjs.com
 classroom.github.com
 *.githubapp.com
-*.github.net
 gist.github.com
 npmjs.org
 *.githubusercontent.com
 education.github.com
+*.github.net
 github.com
 github.com
 api.github.com
