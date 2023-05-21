@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 01:30:32 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 02:41:51 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -247,8 +247,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1037,8 +1037,8 @@ redditforbusiness.com
 matrix.redditspace.com
 oauth.reddit.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.alibabacloud.com
 *.tmall.com
+*.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -3096,8 +3096,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
