@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 22:18:12 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 23:20:39 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1013,10 +1013,10 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 app.spiketrap.io
-gql.reddit.com
 *.redditmedia.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
