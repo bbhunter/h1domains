@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 20:21:32 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 21:17:35 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2213,8 +2213,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 paypal.me
+*.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
