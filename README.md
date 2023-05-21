@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 10:19:24 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 11:17:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -33,8 +33,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
-phabricator.services.mozilla.com
 addons.allizom.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
