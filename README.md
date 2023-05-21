@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 11:17:52 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 21 12:33:56 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -309,8 +309,8 @@ www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
 www.bookabach.co.nz
-www.expedia.com
 www.fewo-direkt.de
+www.expedia.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1668,8 +1668,8 @@ dashboard.magic.link
 api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
-*.highrolling.nu
 unibet.me
+*.highrolling.nu
 *.unibet.fr
 *.kolikkopelit.com
 *.bingo.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
