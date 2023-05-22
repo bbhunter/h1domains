@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 13:27:03 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 14:22:00 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2949,10 +2949,10 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 registry.gitlab.com
 *.gitlab.net
-customers.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
+customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
 *.gitlab.org
