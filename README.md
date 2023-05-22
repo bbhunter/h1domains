@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 12:36:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 13:27:03 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1037,8 +1037,8 @@ redditforbusiness.com
 matrix.redditspace.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1482,9 +1482,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-*.api.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1618,8 +1618,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -1668,11 +1668,11 @@ dashboard.magic.link
 api.magic.link
 dashboard.fortmatic.com
 fortmatic.com
-*.highrolling.nu
 unibet.me
+*.highrolling.nu
 *.unibet.fr
-*.bingo.com
 *.kolikkopelit.com
+*.bingo.com
 maria.casino
 *.unibet.com
 *.mariacasino.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2727,10 +2727,10 @@ logs.dashlane.com
 api.dashlane.com
 planet.wordpress.org
 *.wordpress.org
-wordpressfoundation.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+wordpressfoundation.org
 lists.wordpress.org
 *.wordcamp.org
 api.wordpress.org
