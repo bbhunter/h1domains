@@ -502,8 +502,8 @@ share.doppler.com
 *.PREPRODFAN.GOV
 *.SECURITYTESTFAN.GOV
 *.ELGUARDIA.NET
-*.REWARDSFORJUSTICE.NET
 *.OSAC.GOV
+*.REWARDSFORJUSTICE.NET
 *.PEPFAR.GOV
 *.FSGB.GOV
 *.USEMBASSY.GOV
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -997,7 +997,6 @@ m.fossil.de
 www.fossil.ch
 www.fossil.de
 www.fossil.es
-www.fossil.in
 www.fossil.it
 www.fossilaustralia.com.au
 www.fossilsingapore.com.sg
@@ -1010,6 +1009,7 @@ fossilcare.com
 linkplatforms.com
 www.fossilglobal.com
 *.fossil.com
+www.fossil.in
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2415,8 +2415,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4196,8 +4196,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
@@ -4731,8 +4731,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -5096,8 +5096,8 @@ get8x8.com
 connect.8x8.com
 user-profile.8x8.com
 sms.8x8.com
-*.thinkingphones.net
 *.fuze.com
+*.thinkingphones.net
 *.8x8staging.com
 work.8x8.com
 www.8x8.com
@@ -5969,8 +5969,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -7058,11 +7058,11 @@ www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
-api.pornhub.com
 www.youporn.com
-mobile.pornhub.com
+api.pornhub.com
 ht.pornhub.com
 www.pornmd.com
+mobile.pornhub.com
 *.tube8.com
 www.pornhub.com
 mobile.pornhub.com
@@ -7710,8 +7710,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
