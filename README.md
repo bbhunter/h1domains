@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 16:28:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 17:20:42 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1034,11 +1034,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-matrix.redditspace.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3416,8 +3416,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
