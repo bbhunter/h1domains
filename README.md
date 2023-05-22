@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 11:19:53 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 12:36:21 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3062,8 +3062,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
