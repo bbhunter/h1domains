@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 15:24:00 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 16:28:28 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -213,8 +213,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -297,8 +297,8 @@ www.expediagroup.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
-www.abritel.fr
 www.expediapartnersolutions.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1015,8 +1015,8 @@ old.reddit.com
 app.spiketrap.io
 *.redditmedia.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 new.reddit.com
@@ -1209,9 +1209,9 @@ world.hey.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
-www.cloud.com
 *.browser.cloud.com
 accounts.cloud.com
+www.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -1618,8 +1618,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2298,8 +2298,8 @@ staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
 staging-admin.shipt.com
-api.shipt.com
 www.shipt.com
+api.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -2924,10 +2924,10 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 npmjs.org
-*.githubusercontent.com
 education.github.com
 *.github.net
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
