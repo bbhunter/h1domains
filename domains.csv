@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1548,9 +1548,9 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
@@ -2764,11 +2764,11 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,elastic-cloud.com,True
 elastic,*.found.io,True
 elastic,*.elastic-cloud.com,True
-elastic,*.swiftype.com,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,*.elasticnet.co,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
@@ -5097,8 +5097,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,work.8x8.com,False
 8x8,www.8x8.com,False
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
@@ -6611,8 +6611,8 @@ ed,bugbountyguide.com,False
 localtapiola,verkkopalvelu.tapiola.fi,True
 localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
-localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,ext-gw.lahitapiola.fi,True
+localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,myynti.lahitapiolarahoitus.fi,True
 localtapiola,secure.lahitapiola.fi,True
 localtapiola,lisasijoitus.lahitapiola.fi,True
@@ -7164,8 +7164,8 @@ binary,tradingview.binary.com,True
 binary,charts.binary.com,True
 binary,binary.bot,True
 binary,smarttrader.deriv.com,True
-binary,*.deriv.com,True
 binary,*.binary.com,True
+binary,*.deriv.com,True
 binary,*.deriv.cloud,True
 binary,app.deriv.com,True
 binary,*.binaryws.com,True
