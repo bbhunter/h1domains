@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 21 23:20:39 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 01:28:30 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -308,9 +308,9 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.carrentals.com
 www.travelocity.ca
-www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
+www.bookabach.co.nz
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1616,8 +1616,8 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-*.tmall.com
 *.alibabacloud.com
+*.tmall.com
 www.alibabagroup.com
 *.alibaba.com
 *.aliexpress.ru
@@ -3096,8 +3096,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
