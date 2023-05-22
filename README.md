@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 21:15:50 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 22 22:19:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-developer.mozilla.org
 hubs.mozilla.com
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -345,8 +345,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 coralcube.io
 *.coralcube.io
 magiceden.io
@@ -863,8 +863,8 @@ ssh.fr.cloud.gov
 admin-catalog-bsp.data.gov
 *.code.gov
 *.search.gov
-www.usa.gov
 www.data.gov
+www.usa.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 grafana.fr.cloud.gov
@@ -965,8 +965,8 @@ elastic-cloud.com
 *.eops.nl
 *.elstc.co
 *.elasticnet.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1011,34 +1011,34 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 app.spiketrap.io
 *.redditmedia.com
 api.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
+old.reddit.com
 m.reddit.com
 sh.reddit.com
-new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 *.redditinc.com
 *.snooguts.net
-gateway.reddit.com
+new.reddit.com
 www.spiketrap.io
 s.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
+gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1271,8 +1271,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2158,14 +2158,14 @@ login-4ngbets.us.betfair.com
 fdbox.net
 login-ia.tvg.com
 sportsbook.fanduel.com
-www.tvg.com
 mobile-prod.tvg.com
+www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2918,8 +2918,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
