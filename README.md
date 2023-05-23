@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 04:24:47 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 05:21:06 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1359,11 +1359,11 @@ www20.watsons.co.th
 app.marionnaud.hu
 www.watsons.co.id
 www.iciparisxl.lu
-apptps.theperfumeshop.com
 www.watsons.com.tr
 www.marionnaud.fr
 www.marionnaud.ro
 www.watsons.com.ph
+apptps.theperfumeshop.com
 www.kruidvat.be
 www.kruidvat.nl
 app.marionnaud.cz
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3130,9 +3130,9 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 app.snapchat.com
-my.snapchat.com
 playcanvas.com
 store.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
