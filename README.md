@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 01:25:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 02:38:37 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -212,9 +212,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1271,8 +1271,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3125,7 +3125,6 @@ code.playcanvas.com
 login.playcanvas.com
 blog.playcanvas.com
 www.bitmoji.com
-store.snapchat.com
 map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
@@ -3133,6 +3132,7 @@ snappublisher.snapchat.com
 app.snapchat.com
 my.snapchat.com
 playcanvas.com
+store.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
