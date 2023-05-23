@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 11:21:40 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 12:38:24 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -247,8 +247,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1370,7 +1370,6 @@ app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-api.watsons.com.ph
 www.pns.hk
 app.watsons.com.tr
 www.superdrug.com
@@ -1543,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1957,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3130,9 +3129,9 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-store.snapchat.com
 my.snapchat.com
 app.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

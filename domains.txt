@@ -107,8 +107,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -467,8 +467,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -4423,7 +4423,6 @@ app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-api.watsons.com.ph
 www.pns.hk
 app.watsons.com.tr
 www.superdrug.com
@@ -4646,8 +4645,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -5985,8 +5984,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -7310,9 +7309,9 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-store.snapchat.com
 my.snapchat.com
 app.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -7414,10 +7413,10 @@ creativecloud.adobe.com
 documentcloud.adobe.com
 status.adobe.com
 magentolive.com
-*.tubemogul.com
 *.proofhq.com
 *.marketo.com
 *.omniture.com
+*.tubemogul.com
 *.testdrive.workfront.com
 updates.frame.io
 workflow.frame.io
