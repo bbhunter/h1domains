@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 10:24:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 11:21:40 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -297,8 +297,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.expediapartnersolutions.com
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1014,9 +1014,9 @@ www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3129,10 +3129,10 @@ map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
 store.snapchat.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

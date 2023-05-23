@@ -280,8 +280,8 @@ malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,support.malwarebytes.com,False
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -556,8 +556,8 @@ expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
-expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediagroup.com,True
+expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -882,8 +882,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.modernfertility.com,False
 ro,*.myplenity.com,False
+ro,*.modernfertility.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -3253,9 +3253,9 @@ drugs_com,www.woolshed.com,False
 reddit,app.spiketrap.io,True
 reddit,*.redditmedia.com,True
 reddit,api.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,meta-api.reddit.com,True
@@ -4647,8 +4647,8 @@ flutteruki,*.skybetservices.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -5113,8 +5113,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,connect.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
+8x8,*.thinkingphones.net,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -7310,10 +7310,10 @@ snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True
