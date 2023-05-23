@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 08:26:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 09:23:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -153,10 +153,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 cloud.malwarebytes.com
-*.mwbsys.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -849,8 +849,8 @@ wonderboxdev.com
 therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
@@ -3324,9 +3324,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 cloudflareworkers.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
