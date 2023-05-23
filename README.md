@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 14:24:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 15:26:26 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1037,8 +1037,8 @@ redditforbusiness.com
 mod.reddit.com
 www.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 accounts.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1482,8 +1482,8 @@ api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
 store.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1625,8 +1625,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2341,8 +2341,8 @@ api.foliofn.com
 research.gs.com
 *.gsam.com
 *.folioinstitutional.com
-*.gs.com
 *.folioclient.com
+*.gs.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -2413,9 +2413,9 @@ testnet-croeseid-4.crypto.org
 crypto.org
 tax.crypto.com
 merchant.crypto.com
+app.mona.co
 pay.crypto.com
 js.crypto.com
-app.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
@@ -3114,8 +3114,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 story.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -3304,8 +3304,8 @@ onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
-boards.greenhouse.io
 jss.greenhouse.io
+boards.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
