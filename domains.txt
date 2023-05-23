@@ -11,9 +11,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-web.tide.co
 www.tide.co
 api.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -278,9 +278,9 @@ forums.malwarebytes.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.malwarebytes.com
-blog.malwarebytes.com
 support.malwarebytes.com
 www.malwarebytes.com
+blog.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -431,10 +431,10 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 sso.8x8.com
-work.8x8.com
 *.8x8.vc
 connect.8x8.com
 *.jitsi.net
+work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1177,8 +1177,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -4201,8 +4201,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -5099,7 +5099,6 @@ sms.8x8.com
 *.thinkingphones.net
 *.fuze.com
 *.8x8staging.com
-work.8x8.com
 www.8x8.com
 8x8.force.com
 platform.8x8.com
@@ -5112,6 +5111,7 @@ sso.8x8.com
 *.chalet.8x8.com
 *.jitsi.org
 *.jitsi.net
+work.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
@@ -5928,8 +5928,8 @@ press.priceline.com
 *.bluetarp.com
 *.capitalone360.com
 *.capitalone.co.uk
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -5969,8 +5969,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com

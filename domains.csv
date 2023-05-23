@@ -12,9 +12,9 @@ ring,*.immedia-semi.com/*,True
 ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,web.tide.co,True
 tide,www.tide.co,True
 tide,api.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -279,9 +279,9 @@ malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.malwarebytes.com,True
-malwarebytes,blog.malwarebytes.com,False
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
+malwarebytes,blog.malwarebytes.com,False
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -432,10 +432,10 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,work.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -1178,8 +1178,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -1370,8 +1370,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -4202,8 +4202,8 @@ tiktok,partner.tiktokshop.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -5100,7 +5100,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.net,False
 8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
-8x8,work.8x8.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
 8x8,platform.8x8.com,False
@@ -5113,6 +5112,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.chalet.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.jitsi.net,False
+8x8,work.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
@@ -5929,8 +5929,8 @@ capital-one,*.paribus.co,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -5970,8 +5970,8 @@ trustpilot,*business.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
-trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*b2b.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
