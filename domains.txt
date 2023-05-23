@@ -81,8 +81,8 @@ snapfish.com.au
 snapfish.co.nz
 snapfish.co.uk
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 lifetouch.com
 jcpportraits.com
@@ -1369,8 +1369,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.modernfertility.com
 *.myplenity.com
+*.modernfertility.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -1396,8 +1396,8 @@ botstore.automationanywhere.com
 www.mundi.com.br
 www.momondo.com
 www.hotelscombined.com
-business.kayak.com
 www.checkfelix.com
+business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
@@ -4201,8 +4201,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -4630,8 +4630,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4739,8 +4739,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -4871,9 +4871,9 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
-homes-and-villas.marriott.com
 hotel-deals.marriott.com
 marrtool.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com

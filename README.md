@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 06:22:44 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 07:21:28 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -479,8 +479,8 @@ business.linkedin.com
 www.mundi.com.br
 www.momondo.com
 www.hotelscombined.com
-business.kayak.com
 www.checkfelix.com
+business.kayak.com
 www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
@@ -1271,8 +1271,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1626,8 +1626,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1716,9 +1716,9 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
-homes-and-villas.marriott.com
 hotel-deals.marriott.com
 marrtool.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
