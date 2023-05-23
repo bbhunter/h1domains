@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 03:22:14 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 04:24:47 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -213,8 +213,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 *.8x8.vc
-*.jitsi.net
 connect.8x8.com
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -293,12 +293,12 @@ dookeydash.com
 hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
-www.expediagroup.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.abritel.fr
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -963,10 +963,10 @@ elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
 *.eops.nl
-*.elstc.co
 *.elasticnet.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1271,8 +1271,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3062,8 +3062,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
