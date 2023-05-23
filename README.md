@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 22 23:21:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 01:25:15 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1677,12 +1677,12 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
-www.32red.com
 *.igame.com
 *.ottokasino.com
 *.casinohuone.com
 *.storspiller.com
 *.vladcazino.ro
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1708,11 +1708,11 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 cpp.marriott.com
-www.ritzcarlton.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
+www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -1757,8 +1757,8 @@ connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 lifeology.dev.lifeomic.com
-*.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
@@ -1957,8 +1957,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *www.trustpilot.com
 *invitations-api.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2926,8 +2926,8 @@ gist.github.com
 npmjs.org
 education.github.com
 *.githubusercontent.com
-github.com
 *.github.net
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3096,8 +3096,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3453,8 +3453,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
