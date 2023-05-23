@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 23 15:26:26 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 23 16:28:38 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -17,9 +17,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 api.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-hubs.mozilla.com
 www.mozilla.org
 developer.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -83,8 +83,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-www.prisma.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1013,10 +1013,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
-api.reddit.com
 gql.reddit.com
 old.reddit.com
 ads.reddit.com
+api.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1036,9 +1036,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 www.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2439,10 +2439,10 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3128,10 +3128,10 @@ map.snapchat.com
 rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 my.snapchat.com
 app.snapchat.com
 store.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
