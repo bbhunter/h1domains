@@ -107,8 +107,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.msd.com
 *.merck.com
+*.msd.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -555,8 +555,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.expediapartnersolutions.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -881,8 +881,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2631,8 +2631,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5125,8 +5125,8 @@ sso.8x8.com
 *.adgjmp.net
 *.chalet.8x8.com
 *.jitsi.org
-*.jitsi.net
 work.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
@@ -6659,8 +6659,8 @@ api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.berush.com
-*.prowly.com
 *.semrush.net
+*.prowly.com
 workflows.semrush.com
 *.seoquake.com
 investors.semrush.com
@@ -7632,8 +7632,8 @@ twitterflightschool.com
 t.co
 *.teams.cloudflare.com
 cloudflareworkers.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
