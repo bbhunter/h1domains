@@ -760,9 +760,9 @@ avalara,*.crowdreason.com,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
-avalara,*.avalara.net,False
 avalara,*.avalara.io,False
 avalara,*.track1099.com,False
+avalara,*.avalara.net,False
 avalara,*.3ce.com,False
 avalara,*.inposia.com,False
 avalara,*.avalara.com,False
@@ -1396,8 +1396,8 @@ ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
 ro,my.ro.co,False
-ro,*.myplenity.com,False
 ro,*.modernfertility.com,False
+ro,*.myplenity.com,False
 ro,*.ro.co,False
 ro,*.ro.co,False
 ro,*.getroman.com,False
@@ -2442,8 +2442,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2658,8 +2658,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5005,9 +5005,9 @@ topcoder,solutions.topcoder.com,False
 topcoder,tco18.topcoder.com,False
 topcoder,zurich.topcoder.com,False
 topcoder,challenges.topcoder.com,False
-topcoder,www.topcoder.com,False
 topcoder,accounts-auth0.topcoder.com,False
 topcoder,vanilla.topcoder-dev.com,False
+topcoder,www.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
 topcoder,community-app.topcoder.com,False
@@ -5138,8 +5138,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8.com,False
 8x8,user-profile.8x8.com,False
 8x8,sms.8x8.com,False
-8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
+8x8,*.fuze.com,False
 8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,8x8.force.com,False
@@ -6424,8 +6424,8 @@ goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioinstitutional.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,developer.gs.com,True
 goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
@@ -6530,8 +6530,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
+newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -7290,8 +7290,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -7416,9 +7416,9 @@ adobe,auth.services.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,*.adobe.com,False
 adobe,magento.com,True
 adobe,community.adobe.com,False
+adobe,*.adobe.com,False
 adobe,applications.frame.io,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.typekit.com,False
@@ -7542,8 +7542,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
