@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 03:23:26 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 04:23:14 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,10 +211,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1027,8 +1027,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1746,8 +1746,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2925,8 +2925,8 @@ gist.github.com
 education.github.com
 *.githubusercontent.com
 *.github.net
-npmjs.org
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
