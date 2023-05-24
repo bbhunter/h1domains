@@ -240,8 +240,8 @@ priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-super-services.indriverapp.com
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indriver.com
 *.indrive.com
@@ -907,8 +907,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1034,8 +1034,8 @@ misfitwearable.com
 linkplatforms.com
 www.fossilglobal.com
 www.fossil.in
-*.fossil.com
 fossilcare.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1203,8 +1203,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -1340,8 +1340,8 @@ www.myfidelitysolutions.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 www.gifts.com
 www.personalcreations.com
@@ -1395,8 +1395,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -6010,8 +6010,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -6064,8 +6064,8 @@ www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -6233,8 +6233,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -7288,9 +7288,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

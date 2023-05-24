@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 17:19:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 18:26:35 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -116,8 +116,8 @@ priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-super-services.indriverapp.com
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indriver.com
 *.indrive.com
@@ -1956,8 +1956,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2163,8 +2163,8 @@ m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *racing.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3082,9 +3082,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
