@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 19:16:50 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 20:23:15 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -210,10 +210,10 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-sso.8x8.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
+sso.8x8.com
 connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1026,8 +1026,8 @@ strapi.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2822,8 +2822,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -3403,8 +3403,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
