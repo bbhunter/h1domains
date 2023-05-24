@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 04:23:14 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 05:20:51 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -182,8 +182,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.s-pankki.fi
-tunnistus.s-ryhma.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -222,9 +222,9 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.jit.si
 platform.8x8.com
-*.packet8.net
 voapi.8x8.com
 *.8x8staging.com
+*.packet8.net
 user-profile.8x8.com
 sso.8x8pilot.com
 sms.8x8.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1027,8 +1027,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2925,8 +2925,8 @@ gist.github.com
 education.github.com
 *.githubusercontent.com
 *.github.net
-github.com
 npmjs.org
+github.com
 github.com
 api.github.com
 gist.github.com
