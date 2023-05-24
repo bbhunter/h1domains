@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 07:21:00 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 08:26:47 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -247,8 +247,8 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -526,13 +526,13 @@ wallet.etoro.com
 etoropartners.com
 api.etoro.com
 billing.etoro.com
-charts.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
 kyc.etoro.com
 streams.etoro.com
 tapi-real.etoro.com
 etorox.com
+charts.etoro.com
 partners.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
@@ -838,8 +838,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1015,8 +1015,8 @@ app.spiketrap.io
 *.redditmedia.com
 old.reddit.com
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 meta-api.reddit.com
@@ -1542,8 +1542,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1709,9 +1709,9 @@ jobs.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
