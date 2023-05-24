@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 08:26:47 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 09:22:40 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1954,8 +1954,8 @@ developers.smartsheet.com
 *authenticate.trustpilot.com
 *business.trustpilot.com
 *share.trustpilot.com
-*www.trustpilot.com
 *invitations-api.trustpilot.com
+*www.trustpilot.com
 *widget.trustpilot.com
 *b2b.trustpilot.com
 *api.trustpilot.com
@@ -2994,11 +2994,6 @@ webtrader.binary.com
 *.binaryws.com
 secure-dfadmin.binary.com
 cashier.deriv.com
-crypto-cashier.binary.com
-cashier.binary.com
-tradingview.binary.com
-charts.binary.com
-binary.bot
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
@@ -3008,16 +3003,11 @@ app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.binary.com
-cashier.binary.com
-crypto-cashier.binary.com
 secure-dfadmin.binary.com
 app.deriv.com
 smarttrader.deriv.com
 cashier.deriv.com
 webtrader.binary.com
-binary.bot
-tradingview.binary.com
-charts.binary.com
 werkenbijderet.nl
 maxcldapp.net
 dropr.nl
