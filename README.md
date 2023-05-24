@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 21:17:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 24 22:18:31 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -155,8 +155,8 @@ http://miro.com/blog
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
-*.mwbsys.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -213,8 +213,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1958,8 +1958,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -2919,8 +2919,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
