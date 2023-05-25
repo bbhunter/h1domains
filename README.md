@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 06:24:56 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 07:20:45 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -213,8 +213,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -299,8 +299,8 @@ www.hotels.com
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
-www.abritel.fr
 www.orbitz.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1028,8 +1028,8 @@ new.reddit.com
 *.snooguts.net
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
