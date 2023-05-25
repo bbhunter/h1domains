@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 14:20:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 15:22:41 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -213,8 +213,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -3443,8 +3443,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 www.hackerone.com
+reviewer.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
