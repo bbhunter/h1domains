@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 05:20:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 06:24:56 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -83,8 +83,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -249,8 +249,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -296,11 +296,11 @@ hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.hotels.com
-www.orbitz.com
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
 www.abritel.fr
+www.orbitz.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1028,8 +1028,8 @@ new.reddit.com
 *.snooguts.net
 www.spiketrap.io
 s.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
+ads-api.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1038,9 +1038,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 accounts.reddit.com
+www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1958,8 +1958,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
