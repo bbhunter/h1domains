@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 02:39:32 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 03:22:04 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1024,8 +1024,8 @@ sh.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 *.redditinc.com
-*.snooguts.net
 new.reddit.com
+*.snooguts.net
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
@@ -1624,11 +1624,11 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
-*.aliexpress.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1958,8 +1958,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*widget.trustpilot.com
 *b2b.trustpilot.com
+*widget.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
