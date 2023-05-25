@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 08:26:14 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 09:22:33 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -213,8 +213,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 *.8x8.vc
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1028,8 +1028,8 @@ new.reddit.com
 *.snooguts.net
 www.spiketrap.io
 s.reddit.com
-ads-api.reddit.com
 gateway.reddit.com
+ads-api.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3330,10 +3330,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-my.pressable.com
 simplenote.com
 simperium.com
 happy.tools
+my.pressable.com
 api.tumblr.com
 assets.tumblr.com
 intensedebate.com
