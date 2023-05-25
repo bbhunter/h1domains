@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 20:22:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 21:18:39 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -82,9 +82,9 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
-*.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
+*.hiltonjapan.co.jp
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -212,8 +212,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1037,9 +1037,9 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
 matrix.redditspace.com
+accounts.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1372,8 +1372,8 @@ app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-www.pns.hk
 app.watsons.com.tr
+www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2926,9 +2926,9 @@ classroom.github.com
 gist.github.com
 *.githubusercontent.com
 *.github.net
+github.com
 education.github.com
 npmjs.org
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3103,8 +3103,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
+forum.playcanvas.com
 ads.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
