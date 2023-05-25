@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 24 23:17:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 01:23:28 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1028,8 +1028,8 @@ strapi.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
 *.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1231,11 +1231,11 @@ sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
 launch.cloud.com
-us.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 *.citrixworkspacesapi.net
+us.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1958,8 +1958,8 @@ developers.smartsheet.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
-*b2b.trustpilot.com
 *widget.trustpilot.com
+*b2b.trustpilot.com
 *api.trustpilot.com
 *legal.trustpilot.com
 *api.trustpilot.com
@@ -3103,9 +3103,9 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as
@@ -3124,8 +3124,8 @@ store.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
