@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 25 21:18:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu May 25 22:20:07 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -83,8 +83,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1039,8 +1039,8 @@ redditforbusiness.com
 mod.reddit.com
 www.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1536,16 +1536,16 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3119,9 +3119,9 @@ rt.playcanvas.com
 business.snapchat.com
 snappublisher.snapchat.com
 my.snapchat.com
-app.snapchat.com
 store.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
