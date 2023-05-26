@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 13:24:24 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 14:19:34 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -212,8 +212,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1810,6 +1810,7 @@ http://emerald.oasis.dev
 http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 *.allegro.pl.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 codacontent.io
@@ -3438,8 +3439,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3451,12 +3452,12 @@ profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 www.hackerone.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
