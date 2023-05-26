@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 16:26:30 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 17:21:20 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1627,8 +1627,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun.com
 *.Daraz.com
-*.aliexpress.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
