@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 20:20:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 21:18:50 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1540,12 +1540,11 @@ faucet.polygon.technology
 *.skybet.com
 *.skygamingcontent.com
 *.skypoker.com
-*.skybetservices.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2012,12 +2011,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.booktandl.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
+www.wynnvacations.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -3090,8 +3089,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopify.com
-shopify.plus
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3450,14 +3449,14 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 www.hackerone.com
+reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
-app.pullrequest.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
