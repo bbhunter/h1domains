@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 05:20:36 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 06:25:48 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -299,8 +299,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
 www.orbitz.com
-www.abritel.fr
 www.hotels.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1718,8 +1718,8 @@ gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
-homes-and-villas.marriott.com
 marrtool.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3124,8 +3124,8 @@ playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3449,8 +3449,8 @@ errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
