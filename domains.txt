@@ -7,9 +7,9 @@
 *.landrysambassador.com
 *.ldry.com
 www.wildwoodcasino.net
-*.landrysselect.com
 *.tilmanfertitta.com
 *.goldennugget.com
+*.landrysselect.com
 *.aquariumrestaurants.com
 *.landrysinc.com
 *.landrysambassador.com
@@ -38,8 +38,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 www.tide.co
-api.tide.co
 web.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -495,8 +495,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1113,10 +1113,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1132,8 +1132,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.thehealthcenterhudsonyards.com
 *.mssm.edu
+*.thehealthcenterhudsonyards.com
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -1397,8 +1397,8 @@ login.ro.co
 *.ropharmacy.com
 *.getroman.com
 my.ro.co
-*.myplenity.com
 *.modernfertility.com
+*.myplenity.com
 *.ro.co
 *.ro.co
 *.getroman.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -5133,10 +5133,10 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.8x8.com
 connect.8x8.com
 *.thinkingphones.com
+*.easycontactnow.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -5153,8 +5153,8 @@ platform.8x8.com
 *.adgjmp.net
 *.jitsi.org
 work.8x8.com
-sso.8x8.com
 *.jitsi.net
+sso.8x8.com
 *.chalet.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
@@ -7216,8 +7216,8 @@ smarttrader.deriv.com
 cashier.deriv.com
 werkenbijderet.nl
 maxcldapp.net
-dropr.nl
 werkenbijdnb.nl
+dropr.nl
 acme-challenge.nl
 nossl.nl
 wp-mail.nl
@@ -7328,8 +7328,8 @@ business.snapchat.com
 snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -7781,8 +7781,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
