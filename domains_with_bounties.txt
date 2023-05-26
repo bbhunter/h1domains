@@ -40,8 +40,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1031,9 +1031,9 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1538,8 +1538,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2436,9 +2436,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
 *.nr-data.net
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com

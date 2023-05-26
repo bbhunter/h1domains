@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 09:21:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 10:23:12 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -46,8 +46,8 @@ aus5.mozilla.org
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1037,9 +1037,9 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2442,9 +2442,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.newrelic.com
 *.nr-data.net
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
