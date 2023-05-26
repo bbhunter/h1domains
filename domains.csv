@@ -39,8 +39,8 @@ ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
 tide,www.tide.co,True
-tide,web.tide.co,True
 tide,api.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -1114,10 +1114,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1133,8 +1133,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -1185,8 +1185,8 @@ mars,*.royalcanin.be,False
 mars,*.individualis.com,False
 mars,*.mivetshop.com.ar,False
 mars,*.vetschoice.co.za,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.banfield.com,False
+mars,*.miroyalcanin.com.ar,False
 mars,banfieldexchange.com,False
 mars,*.extragum.com,False
 mars,*.orbitgum.com,False
@@ -2660,8 +2660,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4586,6 +4586,8 @@ clario,mkapi.mackeeper.com,True
 clario,mackeeper.com,True
 finra,*.finra.org,False
 finra,*.finra.org,False
+gener8,*.gener8ads.com,False
+gener8,*.gener8ads.com,False
 wellsfargo,*.wystar.com,False
 wellsfargo,*.wellsfargoadvisors.com,False
 wellsfargo,*.wf.com,False
@@ -4775,8 +4777,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -7126,8 +7128,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
@@ -7202,11 +7204,13 @@ algolia,www.algolia.com,True
 deriv,*.binaryws.com,True
 deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
+deriv,api.deriv.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.binaryws.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
@@ -7215,6 +7219,8 @@ deriv,secure-dfadmin.binary.com,True
 deriv,app.deriv.com,True
 deriv,smarttrader.deriv.com,True
 deriv,cashier.deriv.com,True
+deriv,oauth.deriv.com,True
+deriv,api.deriv.com,True
 radancy,werkenbijderet.nl,True
 radancy,maxcldapp.net,True
 radancy,werkenbijdnb.nl,True
@@ -7294,8 +7300,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8029,8 +8035,6 @@ earny,www.earny.com,False
 earny,www.earny.co,False
 earny,api.earny.com,False
 earny,www.earny.com,False
-gener8,*.gener8ads.com,False
-gener8,*.gener8ads.com,False
 ozon,job.ozon.ru,False
 ozon,id.ozon.ru,False
 ozon,www.ozon.ru,False

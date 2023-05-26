@@ -38,8 +38,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 www.tide.co
-web.tide.co
 api.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1113,10 +1113,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1132,8 +1132,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.mssm.edu
 *.thehealthcenterhudsonyards.com
+*.mssm.edu
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -1184,8 +1184,8 @@ banfield.us
 *.individualis.com
 *.mivetshop.com.ar
 *.vetschoice.co.za
-*.miroyalcanin.com.ar
 *.banfield.com
+*.miroyalcanin.com.ar
 banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
@@ -2659,8 +2659,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4585,6 +4585,8 @@ mkapi.mackeeper.com
 mackeeper.com
 *.finra.org
 *.finra.org
+*.gener8ads.com
+*.gener8ads.com
 *.wystar.com
 *.wellsfargoadvisors.com
 *.wf.com
@@ -4774,8 +4776,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -7125,8 +7127,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -7201,11 +7203,13 @@ www.algolia.com
 *.binaryws.com
 secure-dfadmin.binary.com
 cashier.deriv.com
+api.deriv.com
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
 app.deriv.com
+oauth.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
@@ -7214,6 +7218,8 @@ secure-dfadmin.binary.com
 app.deriv.com
 smarttrader.deriv.com
 cashier.deriv.com
+oauth.deriv.com
+api.deriv.com
 werkenbijderet.nl
 maxcldapp.net
 werkenbijdnb.nl
@@ -7293,8 +7299,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8028,8 +8034,6 @@ www.earny.com
 www.earny.co
 api.earny.com
 www.earny.com
-*.gener8ads.com
-*.gener8ads.com
 job.ozon.ru
 id.ozon.ru
 www.ozon.ru

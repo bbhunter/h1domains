@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 11:18:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 12:35:35 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 www.tide.co
-web.tide.co
 api.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1619,8 +1619,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2919,8 +2919,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -2995,11 +2995,13 @@ www.algolia.com
 *.binaryws.com
 secure-dfadmin.binary.com
 cashier.deriv.com
+api.deriv.com
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
 app.deriv.com
+oauth.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
@@ -3008,6 +3010,8 @@ secure-dfadmin.binary.com
 app.deriv.com
 smarttrader.deriv.com
 cashier.deriv.com
+oauth.deriv.com
+api.deriv.com
 werkenbijderet.nl
 maxcldapp.net
 werkenbijdnb.nl
@@ -3085,8 +3089,8 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
