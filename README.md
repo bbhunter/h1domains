@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 06:25:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 07:20:46 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -155,8 +155,8 @@ http://miro.com/blog
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -1502,11 +1502,11 @@ staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
-faucet.polygon.technology
 wallet.polygon.technology
-bridge-api.matic.network
+faucet.polygon.technology
 watchgod.polygon.technology
 open-api.polygon.technology
+bridge-api.matic.network
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
