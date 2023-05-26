@@ -458,8 +458,8 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -764,8 +764,8 @@ www.divvyhomes.com
 *.avalara.io
 *.track1099.com
 *.avalara.net
-*.3ce.com
 *.inposia.com
+*.3ce.com
 *.avalara.com
 *.avalara.com
 *.avalara.net
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2659,8 +2659,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5133,10 +5133,10 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.8x8.com
 connect.8x8.com
 *.thinkingphones.com
+*.easycontactnow.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -5153,8 +5153,8 @@ platform.8x8.com
 *.adgjmp.net
 *.jitsi.org
 work.8x8.com
-sso.8x8.com
 *.jitsi.net
+sso.8x8.com
 *.chalet.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
