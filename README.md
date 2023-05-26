@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 12:35:35 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 13:24:24 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -298,9 +298,9 @@ www.hotwirepartnercentral.com
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
-www.orbitz.com
 www.hotels.com
 www.abritel.fr
+www.orbitz.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1544,8 +1544,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2548,8 +2548,8 @@ privatetarget-1-www.zigzag
 *.tapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3658,7 +3658,6 @@ localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
-https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
