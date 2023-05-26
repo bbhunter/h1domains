@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 08:24:36 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 09:21:48 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1682,8 +1682,8 @@ maria.casino
 *.casinohuone.com
 *.storspiller.com
 *.vladcazino.ro
-www.32red.com
 *.igame.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3434,6 +3434,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3457,6 +3459,8 @@ www.hackerone.com
 app.pullrequest.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.wearehackerone.com
+mta-sts.wearehackerone.com
 errors.hackerone.net
 https://*.hackerone-ext-content.com
 a5s.hackerone-ext-content.com
