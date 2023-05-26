@@ -2438,8 +2438,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.newrelic.com
-*.nr-data.net
 one.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
