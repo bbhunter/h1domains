@@ -68,9 +68,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-hiltonmanage.com
 hiltonhawaiianvillage.jp
 *.hilton.io
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -3098,8 +3098,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 accounts.snapchat.com
-forum.playcanvas.com
 ads.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as

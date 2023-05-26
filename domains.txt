@@ -1,8 +1,8 @@
 *.shoppostoak.com
 *.thepostoak.com
 *.goriocruises.com
-*.landrysinc.com
 *.kemahboardwalk.com
+*.landrysinc.com
 *.thepostoakhotel.com
 *.landrysambassador.com
 *.ldry.com
@@ -146,9 +146,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-hiltonmanage.com
 hiltonhawaiianvillage.jp
 *.hilton.io
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -909,8 +909,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2443,8 +2443,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -7312,8 +7312,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 accounts.snapchat.com
-forum.playcanvas.com
 ads.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as

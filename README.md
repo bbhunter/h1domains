@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 04:24:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 05:20:36 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -74,9 +74,9 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
-hiltonmanage.com
 hiltonhawaiianvillage.jp
 *.hilton.io
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -3104,8 +3104,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 accounts.snapchat.com
-forum.playcanvas.com
 ads.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 relay.playcanvas.com
 playcanv.as

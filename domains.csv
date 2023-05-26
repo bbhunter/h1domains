@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 fertitta_entertainment,*.shoppostoak.com,False
 fertitta_entertainment,*.thepostoak.com,False
 fertitta_entertainment,*.goriocruises.com,False
-fertitta_entertainment,*.landrysinc.com,False
 fertitta_entertainment,*.kemahboardwalk.com,False
+fertitta_entertainment,*.landrysinc.com,False
 fertitta_entertainment,*.thepostoakhotel.com,False
 fertitta_entertainment,*.landrysambassador.com,False
 fertitta_entertainment,*.ldry.com,False
@@ -147,9 +147,9 @@ floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,hiltonjapan.co.jp,True
-hilton,hiltonmanage.com,True
 hilton,hiltonhawaiianvillage.jp,True
 hilton,*.hilton.io,True
+hilton,hiltonmanage.com,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
@@ -910,8 +910,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2444,8 +2444,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -7313,8 +7313,8 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
 snapchat,accounts.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
