@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 26 18:24:53 UTC 2023)
+## Domains with Bounties (Last Updated Fri May 26 19:17:00 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -83,8 +83,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -212,8 +212,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -966,9 +966,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 cloud.elastic.co
 *.elstc.co
+*.swiftype.com
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -2007,7 +2007,6 @@ www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
 res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
@@ -2018,6 +2017,7 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.booktandl.com
 res.universalorlandovacations.com
+reservations.wynnvacations.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
