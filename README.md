@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 05:17:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 06:24:27 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 www.tide.co
-api.tide.co
 web.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
