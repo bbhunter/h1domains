@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 18:24:17 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 19:17:39 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1037,10 +1037,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3088,9 +3088,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
-*.shopify.com
 accounts.shopify.com
 shopify.plus
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3106,10 +3106,10 @@ shopifyinbox.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-story.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 forum.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 playcanv.as
 store.playcanvas.com
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
