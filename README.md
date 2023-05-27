@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 07:17:47 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 08:21:55 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -199,8 +199,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
