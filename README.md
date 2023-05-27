@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 27 10:20:43 UTC 2023)
+## Domains with Bounties (Last Updated Sat May 27 11:16:42 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1498,12 +1498,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 wallet.polygon.technology
 faucet.polygon.technology
+staking-api.polygon.technology
 watchgod.polygon.technology
 open-api.polygon.technology
 bridge-api.matic.network
@@ -2193,8 +2193,8 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-casper.com
 legacy.casper.com
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -3438,8 +3438,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
