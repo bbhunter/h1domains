@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1020,8 +1020,8 @@ fossil,www.fossil.hk,False
 fossil,www.fossilchina.cn,False
 fossil,m.skagen.de,False
 fossil,www.111watches.com,False
-fossil,fossilcrm.com,False
 fossil,www.fossil.com.au,False
+fossil,fossilcrm.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3268,8 +3268,8 @@ reddit,*.snooguts.net,True
 reddit,www.spiketrap.io,True
 reddit,s.reddit.com,True
 reddit,ads-api.reddit.com,True
-reddit,*.reddit.com,True
 reddit,gateway.reddit.com,True
+reddit,*.reddit.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
@@ -3419,8 +3419,8 @@ federal-reserve,frbsf.org,False
 federal-reserve,federalreserveonline.org,False
 federal-reserve,chicagofed.org,False
 federal-reserve,kansascityfed.org,False
-federal-reserve,philadelphiafed.org,False
 federal-reserve,alfred.stlouisfed.org,False
+federal-reserve,philadelphiafed.org,False
 federal-reserve,atlantafed.org,False
 federal-reserve,dallasfed.org,False
 federal-reserve,richmondfed.org,False
