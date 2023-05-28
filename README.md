@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 28 16:25:11 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 28 17:18:13 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3122,10 +3122,10 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
-app.snapchat.com
 business.snapchat.com
 map.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
