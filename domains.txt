@@ -1010,8 +1010,8 @@ misfitwearable.com
 linkplatforms.com
 www.fossilglobal.com
 www.fossil.in
-fossilcare.com
 *.fossil.com
+fossilcare.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -1179,8 +1179,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -6402,9 +6402,9 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.folioclient.com
 *.gs.com
 *.folioinstitutional.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.claritymoney.com
@@ -7108,9 +7108,9 @@ classroom.github.com
 gist.github.com
 *.githubusercontent.com
 *.github.net
-education.github.com
 npmjs.org
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com

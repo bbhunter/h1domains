@@ -1011,8 +1011,8 @@ fossil,misfitwearable.com,False
 fossil,linkplatforms.com,False
 fossil,www.fossilglobal.com,False
 fossil,www.fossil.in,False
-fossil,fossilcare.com,False
 fossil,*.fossil.com,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -1180,8 +1180,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
@@ -6403,9 +6403,9 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.folioclient.com,True
 goldmansachs,developer.gs.com,True
 goldmansachs,www.rocaton.com,True
 goldmansachs,*.claritymoney.com,False
@@ -7109,9 +7109,9 @@ github,*.githubapp.com,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,*.github.net,True
-github,education.github.com,True
 github,npmjs.org,True
 github,github.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 28 18:22:09 UTC 2023)
+## Domains with Bounties (Last Updated Sun May 28 19:15:59 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -2342,9 +2342,9 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.folioclient.com
 *.gs.com
 *.folioinstitutional.com
+*.folioclient.com
 developer.gs.com
 www.rocaton.com
 *.goldmansachs.com
@@ -2926,9 +2926,9 @@ classroom.github.com
 gist.github.com
 *.githubusercontent.com
 *.github.net
-education.github.com
 npmjs.org
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
