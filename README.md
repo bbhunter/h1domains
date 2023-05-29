@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 29 16:26:55 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 29 17:19:23 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -966,9 +966,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1233,9 +1233,9 @@ api.adm.cloud.com
 launch.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
-citrix.cloud.com
 *.citrixworkspacesapi.net
 us.cloud.com
+citrix.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2548,8 +2548,8 @@ privatetarget-1-www.zigzag
 *.tapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2927,8 +2927,8 @@ gist.github.com
 *.githubusercontent.com
 *.github.net
 npmjs.org
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com

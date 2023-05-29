@@ -2784,9 +2784,9 @@ elastic,*.found.io,True
 elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
-elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.elstc.co,True
 elastic,www.elastic.co,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
@@ -4179,9 +4179,9 @@ citrix,api.adm.cloud.com,True
 citrix,launch.cloud.com,True
 citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
-citrix,citrix.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
 citrix,us.cloud.com,True
+citrix,citrix.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -6647,8 +6647,8 @@ localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,*.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -7112,8 +7112,8 @@ github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,*.github.net,True
 github,npmjs.org,True
-github,github.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
