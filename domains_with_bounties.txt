@@ -834,8 +834,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1817,9 +1817,9 @@ vroid.com
 hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
-booth.pm
 accounts.pixiv.net
 *.fanbox.cc
+booth.pm
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net

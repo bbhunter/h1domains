@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 29 12:35:57 UTC 2023)
+## Domains with Bounties (Last Updated Mon May 29 13:25:08 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1823,9 +1823,9 @@ vroid.com
 hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
-booth.pm
 accounts.pixiv.net
 *.fanbox.cc
+booth.pm
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net

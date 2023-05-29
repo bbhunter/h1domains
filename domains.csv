@@ -733,12 +733,12 @@ divvy-homes,www.divvyhomes.com,False
 avalara,*.netleglobal.com,False
 avalara,*.papercrane.io,False
 avalara,*.crowdreason.com,False
-avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.track1099.com,False
 avalara,*.avalara.net,False
 avalara,*.avalara.io,False
+avalara,*.davosalestax.com,False
 avalara,*.3ce.com,False
 avalara,*.inposia.com,False
 avalara,*.avalara.com,False
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -908,8 +908,8 @@ allegion,*.allegionengage.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,www.bricard.com,False
-allegion,*.allegion.com,False
 allegion,*.yonomi.co,False
+allegion,*.allegion.com,False
 allegion,www.republicdoor.com,False
 allegion,www.normbau.de,False
 allegion,www.fshlocking.com.au,False
@@ -1088,10 +1088,10 @@ fossil,fossilgroup.com,False
 fossil,linkplatforms.com,False
 fossil,misfitwearable.com,False
 fossil,smartwatchstations.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1107,8 +1107,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.thehealthcenterhudsonyards.com,False
+mount-sinai-health,*.mssm.edu,False
 mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
@@ -2418,8 +2418,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.inmobi.com,False
 inmobi,*.glance.world,False
+inmobi,*.glance.inmobi.com,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -2634,8 +2634,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5648,9 +5648,9 @@ pixiv,vroid.com,True
 pixiv,hub.vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
-pixiv,booth.pm,True
 pixiv,accounts.pixiv.net,True
 pixiv,*.fanbox.cc,True
+pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,dic.pixiv.net,True
