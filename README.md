@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 17:18:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 18:26:49 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -212,9 +212,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
 *.jitsi.net
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1039,8 +1039,8 @@ redditforbusiness.com
 accounts.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1625,9 +1625,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.1688.com
 *.Daraz.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3317,9 +3317,9 @@ gnip.com
 *.twimg.com
 gnip.com
 *.teams.cloudflare.com
-cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
+cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3436,8 +3436,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
