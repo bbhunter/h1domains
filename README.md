@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 14:21:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 15:23:02 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -33,8 +33,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 addons.allizom.org
-phabricator.services.mozilla.com
 contile.services.mozilla.com
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -46,8 +46,8 @@ aus5.mozilla.org
 relay.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
-www.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2919,8 +2919,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3121,11 +3121,11 @@ www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
-my.snapchat.com
 app.snapchat.com
 business.snapchat.com
 map.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
@@ -3318,8 +3318,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 cloudflareworkers.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
