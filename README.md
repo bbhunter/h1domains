@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 22:20:31 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 23:20:09 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -299,8 +299,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.expediagroup.com
 www.hotels.com
-www.abritel.fr
 www.orbitz.com
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1038,8 +1038,8 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -2715,9 +2715,9 @@ app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
-www.dashlane.com
 logs.dashlane.com
 app.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -3436,8 +3436,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
