@@ -156,10 +156,10 @@ decodefintech.com
 * IPv6 addresses
 * IPv4 addresses
 aso.apnic.net
-*.apnic.foundation
 *.seedalliance.net
 *.isif.asia
 *.apnic.net
+*.apnic.foundation
 stats.labs.apnic.net
 nori.apnic.net
 rsync.apnic.net
@@ -1087,10 +1087,10 @@ fossilgroup.com
 linkplatforms.com
 misfitwearable.com
 smartwatchstations.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1106,8 +1106,8 @@ smartwatchstations.com
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.thehealthcenterhudsonyards.com
 *.mssm.edu
+*.thehealthcenterhudsonyards.com
 *.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
@@ -1278,6 +1278,10 @@ www.trendyol.com
 www.trendyol.com
 m.trendyol.com
 www.dolap.com
+*.skyhighsecurity.com
+*.trellix.com
+*.trellix.com
+*.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
 *.tokensvc.com
@@ -2417,8 +2421,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -5108,8 +5112,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -7275,8 +7279,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -7526,9 +7530,9 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -7752,8 +7756,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -7762,11 +7766,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
@@ -7813,10 +7817,6 @@ node1.pivcac.prod.login.gov
 *.mckesson.*
 *.Mckesson.com
 *.mckesson.*
-*.skyhighsecurity.com
-*.trellix.com
-*.trellix.com
-*.skyhighsecurity.com
 businessdefense.gov
 ioss.gov
 itc.gov
