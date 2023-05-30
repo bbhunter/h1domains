@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 07:20:29 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 08:26:17 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3012,8 +3012,8 @@ smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
 api.deriv.com
-werkenbijderet.nl
 maxcldapp.net
+werkenbijderet.nl
 werkenbijdnb.nl
 dropr.nl
 acme-challenge.nl
@@ -3029,10 +3029,10 @@ preprod.nl
 ruddercms.nl
 werken.belastingdienst.nl
 devmaximum.com
-www.werkenbijbakertilly.nl
 doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
+www.werkenbijbakertilly.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
