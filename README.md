@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 12:40:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 13:24:09 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -44,10 +44,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-monitor.firefox.com
 hubs.mozilla.com
 developer.mozilla.org
 www.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2927,8 +2927,8 @@ gist.github.com
 *.githubusercontent.com
 *.github.net
 npmjs.org
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -2997,11 +2997,11 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
