@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 04:24:30 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 05:20:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -2442,9 +2442,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.nr-data.net
 *.newrelic.com
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3122,10 +3122,10 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
+app.snapchat.com
 business.snapchat.com
 map.snapchat.com
 playcanvas.com
-app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
