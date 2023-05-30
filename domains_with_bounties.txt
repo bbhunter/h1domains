@@ -1537,8 +1537,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2211,8 +2211,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
