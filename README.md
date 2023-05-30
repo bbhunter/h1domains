@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 08:26:17 UTC 2023)
+## Domains with Bounties (Last Updated Tue May 30 09:22:34 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -211,8 +211,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
 uc.8x8pilot.com
@@ -840,8 +840,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1624,10 +1624,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.aliexpress.com
 *.1688.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3000,8 +3000,8 @@ smarttrader.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
@@ -3318,8 +3318,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 cloudflareworkers.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
