@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 17:21:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 18:25:52 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -836,8 +836,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1017,10 +1017,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-gql.reddit.com
 *.redditmedia.com
 ads.reddit.com
 old.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1618,8 +1618,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
