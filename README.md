@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 08:26:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 09:21:53 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -524,8 +524,8 @@ cashier-src.etoro.com
 kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
-wallet.etoro.com
 etoropartners.com
+wallet.etoro.com
 api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
@@ -853,12 +853,14 @@ app.recordedfuture.com
 api.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
 id.recordedfuture.com
 securitytrails.com
+geminiadvisory.io
 therecord.media
 logs.fr.cloud.gov
 ssh.fr.cloud.gov
@@ -1361,18 +1363,16 @@ www20.watsons.co.th
 app.marionnaud.hu
 www.watsons.co.id
 www.iciparisxl.lu
-www.watsons.com.tr
 www.marionnaud.fr
 www.marionnaud.ro
 apptps.theperfumeshop.com
 www.watsons.com.ph
+www.watsons.com.tr
 www.kruidvat.be
-www.kruidvat.nl
 app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
-app.watsons.com.tr
 www.marionnaud.sk
 www.superdrug.com
 www.kruidvat.nl
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1626,8 +1626,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2217,8 +2217,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3221,8 +3221,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
