@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 16:27:11 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 17:21:53 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -18,8 +18,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -836,8 +836,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1618,16 +1618,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
 *.Daraz.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3120,15 +3120,15 @@ www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
-app.snapchat.com
 business.snapchat.com
 map.snapchat.com
 playcanvas.com
 my.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
-spectacles.com
 *.sc-corp.net
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -3220,8 +3220,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
