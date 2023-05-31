@@ -46,8 +46,8 @@ mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,developer.mozilla.org,True
-mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -884,8 +884,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1008,12 +1008,12 @@ fossil,www.fossilsingapore.com.sg,False
 fossil,www.watchstation.co.uk,False
 fossil,prod.shopkatchin.com,False
 fossil,www.skagen-japan.com,False
-fossil,misfitwearable.com,False
 fossil,www.fossilglobal.com,False
 fossil,www.fossil.in,False
 fossil,*.fossil.com,False
 fossil,fossilcare.com,False
 fossil,*.cdgcitizen.com,False
+fossil,*.smartwatchstations.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -1029,11 +1029,11 @@ fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
 fossil,www.fossil.be,False
 fossil,*.skagen.com,False
-fossil,smartwatchstations.com,False
 fossil,*.michele.com,False
 fossil,www.fossil.co.kr,False
 fossil,www.fossilcanada.ca,False
 fossil,www.fossilsweden.se,False
+fossil,dev.shopkatchin.com,False
 fossil,*.fossil.com,False
 fossil,*.michele.com,False
 fossil,*.misfit.com,False
@@ -1044,6 +1044,8 @@ fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
 fossil,*.fossil.vn,False
+fossil,*.smartwatchstations.com,False
+fossil,*.misfitwearables.com,False
 fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,m.fossil.co.jp,False
 fossil,m.fossil.co.uk,False
@@ -1086,8 +1088,6 @@ fossil,www.fossil.co.id,False
 fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
-fossil,misfitwearable.com,False
-fossil,smartwatchstations.com,False
 fossil,fossil.com.vn,False
 mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
@@ -6275,8 +6275,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
@@ -7533,8 +7533,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnb.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
