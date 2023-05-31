@@ -328,8 +328,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -1109,9 +1109,9 @@ fossil.com.vn
 *.thechep.org
 *.thehealthcenterhudsonyards.com
 *.mssm.edu
-*.mountsinai.org
 *.mountsinaiheartnp.org
 *.southnassau.org
+*.mountsinai.org
 *.nyee2020.com
 *.stlukeshospitalnyc.org
 *.mountsinaiconnect.org
@@ -1180,8 +1180,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2638,8 +2638,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3266,9 +3266,9 @@ m.reddit.com
 sh.reddit.com
 strapi.reddit.com
 *.redditinc.com
-new.reddit.com
 *.snooguts.net
 meta-api.reddit.com
+new.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
