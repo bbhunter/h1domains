@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May 30 23:20:09 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 01:45:16 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1014,11 +1014,11 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
-*.redditmedia.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 old.reddit.com
+*.redditmedia.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1037,10 +1037,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 accounts.reddit.com
-matrix.redditspace.com
 mod.reddit.com
-www.reddit.com
+matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1272,9 +1272,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2137,8 +2137,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3221,8 +3221,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3318,8 +3318,8 @@ gnip.com
 gnip.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
-*.cloudflare.com
 cloudflareworkers.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3428,7 +3428,6 @@ spaces.pm
 www.quip.com
 *.quip.com
 apis.mail.yahoo.com
-data.mail.yahoo.com
 data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
