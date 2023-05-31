@@ -879,8 +879,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -903,8 +903,8 @@ www.allegion.co.uk
 www.krytonitelock.com
 www.bricard.com
 *.yonomi.co
-*.allegion.com
 www.schlage.com
+*.allegion.com
 www.fshlocking.com.au
 brionz.com
 www.ausloc.com
@@ -1082,10 +1082,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1101,8 +1101,8 @@ fossil.com.vn
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.thehealthcenterhudsonyards.com
 *.mssm.edu
+*.thehealthcenterhudsonyards.com
 *.mountsinaiheartnp.org
 *.southnassau.org
 *.mountsinai.org
@@ -2416,8 +2416,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -3280,10 +3280,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 accounts.reddit.com
-mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4984,9 +4984,9 @@ solutions.topcoder.com
 tco18.topcoder.com
 zurich.topcoder.com
 challenges.topcoder.com
-accounts-auth0.topcoder.com
 vanilla.topcoder-dev.com
 www.topcoder.com
+accounts-auth0.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com

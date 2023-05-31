@@ -1033,10 +1033,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 accounts.reddit.com
-mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
