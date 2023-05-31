@@ -830,8 +830,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2337,8 +2337,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
