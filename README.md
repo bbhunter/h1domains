@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 01:45:16 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 02:59:04 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1015,10 +1015,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
 *.redditmedia.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1543,8 +1543,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2137,8 +2137,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2413,8 +2413,8 @@ www.crypto.com
 auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 app.mona.co
 pay.crypto.com
 js.crypto.com
@@ -3221,8 +3221,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
