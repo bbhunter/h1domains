@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 19:17:17 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 20:21:25 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -45,9 +45,9 @@ firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
 monitor.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -2996,8 +2996,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
@@ -3081,12 +3081,12 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
