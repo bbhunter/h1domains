@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 31 09:21:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed May 31 10:21:05 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -848,19 +848,23 @@ wonderboxdev.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
+app.recordedfuture.com
 therecord.media
-app.recordedfuture.com
 api.recordedfuture.com
+hatching.io
 securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
 id.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
+hatching.io
+tria.ge
 therecord.media
 logs.fr.cloud.gov
 ssh.fr.cloud.gov
@@ -1366,8 +1370,8 @@ www.iciparisxl.lu
 www.marionnaud.fr
 www.marionnaud.ro
 apptps.theperfumeshop.com
-www.watsons.com.ph
 www.watsons.com.tr
+www.watsons.com.ph
 www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
@@ -1543,8 +1547,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3221,8 +3225,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
