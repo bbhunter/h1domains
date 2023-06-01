@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 22:18:44 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 23:22:04 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -975,10 +975,10 @@ elastic-cloud.com
 *.found.io
 *.elastic-cloud.com
 *.eops.nl
-*.elasticnet.co
 *.swiftype.com
 cloud.elastic.co
 *.elstc.co
+*.elasticnet.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1025,10 +1025,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-*.redditmedia.com
 old.reddit.com
-gql.reddit.com
+*.redditmedia.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
