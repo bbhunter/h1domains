@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 02:04:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 03:18:42 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -3125,8 +3125,8 @@ my.snapchat.com
 app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
