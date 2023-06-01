@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 20:21:03 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 21:17:57 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -302,11 +302,11 @@ hv-mtl.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediagroup.com
 www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.expediaagents.com
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -1026,9 +1026,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1049,8 +1049,8 @@ redditforbusiness.com
 accounts.reddit.com
 mod.reddit.com
 oauth.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3096,8 +3096,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
