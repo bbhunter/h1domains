@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 09:22:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 10:24:20 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,9 +1048,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1348,8 +1348,8 @@ api.aiven.io
 aivencloud.com
 help.aiven.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *.devicelock.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1633,9 +1633,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.Daraz.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2550,9 +2550,9 @@ lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 tunnistus.lahitapiola.fi
 api.lahitapiola.fi
-www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
+www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
