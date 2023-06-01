@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 06:26:54 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 07:21:11 UTC 2023)
 ```
 ring.com/*
 api.ring.com/*
@@ -1038,9 +1038,9 @@ redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1541,8 +1541,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1624,8 +1624,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2994,8 +2994,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
