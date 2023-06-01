@@ -1,4 +1,14 @@
 handle,domain,eligible_for_bounty
+kolesagroup,api.kolesa.kz,True
+kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
+kolesagroup,kolesa.kz,True
+kolesagroup,m.kolesa.kz,True
+kolesagroup,kolesa.kz,True
+kolesagroup,m.kolesa.kz,True
+kolesagroup,api.kolesa.kz,True
+kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 ring,ring.com/*,True
 ring,api.ring.com/*,True
 ring,fw.ring.com/*,True
@@ -44,10 +54,10 @@ mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,hubs.mozilla.com,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -1081,10 +1091,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1100,8 +1110,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
 mount-sinai-health,*.mountsinai.org,False
@@ -2415,8 +2425,8 @@ inmobi,*.glance.app,False
 inmobi,*.dash101.com,False
 inmobi,mydash101.com,False
 inmobi,*.glance.com,False
-inmobi,*.glance.world,False
 inmobi,*.glance.inmobi.com,False
+inmobi,*.glance.world,False
 inmobi,*.shop101.com,False
 inmobi,*.inmobi.com,False
 inmobi,*.glance.com,False
@@ -6090,7 +6100,6 @@ hyatt,upsell.hyatt.com,True
 hyatt,res.breathlessresorts.com,True
 hyatt,res.skyteam.com,True
 hyatt,res.vacations.seaworld.com,True
-hyatt,www.beachbound.com,True
 hyatt,holidays-hk.fijiairways.com,True
 hyatt,vacations.velasvallarta.com,True
 hyatt,media.triseptsolutions.com,True
@@ -6100,6 +6109,7 @@ hyatt,vacations.united.com,True
 hyatt,assets.hyatt.com,True
 hyatt,www.blueskytours.com,True
 hyatt,book.extraholidaysvacations.com,True
+hyatt,www.beachbound.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -7274,8 +7284,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

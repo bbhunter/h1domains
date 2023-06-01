@@ -1,3 +1,13 @@
+api.kolesa.kz
+app.kolesa.kz
+id.kolesa.kz
+kolesa.kz
+m.kolesa.kz
+kolesa.kz
+m.kolesa.kz
+api.kolesa.kz
+app.kolesa.kz
+id.kolesa.kz
 ring.com/*
 api.ring.com/*
 fw.ring.com/*
@@ -43,10 +53,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-hubs.mozilla.com
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -1080,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1099,8 +1109,8 @@ fossil.com.vn
 *.slrortho.com
 *.sinaidowntown.net
 *.thechep.org
-*.thehealthcenterhudsonyards.com
 *.mssm.edu
+*.thehealthcenterhudsonyards.com
 *.mountsinaiheartnp.org
 *.southnassau.org
 *.mountsinai.org
@@ -2414,8 +2424,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -6089,7 +6099,6 @@ upsell.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
-www.beachbound.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 media.triseptsolutions.com
@@ -6099,6 +6108,7 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 book.extraholidaysvacations.com
+www.beachbound.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -7273,8 +7283,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

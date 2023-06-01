@@ -2,8 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  1 07:21:11 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  1 08:25:03 UTC 2023)
 ```
+api.kolesa.kz
+app.kolesa.kz
+id.kolesa.kz
+kolesa.kz
+m.kolesa.kz
+kolesa.kz
+m.kolesa.kz
+api.kolesa.kz
+app.kolesa.kz
+id.kolesa.kz
 ring.com/*
 api.ring.com/*
 fw.ring.com/*
@@ -44,10 +54,10 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
-hubs.mozilla.com
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
+hubs.mozilla.com
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -2037,7 +2047,6 @@ upsell.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
-www.beachbound.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 media.triseptsolutions.com
@@ -2047,6 +2056,7 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 book.extraholidaysvacations.com
+www.beachbound.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3086,8 +3096,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
