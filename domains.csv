@@ -45,9 +45,9 @@ mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
+mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -159,8 +159,8 @@ apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.seedalliance.net,False
 apnic,*.isif.asia,False
-apnic,*.apnic.net,False
 apnic,*.apnic.foundation,False
+apnic,*.apnic.net,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
@@ -1081,10 +1081,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1100,8 +1100,8 @@ mount-sinai-health,*.msonsitehealth.org,False
 mount-sinai-health,*.slrortho.com,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.thechep.org,False
-mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
 mount-sinai-health,*.mountsinai.org,False
@@ -1173,8 +1173,8 @@ mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.royalcanin.fr,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.marschocolate.com,False
