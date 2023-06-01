@@ -2414,8 +2414,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.inmobi.com
 *.glance.world
+*.glance.inmobi.com
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4649,8 +4649,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6999,8 +6999,8 @@ api.blockchain.info
 ws.blockchain.info
 talk.brave.com
 search.brave.com
-basicattentiontoken.org
 brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -7356,9 +7356,9 @@ training.ui.com
 ir.ui.com
 ispdesign.ui.com
 ca.store.ui.com
-store.ui.com
 community.ui.com
 blog.ui.com
+store.ui.com
 help.ui.com
 rma.ui.com
 careers.ui.com

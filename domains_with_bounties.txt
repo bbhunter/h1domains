@@ -1535,8 +1535,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2852,8 +2852,8 @@ api.blockchain.info
 ws.blockchain.info
 talk.brave.com
 search.brave.com
-basicattentiontoken.org
 brave.com
+basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
