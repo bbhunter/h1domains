@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 07:20:30 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 08:25:03 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1045,12 +1045,12 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
-*.reddithelp.com
 matrix.redditspace.com
 www.reddit.com
 accounts.reddit.com
 oauth.reddit.com
 mod.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1093,8 +1093,8 @@ customers.mattermost.com
 *.chimepayments.com
 *.chime.com
 *.1debit.com
-*.chimebank.com
 *.chmfin.com
+*.chimebank.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3455,8 +3455,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
