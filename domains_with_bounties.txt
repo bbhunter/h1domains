@@ -1040,11 +1040,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-mod.reddit.com
 matrix.redditspace.com
 www.reddit.com
 accounts.reddit.com
 oauth.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2207,10 +2207,10 @@ matomo.cloud
 py.pl
 *.paylution.com
 www.swiftfinancial.com
-swiftfinancial.com
 *.xoom.com
 *.braintreepayments.com
 *.braintree-api.com
+swiftfinancial.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
