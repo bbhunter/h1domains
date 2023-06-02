@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 09:23:50 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 10:23:32 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -43,8 +43,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
-phabricator.services.mozilla.com
 addons.allizom.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -218,9 +218,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
 sso.8x8.com
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1038,9 +1038,9 @@ meta-api.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
 *.reddit.com
+gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
