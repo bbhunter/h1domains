@@ -84,8 +84,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonmanage.com
 *.hiltonjapan.co.jp
 hilton.com
@@ -1277,8 +1277,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
+careers.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2443,8 +2443,8 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.nr-data.net
+one.newrelic.com
 *.newrelic.com
 support.newrelic.com
 blog.newrelic.com

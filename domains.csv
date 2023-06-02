@@ -137,8 +137,8 @@ hilton,*.hilton.io,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
-hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
+hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
 hilton,*.hiltonjapan.co.jp,True
 hilton,hilton.com,True
@@ -888,8 +888,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -4233,8 +4233,8 @@ tiktok,tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,careers.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -6519,8 +6519,8 @@ newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,*.nr-ops.net,True
-newrelic,one.newrelic.com,True
 newrelic,*.nr-data.net,True
+newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True

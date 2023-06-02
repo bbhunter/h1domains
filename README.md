@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 14:19:58 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 15:24:32 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -90,8 +90,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonmanage.com
 *.hiltonjapan.co.jp
 hilton.com
@@ -1283,8 +1283,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
+careers.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2449,8 +2449,8 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
-one.newrelic.com
 *.nr-data.net
+one.newrelic.com
 *.newrelic.com
 support.newrelic.com
 blog.newrelic.com
