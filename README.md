@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 03:21:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  2 04:24:19 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1633,9 +1633,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2227,9 +2227,9 @@ paypal.me
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
-*.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
+*.paydiant.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
