@@ -1020,9 +1020,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 old.reddit.com
-*.redditmedia.com
 ads.reddit.com
 gql.reddit.com
+*.redditmedia.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
