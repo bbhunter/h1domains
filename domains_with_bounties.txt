@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3335,10 +3335,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-simplenote.com
 simperium.com
 happy.tools
 my.pressable.com
+simplenote.com
 api.tumblr.com
 assets.tumblr.com
 intensedebate.com
