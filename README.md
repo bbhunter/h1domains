@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  3 11:18:40 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun  3 12:34:49 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -2055,8 +2055,8 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
-book.extraholidaysvacations.com
 www.beachbound.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
