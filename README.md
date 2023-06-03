@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  2 23:22:04 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun  3 01:44:52 UTC 2023)
 ```
 app.kolesa.kz
-api.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -2780,9 +2780,9 @@ rockstarnorth.com
 circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
-support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3095,9 +3095,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
 *.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
