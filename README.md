@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 03:13:35 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 04:24:10 UTC 2023)
 ```
 id.kolesa.kz
 app.kolesa.kz
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2400,9 +2400,9 @@ www.counter-strike.net
 partner.steamgames.com
 www.teamfortress.com
 api.steampowered.com
-support.steampowered.com
 www.dota2.com
 steamcommunity.com
+support.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
