@@ -1090,10 +1090,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1182,8 +1182,8 @@ banfieldfoundation.org
 *.royalcanin.cz
 *.royalcanin.fr
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.marschocolate.com
@@ -2424,8 +2424,8 @@ pro.opensea.io
 *.dash101.com
 mydash101.com
 *.glance.com
-*.glance.world
 *.glance.inmobi.com
+*.glance.world
 *.shop101.com
 *.inmobi.com
 *.glance.com
@@ -4658,8 +4658,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4757,10 +4757,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -5118,8 +5118,8 @@ k8s.io
 kubernetes-csi.github.io
 get8x8.com
 *.8x8cloud.net
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 connect.8x8.com
 *.8x8.com
 user-profile.8x8.com
@@ -5936,8 +5936,8 @@ chain.link
 reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
-www.bookingholdings.com
 www.priceline.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com

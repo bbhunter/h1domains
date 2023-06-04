@@ -1545,8 +1545,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1618,10 +1618,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1929,8 +1929,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
-www.bookingholdings.com
 www.priceline.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun  4 02:00:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 03:13:35 UTC 2023)
 ```
 id.kolesa.kz
 app.kolesa.kz
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1624,10 +1624,10 @@ payments.amazon.*
 https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
-www.alibabagroup.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1935,8 +1935,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 admin.rezserver.com
 www.getaroom.com
-www.bookingholdings.com
 www.priceline.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
