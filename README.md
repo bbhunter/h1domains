@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  3 23:20:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun  4 02:00:00 UTC 2023)
 ```
 id.kolesa.kz
 app.kolesa.kz
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2225,8 +2225,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2830,9 +2830,9 @@ www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
