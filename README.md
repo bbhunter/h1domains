@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 21:20:22 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 22:20:52 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2936,8 +2936,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3397,6 +3397,7 @@ paradex.io
 pro.coinbase.com
 *.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
@@ -3410,6 +3411,7 @@ prime.coinbase.com
 institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
+cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
