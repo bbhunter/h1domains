@@ -1279,8 +1279,8 @@ tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1547,8 +1547,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2210,9 +2210,9 @@ py.pl
 *.paylution.com
 www.swiftfinancial.com
 *.xoom.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+swiftfinancial.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3091,9 +3091,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-shopify.plus
 accounts.shopify.com
 *.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
