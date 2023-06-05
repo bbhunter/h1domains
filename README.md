@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 09:23:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 10:24:30 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1633,9 +1633,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.Daraz.com
 *.aliexpress.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3004,11 +3004,11 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 oauth.deriv.com
-*.deriv.cloud
 app.deriv.com
+*.deriv.cloud
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
@@ -3121,9 +3121,9 @@ relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
 login.playcanvas.com
-playcanv.as
-blog.playcanvas.com
 scan.snapchat.com
+blog.playcanvas.com
+playcanv.as
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
@@ -3411,8 +3411,8 @@ api.custody.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
