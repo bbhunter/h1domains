@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 12:43:15 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 13:27:25 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -54,6 +54,7 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 developer.mozilla.org
 hubs.mozilla.com
@@ -73,6 +74,7 @@ uploads-prod.reticulum.io
 api.profiler.firefox.com
 hello.dev.myhubs.net
 www.mozilla.org
+getpocket.com
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -844,8 +846,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3004,8 +3006,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 app.deriv.com
 *.deriv.cloud
@@ -3096,8 +3098,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
