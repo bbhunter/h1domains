@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 22:20:52 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 23:22:01 UTC 2023)
 ```
-api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2783,8 +2783,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 support.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3446,8 +3446,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
