@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 08:29:02 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 09:23:27 UTC 2023)
 ```
 app.kolesa.kz
-api.kolesa.kz
 id.kolesa.kz
+api.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -1286,8 +1286,8 @@ business.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1551,8 +1551,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1625,8 +1625,8 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
-*.tmall.com
 www.alibabagroup.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
@@ -2834,9 +2834,9 @@ www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
-www.starbucks.co.kr
 www.starbucks.com.cn
 www.starbucks.co.jp
+www.starbucks.co.kr
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -3095,9 +3095,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3122,8 +3122,8 @@ store.playcanvas.com
 code.playcanvas.com
 login.playcanvas.com
 playcanv.as
-scan.snapchat.com
 blog.playcanvas.com
+scan.snapchat.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
