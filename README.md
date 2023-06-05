@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 11:18:58 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 12:43:15 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -726,8 +726,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 account.krisp.ai
-*.krisp.ai
 upld.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -844,8 +844,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -893,13 +893,13 @@ tock.18f.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
-diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 federalist-docs.18f.gov
 inventory.data.gov
 *.login.gov
 www.fedramp.gov
+diagrams.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1027,8 +1027,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 sh.reddit.com
 strapi.reddit.com
@@ -1162,8 +1162,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -3114,9 +3114,9 @@ create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 story.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 relay.playcanvas.com
 store.playcanvas.com
 code.playcanvas.com
