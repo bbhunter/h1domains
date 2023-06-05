@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  5 17:21:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun  5 18:25:30 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -56,9 +56,9 @@ aus5.mozilla.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
-developer.mozilla.org
 hubs.mozilla.com
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -846,8 +846,8 @@ wonderboxdev.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -978,9 +978,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -2238,9 +2238,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3133,8 +3133,8 @@ map.snapchat.com
 my.snapchat.com
 www.bitmoji.com
 playcanvas.com
-business.snapchat.com
 app.snapchat.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
