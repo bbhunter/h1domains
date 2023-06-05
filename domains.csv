@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 kolesagroup,app.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,kolesa.kz,True
@@ -890,8 +890,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1093,10 +1093,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2642,8 +2642,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4661,8 +4661,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7303,9 +7303,9 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,story.snapchat.com,True
-snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,businesshelp.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,code.playcanvas.com,True
@@ -7319,9 +7319,9 @@ snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
