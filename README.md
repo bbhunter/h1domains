@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 17:22:30 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 18:27:42 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1555,8 +1555,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3421,8 +3421,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3460,8 +3460,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
