@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 11:17:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 12:39:42 UTC 2023)
 ```
 app.kolesa.kz
 id.kolesa.kz
@@ -778,6 +778,7 @@ wonderboxdev.com
 fortnite.com
 *.mediatonic.co.uk
 *.popjam.com
+capturingreality.com
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -842,12 +843,13 @@ playwonderbox.com.br
 playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
+capturingreality.com
 *.tinderops.net
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,11 +1050,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 oauth.reddit.com
-mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.reddit.com
 *.reddithelp.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1553,8 +1555,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
