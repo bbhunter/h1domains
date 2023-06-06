@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 13:28:40 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 14:23:39 UTC 2023)
 ```
 app.kolesa.kz
-id.kolesa.kz
 api.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -313,9 +313,9 @@ www.travelocity.com
 www.flights.com
 www.ebookers.com
 www.vrbo.com
-www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
+www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.bookabach.co.nz
@@ -1759,8 +1759,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2355,8 +2355,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.gsam.com
-*.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3099,9 +3099,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
-accounts.shopify.com
 *.shopify.com
 shopify.plus
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
