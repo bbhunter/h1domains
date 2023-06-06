@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 22:21:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 23:21:19 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -3138,9 +3138,9 @@ app.snapchat.com
 business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
-*.sc-corp.net
 spectacles.com
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
