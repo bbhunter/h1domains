@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 05:22:24 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 06:27:00 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -979,8 +979,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2057,8 +2057,8 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
-www.beachbound.com
 book.extraholidaysvacations.com
+www.beachbound.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2352,9 +2352,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 research.gs.com
-*.gs.com
 *.gsam.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
