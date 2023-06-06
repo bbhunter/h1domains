@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 06:27:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 07:22:58 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -1048,11 +1048,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 oauth.reddit.com
-*.reddithelp.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1553,8 +1553,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3456,11 +3456,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+reviewer.pullrequest.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
