@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 16:29:49 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun  6 17:22:30 UTC 2023)
 ```
 app.kolesa.kz
 api.kolesa.kz
@@ -28,8 +28,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 web.tide.co
-www.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -2841,8 +2841,8 @@ login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.ca
 openapi.starbucks.com
+www.starbucks.ca
 gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
