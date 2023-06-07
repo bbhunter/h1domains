@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 06:27:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 07:22:25 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -753,8 +753,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-bigcommerce-adapter.judge.me
 judge.me
+bigcommerce-adapter.judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1043,18 +1043,18 @@ sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 oauth.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 *.reddithelp.com
 mod.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1555,8 +1555,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3008,8 +3008,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
