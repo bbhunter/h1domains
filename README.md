@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 16:29:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 17:21:27 UTC 2023)
 ```
 api.kolesa.kz
-app.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -327,8 +327,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.hotwire.com
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1057,8 +1057,8 @@ redditforbusiness.com
 www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-mod.reddit.com
 oauth.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2180,9 +2180,9 @@ www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*racing.fanduel.com
 *.fanduel.com
 tvg.com
+*racing.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
