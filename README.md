@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 19:19:33 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 20:23:35 UTC 2023)
 ```
 api.kolesa.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -1054,11 +1054,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1229,9 +1229,9 @@ world.hey.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
-*.browser.cloud.com
 www.cloud.com
 accounts.cloud.com
+*.browser.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1763,8 +1763,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3143,8 +3143,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com

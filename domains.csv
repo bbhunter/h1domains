@@ -38,8 +38,8 @@ mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 kolesagroup,api.kolesa.kz,True
-kolesagroup,id.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
+kolesagroup,id.kolesa.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,kolesa.kz,True
@@ -932,8 +932,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1135,10 +1135,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -3335,11 +3335,11 @@ reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
 reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4220,10 +4220,10 @@ basecamp,world.hey.com,True
 citrix,sf-rp-eu.sharefile.com,True
 citrix,(yoursubdomain).sharefile.com,True
 citrix,api.sharefile.com,True
-citrix,*.browser.cloud.com,True
 citrix,*developer.cloud.com,False
 citrix,www.cloud.com,True
 citrix,accounts.cloud.com,True
+citrix,*.browser.cloud.com,True
 citrix,(yoursubdomain).sf-api.eu,True
 citrix,(yoursubdomain).sharefile.eu,True
 citrix,sf-rp-us.sharefile.com,True
@@ -4711,8 +4711,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4983,8 +4983,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7374,8 +7374,8 @@ snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,*.sc-corp.net,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,www.bitstrips.com,True
 snapchat,*.sc-core.net,True
 snapchat,developer.playcanvas.com,True

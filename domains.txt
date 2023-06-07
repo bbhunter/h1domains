@@ -37,8 +37,8 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.kolesa.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 kolesa.kz
@@ -931,8 +931,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -1134,10 +1134,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -3334,11 +3334,11 @@ reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4219,10 +4219,10 @@ world.hey.com
 sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
-*.browser.cloud.com
 *developer.cloud.com
 www.cloud.com
 accounts.cloud.com
+*.browser.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -4710,8 +4710,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -4982,8 +4982,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7373,8 +7373,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
