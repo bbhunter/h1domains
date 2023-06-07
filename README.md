@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 08:27:55 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 09:24:14 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -43,8 +43,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
-phabricator.services.mozilla.com
 addons.allizom.org
+phabricator.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -943,9 +943,10 @@ federalist-docs.18f.gov
 rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
-activate.codefi.network
 consensys.net
 trufflesuite.com
+activate.codefi.network
+staking-uat.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -957,6 +958,7 @@ on-ramp.metaswap-dev.codefi.network
 webhooks-api-experimental.codefi.network
 http://portfolio.metamask.io
 https://metamask-sdk-socket.metafi.codefi.network/
+staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
 trufflesuite.com
@@ -1053,8 +1055,8 @@ oauth.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1226,8 +1228,8 @@ sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
 *.browser.cloud.com
-accounts.cloud.com
 www.cloud.com
+accounts.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -1555,8 +1557,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
