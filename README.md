@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 09:24:14 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 10:23:13 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -848,8 +848,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2982,8 +2982,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api.grofers.com
-api2.grofers.com
 *.hyperpure.com
+api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
@@ -3010,8 +3010,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3124,12 +3124,12 @@ forum.playcanvas.com
 businesshelp.snapchat.com
 accounts.snapchat.com
 relay.playcanvas.com
-store.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 playcanv.as
 login.playcanvas.com
+store.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
