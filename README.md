@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 07:22:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 08:27:55 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1555,8 +1555,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3008,8 +3008,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3395,8 +3395,8 @@ prime.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
-*.coinbase.com
 custody.coinbase.com
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com

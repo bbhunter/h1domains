@@ -1549,8 +1549,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3002,8 +3002,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3389,8 +3389,8 @@ prime.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
-*.coinbase.com
 custody.coinbase.com
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
