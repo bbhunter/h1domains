@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 13:30:16 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 14:25:04 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1053,12 +1053,12 @@ amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
-oauth.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2003,8 +2003,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 link.omise.co
-dashboard.omise.co
 www.opn.ooo
+dashboard.omise.co
 dashboard2.omise.co
 linksplus-dashboard.omise.co
 api.omise.co
@@ -3103,9 +3103,9 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
+shopify.plus
 accounts.shopify.com
 *.shopify.com
-shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3130,8 +3130,8 @@ code.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 playcanv.as
-login.playcanvas.com
 store.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
@@ -3399,8 +3399,8 @@ prime.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
-custody.coinbase.com
 *.coinbase.com
+custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
