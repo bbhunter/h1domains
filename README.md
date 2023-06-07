@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  6 23:21:19 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 01:48:25 UTC 2023)
 ```
-app.kolesa.kz
 api.kolesa.kz
+app.kolesa.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -1030,9 +1030,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1052,9 +1052,9 @@ redditforbusiness.com
 oauth.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-www.reddit.com
 *.reddithelp.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1287,8 +1287,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1555,8 +1555,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2345,8 +2345,8 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.goldmansachs.com
 *.finlife.com
-*.vennhypotheken.nl
 *.nextcapital.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2691,8 +2691,8 @@ badoocdn.com
 heyfiesta.com
 eu1.badoo.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3418,11 +3418,11 @@ paradex.io
 status.slack.com
 spaces.pm
 api.slack.com
-slackb.com
-slackatwork.com
-slack-redir.net
 *.quip.com
 app.slack.com
+slack-redir.net
+slackatwork.com
+slackb.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
