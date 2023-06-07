@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 18:27:42 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 19:19:33 UTC 2023)
 ```
 api.kolesa.kz
 id.kolesa.kz
@@ -1057,8 +1057,8 @@ redditforbusiness.com
 www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 mod.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com

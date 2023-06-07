@@ -1051,8 +1051,8 @@ redditforbusiness.com
 www.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 mod.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
