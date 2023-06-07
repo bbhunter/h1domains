@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 15:28:49 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 16:29:32 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -265,8 +265,8 @@ cloud8.8x8.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-*.moonpaycloud.com
 moonpay.com
+*.moonpaycloud.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -405,8 +405,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-m.poloniex.com
 www.poloniex.com
+m.poloniex.com
 api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1047,18 +1047,18 @@ sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
-matrix.redditspace.com
 *.reddithelp.com
-oauth.reddit.com
 www.reddit.com
 accounts.reddit.com
+matrix.redditspace.com
 mod.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1289,10 +1289,10 @@ partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
