@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 12:39:29 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun  7 13:30:16 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1727,8 +1727,8 @@ cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -2843,8 +2843,8 @@ app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.jp
-www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3012,8 +3012,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
