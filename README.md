@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 12:38:23 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 13:26:44 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -2839,9 +2839,9 @@ www.starbucksreserve.com
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
