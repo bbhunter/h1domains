@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 07:22:43 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 08:26:08 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1056,8 +1056,8 @@ redditforbusiness.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1288,11 +1288,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
-careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 creatormarketplace.tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3139,8 +3139,8 @@ map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
