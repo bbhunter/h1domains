@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun  7 23:22:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 01:47:37 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1047,18 +1047,18 @@ sh.reddit.com
 www.spiketrap.io
 s.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
-accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1967,10 +1967,10 @@ http://api.smartsheet.com/2.0
 admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
-*signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *authenticate.trustpilot.com
 *business.trustpilot.com
+*signup.business.trustpilot.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
@@ -3143,8 +3143,8 @@ playcanvas.com
 my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
@@ -3428,8 +3428,8 @@ slackatwork.com
 slack-redir.net
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3831,6 +3831,12 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
+portal.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+portal.kiwi.ki
 provider.enter.health
 api.enter.health
 login.enter.health
