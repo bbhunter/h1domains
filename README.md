@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 10:24:15 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 11:19:47 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -153,8 +153,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1289,10 +1289,10 @@ partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1390,6 +1390,7 @@ app.marionnaud.it
 www.watsons.com.tw
 app.marionnaud.ro
 www.marionnaud.sk
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1559,8 +1560,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2896,9 +2897,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-harvestapp.com
 id.getharvest.com
 getharvest.com
+harvestapp.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3104,8 +3105,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3128,10 +3129,10 @@ ads.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
-blog.playcanvas.com
 playcanv.as
 store.playcanvas.com
 login.playcanvas.com
+blog.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
