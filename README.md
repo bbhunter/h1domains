@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 02:59:19 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 03:24:45 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -43,8 +43,8 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 phabricator.services.mozilla.com
+addons.allizom.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -320,9 +320,9 @@ www.lastminute.com.au
 www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
-www.bookabach.co.nz
 www.carrentals.com
 www.expedia.com
+www.bookabach.co.nz
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1308,8 +1308,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitechg.com
 www.logitech.com.cn
+www.logitechg.com
 circle.logi.com
 www.ultimateears.com
 sync.logitech.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3139,8 +3139,8 @@ map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
