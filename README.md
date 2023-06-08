@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 09:23:02 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 10:24:15 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -860,8 +860,8 @@ capturingreality.com
 *.tinderwebstaging.com
 app.recordedfuture.com
 therecord.media
-api.recordedfuture.com
 hatching.io
+api.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
@@ -1057,8 +1057,8 @@ redditforbusiness.com
 matrix.redditspace.com
 mod.reddit.com
 www.reddit.com
-accounts.reddit.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1634,8 +1634,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2180,9 +2180,9 @@ www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
 *racing.fanduel.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
