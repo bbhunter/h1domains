@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 19:20:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 20:22:09 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -167,10 +167,10 @@ miro.com
 api.miro.com
 http://miro.com/blog
 *.cloud.malwarebytes.com
-*.mb-cosmos.com
 *.mwbsys.com
 cloud.malwarebytes.com
 my.malwarebytes.com
+*.mb-cosmos.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -1500,9 +1500,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 store.playstation.com
-*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2361,7 +2361,7 @@ api.foliofn.com
 research.gs.com
 *.folioclient.com
 *.gs.com
-*.folioinstitutional.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3144,8 +3144,8 @@ my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
