@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun  8 17:21:23 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun  8 18:26:53 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -1056,9 +1056,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 www.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1289,9 +1289,9 @@ partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1560,8 +1560,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3143,9 +3143,9 @@ business.snapchat.com
 my.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
-spectacles.com
 *.sc-corp.net
 web.snapchat.com
+spectacles.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
@@ -3452,8 +3452,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
