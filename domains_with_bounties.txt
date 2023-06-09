@@ -49,8 +49,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-relay.firefox.com
 getpocket.com
+relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -1283,9 +1283,9 @@ partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
