@@ -926,8 +926,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2680,8 +2680,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3326,10 +3326,10 @@ reddit,redditforbusiness.com,True
 reddit,*.redditblog.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -4703,8 +4703,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -4829,8 +4829,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.1688.com,True
 alibaba,www.alibabagroup.com,True
 bmwgroup,www.mini.de,True
-bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
+bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
@@ -6656,9 +6656,9 @@ coalition,api.thecoalition.com,False
 coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
-crowdstrike,www.crowdstrike.com,True
 crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
+crowdstrike,www.crowdstrike.com,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,hybrid-analysis.com,True
@@ -6725,8 +6725,8 @@ semrush,workflows.semrush.com,False
 semrush,*.seoquake.com,True
 semrush,investors.semrush.com,False
 semrush,*.scatec.io,True
-semrush,*.semrush.com,True
 semrush,*.sellzone.com,True
+semrush,*.semrush.com,True
 semrush,*.myinsights.io,True
 semrush,*.seoab.io,True
 semrush,*.semrush.com,True
@@ -7209,9 +7209,9 @@ zomato,*.hyperpure.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
-zomato,*.zomans.com,True
 zomato,*.zomato.com,True
 zomato,winecellar.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -7326,9 +7326,9 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
