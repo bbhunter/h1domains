@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 11:18:07 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 12:36:34 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -96,9 +96,9 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
-*.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
+*.hiltonjapan.co.jp
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1553,15 +1553,15 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3236,8 +3236,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
