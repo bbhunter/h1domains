@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 04:25:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 05:21:24 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -1289,9 +1289,9 @@ partner.tiktokshop.com
 tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2360,8 +2360,8 @@ api.foliofn.com
 *.gs.de
 research.gs.com
 *.folioclient.com
-*.gs.com
 *.gsam.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
