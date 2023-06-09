@@ -53,8 +53,8 @@ getpocket.com
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -3132,10 +3132,10 @@ snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

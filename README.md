@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 08:27:42 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 09:22:53 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -59,8 +59,8 @@ getpocket.com
 relay.firefox.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -3138,10 +3138,10 @@ snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 my.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
