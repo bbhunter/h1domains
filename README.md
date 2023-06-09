@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 20:22:58 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 21:19:28 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1035,8 +1035,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1561,8 +1561,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2340,8 +2340,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
 *.ayco.com
-*.foliofn.com
 *.goldman.com
+*.foliofn.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -3107,8 +3107,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3142,9 +3142,9 @@ store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-playcanvas.com
 business.snapchat.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
