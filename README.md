@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 09:22:53 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 10:22:35 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -55,8 +55,8 @@ merino.services.mozilla.com
 firefox.settings.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
-getpocket.com
 relay.firefox.com
+getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
 www.mozilla.org
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1560,8 +1560,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3380,6 +3380,22 @@ simplenote.com
 simperium.com
 intensedebate.com
 happy.tools
+www.irccloud.com
+api.irccloud.com
+irccloud.com
+irc.irccloud.com
+team-irc.irccloud.com
+*.irccloud-cdn.com
+blog.irccloud.com
+*.irccloud.com
+*.irccloud-cdn.com
+*.irccloud.com
+www.irccloud.com
+api.irccloud.com
+irccloud.com
+irc.irccloud.com
+team-irc.irccloud.com
+blog.irccloud.com
 www.irccloud.com
 api.irccloud.com
 irccloud.com
