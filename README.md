@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 17:22:26 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 18:24:55 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1035,8 +1035,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1561,8 +1561,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2047,9 +2047,9 @@ holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 www.globalhotelchoices.com
 vacations.travelimpressions.com
-login.www.vaxvacationaccess.com
 res.funjet.com
 www.cheapcaribbean.com
+login.www.vaxvacationaccess.com
 world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2065,8 +2065,8 @@ vacations.outrigger.com
 vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
-book.extraholidaysvacations.com
 www.beachbound.com
+book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
