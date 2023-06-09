@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 21:19:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 22:20:30 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.bookabach.co.nz
 www.expedia.com
+www.bookabach.co.nz
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1035,8 +1035,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1290,9 +1290,9 @@ live-backstage.tiktok.com
 tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1561,8 +1561,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1661,8 +1661,8 @@ www.alibabagroup.com
 *.1688.com
 www.alibabagroup.com
 www.mini.de
-www.bmw.de
 configure.bmw.de
+www.bmw.de
 www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
@@ -2221,12 +2221,12 @@ legacy.casper.com
 matomo.cloud
 matomo.cloud
 py.pl
-*.paylution.com
 www.swiftfinancial.com
 *.xoom.com
 swiftfinancial.com
 *.braintree-api.com
 *.braintreepayments.com
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2351,8 +2351,8 @@ goldmansachsindices.com
 *.goldmansachs.com
 *.finlife.com
 *.nextcapital.com
-*.vennhypotheken.nl
 *.honestdollar.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -3101,10 +3101,10 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
+exchangemarketplace.com
 accounts.shopify.com
 shopify.plus
 *.shopify.com
