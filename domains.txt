@@ -2,8 +2,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
-www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadolibre.com.ar
 www.mercadopago.com.co
 www.mercadolibre.cl
 www.mercadopago.com.br
@@ -119,8 +119,8 @@ lifetouch.com
 www.borrowlenses.com
 shutterfly.com
 snapfish.com
-jcpportraits.com
 admin.spoonflower.com
+jcpportraits.com
 snapfish.com.au
 snapfish.co.nz
 snapfish.co.uk
@@ -424,8 +424,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -1128,10 +1128,10 @@ fossilcare.com
 fossilcrm.com
 fossilgroup.com
 fossil.com.vn
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -1219,8 +1219,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2679,8 +2679,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3329,10 +3329,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -4276,9 +4276,9 @@ tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -6721,8 +6721,8 @@ api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.berush.com
-*.semrush.net
 *.prowly.com
+*.semrush.net
 workflows.semrush.com
 *.seoquake.com
 investors.semrush.com
