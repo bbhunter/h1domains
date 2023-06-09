@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 16:28:18 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun  9 17:22:26 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -945,10 +945,10 @@ federalist-docs.18f.gov
 rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 activate.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
+consensys.net
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -1035,8 +1035,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -2944,8 +2944,8 @@ gist.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
