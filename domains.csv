@@ -551,8 +551,8 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -594,7 +594,6 @@ yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.mdvmm.xyz,True
 yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
-expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.hotels.com,True
@@ -602,6 +601,7 @@ expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.abritel.fr,True
+expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -926,8 +926,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1220,8 +1220,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2680,8 +2680,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3304,8 +3304,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -7325,9 +7325,9 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -7778,8 +7778,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
