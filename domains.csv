@@ -6,9 +6,9 @@ mercadolibre_vdp,www.mercadolibre.com.mx,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,www.mercadopago.com.co,False
-mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.br,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
+mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
@@ -176,8 +176,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
-hilton,hilton.com,True
 hilton,*.hiltonjapan.co.jp,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -371,8 +371,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -926,8 +926,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -1035,8 +1035,8 @@ fossil,*.watchstation.com,False
 fossil,fossilgroup.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,www.fossil.co.jp,False
 fossil,*.misfit.com,False
+fossil,www.fossil.co.jp,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -1129,10 +1129,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -1220,8 +1220,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2693,8 +2693,8 @@ recorded-future,therecord.media,True
 recorded-future,hatching.io,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,securitytrails.com,True
-recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
+recorded-future,www.recordedfuture.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -3304,8 +3304,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
-reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -4272,8 +4272,8 @@ tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -4701,8 +4701,8 @@ flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -7578,8 +7578,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,luckey.partners,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
