@@ -90,8 +90,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -175,8 +175,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -946,11 +946,11 @@ zentra.co
 www.allegion.co.uk
 www.planopunkt.com
 *.isonaspureaccesscloud.com
-www.bricard.com
 *.yonomi.co
 www.schlage.com
 *.allegion.com
 www.krytonitelock.com
+www.bricard.com
 www.fshlocking.com.au
 brionz.com
 www.ausloc.com
@@ -1034,8 +1034,8 @@ www.fossil.co.id
 fossilgroup.com
 *.cdgfossil.com
 *.fossil.vn
-*.misfit.com
 www.fossil.co.jp
+*.misfit.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -1219,8 +1219,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2840,9 +2840,9 @@ elastic-cloud.com
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 elasticsearch-ci.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -4700,8 +4700,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -7409,9 +7409,9 @@ training.ui.com
 ir.ui.com
 ispdesign.ui.com
 ca.store.ui.com
-community.ui.com
 blog.ui.com
 store.ui.com
+community.ui.com
 help.ui.com
 rma.ui.com
 careers.ui.com
@@ -7577,8 +7577,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
