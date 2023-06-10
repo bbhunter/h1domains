@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun  9 23:21:59 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 10 01:32:06 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -321,8 +321,8 @@ www.cheaptickets.com
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.bookabach.co.nz
 www.expedia.com
+www.bookabach.co.nz
 www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
@@ -1025,8 +1025,6 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.myetherwallet.com
-www.myetherwallet.com
 www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
@@ -1561,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3107,8 +3105,8 @@ partners.shopify.com
 exchangemarketplace.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3667,6 +3665,8 @@ gocorp.gojek.com
 gofood.co.id
 gosend.id
 go-tix.id
+www.myetherwallet.com
+www.myetherwallet.com
 ota.helium.com
 ota.helium.com
 app.localizestaging.com
