@@ -91,8 +91,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -118,10 +118,10 @@ shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,shutterfly.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -551,8 +551,8 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -926,8 +926,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2544,8 +2544,8 @@ snowplow,snowplowanalytics.com,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False
 snowplow,iglucentral.com,False
-snowplow,snowplow.io,False
 snowplow,poplindata.com,False
+snowplow,snowplow.io,False
 snowplow,snowplowanalytics.com,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False
@@ -4688,7 +4688,6 @@ flutteruki,*.paddypower.it,True
 flutteruki,*.betviewapi.com,True
 flutteruki,*.sbgcdn.com,True
 flutteruki,*.skyvegas.com,True
-flutteruki,*.skybingo.com,True
 flutteruki,*.operationstechnology.io,True
 flutteruki,*.msgsvc.io,True
 flutteruki,*.securityservices.io,True
@@ -4696,6 +4695,7 @@ flutteruki,*.skybettest.net,True
 flutteruki,*.betfair.it,True
 flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
+flutteruki,*.skybingo.com,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
 flutteruki,*.sbgservices.com,True
@@ -7325,8 +7325,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True

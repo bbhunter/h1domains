@@ -90,8 +90,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -117,10 +117,10 @@ prestigeportraits.com
 snapfish.de
 lifetouch.com
 www.borrowlenses.com
-admin.spoonflower.com
 jcpportraits.com
 snapfish.com
 shutterfly.com
+admin.spoonflower.com
 snapfish.com.au
 snapfish.co.nz
 snapfish.co.uk
@@ -550,8 +550,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -925,8 +925,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2543,8 +2543,8 @@ snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com
 iglucentral.com
-snowplow.io
 poplindata.com
+snowplow.io
 snowplowanalytics.com
 next.snowplowanalytics.com
 console.snowplowanalytics.com
@@ -4687,7 +4687,6 @@ faucet.polygon.technology
 *.betviewapi.com
 *.sbgcdn.com
 *.skyvegas.com
-*.skybingo.com
 *.operationstechnology.io
 *.msgsvc.io
 *.securityservices.io
@@ -4695,6 +4694,7 @@ faucet.polygon.technology
 *.betfair.it
 *.betfair.com
 *.skybet.com
+*.skybingo.com
 *.skygamingcontent.com
 *.skypoker.com
 *.sbgservices.com
@@ -7324,8 +7324,8 @@ shopifyinbox.com
 partners.shopify.com
 exchangemarketplace.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
