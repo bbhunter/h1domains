@@ -90,8 +90,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -175,8 +175,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -204,8 +204,8 @@ decodefintech.com
 *.seedalliance.net
 *.isif.asia
 *.apnic.foundation
-*.apnic.net
 aso.apnic.net
+*.apnic.net
 stats.labs.apnic.net
 nori.apnic.net
 rsync.apnic.net
@@ -550,8 +550,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -1034,8 +1034,8 @@ www.fossil.co.id
 fossilgroup.com
 *.cdgfossil.com
 *.fossil.vn
-*.misfit.com
 www.fossil.co.jp
+*.misfit.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -3303,8 +3303,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -7345,8 +7345,8 @@ msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
 businesshelp.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com

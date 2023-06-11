@@ -91,8 +91,8 @@ mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,hubs.mozilla.com,True
-mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
+mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,uploads-prod.reticulum.io,True
 mozilla_core_services,api.profiler.firefox.com,True
@@ -176,8 +176,8 @@ hilton,hiltonbusinessonline.com,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonmanage.com,True
-hilton,hilton.com,True
 hilton,*.hiltonjapan.co.jp,True
+hilton,hilton.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -205,8 +205,8 @@ apnic,* IPv4 addresses,False
 apnic,*.seedalliance.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
-apnic,*.apnic.net,False
 apnic,aso.apnic.net,False
+apnic,*.apnic.net,False
 apnic,stats.labs.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
@@ -551,8 +551,8 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -1035,8 +1035,8 @@ fossil,*.watchstation.com,False
 fossil,fossilgroup.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,*.misfit.com,False
 fossil,www.fossil.co.jp,False
+fossil,*.misfit.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -3304,8 +3304,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,old.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -7346,8 +7346,8 @@ snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,scan.snapchat.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 11 01:54:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 11 03:08:14 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -59,8 +59,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -97,8 +97,8 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
 *.hiltonmanage.com
-hilton.com
 *.hiltonjapan.co.jp
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1033,8 +1033,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-gql.reddit.com
 ads.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -3125,8 +3125,8 @@ msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
 businesshelp.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
