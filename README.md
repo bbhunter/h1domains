@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 07:22:30 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 08:28:54 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -59,8 +59,8 @@ relay.firefox.com
 getpocket.com
 monitor.firefox.com
 hubs.mozilla.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 uploads-prod.reticulum.io
 api.profiler.firefox.com
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1033,8 +1033,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1633,8 +1633,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.tmall.com
 *.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2840,10 +2840,10 @@ secureui.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
 app.starbucks.com
-login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
