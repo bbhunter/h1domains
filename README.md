@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 16:28:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 17:19:02 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -48,7 +48,7 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 accounts.firefox.com
-crash-stats.mozilla.org
+crash-stats.allizom.org
 merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
@@ -57,7 +57,7 @@ aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
 phabricator.services.mozilla.com
-crash-reports.mozilla.com
+crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -70,28 +70,22 @@ aus5.mozilla.org
 location.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-crash-reports.mozilla.com
-crash-stats.mozilla.org
+crash-reports.allizom.org
+crash-stats.allizom.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
-hubs.mozilla.com
 developer.mozilla.org
 www.mozilla.org
 profiler.firefox.com
-uploads-prod.reticulum.io
 api.profiler.firefox.com
 vpn.mozilla.org
-hello.dev.myhubs.net
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
 monitor.firefox.com
-hubs.mozilla.com
-uploads-prod.reticulum.io
 api.profiler.firefox.com
-hello.dev.myhubs.net
 www.mozilla.org
 getpocket.com
 www.six-group.com
@@ -610,8 +604,8 @@ delta.app
 bullsheet.me
 etorox.com
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1115,9 +1109,9 @@ customers.mattermost.com
 *.chimecard.com
 *.chimepayments.com
 *.chime.com
-*.1debit.com
 *.chmfin.com
 *.chimebank.com
+*.1debit.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1575,8 +1569,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3120,9 +3114,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
