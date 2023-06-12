@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 11:21:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 12:36:36 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1298,8 +1298,8 @@ tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1567,8 +1567,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2178,11 +2178,11 @@ com.fanduel.android.live
 login.tvg.com
 pabets.tvg.com
 fanduel.design
-ia.tvg.com
 login-4ngbets.us.betfair.com
 fdbox.net
 login-ia.tvg.com
 sportsbook.fanduel.com
+ia.tvg.com
 mobile-prod.tvg.com
 www.tvg.com
 m.4njbets.tvg.com
@@ -3022,9 +3022,9 @@ api.deriv.com
 smarttrader.deriv.com
 *.binary.com
 *.deriv.com
-oauth.deriv.com
 *.deriv.cloud
 app.deriv.com
+oauth.deriv.com
 *.binaryws.com
 *.deriv.com
 *.deriv.cloud
@@ -3131,10 +3131,10 @@ shopifyinbox.com
 create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
-businesshelp.snapchat.com
 forum.playcanvas.com
+ads.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3149,8 +3149,8 @@ map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 playcanvas.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
