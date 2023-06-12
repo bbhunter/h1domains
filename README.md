@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 15:27:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 16:28:24 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -325,9 +325,9 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
-www.expediagroup.com
 www.mrjet.se
 www.abritel.fr
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -867,8 +867,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1001,9 +1001,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 *.elastic.co
 www.elastic.co
@@ -1070,10 +1070,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1575,8 +1575,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1779,8 +1779,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2913,8 +2913,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 id.getharvest.com
-getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -2958,8 +2958,8 @@ gist.github.com
 *.github.net
 education.github.com
 npmjs.org
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3120,8 +3120,8 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
