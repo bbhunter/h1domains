@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 09:25:51 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 10:25:31 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1558,8 +1558,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3641,30 +3641,6 @@ training.epam.com
 *.emakina.fr
 *.emakina.us
 *.opensource.epam.com
-api.gojek.co.id
-gosend.id
-*.gojekapi.com
-www.gojek.com
-*.findaya.co.id
-*.findaya.com
-*.mab.co.id
-gocorp.gojek.com
-portal.gosend.id
-gofood.co.id
-go-tix.id
-*.gopayapi.com
-*.gojekapi.com
-*.gopayapi.com
-*.findaya.com
-*.findaya.co.id
-*.mab.co.id
-api.gojek.co.id
-www.gojek.com
-portal.gosend.id
-gocorp.gojek.com
-gofood.co.id
-gosend.id
-go-tix.id
 www.myetherwallet.com
 www.myetherwallet.com
 ota.helium.com
