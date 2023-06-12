@@ -1231,8 +1231,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -1581,8 +1581,8 @@ etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 etoro_bbp,etorox.com,True
 instacart,api.instacart.com,True
-instacart,*.instacart.tools,True
 instacart,www.instacart.com,True
+instacart,*.instacart.tools,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -2850,8 +2850,8 @@ elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
