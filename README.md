@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 06:25:45 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 07:22:30 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1003,8 +1003,8 @@ elasticsearch-ci.elastic.co
 elastic-cloud.com
 *.reckoproduction.com
 *.stripe.com
-*.recko.io
 *.link.co
+*.recko.io
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
@@ -1551,11 +1551,10 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
+*.skybingo.com
 *.betfair.com
 *.skybet.com
-*.skybingo.com
 *.skygamingcontent.com
-*.skypoker.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
@@ -1809,8 +1808,8 @@ docs.datastax.com
 astra.datastax.com
 *.nordvpn.com
 *.nordvpn.com
-*.line.me
 *.line-apps.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -3105,8 +3104,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
