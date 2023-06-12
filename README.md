@@ -2,8 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 10:25:31 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 11:21:06 UTC 2023)
 ```
+yourdomain.freshcaller.com
+yourdomain.freshservice.com
+yourdomain.freshdesk.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.freshservice.com
+http://yourdomain.myfreshworks.com/crm
+yourdomain.freshchat.com
+yourdomain.freshcaller.com
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
@@ -850,8 +859,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1168,8 +1177,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -1558,8 +1567,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1633,8 +1642,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
