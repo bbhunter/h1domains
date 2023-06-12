@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 12 03:00:43 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 12 03:26:45 UTC 2023)
 ```
 api.kolesa.kz
 app.kolesa.kz
@@ -850,8 +850,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1033,8 +1033,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 old.reddit.com
-ads.reddit.com
 gql.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1809,8 +1809,8 @@ docs.datastax.com
 astra.datastax.com
 *.nordvpn.com
 *.nordvpn.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -3123,10 +3123,10 @@ shopifyinbox.com
 create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
-forum.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
 businesshelp.snapchat.com
+forum.playcanvas.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
