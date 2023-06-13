@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 20:22:57 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 21:19:52 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -550,11 +550,11 @@ streams.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-partners.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
 rankings.etoro.com
+partners.etoro.com
 candle-src.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com
 push-dn-hap.cloud.etoro.com
@@ -1336,8 +1336,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1505,10 +1505,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-direct.playstation.com
 *.sonyentertainmentnetwork.com
 store.playstation.com
 *.api.playstation.com
+direct.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3479,8 +3479,8 @@ b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
