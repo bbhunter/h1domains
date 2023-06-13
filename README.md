@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 08:26:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 09:21:49 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1062,8 +1062,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1558,9 +1558,9 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.betfair.com
 *.skybet.com
 *.skybingo.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1647,9 +1647,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2355,8 +2355,8 @@ goldmansachsindices.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -3824,30 +3824,4 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
-provider.enter.health
-api.enter.health
-login.enter.health
-api.enter.health
-login.enter.health
-provider.enter.health
-*.urbandictionary.com
-*.ud.wtf
-av.urbandictionary.biz
-*.urbandictionary.biz
-*.urbandictionary.org
-*.urbandictionary.blog
-urbandictionary.github.io
-*.urbandictionary.net
-*.urbanup.com
-*.udimg.com
-*.urbandictionary.com
-*.urbandictionary.net
-*.urbandictionary.biz
-*.urbandictionary.org
-*.ud.wtf
-*.udimg.com
-*.urbandictionary.blog
-*.urbanup.com
-urbandictionary.github.io
-av.urbandictionary.biz
 ```
