@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 09:21:49 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 10:23:19 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2355,8 +2355,8 @@ goldmansachsindices.com
 *.finlife.com
 *.honestdollar.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
@@ -2995,8 +2995,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3824,4 +3824,30 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+provider.enter.health
+api.enter.health
+login.enter.health
+api.enter.health
+login.enter.health
+provider.enter.health
+*.urbandictionary.com
+*.ud.wtf
+av.urbandictionary.biz
+*.urbandictionary.biz
+*.urbandictionary.org
+*.urbandictionary.blog
+urbandictionary.github.io
+*.urbandictionary.net
+*.urbanup.com
+*.udimg.com
+*.urbandictionary.com
+*.urbandictionary.net
+*.urbandictionary.biz
+*.urbandictionary.org
+*.ud.wtf
+*.udimg.com
+*.urbandictionary.blog
+*.urbanup.com
+urbandictionary.github.io
+av.urbandictionary.biz
 ```
