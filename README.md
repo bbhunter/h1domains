@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 11:19:40 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 12:39:00 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -50,9 +50,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 accounts.firefox.com
 merino.services.mozilla.com
-bugzilla.mozilla.org
 sync.services.mozilla.com
 push.services.mozilla.com
+bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
 addons.allizom.org
@@ -75,8 +75,8 @@ crash-stats.allizom.org
 relay.firefox.com
 getpocket.com
 monitor.firefox.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1697,8 +1697,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.kindredext.net
 *.unibet.com
+*.kindredext.net
 *.ottokasino.com
 *.storspiller.com
 *.igame.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
