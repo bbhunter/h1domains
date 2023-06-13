@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 06:26:54 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 07:23:01 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1062,8 +1062,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1558,9 +1558,9 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
-*.skybingo.com
 *.betfair.com
 *.skybet.com
+*.skybingo.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2661,10 +2661,10 @@ gifts.grab.com
 *.grab-sure.com
 p.grabtaxi.com
 manage.grab.co
-api.grabpay.com
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
+api.grabpay.com
 *.grab.com
 gamma.grab.co
 jira.grab.com
@@ -3437,8 +3437,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
