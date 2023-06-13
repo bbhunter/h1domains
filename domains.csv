@@ -857,12 +857,12 @@ resmed,mealtracker.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
-resmed,onlinestore.resmedchina.cn,False
 resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
 resmed,resmed.com,False
 resmed,brightree.net/,False
+resmed,onlinestore.resmedchina.cn,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -4699,8 +4699,8 @@ flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.hestview.com,True
 flutteruki,*.skybet.net,True
+flutteruki,*.hestview.com,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
