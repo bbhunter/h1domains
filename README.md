@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 13 18:25:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 13 19:17:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2666,10 +2666,10 @@ xtramile.grabpay.com
 *.myteksi.com
 api.grabpay.com
 *.grab.com
-gamma.grab.co
 jira.grab.com
 kartaview.org
 *.myteksi.net
+gamma.grab.co
 *.myteksi.com
 *.myteksi.net
 *.grab.com

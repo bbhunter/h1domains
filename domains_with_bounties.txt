@@ -1559,8 +1559,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2660,10 +2660,10 @@ xtramile.grabpay.com
 *.myteksi.com
 api.grabpay.com
 *.grab.com
-gamma.grab.co
 jira.grab.com
 kartaview.org
 *.myteksi.net
+gamma.grab.co
 *.myteksi.com
 *.myteksi.net
 *.grab.com
