@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 03:22:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 04:25:21 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1565,8 +1565,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1665,8 +1665,8 @@ www.alibabagroup.com
 *.1688.com
 www.alibabagroup.com
 www.mini.de
-www.bmw.de
 configure.bmw.de
+www.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
