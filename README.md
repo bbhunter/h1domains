@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 16:28:07 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 17:20:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -472,8 +472,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
+payroll.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3145,11 +3145,11 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-www.bitmoji.com
 my.snapchat.com
 app.snapchat.com
 business.snapchat.com
 playcanvas.com
+www.bitmoji.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
