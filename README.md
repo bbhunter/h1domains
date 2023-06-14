@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 14:21:27 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 15:24:38 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -47,8 +47,8 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
-crash-stats.allizom.org
 accounts.firefox.com
+crash-stats.allizom.org
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -786,8 +786,8 @@ wonderboxdev.com
 fortnite.com
 *.mediatonic.co.uk
 *.popjam.com
-capturingreality.com
 *.easy.ac
+capturingreality.com
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -995,8 +995,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1393,11 +1393,11 @@ www.kruidvat.be
 app.marionnaud.cz
 app.marionnaud.it
 www.watsons.com.tw
-app.marionnaud.ro
 www.marionnaud.sk
 app.watsons.com.tr
 www.kruidvat.nl
 www10.watsons.com.my
+www.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
