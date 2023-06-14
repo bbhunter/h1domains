@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 14 19:19:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 14 20:23:10 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -276,8 +276,8 @@ cloud8.8x8.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net

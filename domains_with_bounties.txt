@@ -270,8 +270,8 @@ cloud8.8x8.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -851,8 +851,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
