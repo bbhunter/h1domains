@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 15:23:45 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 16:28:05 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1016,9 +1016,9 @@ js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
 *.reckostaging.com
-*.getbouncer.com
 api.taxjar.com
 api.stripe.com
+*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1061,9 +1061,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1562,13 +1562,18 @@ faucet.polygon.technology
 *.skybingo.com
 *.betfair.com
 *.skybet.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
-*.datops.io
+*.betfair.se
+*.skybetservices.com
+*.skypoker.com
+*.platformservices.io
+*.sbgtest.net
+*.betfair.ro
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1596,21 +1601,22 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybet.net
 *.skybet.co.uk
-*.datops.io
-*.hestview.com
 *.sbgtest.net
 *.skybettest.net
 *.skybettingandgaming.design
 *.skybettingandgaming.info
 *.betsharedservices.io
-*.plateng.io
+*.sportinglife.com
+*.paddypartners.com
+super6.skysports.com
+itv7.itv.com
 track.amazon.com
 chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -1641,8 +1647,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3111,9 +3117,9 @@ shopifyinbox.com
 exchangemarketplace.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
