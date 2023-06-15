@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 02:46:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 03:22:54 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1293,10 +1293,10 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-business.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
+business.tiktok.com
 *.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3147,9 +3147,9 @@ store.snapchat.com
 map.snapchat.com
 my.snapchat.com
 app.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3434,8 +3434,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com

@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2280,8 +2280,8 @@ planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2336,8 +2336,8 @@ planet-labs,*.planet-labs.com,False
 planet-labs,*.planet.com,False
 planet-labs,*.planet.com,False
 planet-labs,*.planet-labs.com,False
-ro,start.ro.co,False
 ro,*.hellorory.com,False
+ro,start.ro.co,False
 ro,login.ro.co,False
 ro,*.ropharmacy.com,False
 ro,*.getroman.com,False
@@ -5194,10 +5194,10 @@ tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -5614,8 +5614,8 @@ flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -6073,8 +6073,8 @@ kubernetes,kubernetes.io,True
 kubernetes,k8s.io,True
 kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
-8x8,*.thinkingphones.com,False
 8x8,*.easycontactnow.com,False
+8x8,*.thinkingphones.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
@@ -8274,9 +8274,9 @@ snapchat,store.snapchat.com,True
 snapchat,map.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -8691,8 +8691,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True

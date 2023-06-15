@@ -2126,8 +2126,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2279,8 +2279,8 @@ www.canvasworld.com
 *.personalcreations.com
 www.gifts.com
 *.canvasworld.com
-*.iseeme.com
 *.cafepress.com
+*.iseeme.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -2335,8 +2335,8 @@ business.linkedin.com
 *.planet.com
 *.planet.com
 *.planet-labs.com
-start.ro.co
 *.hellorory.com
+start.ro.co
 login.ro.co
 *.ropharmacy.com
 *.getroman.com
@@ -5193,10 +5193,10 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-business.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
+business.tiktok.com
 *.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -5613,8 +5613,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -6072,8 +6072,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
@@ -8273,9 +8273,9 @@ store.snapchat.com
 map.snapchat.com
 my.snapchat.com
 app.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -8690,8 +8690,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
