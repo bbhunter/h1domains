@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 03:22:54 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 04:22:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -472,8 +472,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
+payroll.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1703,9 +1703,9 @@ maria.casino
 *.ottokasino.com
 *.storspiller.com
 *.igame.com
-www.32red.com
 *.vladcazino.ro
 *.casinohuone.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
