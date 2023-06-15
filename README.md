@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 11:18:54 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 12:38:39 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -414,9 +414,9 @@ tools.deribit.com
 metrics.deribit.com
 www.poloniex.com
 m.poloniex.com
-api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
+api.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2028,7 +2028,6 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-res.blueskytours.globalbookingsolutions.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
@@ -2040,6 +2039,7 @@ www.wynnvacations.com
 res.universalorlandovacations.com
 book.booktandl.com
 book.beachbound.com
+res.blueskytours.globalbookingsolutions.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2063,7 +2063,6 @@ res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 holidays-hk.fijiairways.com
-vacations.velasvallarta.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
@@ -2071,6 +2070,7 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 www.beachbound.com
+vacations.velasvallarta.com
 book.extraholidaysvacations.com
 hyatt.com
 www.hyatt.com
