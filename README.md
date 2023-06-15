@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 01:31:55 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 02:46:10 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.hestview.com
 *.skybet.net
+*.hestview.com
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -3479,8 +3479,8 @@ b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-hackerone.live
 app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
