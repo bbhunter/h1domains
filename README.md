@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 22:20:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 23:21:01 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3110,8 +3110,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 shopifyinbox.com
 *.shopifykloud.com
 exchangemarketplace.com
@@ -3152,10 +3152,10 @@ snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
 my.snapchat.com
-app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
