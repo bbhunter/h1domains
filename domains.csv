@@ -1959,8 +1959,8 @@ fossil,www.fossilglobal.com,False
 fossil,www.fossil.in,False
 fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
-fossil,fossilcare.com,False
 fossil,*.fossil.com,False
+fossil,fossilcare.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2311,8 +2311,8 @@ oanda,*.tmsbrokers.com,False
 recargapay,api.recarga.com,True
 recargapay,api.recarga.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,payroll.razorpay.com,True
 razorpay,api.razorpay.com,True
+razorpay,payroll.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -3605,8 +3605,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5197,8 +5197,8 @@ tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -5614,8 +5614,8 @@ flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
 flutteruki,*.skybet.co.uk,True
-flutteruki,*.skybet.net,True
 flutteruki,*.hestview.com,True
+flutteruki,*.skybet.net,True
 flutteruki,*.datops.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
@@ -6613,8 +6613,8 @@ pixiv,hub.vroid.com,True
 pixiv,novel.pixiv.net,True
 pixiv,www.pixiv.net,True
 pixiv,booth.pm,True
-pixiv,accounts.pixiv.net,True
 pixiv,*.fanbox.cc,True
+pixiv,accounts.pixiv.net,True
 pixiv,comic.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,sketch.pixiv.net,True

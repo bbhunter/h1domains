@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 06:27:51 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 07:20:45 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -472,8 +472,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
+payroll.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1296,8 +1296,8 @@ tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -1847,8 +1847,8 @@ hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 booth.pm
-accounts.pixiv.net
 *.fanbox.cc
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
