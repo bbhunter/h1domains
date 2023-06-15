@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 12:38:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 13:26:26 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -248,8 +248,8 @@ platform.8x8.com
 voapi.8x8.com
 *.8x8staging.com
 user-profile.8x8.com
-sso.8x8pilot.com
 sms.8x8.com
+sso.8x8pilot.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2593,8 +2593,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.semrush.com
 *.sellzone.com
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
