@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 21:20:18 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 22:20:13 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1062,8 +1062,8 @@ redditforbusiness.com
 mod.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
