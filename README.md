@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 15 10:22:35 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 15 11:18:54 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -541,7 +541,6 @@ uapi-front.etoro.com
 etoropartners.com
 wallet.etoro.com
 aggregator.etoro.com
-api.etoro.com
 billing.etoro.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
@@ -550,6 +549,7 @@ streams.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1566,8 +1566,8 @@ faucet.polygon.technology
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
-*.skybet.net
 *.hestview.com
+*.skybet.net
 *.datops.io
 *.betfair.com
 *.paddypower.com
@@ -2049,12 +2049,12 @@ res.en.travelbrandsagent.com
 res.secretsresorts.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
-vacations.hotelcasavelas.com
 www.globalhotelchoices.com
 vacations.travelimpressions.com
 res.funjet.com
 www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
+vacations.hotelcasavelas.com
 world.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2344,9 +2344,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
 *.foliofn.com
+*.ayco.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
