@@ -3605,8 +3605,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5852,12 +5852,12 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
-cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
 www.ritzcarlton.com
 marriottfranchisetransactions.marriott.com
+cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -6079,8 +6079,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 connect.8x8.com
 *.8x8cloud.net
 *.8x8.com
@@ -6924,9 +6924,9 @@ press.priceline.com
 *.capitaloneshopping.com
 *.capitalone.com
 *.capitalone.co.uk
-*.capitalone.ca
 *.capitalonecards.com
 *.capitalonebank.com
+*.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
 *.wikibuy.com
