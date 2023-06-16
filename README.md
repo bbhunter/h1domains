@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 09:21:13 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 10:22:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1051,8 +1051,8 @@ sh.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1296,8 +1296,8 @@ tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1553,16 +1553,16 @@ faucet.polygon.technology
 *.paddypower.it
 *.betviewapi.com
 *.sbgcdn.com
-*.skyvegas.com
 *.operationstechnology.io
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
 *.betfair.it
 *.skybingo.com
-*.betfair.com
 *.skybet.com
 *.sportinglife.com
+*.skyvegas.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2043,9 +2043,9 @@ res.vacations.buschgardens.com
 reservations.wynnvacations.com
 www.wynnvacations.com
 res.universalorlandovacations.com
-book.booktandl.com
 book.beachbound.com
 res.blueskytours.globalbookingsolutions.com
+book.booktandl.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -3485,8 +3485,8 @@ b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
