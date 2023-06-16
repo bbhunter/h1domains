@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 04:25:26 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 05:20:46 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -104,9 +104,9 @@ hiltonhawaiianvillage.jp
 *.hilton.io
 *.hiltonbusinessonline.com
 hilton.io
-hiltonbusinessonline.com
 *.hilton.com.tr
 hiltonlocalbiz.com
+hiltonbusinessonline.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -338,8 +338,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.hotwire.com
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
