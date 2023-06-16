@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 15:22:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 16:27:16 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -105,8 +105,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 *.hilton.com.tr
-hiltonlocalbiz.com
 hiltonbusinessonline.com
+hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -736,9 +736,9 @@ pro.opensea.io
 opensea.io
 pro.opensea.io
 analytics.krisp.ai
-account.krisp.ai
 upld.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -987,8 +987,8 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 elastic-cloud.com
-*.found.io
 *.elastic-cloud.com
+*.found.io
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
@@ -1051,9 +1051,9 @@ sh.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-*.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1557,20 +1557,20 @@ faucet.polygon.technology
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
-*.betfair.it
 *.skybingo.com
 *.skybet.com
 *.sportinglife.com
 *.skyvegas.com
 *.betfair.com
+*.betfair.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
 *.skybet.co.uk
 *.skybet.net
-*.betfair.se
 *.skybetservices.com
 *.skypoker.com
+*.betfair.se
 *.platformservices.io
 *.sbgtest.net
 *.betfair.ro
@@ -2599,8 +2599,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.sellzone.com
 *.semrush.com
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -2671,8 +2671,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 *.myteksi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 jira.grab.com
 *.myteksi.net
 gamma.grab.co
