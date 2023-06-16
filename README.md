@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 02:45:17 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 03:20:55 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2246,8 +2246,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -3137,16 +3137,16 @@ create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 businesshelp.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
 playcanv.as
 store.playcanvas.com
-login.playcanvas.com
 blog.playcanvas.com
+login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
