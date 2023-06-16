@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 06:26:11 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 07:20:48 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2076,8 +2076,8 @@ vacations.united.com
 assets.hyatt.com
 www.blueskytours.com
 www.beachbound.com
-vacations.velasvallarta.com
 book.extraholidaysvacations.com
+vacations.velasvallarta.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3250,8 +3250,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
