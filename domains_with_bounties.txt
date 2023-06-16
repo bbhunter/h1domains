@@ -406,8 +406,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-www.poloniex.com
 m.poloniex.com
+www.poloniex.com
 api2.poloniex.com
 public.poloniex.com
 api.poloniex.com
