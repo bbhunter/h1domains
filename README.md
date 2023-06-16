@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 14:20:31 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 15:22:15 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -954,8 +954,8 @@ rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
-consensys.net
 activate.codefi.network
+consensys.net
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -3154,8 +3154,8 @@ map.snapchat.com
 my.snapchat.com
 www.bitmoji.com
 business.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
