@@ -1462,8 +1462,8 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.FSGB.GOV,False
-us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
+us-department-of-state,*.STATE.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -3606,8 +3606,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True

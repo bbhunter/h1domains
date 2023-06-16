@@ -1461,8 +1461,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.PEPFAR.GOV
 *.FSGB.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -2126,8 +2126,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -3605,8 +3605,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
