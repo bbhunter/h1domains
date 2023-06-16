@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 16 08:25:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 16 09:21:13 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1051,9 +1051,9 @@ sh.reddit.com
 new.reddit.com
 www.spiketrap.io
 s.reddit.com
-gateway.reddit.com
 ads-api.reddit.com
 *.reddit.com
+gateway.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -2062,7 +2062,6 @@ www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
 vacations.hotelcasavelas.com
 world.hyatt.com
-roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
 res.breathlessresorts.com
@@ -2078,6 +2077,7 @@ www.blueskytours.com
 www.beachbound.com
 book.extraholidaysvacations.com
 vacations.velasvallarta.com
+roominglist.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
