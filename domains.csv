@@ -1299,8 +1299,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -2036,10 +2036,10 @@ fossil,fossilcare.com,False
 fossil,fossilcrm.com,False
 fossil,fossilgroup.com,False
 fossil,fossil.com.vn,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -3606,8 +3606,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
