@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 16:24:54 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 17 17:18:06 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2369,11 +2369,11 @@ goldmansachsindices.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.de
 research.gs.com
 *.folioinstitutional.com
 *.gs.com
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
