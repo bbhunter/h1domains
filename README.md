@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 03:22:26 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 17 04:23:25 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2903,8 +2903,8 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp-support.com
 *.yelp.com
+*.yelp-support.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com

@@ -2897,8 +2897,8 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp-support.com
 *.yelp.com
+*.yelp-support.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
