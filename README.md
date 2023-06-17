@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 17 13:23:36 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 17 14:17:08 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1528,9 +1528,9 @@ mapper.polygon.technology
 wallet.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
-watchgod.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
+watchgod.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
