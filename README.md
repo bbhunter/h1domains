@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 18 12:34:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 18 13:22:05 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -548,8 +548,8 @@ kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-streams.etoro.com
 api.etoro.com
+streams.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1789,9 +1789,9 @@ ga4gh.dev.lifeomic.com
 *.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2372,8 +2372,8 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.gs.de
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3114,8 +3114,8 @@ shop.app
 *.shopifycloud.com
 shopifyinbox.com
 exchangemarketplace.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
@@ -3416,8 +3416,8 @@ paradex.io
 pro.coinbase.com
 custody.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
