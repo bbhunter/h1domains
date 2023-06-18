@@ -3108,8 +3108,8 @@ shop.app
 *.shopifycloud.com
 shopifyinbox.com
 exchangemarketplace.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
