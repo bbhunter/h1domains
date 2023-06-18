@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2280,8 +2280,8 @@ planetart,www.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
-planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2443,8 +2443,8 @@ etoro_bbp,kyc.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
 etoro_bbp,charts.etoro.com,True
 etoro_bbp,etorox.com,True
-etoro_bbp,api.etoro.com,True
 etoro_bbp,streams.etoro.com,True
+etoro_bbp,api.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
@@ -5197,9 +5197,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -5742,8 +5742,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6935,8 +6935,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -8686,8 +8686,8 @@ coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
