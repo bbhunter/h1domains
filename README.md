@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 18 13:22:05 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 18 14:17:50 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -220,8 +220,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -857,8 +857,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2372,8 +2372,8 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.gs.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2576,8 +2576,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3114,8 +3114,8 @@ shop.app
 *.shopifycloud.com
 shopifyinbox.com
 exchangemarketplace.com
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopify.plus
 accounts.shopify.com
 *.shopify.com
@@ -3416,8 +3416,8 @@ paradex.io
 pro.coinbase.com
 custody.coinbase.com
 *.coinbase.com
-api.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
