@@ -1299,8 +1299,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -2127,8 +2127,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -3606,8 +3606,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -8254,8 +8254,8 @@ shopify,shop.app,True
 shopify,*.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,exchangemarketplace.com,True
-shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
+shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
@@ -8686,8 +8686,8 @@ coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
