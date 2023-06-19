@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 07:22:13 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 08:26:49 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -16,13 +16,21 @@ yourdomain.freshcaller.com
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.krisha.kz
+m.krisha.kz
 kolesa.kz
 m.kolesa.kz
+app.krisha.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
+krisha.kz
+m.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
+api.krisha.kz
+app.krisha.kz
 ring.com/*
 api.ring.com/*
 fw.ring.com/*
@@ -2372,8 +2380,8 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.gs.de
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2576,8 +2584,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
