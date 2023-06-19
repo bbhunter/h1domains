@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 11:18:48 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 12:40:35 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -15,8 +15,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.kolesa.kz
 app.kolesa.kz
-id.kolesa.kz
 api.krisha.kz
+id.kolesa.kz
 m.krisha.kz
 kolesa.kz
 m.kolesa.kz
@@ -2584,8 +2584,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3145,9 +3145,9 @@ create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
