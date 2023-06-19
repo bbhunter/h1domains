@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 02:48:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 03:23:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -220,8 +220,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -548,8 +548,8 @@ kyc.etoro.com
 tapi-real.etoro.com
 charts.etoro.com
 etorox.com
-streams.etoro.com
 api.etoro.com
+streams.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -995,8 +995,8 @@ elastic-cloud.com
 *.swiftype.com
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2372,7 +2372,7 @@ api.foliofn.com
 research.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.folioclient.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3151,11 +3151,11 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 map.snapchat.com
-my.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 playcanvas.com
 app.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
