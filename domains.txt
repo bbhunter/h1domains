@@ -994,8 +994,8 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 contile.services.mozilla.com
-addons.allizom.org
 phabricator.services.mozilla.com
+addons.allizom.org
 crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
@@ -1967,8 +1967,8 @@ www.fossil.in
 *.cdgcitizen.com
 *.smartwatchstations.com
 fossilcare.com
-*.fossil.com
 www.skagen-japan.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.fr
@@ -3527,8 +3527,8 @@ wonderboxdev.com
 fortnite.com
 *.popjam.com
 *.easy.ac
-capturingreality.com
 *.mediatonic.co.uk
+capturingreality.com
 *.psyonix.com
 *.3lateral.com
 *.dropmix.com
@@ -3614,8 +3614,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -8744,8 +8744,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
