@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 19 21:20:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 19 22:21:12 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1695,8 +1695,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
@@ -2379,9 +2379,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
 *.folioinstitutional.com
-*.gs.de
 *.gs.com
 *.folioclient.com
+*.gs.de
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2584,8 +2584,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3258,8 +3258,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 www.hoteltonight.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
