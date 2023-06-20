@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 09:21:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 10:22:23 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2230,8 +2230,8 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-casper.com
 legacy.casper.com
+casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2850,11 +2850,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-www.starbucks.fr
 cart.starbucks.co.jp
 www.starbucks.com.br
 www.starbucksreserve.com
 www.starbucks.co.uk
+www.starbucks.fr
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
@@ -3156,13 +3156,13 @@ blog.playcanvas.com
 login.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-store.snapchat.com
 map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 playcanvas.com
+store.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3488,12 +3488,12 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 www.hackerone.com
-b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
