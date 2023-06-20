@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 17:22:55 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 18:26:59 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -63,8 +63,8 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
 phabricator.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
@@ -228,8 +228,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1068,10 +1068,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 oauth.reddit.com
-matrix.redditspace.com
 mod.reddit.com
 www.reddit.com
 accounts.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1102,8 +1102,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2254,8 +2254,8 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3125,8 +3125,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
