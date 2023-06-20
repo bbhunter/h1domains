@@ -1402,10 +1402,10 @@ connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
-platform.8x8pilot.com
 *.jit.si
 *.chalet.8x8.com
 cloud8.8x8.com
+platform.8x8pilot.com
 platform.8x8.com
 *.packet8.net
 voapi.8x8.com
@@ -1843,8 +1843,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2047,10 +2047,10 @@ fossilcrm.com
 fossilgroup.com
 fossil.com.vn
 www.shopkatchin.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2138,8 +2138,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -3617,8 +3617,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -6103,8 +6103,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.easycontactnow.com
 *.thinkingphones.com
+*.easycontactnow.com
 *.8x8cloud.net
 *.8x8.com
 connect.8x8.com
@@ -7397,9 +7397,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
@@ -7802,8 +7802,8 @@ badoocdn.com
 heyfiesta.com
 eu1.badoo.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -8286,9 +8286,9 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
+accounts.snapchat.com
 forum.playcanvas.com
 relay.playcanvas.com
 code.playcanvas.com
@@ -8519,8 +8519,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com

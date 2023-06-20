@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 15:26:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 16:27:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -247,10 +247,10 @@ connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
-platform.8x8pilot.com
 *.jit.si
 *.chalet.8x8.com
 cloud8.8x8.com
+platform.8x8pilot.com
 platform.8x8.com
 *.packet8.net
 voapi.8x8.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
@@ -2715,8 +2715,8 @@ badoocdn.com
 heyfiesta.com
 eu1.badoo.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3143,9 +3143,9 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
+accounts.snapchat.com
 forum.playcanvas.com
 relay.playcanvas.com
 code.playcanvas.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
