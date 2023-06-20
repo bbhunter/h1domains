@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 02:42:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 03:22:52 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2378,9 +2378,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.gs.de
 *.gs.com
 *.folioclient.com
+*.gs.de
 *.gsam.com
 *.goldmansachs.com
 *.gs.com
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
