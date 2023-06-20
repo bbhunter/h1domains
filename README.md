@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 14:24:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 15:26:19 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -278,8 +278,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1047,9 +1047,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1060,8 +1060,8 @@ new.reddit.com
 www.spiketrap.io
 s.reddit.com
 ads-api.reddit.com
-*.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -1070,8 +1070,8 @@ redditforbusiness.com
 oauth.reddit.com
 matrix.redditspace.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1102,8 +1102,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2479,8 +2479,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-ops.net
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -2583,8 +2583,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2954,8 +2954,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3143,10 +3143,10 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-forum.playcanvas.com
 accounts.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
+forum.playcanvas.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3161,8 +3161,8 @@ www.bitmoji.com
 my.snapchat.com
 app.snapchat.com
 playcanvas.com
-store.snapchat.com
 business.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3492,8 +3492,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 hackerone.live
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
