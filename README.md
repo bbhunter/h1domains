@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 20 08:28:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 20 09:21:05 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2378,9 +2378,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.gs.de
 *.gs.com
 *.folioclient.com
+*.gs.de
 *.gsam.com
 *.goldmansachs.com
 *.gs.com
@@ -3144,9 +3144,9 @@ create.snapchat.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-businesshelp.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3473,8 +3473,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
