@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 11:19:42 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 12:42:30 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -242,8 +242,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -346,8 +346,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1189,8 +1189,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1304,8 +1304,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
@@ -2858,9 +2858,9 @@ www.starbucks.co.uk
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -3353,9 +3353,9 @@ gnip.com
 *.twimg.com
 gnip.com
 cloudflareworkers.com
-*.cloudflare.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
