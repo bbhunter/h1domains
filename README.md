@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 02:43:05 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 03:23:55 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -149,8 +149,8 @@ priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-super-services.indriverapp.com
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indriver.com
 *.indrive.com
@@ -228,8 +228,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2377,9 +2377,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
+*.gs.de
 *.gs.com
 *.folioclient.com
-*.gs.de
 *.gsam.com
 *.folioinstitutional.com
 *.goldmansachs.com
