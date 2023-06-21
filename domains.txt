@@ -420,7 +420,6 @@ incopat.xn--xhq521b
 incopat.xyz
 incopat.yoga
 inprotech.asia
-inprotechlab.com
 inprotechnews.com
 inprowiki.com
 ipfolio.cc
@@ -901,6 +900,7 @@ bigchaulk.net
 bigchaulk.org
 bigchawk.com
 bigchock.com
+bigfishgames.fr
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -974,8 +974,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1397,8 +1397,8 @@ processaccess.kkr.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1843,8 +1843,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2047,10 +2047,10 @@ fossilcrm.com
 fossilgroup.com
 fossil.com.vn
 www.shopkatchin.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2138,8 +2138,8 @@ banfieldfoundation.org
 *.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
@@ -2529,8 +2529,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.era.com
-*.century21.*
 *.bhgre.*
+*.century21.*
 *.corcoran.*
 *.nrtllc.*
 *.sothebysrealty.*
@@ -3617,8 +3617,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5209,8 +5209,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -5632,9 +5632,9 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.sportinglife.com
-*.betfair.com
 *.betfair.it
 *.skyvegas.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -6103,8 +6103,8 @@ kubernetes.io
 k8s.io
 kubernetes-csi.github.io
 get8x8.com
-*.thinkingphones.com
 *.easycontactnow.com
+*.thinkingphones.com
 *.8x8cloud.net
 *.8x8.com
 connect.8x8.com
@@ -6766,8 +6766,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -8765,8 +8765,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
