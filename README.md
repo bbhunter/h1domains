@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 21 13:30:47 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 21 14:23:55 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1654,17 +1654,17 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2244,8 +2244,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.xoom.com
 *.braintreepayments.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2954,8 +2954,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3145,8 +3145,8 @@ story.snapchat.com
 ads.snapchat.com
 businesshelp.snapchat.com
 create.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
