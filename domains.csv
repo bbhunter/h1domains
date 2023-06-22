@@ -1404,8 +1404,8 @@ kkr_vdp,www.kkrreit.com,False
 kkr_vdp,www.kkresg.com,False
 kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -2147,8 +2147,8 @@ mars,*.pedigree.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.royalcanin.fr,False
@@ -2456,7 +2456,6 @@ etoro_bbp,etoropartners.com,True
 etoro_bbp,wallet.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
-etoro_bbp,billing.etoro.com,True
 etoro_bbp,push-hap.cloud.etoro.com,True
 etoro_bbp,push-n-hap.cloud.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
@@ -2465,6 +2464,7 @@ etoro_bbp,etorox.com,True
 etoro_bbp,streams.etoro.com,True
 etoro_bbp,kyc.etoro.com,True
 etoro_bbp,api.etoro.com,True
+etoro_bbp,billing.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,push-d-gw.cloud.etoro.com,True
 etoro_bbp,r.etoro.com,True
@@ -4250,8 +4250,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,gql.reddit.com,True
-reddit,old.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,old.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -5244,9 +5244,9 @@ logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
 logitech,*.logitech.com,False
+logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
-logitech,*.logi.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
 logitech,circle.logi.com,True
@@ -5742,8 +5742,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -6072,9 +6072,9 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
@@ -6122,8 +6122,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work.8x8.com,False
 8x8,*.chalet.8x8.com,False
 8x8,*.jitsi.org,False
-8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
@@ -6762,8 +6762,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
@@ -7251,8 +7251,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
 paypal,py.pl,True
-paypal,*.braintreepayments.com,True
 paypal,*.xoom.com,True
+paypal,*.braintreepayments.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7375,9 +7375,9 @@ goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.foliofn.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
+goldmansachs,*.foliofn.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.gspublishing.com,True
