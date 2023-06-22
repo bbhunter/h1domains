@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 05:21:41 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 06:24:58 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -278,8 +278,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -346,8 +346,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.expediapartnercentral.com
 www.ebookers.fi
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1793,9 +1793,9 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
-api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+api.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2859,8 +2859,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.co.jp
@@ -3256,8 +3256,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
