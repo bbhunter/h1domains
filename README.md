@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 14:27:29 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 15:26:07 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -124,8 +124,8 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -250,8 +250,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -2866,13 +2866,13 @@ www.starbucks.co.uk
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
-www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3153,8 +3153,8 @@ story.snapchat.com
 ads.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
-businesshelp.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 relay.playcanvas.com
 code.playcanvas.com
 scan.snapchat.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
