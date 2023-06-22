@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 10:27:52 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 11:20:27 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -116,8 +116,8 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hiltonjapan.co.jp
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -138,8 +138,8 @@ hiltonlocalbiz.com
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-ab-platform-api.eu-east-1.indriverapp.com
 *.indrive.com
+ab-platform-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
@@ -556,8 +556,8 @@ tapi-real.etoro.com
 charts.etoro.com
 etorox.com
 streams.etoro.com
-api.etoro.com
 kyc.etoro.com
+api.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -865,8 +865,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1048,8 +1048,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
