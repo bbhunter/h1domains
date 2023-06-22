@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 13:29:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 14:27:29 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -65,11 +65,14 @@ contile.services.mozilla.com
 phabricator.services.mozilla.com
 addons.allizom.org
 aus5.mozilla.org
+lando.services.mozilla.com
+hg.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
+hg.mozilla.org
 phabricator.services.mozilla.com
 contile.services.mozilla.com
 merino.services.mozilla.com
@@ -80,9 +83,11 @@ sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
+lando.services.mozilla.com
 relay.firefox.com
 getpocket.com
 support.mozilla.org
+hg.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -98,6 +103,7 @@ api.profiler.firefox.com
 www.mozilla.org
 getpocket.com
 support.mozilla.org
+hg.mozilla.org
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -244,8 +250,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -867,16 +873,16 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-app.recordedfuture.com
 therecord.media
+app.recordedfuture.com
 hatching.io
 api.recordedfuture.com
 securitytrails.com
@@ -1568,11 +1574,11 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.skybingo.com
-*.skybet.com
 *.betfair.it
 *.skyvegas.com
 *.betfair.com
 *.sportinglife.com
+*.skybet.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1684,9 +1690,9 @@ www.alibabagroup.com
 www.mini.de
 configure.bmw.de
 www.bmw.de
-configure.mini.de
 konfigurator.bmw-motorrad.de
 www.bmw-motorrad.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1795,9 +1801,9 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
-api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+api.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2246,8 +2252,8 @@ swiftfinancial.com
 *.paylution.com
 *.braintree-api.com
 py.pl
-*.braintreepayments.com
 *.xoom.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3127,8 +3133,8 @@ partners.shopify.com
 *.shopifykloud.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
