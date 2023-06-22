@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 22 12:43:53 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 22 13:29:05 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -82,6 +82,7 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 relay.firefox.com
 getpocket.com
+support.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -96,6 +97,7 @@ monitor.firefox.com
 api.profiler.firefox.com
 www.mozilla.org
 getpocket.com
+support.mozilla.org
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -242,8 +244,8 @@ jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -865,8 +867,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3256,8 +3258,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
