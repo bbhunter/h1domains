@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 23 15:28:50 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 23 16:32:53 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -563,9 +563,9 @@ tapi-real.etoro.com
 charts.etoro.com
 etorox.com
 streams.etoro.com
-kyc.etoro.com
 billing.etoro.com
 api.etoro.com
+kyc.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1003,8 +1003,8 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 elastic-cloud.com
-*.elastic-cloud.com
 *.found.io
+*.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
@@ -1048,8 +1048,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2366,9 +2366,9 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.ayco.com
 *.goldman.com
 *.foliofn.com
+*.ayco.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
@@ -3455,8 +3455,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
