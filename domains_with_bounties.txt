@@ -1050,8 +1050,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1532,12 +1532,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
 wallet.polygon.technology
 bridge-explorer.polygon.technology
+burn.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
 watchgod.polygon.technology
@@ -1795,8 +1795,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
