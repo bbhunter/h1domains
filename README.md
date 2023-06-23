@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 23 11:23:55 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 23 12:40:28 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -248,9 +248,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.8x8.vc
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
+*.8x8.vc
 sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -336,8 +336,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.expediagroup.com
-www.abritel.fr
 www.mrjet.se
+www.abritel.fr
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -903,9 +903,9 @@ logs.fr.cloud.gov
 ssh.fr.cloud.gov
 admin-catalog-bsp.data.gov
 *.code.gov
-*.search.gov
 www.data.gov
 www.usa.gov
+*.search.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 grafana.fr.cloud.gov
@@ -996,8 +996,8 @@ www.xvideos.red
 www.xnxx.com
 gold.xnxx.com
 https://www.xvideos.net/app/
-www.trafficfactory.com
 *.trafficfactory.biz
+www.trafficfactory.com
 main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
@@ -1056,8 +1056,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1078,8 +1078,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1312,8 +1312,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1671,8 +1671,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
