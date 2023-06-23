@@ -242,8 +242,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 sso.8x8.com
 *.jitsi.net
 uc.8x8pilot.com
@@ -1050,8 +1050,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
