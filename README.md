@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 24 07:19:58 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 24 08:27:05 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -353,9 +353,9 @@ www.expedia.com
 www.expediacruises.com
 www.stayz.com.au
 www.ebookers.fi
-www.hotwire.com
 www.wotif.com
 www.expediapartnercentral.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2991,8 +2991,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-registry.gitlab.com
 *.gitlab.net
+registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -3160,8 +3160,8 @@ scan.snapchat.com
 playcanv.as
 store.playcanvas.com
 blog.playcanvas.com
-relay.playcanvas.com
 login.playcanvas.com
+relay.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
@@ -3458,8 +3458,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
