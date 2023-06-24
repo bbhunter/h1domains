@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 24 22:20:27 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jun 24 23:20:57 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -249,9 +249,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -313,8 +313,8 @@ share.doppler.com
 www.engelvoelkers.com
 www.engelvoelkers.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
@@ -1008,11 +1008,11 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2962,8 +2962,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -3160,8 +3160,8 @@ scan.snapchat.com
 playcanv.as
 store.playcanvas.com
 blog.playcanvas.com
-relay.playcanvas.com
 login.playcanvas.com
+relay.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
@@ -3264,8 +3264,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-*.hoteltonight-test.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -3389,8 +3389,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3450,8 +3450,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
