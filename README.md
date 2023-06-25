@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 25 20:24:05 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jun 25 21:21:04 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -154,8 +154,8 @@ profile-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
@@ -249,9 +249,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -313,8 +313,8 @@ share.doppler.com
 www.engelvoelkers.com
 www.engelvoelkers.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.cryptopunks.app
 *.yugalabs.io
@@ -384,8 +384,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1631,8 +1631,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -1671,8 +1671,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2962,16 +2962,16 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-education.github.com
 npmjs.org
 github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3450,8 +3450,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
