@@ -922,8 +922,8 @@ www.mercadopago.com.br
 www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadopago.cl
 api.mercadopago.com
 www.mercadolibre.cl
@@ -1317,8 +1317,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1402,11 +1402,11 @@ www.kkrfunds.com
 www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
-work.8x8.com
 sso.8x8.com
 *.8x8.vc
 *.jitsi.net
 connect.8x8.com
+work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1644,8 +1644,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1851,8 +1851,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2055,10 +2055,10 @@ fossilcrm.com
 fossilgroup.com
 fossil.com.vn
 www.shopkatchin.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2143,7 +2143,6 @@ banfieldexchange.com
 banfieldfoundation.org
 *.vcahospitals.com
 *.pedigree.com
-*.mms.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -2151,6 +2150,7 @@ banfieldfoundation.org
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.royalcanin.fr
+*.mms.com
 *.marschocolate.com
 *.wikichien.fr
 *.plataformaurinary.com
@@ -2461,9 +2461,9 @@ tapi-real.etoro.com
 streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
-etorox.com
-charts.etoro.com
 api.etoro.com
+charts.etoro.com
+etorox.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -2537,8 +2537,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.era.com
 *.century21.*
+*.era.com
 *.sothebysrealty.*
 *.nrtllc.*
 *.corcoran.*
@@ -5974,8 +5974,8 @@ tco18.topcoder.com
 zurich.topcoder.com
 challenges.topcoder.com
 vanilla.topcoder-dev.com
-www.topcoder.com
 accounts-auth0.topcoder.com
+www.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
@@ -6118,11 +6118,11 @@ platform.8x8.com
 *.8x8pilot.com
 *.8x8.uk
 *.adgjmp.net
-work.8x8.com
 *.chalet.8x8.com
 *.jitsi.org
 sso.8x8.com
 *.jitsi.net
+work.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
@@ -6761,8 +6761,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -8010,8 +8010,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -8091,8 +8091,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com
@@ -8515,8 +8515,8 @@ admin.demo.urbandoor.com
 *.muscache.com
 luckey.fr
 luckey.in
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 luckey.partners
 api.airbnb.com
@@ -8650,8 +8650,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -8711,8 +8711,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
@@ -8742,8 +8742,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -8755,8 +8755,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
-www.hackerone.com
 *.vpn.hackerone.net
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
