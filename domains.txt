@@ -1102,8 +1102,8 @@ hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
-*.hilton.com.tr
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -1234,8 +1234,8 @@ http://miro.com/blog
 *.abb.com.cn
 *.tnb.com
 *.abb.com.tr
-*.abb.com
 *.baldor.com
+*.abb.com
 *.abb
 *.abb.com
 *.abb
@@ -1765,9 +1765,9 @@ resmed.sg
 resmed.ch
 resmed.la
 propellerhealth.com
-airview.resmed.eu
 mealtracker.com
 onlinestore.resmed.com
+airview.resmed.eu
 resmed.lat
 resmed.vn
 resmed.pt
@@ -1851,8 +1851,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2290,9 +2290,9 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
+www.cafepress.com
 *.gifts.com
 *.photoaffections.com
 www.canvasworld.com
@@ -2537,8 +2537,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.era.com
 *.century21.*
+*.era.com
 *.sothebysrealty.*
 *.nrtllc.*
 *.corcoran.*
@@ -3625,8 +3625,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4249,8 +4249,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -5242,9 +5242,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
+*.logi.com
 alert.logitech.com
 *.myharmony.com
-*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -5330,8 +5330,8 @@ goerli.cloud.enjin.io
 jumpnet.cloud.enjin.io
 beam.enjin.io
 jumpnet.beam.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -5835,8 +5835,8 @@ relaxcdn.unibet.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.unibet.fr
 *.bingo.com
+*.unibet.fr
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -6071,8 +6071,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -6761,8 +6761,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -7952,8 +7952,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com.sg
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -8263,9 +8263,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8650,8 +8650,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -8711,8 +8711,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
