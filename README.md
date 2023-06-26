@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 09:26:52 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 10:26:03 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -250,9 +250,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -566,8 +566,8 @@ streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
 charts.etoro.com
-etorox.com
 api.etoro.com
+etorox.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1058,8 +1058,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1673,8 +1673,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1718,8 +1718,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.bingo.com
 *.unibet.fr
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -1803,8 +1803,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2971,9 +2971,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
+github.com
 *.githubusercontent.com
 education.github.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3134,9 +3134,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3391,8 +3391,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
