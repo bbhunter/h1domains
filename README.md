@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 18:30:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 19:27:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -343,9 +343,9 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.orbitz.com
 www.expediaagents.com
-www.expediagroup.com
 www.mrjet.se
 www.abritel.fr
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -1063,9 +1063,9 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 ads.reddit.com
 old.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
