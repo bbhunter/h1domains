@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 15:34:42 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 16:32:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,9 +256,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1259,8 +1259,8 @@ sf-rp-eu.sharefile.com
 (yoursubdomain).sharefile.com
 api.sharefile.com
 www.cloud.com
-*.browser.cloud.com
 accounts.cloud.com
+*.browser.cloud.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
@@ -2933,8 +2933,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -2978,8 +2978,8 @@ gist.github.com
 *.github.net
 npmjs.org
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3397,8 +3397,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-*.tumblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
