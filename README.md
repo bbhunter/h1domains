@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 10:26:03 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 11:19:42 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -57,6 +57,7 @@ www.tide.co
 crash-stats.allizom.org
 accounts.firefox.com
 firefox.settings.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -86,14 +87,17 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
 pontoon.mozilla.org
+firefox-ci-tc.services.mozilla.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
+community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 developer.mozilla.org
@@ -106,6 +110,8 @@ www.mozilla.org
 getpocket.com
 support.mozilla.org
 hg.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 node.e2ro.com/*
@@ -156,8 +162,8 @@ profile-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
@@ -875,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1058,8 +1064,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 gql.reddit.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1803,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2971,9 +2977,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
-github.com
 *.githubusercontent.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3134,9 +3140,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3391,8 +3397,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
