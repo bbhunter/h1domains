@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 21:22:26 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 22:23:25 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -90,9 +90,9 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 relay.firefox.com
 support.mozilla.org
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
+hg.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -1063,8 +1063,8 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 gql.reddit.com
 m.reddit.com
 strapi.reddit.com
