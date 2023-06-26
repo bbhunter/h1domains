@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 07:24:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 08:32:21 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -85,9 +85,9 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
 relay.firefox.com
-getpocket.com
 support.mozilla.org
 hg.mozilla.org
+getpocket.com
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -213,8 +213,8 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-api.sokos.fi
 online.s-pankki.fi
+api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
@@ -873,8 +873,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1569,7 +1569,6 @@ faucet.polygon.technology
 *.paddypower.it
 *.betviewapi.com
 *.sbgcdn.com
-*.operationstechnology.io
 *.msgsvc.io
 *.securityservices.io
 *.skybettest.net
@@ -1579,6 +1578,7 @@ faucet.polygon.technology
 *.betfair.com
 *.sportinglife.com
 *.skybet.com
+*.operationstechnology.io
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -1716,8 +1716,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.bingo.com
 *.unibet.fr
+*.bingo.com
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -1801,8 +1801,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2969,9 +2969,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
+github.com
 *.githubusercontent.com
 education.github.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -3132,9 +3132,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3389,8 +3389,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
