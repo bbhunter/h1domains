@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 08:32:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 09:26:52 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -68,6 +68,7 @@ aus5.mozilla.org
 lando.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
+pontoon.mozilla.org
 location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -84,6 +85,7 @@ push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
+pontoon.mozilla.org
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
@@ -248,9 +250,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -873,8 +875,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1413,7 +1415,7 @@ www.marionnaud.sk
 app.watsons.com.tr
 www.kruidvat.nl
 www10.watsons.com.my
-www.theperfumeshop.com
+api.watsons.com.hk
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1663,8 +1665,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1716,8 +1718,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.unibet.fr
 *.bingo.com
+*.unibet.fr
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -2969,9 +2971,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
-github.com
 *.githubusercontent.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3265,8 +3267,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 luckey.partners
 api.airbnb.com
 assets.airbnb.com
@@ -3450,8 +3452,8 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-spaces.pm
 api.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
