@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 20:26:34 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 21:22:26 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -392,8 +392,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1063,8 +1063,8 @@ www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 gql.reddit.com
 m.reddit.com
 strapi.reddit.com
@@ -1728,8 +1728,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.unibet.com
 *.kindredext.net
+*.unibet.com
 *.ottokasino.com
 *.storspiller.com
 *.igame.com
@@ -2258,10 +2258,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
-py.pl
 *.xoom.com
 *.braintreepayments.com
 *.braintree-api.com
+py.pl
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
