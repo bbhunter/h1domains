@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 26 13:35:35 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jun 26 14:25:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -69,8 +69,8 @@ aus5.mozilla.org
 lando.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
-pontoon.mozilla.org
 location.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -86,8 +86,8 @@ push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 lando.services.mozilla.com
-pontoon.mozilla.org
 firefox-ci-tc.services.mozilla.com
+mozilla-pontoon-staging.herokuapp.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
@@ -499,8 +499,8 @@ dashboard.razorpay.com
 payroll.razorpay.com
 api.razorpay.com
 x.razorpay.com
-invoices.razorpay.com
 checkout.razorpay.com
+invoices.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1531,9 +1531,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 store.playstation.com
-*.api.playstation.com
 direct.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2836,8 +2836,8 @@ circolocorecords.com/
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-www.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -2933,8 +2933,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3397,8 +3397,8 @@ wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
-mailpoet.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3458,13 +3458,13 @@ cloud.coinbase.com
 paradex.io
 *.base.org
 status.slack.com
-api.slack.com
 spaces.pm
+api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
