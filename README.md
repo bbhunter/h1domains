@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 05:24:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 06:29:50 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -55,9 +55,9 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
-accounts.firefox.com
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2977,9 +2977,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 npmjs.org
-*.githubusercontent.com
 education.github.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
