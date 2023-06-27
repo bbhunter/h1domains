@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 22:22:45 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 23:23:11 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1639,8 +1639,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2909,8 +2909,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 search.brave.com
-talk.brave.com
 brave.com
+talk.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
@@ -2930,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3164,9 +3164,9 @@ code.playcanvas.com
 scan.snapchat.com
 playcanv.as
 store.playcanvas.com
-blog.playcanvas.com
 relay.playcanvas.com
 login.playcanvas.com
+blog.playcanvas.com
 rt.playcanvas.com
 snappublisher.snapchat.com
 map.snapchat.com
