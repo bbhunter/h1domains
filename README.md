@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 09:25:04 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 10:26:02 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2933,8 +2933,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3368,6 +3368,21 @@ gnip.com
 *.vine.co
 *.twimg.com
 gnip.com
+cloudflareworkers.com
+one.dash.cloudflare.com
+*.cloudflare.com
+*.teams.cloudflare.com
+api.cloudflare.com
+waf.cumulusfire.net
+dash.cloudflare.com
+dash.cloudflare.com
+cloudflareworkers.com
+*.teams.cloudflare.com
+api.cloudflare.com
+*.cloudflare.com
+http://github.com/cloudflare
+one.dash.cloudflare.com
+waf.cumulusfire.net
 cloudflareworkers.com
 one.dash.cloudflare.com
 *.cloudflare.com
