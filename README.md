@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 15:29:38 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 16:33:39 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -2833,8 +2833,8 @@ circolocorecords.com/
 lifeinvader.com
 rockstarnorth.com
 app.files.com
-your-assigned-subdomain.files.com
 www.files.com
+your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -2930,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
