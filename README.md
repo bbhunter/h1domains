@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 14:26:28 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 15:29:38 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-*.jitsi.net
 connect.8x8.com
+*.jitsi.net
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -1015,9 +1015,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
