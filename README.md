@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 27 13:34:44 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jun 27 14:26:28 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -256,8 +256,8 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1574,7 +1574,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.paddypower.it
 *.betviewapi.com
 *.sbgcdn.com
 *.msgsvc.io
@@ -1587,6 +1586,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.skybet.com
 *.operationstechnology.io
+*.paddypower.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2246,13 +2246,10 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-legacy.casper.com
 casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
-http://legacy.casper.com/admin
-legacy.casper.com
 matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
@@ -2933,8 +2930,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -2978,8 +2975,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3347,8 +3344,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 onboarding.greenhouse.io
-support.greenhouse.io
 api.greenhouse.io
+support.greenhouse.io
 jss.greenhouse.io
 boards.greenhouse.io
 app.greenhouse.io

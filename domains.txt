@@ -17,11 +17,11 @@ www.egress.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -1447,8 +1447,8 @@ www.kkrreit.com
 www.kkresg.com
 processaccess.kkr.com
 sso.8x8.com
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 work.8x8.com
 *.8x8.vc
 uc.8x8pilot.com
@@ -1485,8 +1485,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1895,8 +1895,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2188,8 +2188,8 @@ banfieldfoundation.org
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3669,8 +3669,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5662,7 +5662,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.paddypower.it
 *.betviewapi.com
 *.sbgcdn.com
 *.msgsvc.io
@@ -5675,6 +5674,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.skybet.com
 *.operationstechnology.io
+*.paddypower.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -6807,8 +6807,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -7282,13 +7282,10 @@ fanduel.design
 *.flickr.com
 bedpost.casper.com
 operator.casper.tools
-legacy.casper.com
 casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
-http://legacy.casper.com/admin
-legacy.casper.com
 matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
@@ -8054,8 +8051,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -8143,8 +8140,8 @@ gist.github.com
 *.github.net
 npmjs.org
 education.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -8638,8 +8635,8 @@ donations.livestream.com
 *.informatica.com
 *.informaticacloud.com
 onboarding.greenhouse.io
-support.greenhouse.io
 api.greenhouse.io
+support.greenhouse.io
 jss.greenhouse.io
 boards.greenhouse.io
 app.greenhouse.io
