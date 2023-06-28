@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 17:23:34 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 18:28:47 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -324,11 +324,13 @@ www.engelvoelkers.com
 *.otherside.xyz
 *.yuga.com
 *.meebits.app
+*.10ktf.com
 *.cryptopunks.app
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
 hv-mtl.com
+*.wenewmoments.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -336,6 +338,8 @@ hv-mtl.com
 *.meebits.app
 *.cryptopunks.app
 *.mdvmm.xyz
+*.10ktf.com
+*.wenewmoments.com
 dookeydash.com
 hv-mtl.com
 www.hotwirepartnercentral.com
@@ -2930,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
