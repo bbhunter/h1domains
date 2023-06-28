@@ -1756,10 +1756,10 @@ reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-all-inclusive.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
+all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -2990,8 +2990,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-registry.gitlab.com
 *.gitlab.net
+registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com

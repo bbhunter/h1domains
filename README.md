@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 08:29:38 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 09:26:05 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1762,10 +1762,10 @@ reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-all-inclusive.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
+all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
@@ -2996,8 +2996,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-registry.gitlab.com
 *.gitlab.net
+registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
