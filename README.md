@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 10:27:13 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 11:21:59 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1809,8 +1809,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2278,9 +2278,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.paypalcorp.com
 paypalobjects.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2822,8 +2822,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
-support.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -2872,8 +2872,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
