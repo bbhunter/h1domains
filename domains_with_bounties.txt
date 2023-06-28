@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2928,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3458,8 +3458,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com

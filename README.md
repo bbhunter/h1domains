@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 20:24:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 21:21:45 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3464,8 +3464,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
