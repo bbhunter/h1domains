@@ -1895,8 +1895,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
+rivian_automotive,*.rivianservices.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2022,8 +2022,8 @@ fossil,*.smartwatchstations.com,False
 fossil,fossilcare.com,False
 fossil,www.skagen-japan.com,False
 fossil,*.cdgcitizen.com,False
-fossil,*.fossilgroup.com,False
 fossil,*.fossil.com,False
+fossil,*.fossilgroup.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.fr,False
@@ -2191,8 +2191,8 @@ mars,banfieldfoundation.org,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -4072,8 +4072,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -5289,9 +5289,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -6118,8 +6118,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -7938,8 +7938,8 @@ rockstargames,circolocorecords.com/,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
+rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -7996,8 +7996,8 @@ starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.com,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
+starbucks,app.starbucks.com,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
@@ -8786,8 +8786,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
