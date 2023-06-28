@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jun 28 03:36:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jun 28 04:28:18 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -344,8 +344,8 @@ www.hotels.com
 www.orbitz.com
 www.expediaagents.com
 www.abritel.fr
-www.expediagroup.com
 www.mrjet.se
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.vrbo.com
@@ -881,8 +881,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1086,8 +1086,8 @@ redditforbusiness.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
-matrix.redditspace.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1679,8 +1679,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.1688.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2872,8 +2872,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3486,8 +3486,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
