@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 10:26:50 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 11:21:20 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -94,8 +94,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 getpocket.com
 monitor.firefox.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -431,8 +431,8 @@ cloud.gravitational.io
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-tools.deribit.com
 metrics.deribit.com
+tools.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
