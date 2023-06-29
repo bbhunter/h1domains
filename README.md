@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 11:21:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 12:42:01 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -227,8 +227,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-pankki.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1683,8 +1683,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3026,8 +3026,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
