@@ -1,5 +1,3 @@
-www.egress.com
-www.egress.com
 *.setra.de
 *.mercedes-benz-trucks.com
 *omniplus.com
@@ -7,11 +5,11 @@ www.egress.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -950,8 +948,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadopago.cl
+api.mercadopago.com
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1585,8 +1583,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.ebookers.fi
 www.wotif.com
-www.expediapartnercentral.com
 www.hotwire.com
+www.expediapartnercentral.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1888,8 +1886,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivianservices.com
 *.rivian.com
+*.rivianservices.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2015,8 +2013,8 @@ www.fossil.in
 fossilcare.com
 www.skagen-japan.com
 *.cdgcitizen.com
-*.fossilgroup.com
 *.fossil.com
+*.fossilgroup.com
 fossilmy.com
 watchstationhk.com
 m.fossil.co.jp
@@ -2030,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -3670,8 +3668,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4301,9 +4299,9 @@ new.reddit.com
 meta-api.reddit.com
 www.spiketrap.io
 s.reddit.com
-*.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+*.reddit.com
 amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
@@ -6112,8 +6110,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -7312,8 +7310,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 paypalobjects.com
-*.braintreegateway.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -7993,9 +7991,9 @@ www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
-www.starbucks.com.cn
-www.starbucks.co.jp
 www.starbucks.co.kr
+www.starbucks.co.jp
+www.starbucks.com.cn
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -8048,8 +8046,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
