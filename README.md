@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 18:30:04 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 19:20:24 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1090,8 +1090,8 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1323,9 +1323,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3109,8 +3109,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
