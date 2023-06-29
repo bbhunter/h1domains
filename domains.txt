@@ -1,14 +1,4 @@
-*.esi.egress.com
-*.reader.egress.com
-*.defend.egress.com
-reader.egress.com
 www.egress.com
-switch.egress.com
-*.defend.egress.com
-*.esi.egress.com
-*.reader.egress.com
-reader.egress.com
-switch.egress.com
 www.egress.com
 *.setra.de
 *.mercedes-benz-trucks.com
@@ -20,8 +10,8 @@ www.egress.com
 *.freightliner.com
 *.bharatbenz.com
 *evobus.com
-*fleetboard.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -3680,8 +3670,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5293,9 +5283,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6122,8 +6112,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -6153,8 +6143,8 @@ get8x8.com
 *.easycontactnow.com
 *.8x8cloud.net
 *.8x8.com
-*.thinkingphones.com
 connect.8x8.com
+*.thinkingphones.com
 user-profile.8x8.com
 sms.8x8.com
 *.thinkingphones.net
@@ -7436,8 +7426,8 @@ goldmansachsindices.com
 *.honestdollar.com
 *.vennhypotheken.nl
 *.nextcapital.com
-*.goldmansachs.com
 *.finlife.com
+*.goldmansachs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
 api.foliofn.com
@@ -8003,8 +7993,8 @@ www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
-www.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.jp
 www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
@@ -8058,8 +8048,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -8809,8 +8799,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
-hackerone.live
 app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
