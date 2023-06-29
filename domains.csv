@@ -2178,12 +2178,12 @@ mars,*.royalcanin-vouchers.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin.co.uk,False
-mars,*.jornadasroyalcanin.com.ar,False
 mars,*.royalcanin.com,False
 mars,*.banfieldassets.com,False
 mars,*.royalcanin.pl,False
 mars,*.myroyalcanin.hu,False
 mars,banfieldexchange.com,False
+mars,*.jornadasroyalcanin.com.ar,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -2495,10 +2495,10 @@ etoro_bbp,cashier-src.etoro.com,True
 etoro_bbp,kyc-src.etoro.com,True
 etoro_bbp,tapi-demo.etoro.com,True
 etoro_bbp,uapi-front.etoro.com,True
-etoro_bbp,etoropartners.com,True
 etoro_bbp,wallet.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
+etoro_bbp,etoropartners.com,True
 etoro_bbp,push-hap.cloud.etoro.com,True
 etoro_bbp,push-n-hap.cloud.etoro.com,True
 etoro_bbp,tapi-real.etoro.com,True
@@ -3673,8 +3673,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -4293,8 +4293,8 @@ reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,ads.reddit.com,True
-reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
+reddit,gql.reddit.com,True
 reddit,m.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,*.redditinc.com,True
@@ -6115,8 +6115,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,*.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -6807,8 +6807,8 @@ equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
 equifax,*.efficientforms.com,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
@@ -8052,8 +8052,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,id.getharvest.com,True
 harvest,getharvest.com,True
+harvest,id.getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8341,9 +8341,9 @@ snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True

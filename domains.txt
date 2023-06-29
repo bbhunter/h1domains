@@ -2177,12 +2177,12 @@ banfield.us
 *.monespaceeleveur.fr
 *.royalcaninconcorsi.it
 *.royalcanin.co.uk
-*.jornadasroyalcanin.com.ar
 *.royalcanin.com
 *.banfieldassets.com
 *.royalcanin.pl
 *.myroyalcanin.hu
 banfieldexchange.com
+*.jornadasroyalcanin.com.ar
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
@@ -2494,10 +2494,10 @@ cashier-src.etoro.com
 kyc-src.etoro.com
 tapi-demo.etoro.com
 uapi-front.etoro.com
-etoropartners.com
 wallet.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
+etoropartners.com
 push-hap.cloud.etoro.com
 push-n-hap.cloud.etoro.com
 tapi-real.etoro.com
@@ -3672,8 +3672,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4292,8 +4292,8 @@ app.spiketrap.io
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-gql.reddit.com
 old.reddit.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -6114,8 +6114,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -6806,8 +6806,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -8051,8 +8051,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -8340,9 +8340,9 @@ map.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 store.snapchat.com
-app.snapchat.com
 playcanvas.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
