@@ -11,9 +11,9 @@ egress-vdp,*.reader.egress.com,False
 egress-vdp,reader.egress.com,False
 egress-vdp,switch.egress.com,False
 egress-vdp,www.egress.com,False
-daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*omniplus.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1899,8 +1899,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2026,8 +2026,8 @@ fossil,*.smartwatchstations.com,False
 fossil,fossilcare.com,False
 fossil,www.skagen-japan.com,False
 fossil,*.cdgcitizen.com,False
-fossil,*.fossil.com,False
 fossil,*.fossilgroup.com,False
+fossil,*.fossil.com,False
 fossil,fossilmy.com,False
 fossil,watchstationhk.com,False
 fossil,m.fossil.co.jp,False
@@ -2041,8 +2041,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,www.watchstationindia.com,False
 fossil,fossilhk.com,False
+fossil,www.watchstationindia.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2199,8 +2199,8 @@ mars,banfieldexchange.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -3681,8 +3681,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -5676,13 +5676,13 @@ flutteruki,*.msgsvc.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.skybingo.com,True
-flutteruki,*.betfair.it,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.skybet.com,True
-flutteruki,*.operationstechnology.io,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.betfair.com,True
+flutteruki,*.operationstechnology.io,True
+flutteruki,*.betfair.it,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.sbgorigin.com,True
@@ -8059,8 +8059,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -8312,9 +8312,9 @@ shopify,exchangemarketplace.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

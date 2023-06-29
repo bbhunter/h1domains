@@ -10,9 +10,9 @@ switch.egress.com
 reader.egress.com
 switch.egress.com
 www.egress.com
-*omniplus.com
 *.setra.de
 *.mercedes-benz-trucks.com
+*omniplus.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1898,8 +1898,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2025,8 +2025,8 @@ www.fossil.in
 fossilcare.com
 www.skagen-japan.com
 *.cdgcitizen.com
-*.fossil.com
 *.fossilgroup.com
+*.fossil.com
 fossilmy.com
 watchstationhk.com
 m.fossil.co.jp
@@ -2040,8 +2040,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2198,8 +2198,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3680,8 +3680,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5675,13 +5675,13 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.skybingo.com
-*.betfair.it
 *.skyvegas.com
 *.sportinglife.com
 *.skybet.com
-*.operationstechnology.io
 *.paddypower.it
 *.betfair.com
+*.operationstechnology.io
+*.betfair.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -8058,8 +8058,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -8311,9 +8311,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

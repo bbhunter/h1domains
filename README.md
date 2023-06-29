@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 08:29:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 09:24:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1584,13 +1584,13 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.skybingo.com
-*.betfair.it
 *.skyvegas.com
 *.sportinglife.com
 *.skybet.com
-*.operationstechnology.io
 *.paddypower.it
 *.betfair.com
+*.operationstechnology.io
+*.betfair.it
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3141,9 +3141,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
