@@ -2110,10 +2110,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2183,7 +2183,6 @@ banfield.us
 *.miroyalcanin.com.ar
 *.myroyalcanin.gr
 *.banfield.com
-banfieldexchange.com
 *.extragum.com
 *.orbitgum.com
 *.royalcanin-vouchers.com
@@ -2195,7 +2194,7 @@ banfieldexchange.com
 *.banfieldassets.com
 *.royalcanin.pl
 *.myroyalcanin.hu
-banfieldfoundation.org
+banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
@@ -2206,6 +2205,7 @@ banfieldfoundation.org
 *.mms.com
 *.vcahospitals.com
 *.royalcanin.fr
+banfieldfoundation.org
 *.marschocolate.com
 *.wikichien.fr
 *.plataformaurinary.com
@@ -2349,8 +2349,8 @@ www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 *.canvasworld.com
 *.cafepress.com
 *.personalcreations.com
@@ -3680,8 +3680,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -3838,9 +3838,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -4356,8 +4356,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 *.on-running.com
 *.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -5293,9 +5293,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
+*.logi.com
 alert.logitech.com
 *.myharmony.com
-*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6814,8 +6814,8 @@ ehxhr.com
 wotctech.com
 JOBALINE.COM
 *.efficientforms.com
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *equifax.cl
 *equifax.ec
@@ -8000,8 +8000,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -8058,8 +8058,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
