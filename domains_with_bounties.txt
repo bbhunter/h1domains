@@ -1582,9 +1582,9 @@ faucet.polygon.technology
 *.sportinglife.com
 *.skybet.com
 *.paddypower.it
-*.betfair.com
 *.operationstechnology.io
 *.betfair.it
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2928,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 12:42:01 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jun 29 13:37:09 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1588,9 +1588,9 @@ faucet.polygon.technology
 *.sportinglife.com
 *.skybet.com
 *.paddypower.it
-*.betfair.com
 *.operationstechnology.io
 *.betfair.it
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
