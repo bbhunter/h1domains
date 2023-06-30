@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 13:32:29 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 14:22:10 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1020,8 +1020,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2599,9 +2599,9 @@ privatetarget-1-www.zigzag
 *.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2697,10 +2697,10 @@ xtramile.grabpay.com
 api.grabpay.com
 *.myteksi.com
 *.grab.com
-jira.grab.com
 gamma.grab.co
 *.myteksi.net
 kartaview.org
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com

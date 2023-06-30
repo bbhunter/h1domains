@@ -1014,8 +1014,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2593,9 +2593,9 @@ privatetarget-1-www.zigzag
 *.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -2691,10 +2691,10 @@ xtramile.grabpay.com
 api.grabpay.com
 *.myteksi.com
 *.grab.com
-jira.grab.com
 gamma.grab.co
 *.myteksi.net
 kartaview.org
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com

@@ -938,8 +938,8 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
-api.mercadolibre.com
 www.mercadolibre.com.ar
+api.mercadolibre.com
 www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
@@ -2098,10 +2098,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3831,8 +3831,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -7676,9 +7676,9 @@ privatetarget-1-www.zigzag
 *.tapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -7804,10 +7804,10 @@ xtramile.grabpay.com
 api.grabpay.com
 *.myteksi.com
 *.grab.com
-jira.grab.com
 gamma.grab.co
 *.myteksi.net
 kartaview.org
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
