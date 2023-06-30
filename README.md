@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 15:25:11 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 16:28:52 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1020,8 +1020,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1068,8 +1068,8 @@ app.spiketrap.io
 api.reddit.com
 ads.reddit.com
 old.reddit.com
-gql.reddit.com
 *.redditmedia.com
+gql.reddit.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1589,8 +1589,8 @@ faucet.polygon.technology
 *.paddypower.it
 *.operationstechnology.io
 *.betfair.it
-*.sportinglife.com
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3141,9 +3141,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3361,8 +3361,8 @@ onboarding.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
-*.twitter.com
 *.vine.co
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
