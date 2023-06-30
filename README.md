@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 07:21:46 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 08:27:41 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -165,8 +165,8 @@ watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-injob.indriver.com
 super-services.indriverapp.com
+injob.indriver.com
 *.indriverapp.com
 *.indriver.com
 *.indrive.com
@@ -294,8 +294,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1090,8 +1090,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1324,8 +1324,8 @@ tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1813,8 +1813,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2875,9 +2875,9 @@ www.starbucks.co.uk
 www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
-www.starbucks.com
 www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
