@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 17:22:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 18:26:26 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1013,9 +1013,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1807,8 +1807,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2388,11 +2388,11 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 research.gs.com
-*.folioclient.com
 *.folioinstitutional.com
 *.gs-mosaic.qa.gs.com
 *.gs.de
 *.gsam.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2928,8 +2928,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3461,8 +3461,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
