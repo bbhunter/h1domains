@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jun 29 23:21:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 01:46:00 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -56,8 +56,8 @@ api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
 firefox.settings.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -258,8 +258,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
 connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1066,10 +1066,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 api.reddit.com
-*.redditmedia.com
 ads.reddit.com
 old.reddit.com
 gql.reddit.com
+*.redditmedia.com
 m.reddit.com
 strapi.reddit.com
 *.redditinc.com
@@ -1585,12 +1585,12 @@ faucet.polygon.technology
 *.skybettest.net
 *.skybingo.com
 *.skyvegas.com
-*.sportinglife.com
 *.skybet.com
 *.paddypower.it
 *.operationstechnology.io
 *.betfair.it
 *.betfair.com
+*.sportinglife.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
