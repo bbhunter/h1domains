@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 05:21:25 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 06:29:07 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -885,8 +885,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1804,8 +1804,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2876,8 +2876,8 @@ www.starbucks.de
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -2934,8 +2934,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3162,8 +3162,8 @@ story.snapchat.com
 ads.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 code.playcanvas.com
 scan.snapchat.com
 playcanv.as
@@ -3187,8 +3187,8 @@ web.snapchat.com
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
-launch.playcanvas.com
 kit.snapchat.com
+launch.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
