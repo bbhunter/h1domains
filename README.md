@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 09:23:29 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 10:26:06 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -124,13 +124,13 @@ api-eu.floqast.app
 api-eu.floqast.app
 hiltonjapan.co.jp
 hiltonmanage.com
-hiltonhawaiianvillage.jp
 *.hilton.io
+hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hiltonbusinessonline.com
 hilton.io
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
@@ -2600,8 +2600,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
