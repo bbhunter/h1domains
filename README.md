@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 30 16:28:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jun 30 17:22:32 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -798,12 +798,6 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
-api.evernote.com
-www.evernote.com
-accounts.evernote.com
-www.evernote.com
-accounts.evernote.com
-api.evernote.com
 *.rukkaz.com
 *.jellychat.com
 *.unrealtournament.com
@@ -885,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1020,8 +1014,8 @@ elastic-cloud.com
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1536,8 +1530,8 @@ api.direct.playstation.com
 transact.playstation.com
 store.playstation.com
 direct.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1813,8 +1807,8 @@ www.goodrx.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -3678,6 +3672,12 @@ training.epam.com
 *.emakina.fr
 *.emakina.us
 *.opensource.epam.com
+api.evernote.com
+www.evernote.com
+accounts.evernote.com
+www.evernote.com
+accounts.evernote.com
+api.evernote.com
 www.myetherwallet.com
 www.myetherwallet.com
 ota.helium.com
