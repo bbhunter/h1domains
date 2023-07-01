@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 18:26:17 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 19:18:46 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -56,8 +56,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 crash-stats.allizom.org
+accounts.firefox.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1583,8 +1583,8 @@ faucet.polygon.technology
 *.paddypower.it
 *.operationstechnology.io
 *.betfair.it
-*.betfair.com
 *.sportinglife.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -2817,11 +2817,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com

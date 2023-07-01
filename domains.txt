@@ -7,9 +7,9 @@
 *fleetboard.de
 *.freightliner.com
 *.bharatbenz.com
-*fleetboard.com
 *evobus.com
 *.mitsubishi-fuso.com
+*fleetboard.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
 *.westernstar.com
@@ -1014,8 +1014,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 crash-stats.allizom.org
+accounts.firefox.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -3662,8 +3662,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5662,8 +5662,8 @@ faucet.polygon.technology
 *.paddypower.it
 *.operationstechnology.io
 *.betfair.it
-*.betfair.com
 *.sportinglife.com
+*.betfair.com
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -6789,8 +6789,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *.efficientforms.com
 *equifax.cl
@@ -7916,11 +7916,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-socialclub.rockstargames.com
 lifeinvader.com
 store.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
