@@ -1538,12 +1538,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-mapper.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
-wallet.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
+mapper.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
 watchgod.polygon.technology

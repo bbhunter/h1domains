@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -4080,12 +4080,12 @@ www.urbanclap.com
 *csmc.edu
 *kerlanjobe.org
 *www.cshs.org
-*Hmh-direct.com
-*Hhapps.net
-*Hmhdr.com
 *SANGABRIELVALLEYHEALTHECONNECT.NET
 *Huntingtonhealth.net
+*Hmh-direct.com
 *hhcareers.com
+*Hhapps.net
+*Hmhdr.com
 *Hmhrx.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
@@ -5623,12 +5623,12 @@ www.trycourier.app
 api.trycourier.app
 api.courier.com
 www.courier.com
-mapper.polygon.technology
 faucet.polygon.technology
 staking-api.polygon.technology
-wallet.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
+mapper.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 open-api.polygon.technology
 watchgod.polygon.technology
@@ -6770,7 +6770,6 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-*equifax.com
 *equifax.co.in
 *equifax.com.py
 *equifax.pt
@@ -6793,6 +6792,7 @@ JOBALINE.COM
 *.datacredito.com.do
 *.accountscore.com
 *.efficientforms.com
+*equifax.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
