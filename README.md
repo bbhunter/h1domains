@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 16:26:22 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 17:19:37 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1260,12 +1260,12 @@ www.cloud.com
 *.browser.cloud.com
 accounts.cloud.com
 (yoursubdomain).sf-api.eu
-(yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
 secure.sharefile.com
+(yoursubdomain).sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 ap-s.cloud.com
