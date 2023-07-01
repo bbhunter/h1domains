@@ -1416,8 +1416,8 @@ who.stanford.edu
 workgroup.stanford.edu
 netdb.stanford.edu
 mailman.stanford.edu
-kkr.com
 *.kkr.com
+kkr.com
 portal.kkr.com
 www.fskkradvisor.com
 www.kkrfunds.com
@@ -1886,8 +1886,8 @@ www.strongdm.com
 app.strongdm.com
 api.strongdm.com
 www.strongdm.com
-*.rivian.com
 *.rivianservices.com
+*.rivian.com
 *.rivian.com
 *.rivianservices.com
 app.monarchmoney.com
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3479,8 +3479,8 @@ resources.krisp.ai
 url5145.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
@@ -5597,10 +5597,10 @@ social.playstation.com
 wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-store.playstation.com
 direct.playstation.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -6098,8 +6098,8 @@ go.topcoder.com
 connect-console.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
-marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+marketplace.dev.lifeomic.com
 api.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -6789,8 +6789,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *.efficientforms.com
 *equifax.cl

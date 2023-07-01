@@ -1417,8 +1417,8 @@ stanford-university,who.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
-kkr_vdp,kkr.com,False
 kkr_vdp,*.kkr.com,False
+kkr_vdp,kkr.com,False
 kkr_vdp,portal.kkr.com,False
 kkr_vdp,www.fskkradvisor.com,False
 kkr_vdp,www.kkrfunds.com,False
@@ -1887,8 +1887,8 @@ strongdm,*.sdm.network,False
 strongdm,app.strongdm.com,False
 strongdm,api.strongdm.com,False
 strongdm,www.strongdm.com,False
-rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
+rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivian.com,False
 rivian_automotive,*.rivianservices.com,False
 monarch_money,app.monarchmoney.com,False
@@ -2187,8 +2187,8 @@ mars,*.jornadasroyalcanin.com.ar,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.mms.com,False
@@ -3480,8 +3480,8 @@ krisp,resources.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,analytics.krisp.ai,True
 krisp,upld.krisp.ai,True
-krisp,*.krisp.ai,True
 krisp,account.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,download.krisp.ai,True
@@ -5598,10 +5598,10 @@ playstation,social.playstation.com,True
 playstation,wallets.api.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,*.api.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True
@@ -6099,8 +6099,8 @@ topcoder,go.topcoder.com,False
 lifeomic,connect-console.dev.lifeomic.com,True
 lifeomic,lifeology.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
-lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
@@ -6790,8 +6790,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
