@@ -1313,8 +1313,8 @@ developer.svb.com
 connect.svb.com
 www.cipherbio.com
 lendx.svb.com
-www.svbconnect.com
 www.svb.com
+www.svbconnect.com
 www.svb.com
 www.svbconnect.com
 connect.svb.com
@@ -1332,8 +1332,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -6789,8 +6789,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *.efficientforms.com
 *equifax.cl

@@ -1314,8 +1314,8 @@ svb-financial,developer.svb.com,False
 svb-financial,connect.svb.com,False
 svb-financial,www.cipherbio.com,False
 svb-financial,lendx.svb.com,False
-svb-financial,www.svbconnect.com,False
 svb-financial,www.svb.com,False
+svb-financial,www.svbconnect.com,False
 svb-financial,www.svb.com,False
 svb-financial,www.svbconnect.com,False
 svb-financial,connect.svb.com,False
@@ -1333,8 +1333,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -6790,8 +6790,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
