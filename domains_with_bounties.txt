@@ -3431,8 +3431,8 @@ custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

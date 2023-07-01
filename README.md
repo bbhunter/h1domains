@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  1 14:20:26 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul  1 15:21:00 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -3437,8 +3437,8 @@ custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
-institutional.coinbase.com
 *.base.org
+institutional.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
