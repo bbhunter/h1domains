@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 08:26:27 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 09:21:54 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2678,8 +2678,8 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 gifts.grab.com
 wiki.grab.com
 *.grabpay.com
