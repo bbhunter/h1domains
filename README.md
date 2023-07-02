@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 22:21:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 23:22:27 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -55,9 +55,9 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 crash-stats.allizom.org
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
@@ -3458,8 +3458,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
