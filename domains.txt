@@ -5,8 +5,8 @@
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -925,8 +925,8 @@ bigchaulk.org
 bigchawk.com
 bigchock.com
 bigfishgames.fr
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -3662,8 +3662,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4080,12 +4080,12 @@ www.urbanclap.com
 *csmc.edu
 *kerlanjobe.org
 *www.cshs.org
-*Hmh-direct.com
-*Hhapps.net
-*Hmhdr.com
 *SANGABRIELVALLEYHEALTHECONNECT.NET
 *Huntingtonhealth.net
+*Hmh-direct.com
 *hhcareers.com
+*Hhapps.net
+*Hmhdr.com
 *Hmhrx.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
@@ -5250,8 +5250,8 @@ tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -5774,8 +5774,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -6788,8 +6788,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *.efficientforms.com
 *equifax.com
