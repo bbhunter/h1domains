@@ -3824,8 +3824,8 @@ cloud.elastic.co
 *.elasticnet.co
 *.swiftype.com
 elasticsearch-ci.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -5275,9 +5275,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6788,8 +6788,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *.efficientforms.com
 *equifax.com

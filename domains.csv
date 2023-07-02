@@ -3825,8 +3825,8 @@ elastic,cloud.elastic.co,True
 elastic,*.elasticnet.co,True
 elastic,*.swiftype.com,True
 elastic,elasticsearch-ci.elastic.co,True
-elastic,www.elastic.co,True
 elastic,*.elastic.co,True
+elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -5276,9 +5276,9 @@ logitech,*.crossclip.com,False
 logitech,www.logitech.com.cn,True
 logitech,www.logitechg.com,True
 logitech,buy.logitech.com,False
-logitech,*.logi.com,False
 logitech,alert.logitech.com,False
 logitech,*.myharmony.com,False
+logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,logitechgchallenge.com,False
 logitech,jira.logitech.com,False
@@ -6789,8 +6789,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*.efficientforms.com,False
 equifax,*equifax.com,False
