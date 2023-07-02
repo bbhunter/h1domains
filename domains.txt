@@ -2028,8 +2028,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.mms.com
@@ -3848,7 +3848,6 @@ stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
 parts.deere.africa
-kreiselelectric.com
 gitlab.prod.bearflagrobotics.com
 hvc.bearflagrobotics.com
 hb-backend-public.dev.bearflagrobotics.com
@@ -3864,6 +3863,7 @@ stage-vnd.agrisync.com
 www.agrisync.com
 hagiegear.com
 *deere.com*
+kreiselelectric.com
 sandbox.spark.ai
 www.allpartsstore.com
 formant.dev.bearflagrobotics.com
@@ -4080,12 +4080,12 @@ www.urbanclap.com
 *csmc.edu
 *kerlanjobe.org
 *www.cshs.org
-*Hmh-direct.com
-*Hhapps.net
-*Hmhdr.com
 *SANGABRIELVALLEYHEALTHECONNECT.NET
 *Huntingtonhealth.net
+*Hmh-direct.com
 *hhcareers.com
+*Hhapps.net
+*Hmhdr.com
 *Hmhrx.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
@@ -4302,10 +4302,10 @@ redditforbusiness.com
 *.redditblog.com
 *.reddithelp.com
 mod.reddit.com
-matrix.redditspace.com
 oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5275,9 +5275,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
+*.logi.com
 alert.logitech.com
 *.myharmony.com
-*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
