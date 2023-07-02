@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 11:19:33 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  2 12:37:44 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -2003,9 +2003,9 @@ admin.smartsheet.com
 help.smartsheet.com
 developers.smartsheet.com
 *emailsignature.trustpilot.com
-*business.trustpilot.com
 *signup.business.trustpilot.com
 *authenticate.trustpilot.com
+*business.trustpilot.com
 *share.trustpilot.com
 *invitations-api.trustpilot.com
 *www.trustpilot.com
@@ -3134,9 +3134,9 @@ shopifyinbox.com
 exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
-shopify.plus
 admin.shopify.com
 accounts.shopify.com
+shopify.plus
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3503,8 +3503,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
