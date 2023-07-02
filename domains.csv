@@ -3663,8 +3663,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tinderwebstaging.com,True
 tinder,*.tstaging.tools,True
+tinder,*.tinderwebstaging.com,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -7978,8 +7978,8 @@ starbucks,www.starbucks.de,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
-starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
+starbucks,app.starbucks.com,True
 starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True
