@@ -5,8 +5,8 @@
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -6788,8 +6788,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *.efficientforms.com
 *equifax.com
@@ -7401,9 +7401,9 @@ cloud.rocket.chat
 apigw.foliofn.com
 *.foliofirst.com
 *.marcus.co.uk
-*.goldman.com
 *.foliofn.com
 *.ayco.com
+*.goldman.com
 *.global-liquidity.gs.com
 goldmansachsindices.com
 *.gspublishing.com
