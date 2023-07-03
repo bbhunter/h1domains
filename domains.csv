@@ -2099,10 +2099,10 @@ fossil,www.fossilsg.com,False
 fossil,https://smartstore.naver.com/fossilkorea,False
 fossil,watchstationhk.com,False
 fossil,www.watchstationindia.com,False
-mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.healthandhealingny.com,False
-mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.sarcoidosis.org,False
 mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.arnholdinstitute.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2187,8 +2187,8 @@ mars,*.jornadasroyalcanin.com.ar,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
@@ -3863,8 +3863,8 @@ john-deere,stage-diagnostics.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
 john-deere,hagiegear.com,False
-john-deere,*deere.com*,False
 john-deere,kreiselelectric.com,False
+john-deere,*deere.com*,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,formant.dev.bearflagrobotics.com,False
@@ -4081,12 +4081,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
-cedars-sinai,*Huntingtonhealth.net,False
 cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hhapps.net,False
 cedars-sinai,*Hmhdr.com,False
+cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
+cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*hhcareers.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -5253,9 +5253,9 @@ tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7884,7 +7884,6 @@ wordpress,irclogs.wordpress.org,True
 wordpress,gutenberg.run,True
 wordpress,*.wordpress.net,True
 wordpress,api.wordpress.org,True
-wordpress,mercantile.wordpress.org,True
 wordpress,*.trac.wordpress.org,True
 wordpress, *.svn.wordpress.org,True
 wordpress, *.git.wordpress.org,True
@@ -7893,6 +7892,7 @@ wordpress,doaction.org,True
 wordpress,codex.wordpress.org,True
 wordpress,codex.bbpress.org,True
 wordpress,codex.buddypress.org,True
+wordpress,mercantile.wordpress.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True
@@ -8308,10 +8308,10 @@ shopify,shopifyinbox.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,story.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,create.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,create.snapchat.com,True
 snapchat,code.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,playcanv.as,True

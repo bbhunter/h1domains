@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  2 23:22:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 01:51:41 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1320,9 +1320,9 @@ careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2784,7 +2784,6 @@ irclogs.wordpress.org
 gutenberg.run
 *.wordpress.net
 api.wordpress.org
-mercantile.wordpress.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
@@ -2793,6 +2792,7 @@ doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
+mercantile.wordpress.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3154,10 +3154,10 @@ shopifyinbox.com
 msg.playcanvas.com
 story.snapchat.com
 ads.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+create.snapchat.com
 code.playcanvas.com
 scan.snapchat.com
 playcanv.as
