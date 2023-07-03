@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 03:36:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 04:25:40 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -56,8 +56,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
@@ -90,9 +90,9 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 getpocket.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -3134,10 +3134,10 @@ shopifyinbox.com
 exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
