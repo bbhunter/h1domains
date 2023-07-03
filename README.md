@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 08:32:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 09:29:40 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -267,10 +267,10 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
 *.jit.si
-platform.8x8.com
 *.packet8.net
 voapi.8x8.com
 *.8x8staging.com
+platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
@@ -976,8 +976,8 @@ rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -3461,8 +3461,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

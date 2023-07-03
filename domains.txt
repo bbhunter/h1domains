@@ -1446,10 +1446,10 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 cloud8.8x8.com
 *.jit.si
-platform.8x8.com
 *.packet8.net
 voapi.8x8.com
 *.8x8staging.com
+platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
@@ -1995,8 +1995,8 @@ www.fossil.co.jp
 www.skagenglobal.com
 www.shopkatchin.com
 *.misfit.com
-*.cdgfossil.com
 *.watchstation.com
+*.cdgfossil.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -2186,8 +2186,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.royalcanin-pethealthday.com
 *.monespaceveto.com
+*.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.vcahospitals.com
@@ -2342,8 +2342,8 @@ www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
 www.gifts.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -3759,8 +3759,8 @@ rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 trufflesuite.com
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 webhooks-api-experimental.codefi.network
 bridge.codefi.network
@@ -4004,8 +4004,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 www-264.aig.com
 www.lifeandretirement.aig.com
 www.rapidcover.ie
-www.cropriskservices.com
 *.corebridgefinancial.com
+www.cropriskservices.com
 www.layahealthcare.ie
 www.vfis.com
 www.glatfelters.com
@@ -4017,11 +4017,11 @@ www.travelguard.com
 www.aig.co.il
 *.aig.com
 www.aig.com.br
-www.iafcf.org
-www.vfisu.com
 sales.aig.co.il
 www.vfisal.com
 *.aig.co.jp
+www.iafcf.org
+www.vfisu.com
 www.corebridgefinancial.com
 www.americanhome.co.jp
 services.aig.co.il
@@ -6140,7 +6140,6 @@ supersite.8x8.com
 cloud8.8x8.com
 www.8x8.com
 8x8.force.com
-platform.8x8.com
 *.sameroom.io
 *.8x8.id
 *.8x8pilot.com
@@ -6151,6 +6150,7 @@ platform.8x8.com
 sso.8x8.com
 work.8x8.com
 *.jitsi.net
+platform.8x8.com
 accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
@@ -6788,8 +6788,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*equifax.sv
 *.datacredito.com.do
+*equifax.sv
 *.accountscore.com
 *.efficientforms.com
 *equifax.com
@@ -8744,8 +8744,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
