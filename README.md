@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 09:29:40 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 10:26:34 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -65,9 +65,9 @@ merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 lando.services.mozilla.com
-aus5.mozilla.org
-hg.mozilla.org
 phabricator.services.mozilla.com
+hg.mozilla.org
+aus5.mozilla.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -89,10 +89,10 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 getpocket.com
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -1013,9 +1013,9 @@ elastic-cloud.com
 *.elastic-cloud.com
 *.eops.nl
 *.elstc.co
-*.elasticnet.co
 *.swiftype.com
 cloud.elastic.co
+*.elasticnet.co
 elasticsearch-ci.elastic.co
 *.elastic.co
 www.elastic.co
