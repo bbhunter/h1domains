@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 07:24:25 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 08:32:21 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -55,9 +55,9 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
-crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
+crash-stats.allizom.org
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
@@ -65,9 +65,9 @@ merino.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
 lando.services.mozilla.com
-phabricator.services.mozilla.com
 aus5.mozilla.org
 hg.mozilla.org
+phabricator.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -879,8 +879,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1581,10 +1581,10 @@ faucet.polygon.technology
 *.skyvegas.com
 *.skybet.com
 *.paddypower.it
-*.operationstechnology.io
 *.betfair.it
 *.sportinglife.com
 *.betfair.com
+*.operationstechnology.io
 *.skygamingcontent.com
 *.sbgservices.com
 *.sbgorigin.com
@@ -3136,8 +3136,8 @@ exchangemarketplace.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
