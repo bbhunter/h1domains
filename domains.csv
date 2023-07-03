@@ -942,9 +942,9 @@ mercadolibre_vdp,www.mercadolibre.com.mx,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadopago.com.co,False
+mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.br,False
-mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
@@ -2037,8 +2037,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,fossilhk.com,False
 fossil,www.watchstationindia.com,False
+fossil,fossilhk.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2195,8 +2195,8 @@ mars,banfieldexchange.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
@@ -3667,8 +3667,8 @@ tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.tstaging.com,True
 tinder,*.gotinder.com,True
-tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
+tinder,*.tstaging.tools,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
@@ -3764,8 +3764,8 @@ ibb,rubygems.org,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,staking-uat.codefi.network,True
 consensys,trufflesuite.com,True
-consensys,consensys.net,True
 consensys,activate.codefi.network,True
+consensys,consensys.net,True
 consensys,staking.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
 consensys,bridge.codefi.network,True
@@ -3825,9 +3825,9 @@ elastic,*.found.io,True
 elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
-elastic,cloud.elastic.co,True
 elastic,*.elasticnet.co,True
+elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,elasticsearch-ci.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5604,8 +5604,8 @@ playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,store.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,*.playstation.net,True
@@ -6792,8 +6792,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*.datacredito.com.do,False
 equifax,*equifax.sv,False
+equifax,*.datacredito.com.do,False
 equifax,*.accountscore.com,False
 equifax,*equifax.com,False
 equifax,*.efficientforms.com,False
@@ -7405,9 +7405,9 @@ goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.marcus.co.uk,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.gspublishing.com,True
@@ -8771,8 +8771,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
