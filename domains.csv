@@ -1438,8 +1438,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,work.8x8.com,True
 8x8-bounty,connect.8x8.com,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -1455,8 +1455,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.p8t.us,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
@@ -1913,9 +1913,9 @@ allegion,www.simons-voss.com,False
 allegion,brio.com.au,False
 allegion,*.allegionengage.com,False
 allegion,www.allegion.co.uk,False
-allegion,www.planopunkt.com,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,zentra.co,False
+allegion,www.planopunkt.com,False
 allegion,*.yonomi.co,False
 allegion,www.schlage.com,False
 allegion,www.krytonitelock.com,False
@@ -2195,8 +2195,8 @@ mars,banfieldexchange.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.royalcanin-pethealthday.com,False
 mars,*.monespaceveto.com,False
+mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
@@ -4085,12 +4085,12 @@ cedars-sinai,*mycslink.org,False
 cedars-sinai,*csmc.edu,False
 cedars-sinai,*kerlanjobe.org,False
 cedars-sinai,*www.cshs.org,False
-cedars-sinai,*Hmh-direct.com,False
-cedars-sinai,*Hhapps.net,False
-cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.NET,False
 cedars-sinai,*Huntingtonhealth.net,False
+cedars-sinai,*Hmh-direct.com,False
 cedars-sinai,*hhcareers.com,False
+cedars-sinai,*Hhapps.net,False
+cedars-sinai,*Hmhdr.com,False
 cedars-sinai,*Hmhrx.com,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
@@ -6792,8 +6792,8 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,JOBALINE.COM,False
-equifax,*equifax.sv,False
 equifax,*.datacredito.com.do,False
+equifax,*equifax.sv,False
 equifax,*.accountscore.com,False
 equifax,*equifax.com,False
 equifax,*.efficientforms.com,False
@@ -8650,8 +8650,8 @@ twitter,twitterflightschool.com,False
 twitter,t.co,False
 cloudflare,cloudflareworkers.com,True
 cloudflare,*.teams.cloudflare.com,True
-cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflare.com,True
+cloudflare,one.dash.cloudflare.com,True
 cloudflare,*.cloudflarepartners.com,False
 cloudflare,api.cloudflare.com,True
 cloudflare,waf.cumulusfire.net,True
