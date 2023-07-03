@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  3 11:22:24 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul  3 12:45:03 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -56,8 +56,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 crash-stats.allizom.org
+accounts.firefox.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
@@ -576,8 +576,8 @@ streams.etoro.com
 billing.etoro.com
 kyc.etoro.com
 charts.etoro.com
-etorox.com
 api.etoro.com
+etorox.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
 r.etoro.com
@@ -1014,8 +1014,8 @@ elastic-cloud.com
 *.eops.nl
 *.elstc.co
 *.swiftype.com
-*.elasticnet.co
 cloud.elastic.co
+*.elasticnet.co
 elasticsearch-ci.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1677,8 +1677,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliexpress.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2253,10 +2253,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
-*.braintreepayments.com
 *.braintree-api.com
 *.xoom.com
 py.pl
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
