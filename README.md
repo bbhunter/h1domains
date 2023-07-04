@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 11:24:27 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 12:48:47 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -303,8 +303,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -354,12 +354,12 @@ dookeydash.com
 hv-mtl.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.mrjet.se
 www.expediaagents.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -889,8 +889,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1540,8 +1540,8 @@ api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
 *.api.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -3375,8 +3375,8 @@ gnip.com
 gnip.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
