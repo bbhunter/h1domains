@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 10:30:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 11:24:27 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -275,8 +275,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.p8t.us
 *.wavecell.com
+*.p8t.us
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -889,8 +889,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2698,9 +2698,9 @@ p.grabtaxi.com
 manage.grab.co
 xtramile.grabpay.com
 *.grab.co
+*.myteksi.com
 api.grabpay.com
 *.grab.com
-*.myteksi.com
 gamma.grab.co
 kartaview.org
 jira.grab.com

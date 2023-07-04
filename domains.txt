@@ -1454,8 +1454,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.p8t.us
 *.wavecell.com
+*.p8t.us
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -2038,8 +2038,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2108,10 +2108,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.sarcoidosis.org
 *.healthandhealingny.com
-*.arnholdinstitute.org
+*.sarcoidosis.org
 *.medicalconciergenyc.com
+*.arnholdinstitute.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2347,9 +2347,9 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.iseeme.com
 www.gifts.com
-*.cafepress.com
 *.personalcreations.com
 *.canvasworld.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -3668,8 +3668,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -4360,8 +4360,8 @@ customers.mattermost.com
 *.voteohio.gov
 *.vote.ohio.gov
 *.safeathomeohio.gov
-*.electionintegrity.ohio.gov
 *.ohiosos.gov
+*.electionintegrity.ohio.gov
 *.ohiobusinesscentral.gov
 *.sos.state.oh.us
 *.boe.ohio.gov
@@ -5049,7 +5049,6 @@ a.jimdo.com
 logo.e.jimdo.com
 help.jimdo.com
 jimdo.design
-event.us-east-1.sws.siemens.com
 gateway.us-east-1.sws.siemens.com
 slm.store.mendix.com
 contributor.mendixcloud.com
@@ -5062,7 +5061,6 @@ mxpeople.mendixcloud.com
 provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
-poh0v3odoi.execute-api.eu-central-1.amazonaws.com
 dealservice.mendixcloud.com
 deskallocation.mendixcloud.com
 3s.mendixcloud.com
@@ -5077,12 +5075,8 @@ mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
-event.us-east-1.sws.siemens.com
-http://o0pv3l7chl.execute-api.us-east-1.amazonaws.com/dev
 gateway.us-east-1.sws.siemens.com
 servicemanagement-accp.mendixcloud.com
-poh0v3odoi.execute-api.eu-central-1.amazonaws.com
-https://react.vis.pre2.usea1.devops.sws.siemens.com/sample/dist/index.html
 3dvis.mendixcloud.com
 slm.store.mendix.com
 contributor.mendixcloud.com
@@ -5281,9 +5275,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
-*.logi.com
 alert.logitech.com
 *.myharmony.com
+*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
@@ -6793,8 +6787,8 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 JOBALINE.COM
-*.datacredito.com.do
 *equifax.sv
+*.datacredito.com.do
 *.accountscore.com
 *equifax.com
 *.efficientforms.com
@@ -7790,9 +7784,9 @@ p.grabtaxi.com
 manage.grab.co
 xtramile.grabpay.com
 *.grab.co
+*.myteksi.com
 api.grabpay.com
 *.grab.com
-*.myteksi.com
 gamma.grab.co
 kartaview.org
 jira.grab.com
