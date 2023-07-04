@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 08:29:21 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 09:26:43 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -275,8 +275,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si

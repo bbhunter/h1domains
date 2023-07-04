@@ -1454,8 +1454,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -2036,8 +2036,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-www.watchstationindia.com
 fossilhk.com
+www.watchstationindia.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2106,10 +2106,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2345,9 +2345,9 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.iseeme.com
 www.gifts.com
-*.canvasworld.com
 *.cafepress.com
 *.personalcreations.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4008,8 +4008,8 @@ hackerone-m1rtuq8orz.hbstaging.website
 www-264.aig.com
 www.lifeandretirement.aig.com
 www.rapidcover.ie
-*.corebridgefinancial.com
 www.cropriskservices.com
+*.corebridgefinancial.com
 www.layahealthcare.ie
 www.vfis.com
 www.glatfelters.com
@@ -4021,11 +4021,11 @@ www.travelguard.com
 www.aig.co.il
 *.aig.com
 www.aig.com.br
+www.iafcf.org
+www.vfisu.com
 sales.aig.co.il
 www.vfisal.com
 *.aig.co.jp
-www.iafcf.org
-www.vfisu.com
 www.corebridgefinancial.com
 www.americanhome.co.jp
 services.aig.co.il

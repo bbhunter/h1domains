@@ -269,8 +269,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
