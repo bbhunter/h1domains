@@ -1454,8 +1454,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -2038,8 +2038,8 @@ www.fossil.com.au
 fossil.com.vn
 fossilcrm.com
 fossil-staging2.cloud.akeneo.com
-fossilhk.com
 www.watchstationindia.com
+fossilhk.com
 www.fossil.co.za
 www.fossil.nl
 www.skagenwatch.co.uk
@@ -2108,10 +2108,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2196,8 +2196,8 @@ banfieldexchange.com
 *.pedigree.com
 *.royalcanin.cz
 *.moncse-royalcanin-siege.com
-*.monespaceveto.com
 *.royalcanin-pethealthday.com
+*.monespaceveto.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 *.royalcanin.ca
 *.vcahospitals.com
@@ -3821,9 +3821,7 @@ main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
-elastic-cloud.com
 *.found.io
-*.elastic-cloud.com
 *.eops.nl
 *.elstc.co
 *.elasticnet.co
@@ -3838,11 +3836,9 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.elastic-cloud.com
 www.elastic.co
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-elastic-cloud.com
 deere.africa
 dev-crm-connector.agrisync.com
 dev-cs-admin.agrisync.com
@@ -7423,7 +7419,7 @@ research.gs.com
 *.gs-mosaic.qa.gs.com
 *.gs.de
 *.gsam.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -8287,9 +8283,9 @@ exchangemarketplace.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

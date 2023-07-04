@@ -1455,8 +1455,8 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
-8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.p8t.us,True
+8x8-bounty,*.wavecell.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
@@ -2039,8 +2039,8 @@ fossil,www.fossil.com.au,False
 fossil,fossil.com.vn,False
 fossil,fossilcrm.com,False
 fossil,fossil-staging2.cloud.akeneo.com,False
-fossil,fossilhk.com,False
 fossil,www.watchstationindia.com,False
+fossil,fossilhk.com,False
 fossil,www.fossil.co.za,False
 fossil,www.fossil.nl,False
 fossil,www.skagenwatch.co.uk,False
@@ -2109,10 +2109,10 @@ fossil,www.fossilsg.com,False
 fossil,https://smartstore.naver.com/fossilkorea,False
 fossil,watchstationhk.com,False
 fossil,www.watchstationindia.com,False
-mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.sarcoidosis.org,False
-mount-sinai-health,*.medicalconciergenyc.com,False
+mount-sinai-health,*.healthandhealingny.com,False
 mount-sinai-health,*.arnholdinstitute.org,False
+mount-sinai-health,*.medicalconciergenyc.com,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
 mount-sinai-health,*.healthandhealingny.org,False
@@ -2197,8 +2197,8 @@ mars,*.royalcanin.com,False
 mars,*.pedigree.com,False
 mars,*.royalcanin.cz,False
 mars,*.moncse-royalcanin-siege.com,False
-mars,*.monespaceveto.com,False
 mars,*.royalcanin-pethealthday.com,False
+mars,*.monespaceveto.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,*.vcahospitals.com,False
@@ -3822,9 +3822,7 @@ trafficfactory,main.trafficfactory.biz,True
 trafficfactory,*.trafficfactory.biz,True
 trafficfactory,www.trafficfactory.com,True
 trafficfactory,main.trafficfactory.biz,True
-elastic,elastic-cloud.com,True
 elastic,*.found.io,True
-elastic,*.elastic-cloud.com,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,*.elasticnet.co,True
@@ -3839,11 +3837,9 @@ elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.elastic-cloud.com,True
 elastic,www.elastic.co,True
 elastic,cloud.elastic.co,True
 elastic,elasticsearch-ci.elastic.co,True
-elastic,elastic-cloud.com,True
 john-deere,deere.africa,False
 john-deere,dev-crm-connector.agrisync.com,False
 john-deere,dev-cs-admin.agrisync.com,False
@@ -7424,7 +7420,7 @@ goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.folioclient.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -8288,9 +8284,9 @@ shopify,exchangemarketplace.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
