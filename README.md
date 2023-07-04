@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 05:24:33 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 06:32:19 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -258,8 +258,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -275,8 +275,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.p8t.us
 *.wavecell.com
+*.p8t.us
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -887,8 +887,8 @@ capturingreality.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tstaging.tools
 *.tinderwebstaging.com
+*.tstaging.tools
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2697,8 +2697,8 @@ manage.grab.co
 xtramile.grabpay.com
 *.grab.co
 api.grabpay.com
-*.myteksi.com
 *.grab.com
+*.myteksi.com
 gamma.grab.co
 kartaview.org
 jira.grab.com
@@ -3373,8 +3373,8 @@ gnip.com
 gnip.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3466,8 +3466,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
