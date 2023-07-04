@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 04:28:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul  4 05:24:33 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -258,8 +258,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 connect.8x8.com
-*.8x8.vc
 *.jitsi.net
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -275,8 +275,8 @@ platform.8x8.com
 user-profile.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
-*.wavecell.com
 *.p8t.us
+*.wavecell.com
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -302,8 +302,8 @@ voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -356,8 +356,8 @@ www.hotels.com
 www.orbitz.com
 www.abritel.fr
 www.mrjet.se
-www.expediagroup.com
 www.expediaagents.com
+www.expediagroup.com
 www.travelocity.com
 www.flights.com
 www.ebookers.com
@@ -374,8 +374,8 @@ www.expediacruises.com
 www.stayz.com.au
 www.ebookers.fi
 www.wotif.com
-www.hotwire.com
 www.expediapartnercentral.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1734,8 +1734,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.mariacasino.com
-*.kindredext.net
 *.unibet.com
+*.kindredext.net
 *.ottokasino.com
 *.storspiller.com
 *.igame.com
