@@ -2106,10 +2106,10 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-*.healthandhealingny.com
 *.sarcoidosis.org
-*.medicalconciergenyc.com
+*.healthandhealingny.com
 *.arnholdinstitute.org
+*.medicalconciergenyc.com
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
 *.healthandhealingny.org
@@ -2584,8 +2584,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.era.com
-*.century21.*
 *.bhgre.*
+*.century21.*
 *.sothebysrealty.*
 *.nrtllc.*
 *.corcoran.*
@@ -3666,8 +3666,8 @@ www.jfrogchina.com
 *.tinder.com
 *.tstaging.com
 *.gotinder.com
-*.tinderwebstaging.com
 *.tstaging.tools
+*.tinderwebstaging.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -5279,9 +5279,9 @@ outage.logitech.com
 www.logitech.com.cn
 www.logitechg.com
 buy.logitech.com
+*.logi.com
 alert.logitech.com
 *.myharmony.com
-*.logi.com
 *.logitech.com
 logitechgchallenge.com
 jira.logitech.com
