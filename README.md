@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  5 05:26:10 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 06:32:48 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -45,8 +45,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 www.tide.co
-web.tide.co
 api.tide.co
+web.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -201,11 +201,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -257,9 +257,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 *.8x8.vc
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 work.8x8.com
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -303,8 +303,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -885,10 +885,10 @@ playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
-*.tinder.com
 *.tinderops.net
-*.gotinder.com
+*.tinder.com
 *.tstaging.com
+*.gotinder.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -945,7 +945,6 @@ opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1036,17 +1035,17 @@ www.elastic.co
 www.elastic.co
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.stripe.com
 *.reckoproduction.com
+*.stripe.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
 api.stripe.com
+*.getbouncer.com
 api.taxjar.com
 *.reckostaging.com
-*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1209,8 +1208,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1577,8 +1576,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.it
-*.paddypower.it
 *.sbgcdn.com
 *.skybet.com
 *.betviewapi.com
@@ -1589,6 +1586,8 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
+*.betfair.it
+*.paddypower.it
 *.betfair.com
 *.betfair.se
 *.skygamingcontent.com
@@ -1598,9 +1597,9 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
-*.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.ro
 *.betfair.es
 *.betfair.com
 *.paddypower.com
@@ -1911,11 +1910,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2257,9 +2256,9 @@ matomo.cloud
 matomo.cloud
 *.xoom.com
 py.pl
+*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
 *.braintreepayments.com
 www.swiftcapital.com
@@ -2278,11 +2277,11 @@ pigeon.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
+*.braintreegateway.com
+paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
-paypalobjects.com
 api.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
@@ -2396,8 +2395,8 @@ marquee.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2435,10 +2434,10 @@ api.foliofn.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
+developer.valvesoftware.com
+store.steampowered.com
 playartifact.com
 help.steampowered.com
-store.steampowered.com
-developer.valvesoftware.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -2564,9 +2563,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
-*.securecircle.com
 www.crowdstrike.com
 *.humio.com
+*.securecircle.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -2589,19 +2588,19 @@ yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
+tunnistus.lahitapiola.fi
+api.lahitapiola.fi
 myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
-api.lahitapiola.fi
-tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3064,16 +3063,16 @@ smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
 api.deriv.com
-maxcldapp.net
 werkenbijderet.nl
+maxcldapp.net
 dropr.nl
 werkenbijdnb.nl
+*.maximum.nl
+werkenbijdefensie.nl
 acme-challenge.nl
 nossl.nl
 wp-mail.nl
 ruddercms.com
-*.maximum.nl
-werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 no-reply.cloud
 maximum-status.com
@@ -3113,8 +3112,8 @@ www.zendesk.com
 apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 api.getbase.com
+app.smooch.io
 zopim.com
 www.zendesk.com
 developer.zendesk.com
@@ -3352,9 +3351,9 @@ donations.livestream.com
 onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
-jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
+jss.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -3393,10 +3392,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3460,9 +3459,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
-spaces.pm
 api.slack.com
 status.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
