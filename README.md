@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  5 03:05:46 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 03:37:25 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -201,11 +201,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -225,8 +225,8 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
-extranet.s-pankki.fi
 www.s-pankki.fi
+extranet.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 www.sokos.fi
@@ -945,7 +945,6 @@ opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
-ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1064,10 +1063,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1077,8 +1076,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1086,10 +1085,10 @@ gateway.reddit.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
+accounts.reddit.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
-accounts.reddit.com
 www.reddit.com
 matrix.redditspace.com
 *.snooguts.net
@@ -1209,8 +1208,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1875,9 +1874,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 hub.vroid.com
+vroid.com
 payment.pixiv.net
 neoket.net
-vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2257,10 +2256,10 @@ matomo.cloud
 matomo.cloud
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2270,8 +2269,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2279,11 +2278,11 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+*.braintreegateway.com
+paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
-paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2388,12 +2387,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -2435,10 +2434,10 @@ api.foliofn.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
-developer.valvesoftware.com
-store.steampowered.com
 playartifact.com
 help.steampowered.com
+store.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -3277,12 +3276,12 @@ luckey.fr
 luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
 luckey.partners
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3352,9 +3351,9 @@ donations.livestream.com
 onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
+jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
-jss.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -3393,10 +3392,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3460,9 +3459,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
+spaces.pm
 api.slack.com
 status.slack.com
-spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
@@ -3702,10 +3701,10 @@ cdn.localizestaging.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-account.magento.com
-accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
