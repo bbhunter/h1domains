@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  5 19:27:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 20:26:33 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -62,9 +62,9 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
 push.services.mozilla.com
-contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
+contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 addons.allizom.org
@@ -201,10 +201,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -225,8 +225,8 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
-extranet.s-pankki.fi
 www.s-pankki.fi
+extranet.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 www.sokos.fi
@@ -886,10 +886,10 @@ playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
-*.tinderops.net
 *.tinder.com
-*.tstaging.com
+*.tinderops.net
 *.gotinder.com
+*.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -900,8 +900,8 @@ capturingreality.com
 *.tinderwebstaging.com
 therecord.media
 app.recordedfuture.com
-api.recordedfuture.com
 hatching.io
+api.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
 www.recordedfuture.com
@@ -1064,10 +1064,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1077,8 +1077,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1209,8 +1209,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1534,9 +1534,9 @@ wallets.api.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 *.playstation.net
@@ -1877,9 +1877,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 hub.vroid.com
-vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2437,10 +2437,10 @@ api.foliofn.com
 *.foliodigitalwealth.com
 *.foliofirst.com
 *.folioinvesting.com
-developer.valvesoftware.com
-store.steampowered.com
 playartifact.com
 help.steampowered.com
+store.steampowered.com
+developer.valvesoftware.com
 partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
@@ -2463,15 +2463,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
 tax.crypto.com
-app.mona.co
 pay.crypto.com
 js.crypto.com
+app.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
@@ -2566,9 +2566,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
+*.securecircle.com
 www.crowdstrike.com
 *.humio.com
-*.securecircle.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -2880,9 +2880,9 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 app.starbucks.com
+www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
-www.starbucks.co.kr
 www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
@@ -2973,13 +2973,13 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
-gist.github.com
 *.github.net
 education.github.com
+gist.github.com
 npmjs.org
 *.githubusercontent.com
 github.com
@@ -3278,11 +3278,11 @@ luckey.fr
 luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
+luckey.partners
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-luckey.partners
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3353,9 +3353,9 @@ donations.livestream.com
 onboarding.greenhouse.io
 support.greenhouse.io
 api.greenhouse.io
-jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
+jss.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -3394,10 +3394,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 www.tumblr.com
 t.umblr.com
@@ -3494,8 +3494,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3703,10 +3703,10 @@ cdn.localizestaging.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
-account.magento.com
-accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
+accounts.magento.cloud
+account.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
@@ -3785,21 +3785,21 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -3870,8 +3870,8 @@ login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
-*.urbandictionary.com
 *.ud.wtf
+*.urbandictionary.com
 *.urbandictionary.org
 *.urbandictionary.biz
 av.urbandictionary.biz
