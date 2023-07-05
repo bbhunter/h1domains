@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  4 23:24:21 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 01:48:43 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -225,8 +225,8 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
-extranet.s-pankki.fi
 www.s-pankki.fi
+extranet.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 www.sokos.fi
@@ -372,11 +372,11 @@ www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
-www.hotwire.com
-www.expediacruises.com
 www.expediapartnercentral.com
+www.hotwire.com
 www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -579,7 +579,6 @@ tapi-demo.etoro.com
 uapi-front.etoro.com
 wallet.etoro.com
 etoropartners.com
-api.etoro.com
 billing.etoro.com
 charts.etoro.com
 push-hap.cloud.etoro.com
@@ -588,6 +587,7 @@ kyc.etoro.com
 streams.etoro.com
 tapi-real.etoro.com
 etorox.com
+api.etoro.com
 partners.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
@@ -945,6 +945,7 @@ opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
 federalist-docs.18f.gov
+ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1035,17 +1036,17 @@ www.elastic.co
 www.elastic.co
 cloud.elastic.co
 elasticsearch-ci.elastic.co
-*.reckoproduction.com
 *.stripe.com
+*.reckoproduction.com
 *.link.co
 *.recko.io
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
 api.stripe.com
-*.getbouncer.com
 api.taxjar.com
 *.reckostaging.com
+*.getbouncer.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1089,8 +1090,8 @@ accounts.reddit.com
 *.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1576,6 +1577,8 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.betfair.it
+*.paddypower.it
 *.sbgcdn.com
 *.skybet.com
 *.betviewapi.com
@@ -1586,8 +1589,6 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
-*.betfair.it
-*.paddypower.it
 *.betfair.com
 *.betfair.se
 *.skygamingcontent.com
@@ -1597,9 +1598,9 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
+*.betfair.ro
 *.platformservices.io
 *.sbgtest.net
-*.betfair.ro
 *.betfair.es
 *.betfair.com
 *.paddypower.com
@@ -1733,12 +1734,12 @@ maria.casino
 *.mariacasino.com
 *.kindredext.net
 *.unibet.com
+www.32red.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
 *.ottokasino.com
-www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1910,11 +1911,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2256,10 +2257,10 @@ matomo.cloud
 matomo.cloud
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2278,11 +2279,11 @@ www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-*.braintreegateway.com
-paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
+*.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2387,12 +2388,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -2694,12 +2695,12 @@ xtramile.grabpay.com
 *.grab.co
 p.grabtaxi.com
 manage.grab.co
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
-kartaview.org
 *.myteksi.net
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3141,8 +3142,8 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3156,9 +3157,9 @@ admin.shopify.com
 exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
+accounts.snapchat.com
 story.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
@@ -3170,10 +3171,10 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
+map.snapchat.com
 store.snapchat.com
 business.snapchat.com
 my.snapchat.com
@@ -3276,12 +3277,12 @@ luckey.fr
 luckey.in
 *.hoteltonight-test.com
 www.hoteltonight.com
-luckey.partners
 www.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+luckey.partners
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3392,10 +3393,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3459,9 +3460,9 @@ api.custody.coinbase.com
 cloud.coinbase.com
 paradex.io
 *.base.org
-spaces.pm
 api.slack.com
 status.slack.com
+spaces.pm
 slackb.com
 slackatwork.com
 slack-redir.net
