@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  5 08:34:42 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul  5 09:28:16 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -62,9 +62,9 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 sync.services.mozilla.com
 push.services.mozilla.com
+contile.services.mozilla.com
 hg.mozilla.org
 phabricator.services.mozilla.com
-contile.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
 addons.allizom.org
@@ -201,10 +201,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -225,8 +225,8 @@ online.s-pankki.fi
 api.sokos.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
-extranet.s-pankki.fi
 www.s-pankki.fi
+extranet.s-pankki.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 www.sokos.fi
@@ -1063,10 +1063,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
@@ -1076,8 +1076,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -1085,12 +1085,12 @@ gateway.reddit.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
+accounts.reddit.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 matrix.redditspace.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1208,8 +1208,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1733,12 +1733,12 @@ maria.casino
 *.mariacasino.com
 *.kindredext.net
 *.unibet.com
-www.32red.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
 *.ottokasino.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2256,9 +2256,9 @@ matomo.cloud
 matomo.cloud
 *.xoom.com
 py.pl
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintree-api.com
 *.paylution.com
 *.braintreepayments.com
 www.swiftcapital.com
@@ -2277,11 +2277,11 @@ pigeon.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
-*.braintreegateway.com
-paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
+*.braintreegateway.com
+paypalobjects.com
 api.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
@@ -2460,15 +2460,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
 tax.crypto.com
+app.mona.co
 pay.crypto.com
 js.crypto.com
-app.mona.co
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
@@ -2685,8 +2685,8 @@ unikrn.ly
 static.unkrn.com
 grab.careers
 *.grabtaxi.com
-wiki.grab.com
 gifts.grab.com
+wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
 xtramile.grabpay.com
@@ -3157,12 +3157,12 @@ exchangemarketplace.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-accounts.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -3170,10 +3170,10 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-map.snapchat.com
 www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
+map.snapchat.com
 store.snapchat.com
 business.snapchat.com
 my.snapchat.com
@@ -3265,9 +3265,9 @@ omgpro.airbnb.com
 luckeyhomes.com
 next.airbnb.com
 one.airbnb.com
-*.withairbnb.com
 demo.urbandoor.com
 admin.demo.urbandoor.com
+*.withairbnb.com
 *.airbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
@@ -3392,10 +3392,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 www.tumblr.com
 t.umblr.com
@@ -3701,10 +3701,10 @@ cdn.localizestaging.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
+account.magento.com
+accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-accounts.magento.cloud
-account.magento.com
 u.magento.com
 imagine.magento.com
 marketplace.magento.com
@@ -3783,21 +3783,21 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -3868,8 +3868,8 @@ login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
-*.ud.wtf
 *.urbandictionary.com
+*.ud.wtf
 *.urbandictionary.org
 *.urbandictionary.biz
 av.urbandictionary.biz
