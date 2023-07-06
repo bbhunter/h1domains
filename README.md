@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  6 20:25:40 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul  6 21:23:54 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -136,8 +136,8 @@ hiltonlocalbiz.com
 *.hiltonjapan.co.jp
 *.hiltonmanage.com
 hilton.com
-hilton.com.tr
 *.hilton.com
+hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -823,11 +823,11 @@ harmonixmusic.com
 capturingreality.com
 wonderboxdev.com
 *.3lateral.com
-*.epicgames.com
 *.fortnite.com
 *.psyonix.com
 *.bcbits.com
 *.dropmix.com
+www.rockband4.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1072,19 +1072,19 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
-*.snooguts.net
 strapi.reddit.com
 m.reddit.com
+*.snooguts.net
 sh.reddit.com
 meta-api.reddit.com
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
 reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1210,8 +1210,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1348,7 +1348,6 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
-www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1410,6 +1409,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1417,8 +1418,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1576,9 +1575,9 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.mi.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1722,9 +1721,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
+fortmatic.com
 auth.magic.link
 dashboard.magic.link
-fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -1741,15 +1740,15 @@ unibet.me
 *.bingo.com
 *.kolikkopelit.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1772,8 +1771,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -1921,17 +1920,17 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 us.forescout.cloud
-datapod-1-100-druid-query.development.forescoutcloud.net
+iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -2378,11 +2377,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2398,11 +2397,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2922,9 +2921,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-talk.brave.com
 brave.com
 basicattentiontoken.org
+talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3036,8 +3035,8 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zdev.net
 *.zomato.com
+*.zdev.net
 *.zomans.com
 *.runnr.in
 *.zomato.com
@@ -3455,8 +3454,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-api.custody.coinbase.com
 institutional.coinbase.com
+api.custody.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
@@ -3480,8 +3479,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3497,6 +3496,7 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
+data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -3511,18 +3511,18 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
+app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
@@ -3571,6 +3571,7 @@ dcita.edu
 dliflc.edu
 nps.edu
 uscga.edu
+*.mil
 cnss.gov
 cttso.gov
 fehrm.gov
@@ -3582,7 +3583,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-*.mil
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3885,8 +3885,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-*.urbandictionary.net
 urbandictionary.github.io
+*.urbandictionary.net
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
