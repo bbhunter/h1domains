@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul  6 23:24:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul  7 01:52:45 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -1072,19 +1072,19 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
+*.snooguts.net
 strapi.reddit.com
 m.reddit.com
-*.snooguts.net
 sh.reddit.com
 meta-api.reddit.com
 *.redditinc.com
-s.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 ads-api.reddit.com
-amp.reddit.com
 *.redditblog.com
+amp.reddit.com
 reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
@@ -1348,6 +1348,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1409,6 +1410,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1416,8 +1419,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1575,9 +1576,9 @@ open-api.polygon.technology
 faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
+*.mi.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1709,9 +1710,9 @@ www.alibabagroup.com
 www.mini.de
 configure.bmw.de
 www.bmw.de
-www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
+www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1740,15 +1741,15 @@ unibet.me
 *.bingo.com
 *.kolikkopelit.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1890,8 +1891,8 @@ neoket.net
 novel.pixiv.net
 www.pixiv.net
 accounts.pixiv.net
-booth.pm
 *.fanbox.cc
+booth.pm
 comic.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
@@ -2553,12 +2554,12 @@ bounty-node.rsk.co
 *.deliveroo.*
 *.deliveroo-streams.net
 app.quovo.com
-secure.plaid.com
 demo.plaid.com
+secure.plaid.com
 dashboard.plaid.com
 my.plaid.com
-plaid.com
 production.plaid.com
+plaid.com
 api.blockscore.com
 secure.quovo.com
 cdn.plaid.com
@@ -2577,8 +2578,8 @@ plaid.com
 www.crowdstrike.com
 *.humio.com
 *.securecircle.com
-www.crowdstrike.org
 *.crowdstrike.com
+www.crowdstrike.org
 hybrid-analysis.com
 falcon-sandbox.com
 *.preempt.com
@@ -2700,11 +2701,11 @@ gifts.grab.com
 wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
-xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 p.grabtaxi.com
 manage.grab.co
+xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 *.myteksi.net
@@ -3035,8 +3036,8 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zomato.com
 *.zdev.net
+*.zomato.com
 *.zomans.com
 *.runnr.in
 *.zomato.com
@@ -3454,8 +3455,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-api.custody.coinbase.com
 institutional.coinbase.com
+api.custody.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
@@ -3744,9 +3745,9 @@ api.breadcrumb.com
 pos.swipely.com
 swipely-merchant-assets.s3.amazonaws.com
 reports.breadcrumb.com
+inventory.upserve.com
 payments.upserve.com
 d2evh2mef3r450.cloudfront.net
-inventory.upserve.com
 teamhelp.upserve.com
 payments.breadcrumb.com
 hq-api.upserve.com
