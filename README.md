@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul  7 13:01:36 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul  7 13:25:04 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
