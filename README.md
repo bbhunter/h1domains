@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul  7 07:24:45 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul  7 08:32:07 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -362,9 +362,9 @@ www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.expediapartnersolutions.com
-www.vrbo.com
-www.travelocity.com
 www.ebookers.com
+www.travelocity.com
+www.vrbo.com
 www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
@@ -1025,8 +1025,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.elasticnet.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1072,19 +1072,19 @@ gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 new.reddit.com
-*.snooguts.net
 strapi.reddit.com
 m.reddit.com
+*.snooguts.net
 sh.reddit.com
 meta-api.reddit.com
 *.redditinc.com
-gateway.reddit.com
 s.reddit.com
+gateway.reddit.com
 www.spiketrap.io
 *.reddit.com
 ads-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
 reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1210,8 +1210,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1348,6 +1348,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1409,6 +1410,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1416,8 +1419,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1740,15 +1741,15 @@ unibet.me
 *.bingo.com
 *.kolikkopelit.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
+*.mariacasino.com
 *.kindredext.net
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1771,8 +1772,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
@@ -1889,9 +1890,9 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-accounts.pixiv.net
 booth.pm
 *.fanbox.cc
+accounts.pixiv.net
 comic.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
@@ -2377,11 +2378,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2397,11 +2398,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2700,11 +2701,11 @@ gifts.grab.com
 wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
-xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 p.grabtaxi.com
 manage.grab.co
+xtramile.grabpay.com
 api.grabpay.com
 *.grab.com
 *.myteksi.net
@@ -3398,14 +3399,14 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
 my.pressable.com
+embed.tumblr.com
 happy.tools
 simplenote.com
 simperium.com
+intensedebate.com
 api.tumblr.com
 assets.tumblr.com
-intensedebate.com
 wordpress.com
 safe.tumblr.com
 *.tumblr.com
@@ -3454,8 +3455,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-institutional.coinbase.com
 api.custody.coinbase.com
+institutional.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
@@ -3570,6 +3571,7 @@ dcita.edu
 dliflc.edu
 nps.edu
 uscga.edu
+*.mil
 cnss.gov
 cttso.gov
 fehrm.gov
@@ -3581,7 +3583,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-*.mil
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3743,9 +3744,9 @@ api.breadcrumb.com
 pos.swipely.com
 swipely-merchant-assets.s3.amazonaws.com
 reports.breadcrumb.com
-inventory.upserve.com
 payments.upserve.com
 d2evh2mef3r450.cloudfront.net
+inventory.upserve.com
 teamhelp.upserve.com
 payments.breadcrumb.com
 hq-api.upserve.com
@@ -3884,8 +3885,8 @@ provider.enter.health
 *.urbandictionary.biz
 av.urbandictionary.biz
 *.urbandictionary.blog
-urbandictionary.github.io
 *.urbandictionary.net
+urbandictionary.github.io
 *.udimg.com
 *.urbanup.com
 *.urbandictionary.com
