@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  9 04:26:09 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul  9 05:22:33 UTC 2023)
 ```
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
@@ -1025,8 +1025,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1123,8 +1123,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1409,6 +1409,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1416,8 +1418,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1606,8 +1606,8 @@ faucet.polygon.technology
 *.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.es
 *.skycasino.com
-*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1708,9 +1708,9 @@ www.alibabagroup.com
 www.mini.de
 www.bmw.de
 configure.bmw.de
+www.bmw-motorrad.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -1720,9 +1720,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
+fortmatic.com
 auth.magic.link
 dashboard.magic.link
-fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -2270,19 +2270,19 @@ swiftfinancial.com
 py.pl
 *.paylution.com
 *.xoom.com
+paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
-paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
+*.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-*.paydiant.com
 www.loanbuilder.com
 api.swiftfinancial.com
 loanbuilder.com
@@ -2376,11 +2376,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2396,11 +2396,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
@@ -2497,23 +2497,23 @@ docs.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-learn.newrelic.com
 *.infrastructure-data.newrelic.com
-*.nr-data.net
-*.nr-ops.net
+learn.newrelic.com
 insights.newrelic.com
+*.nr-data.net
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 one.newrelic.com
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2920,9 +2920,9 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-talk.brave.com
 brave.com
 basicattentiontoken.org
+talk.brave.com
 search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
@@ -3397,14 +3397,14 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
-my.pressable.com
 embed.tumblr.com
+my.pressable.com
 happy.tools
 simplenote.com
 simperium.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+intensedebate.com
 wordpress.com
 safe.tumblr.com
 *.tumblr.com
@@ -3453,8 +3453,8 @@ paradex.io
 *.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
-api.custody.coinbase.com
 institutional.coinbase.com
+api.custody.coinbase.com
 *.base.org
 commerce.coinbase.com
 *.coinbase.com
@@ -3509,18 +3509,18 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 hackerone.com
 api.hackerone.com
@@ -3569,6 +3569,7 @@ dcita.edu
 dliflc.edu
 nps.edu
 uscga.edu
+*.mil
 cnss.gov
 cttso.gov
 fehrm.gov
@@ -3580,7 +3581,6 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
-*.mil
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3714,10 +3714,10 @@ account.magento.com
 accounts.magento.cloud
 magentocommerce.com
 repo.magento.com
-marketplace.magento.com
-magento.com
 u.magento.com
 imagine.magento.com
+marketplace.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
