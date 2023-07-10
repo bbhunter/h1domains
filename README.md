@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 10 12:43:48 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 10 13:37:11 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -571,6 +571,10 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
+my.exness.com
+pay.ibex.exchange
+my.exness.com
+pay.ibex.exchange
 app.smtp2go.com
 api.smtp2go.com
 smtp2go.com
@@ -1335,9 +1339,9 @@ partner.tiktokshop.com
 tiktok.com
 business.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1757,8 +1761,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2389,11 +2393,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2524,9 +2528,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3163,9 +3167,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+*.shopify.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
