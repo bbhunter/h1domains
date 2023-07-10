@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 10 13:37:11 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 10 14:27:26 UTC 2023)
 ```
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
@@ -64,8 +64,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-crash-stats.allizom.org
 firefox.settings.services.mozilla.com
+crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
@@ -572,9 +572,16 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
+social-trading.exness.com
 my.exness.com
 pay.ibex.exchange
+https://my.exness.com/webtrading/
+exnessaffiliates.com
+https://my.exness.com/pa/socialtrading
+https://my.exness.com/pa/pim/manager
+social-trading.exness.com
 app.smtp2go.com
 api.smtp2go.com
 smtp2go.com
@@ -1004,8 +1011,8 @@ rubygems.org
 trufflesuite.com
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
-activate.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1340,8 +1347,8 @@ tiktok.com
 business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1424,6 +1431,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1431,8 +1440,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1618,9 +1625,9 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
-*.betfair.ro
 *.platformservices.io
 *.sbgtest.net
+*.betfair.ro
 *.betfair.es
 *.skycasino.com
 *.betfair.com
@@ -1702,10 +1709,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.1688.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1841,9 +1848,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2086,18 +2093,18 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.beachbound.com
-res.marival.globalbookingsolutions.com
-res.vacations.discoverycove.com
-vacations.universalstudioshollywood.com
-vacations.us.palladiumhotelgroup.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
+book.beachbound.com
+res.marival.globalbookingsolutions.com
+res.vacations.discoverycove.com
+vacations.universalstudioshollywood.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
 www.wynnvacations.com
+vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
@@ -2128,8 +2135,8 @@ vacations.velasvallarta.com
 www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
 vacations.united.com
+vacations.outrigger.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2528,9 +2535,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3075,8 +3082,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3167,9 +3174,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3819,10 +3826,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
