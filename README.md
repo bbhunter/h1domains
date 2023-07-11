@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 04:26:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 05:24:43 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -35,8 +35,8 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.visa.com.mx
 www.currencycloud.com
+www.visa.com.mx
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -214,8 +214,8 @@ shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
-hg.mozilla.org
 getpocket.com
+hg.mozilla.org
 www.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
@@ -331,8 +331,8 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 *.mwb-threatintel.com
-*.malwarebytes.com
 oneview.malwarebytes.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -499,8 +499,8 @@ www.expediapartnercentral.com
 www.wotif.com
 www.ebookers.fi
 www.expediacruises.com
-www.hotwire.com
 www.stayz.com.au
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1548,6 +1548,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1555,8 +1557,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.tw
 api.watsons.com.tw
 api.watsons.com.ph
@@ -1885,8 +1885,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2210,16 +2210,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2517,11 +2517,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3176,8 +3176,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
