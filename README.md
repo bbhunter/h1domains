@@ -2,8 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 01:43:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 02:58:17 UTC 2023)
 ```
+www.mobile-phantom.com
+*.palm.tech
+www.tecno-mobile.com
+security.tecno.com
+*.palm.tech
+www.tecno-mobile.com
+www.boomplay.com
+security.tecno.com
+www.mobile-phantom.com
 www.visa.com.tw
 www.visa.com.cn
 www.visa.com.hk
@@ -26,8 +35,8 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.currencycloud.com
 www.visa.com.mx
+www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -43,8 +52,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.authorize.net
-www.cybersource.com
 visa.com.au
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1813,8 +1822,8 @@ https://amazonpay.amazon.in/*
 *.alibabacloud.com
 www.alibabagroup.com
 *.alibaba.com
-*.aliexpress.ru
 *.alibaba-inc.com
+*.aliexpress.ru
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
@@ -1876,8 +1885,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1956,9 +1965,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2201,16 +2210,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2420,10 +2429,10 @@ api.swiftfinancial.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-paypalobjects.com
 *.paypalcorp.com
 api.loanbuilder.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3089,9 +3098,9 @@ www.redtube.com
 www.pornhub.com
 www.pornhubpremium.com
 www.redtubepremium.com
-www.youporn.com
 www.youpornpremium.com
 api.pornhub.com
+www.youporn.com
 mobile.pornhub.com
 ht.pornhub.com
 www.pornmd.com
@@ -3632,8 +3641,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3934,10 +3943,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
