@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 11:22:25 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 12:53:26 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -1166,8 +1166,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1323,9 +1323,9 @@ internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api.larksuite.com
-open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 app.larksuite.com
@@ -1481,8 +1481,8 @@ effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 live-backstage.tiktok.com
-www.logitechg.com
 www.logitech.com.cn
+www.logitechg.com
 circle.logi.com
 www.ultimateears.com
 sync.logitech.com
@@ -1504,8 +1504,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -1883,8 +1883,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1963,9 +1963,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2395,8 +2395,8 @@ fanduel.design
 *.flickr.com
 *.flickr.com
 bedpost.casper.com
-operator.casper.tools
 casper.com
+operator.casper.tools
 casper.com
 bedpost.casper.com
 operator.casper.tools
@@ -2515,11 +2515,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2643,16 +2643,16 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3640,8 +3640,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
