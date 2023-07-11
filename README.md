@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 09:29:13 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 10:29:05 UTC 2023)
 ```
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -35,8 +35,8 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
-www.currencycloud.com
 www.visa.com.mx
+www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -51,9 +51,9 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-www.cybersource.com
 visa.com.au
 www.authorize.net
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -216,9 +216,9 @@ relay.firefox.com
 support.mozilla.org
 getpocket.com
 hg.mozilla.org
-www.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 vpn.mozilla.org
@@ -636,8 +636,8 @@ dashboard.razorpay.com
 api.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-checkout.razorpay.com
 invoices.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -724,10 +724,10 @@ push-n-hap.cloud.etoro.com
 kyc.etoro.com
 streams.etoro.com
 tapi-real.etoro.com
-etorox.com
 billing.etoro.com
 charts.etoro.com
 api.etoro.com
+etorox.com
 partners.etoro.com
 candle.etoro.com
 push-d-gw.cloud.etoro.com
@@ -1166,8 +1166,8 @@ main.trafficfactory.biz
 *.elstc.co
 *.elasticnet.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1548,6 +1548,8 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1555,8 +1557,6 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 api.watsons.com.ph
 www10.watsons.com.my
 api.watsons.com.hk
@@ -2650,9 +2650,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3015,10 +3015,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
@@ -3255,8 +3255,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
@@ -3942,10 +3942,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
