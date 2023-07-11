@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 08:33:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 09:29:13 UTC 2023)
 ```
 www.mobile-phantom.com
 *.palm.tech
@@ -131,9 +131,9 @@ api.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
-kolesa.kz
 id.avtoelon.uz
 m.avtoelon.uz
+kolesa.kz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -426,8 +426,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1163,8 +1163,8 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-*.elasticnet.co
 *.elstc.co
+*.elasticnet.co
 cloud.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1557,7 +1557,6 @@ www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.tr
-api.watsons.com.tw
 api.watsons.com.ph
 www10.watsons.com.my
 api.watsons.com.hk
@@ -1744,8 +1743,8 @@ faucet.polygon.technology
 *.platformservices.io
 *.sbgtest.net
 *.betfair.ro
-*.betfair.es
 *.skycasino.com
+*.skybettingandgaming.com
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -1884,8 +1883,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1964,9 +1963,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2209,16 +2208,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2516,11 +2515,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3943,10 +3942,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
