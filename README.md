@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 10 23:23:35 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 01:43:50 UTC 2023)
 ```
 www.visa.com.tw
 www.visa.com.cn
@@ -14,7 +14,6 @@ www.visa.co.jp
 www.yellowpepper.com
 www.fraedom.com
 bb.visa.com
-www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
 www.visa.com.ge
@@ -28,6 +27,7 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
+www.visa.com.mx
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -36,7 +36,6 @@ www.cardinalcommerce.com
 aw.visa.com
 usa.visa.com
 bm.visa.com
-visa.com.au
 www.visa.co.id
 www.visa.co.ke
 www.visa.co.th
@@ -45,6 +44,7 @@ www.visa.co.ve
 visa.co.za
 www.authorize.net
 www.cybersource.com
+visa.com.au
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1155,8 +1155,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.swiftype.com
 cloud.elastic.co
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -2508,11 +2508,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -3248,8 +3248,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 apps.zendesk.com
 api.smooch.io
