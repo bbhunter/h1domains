@@ -2,8 +2,24 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 11 15:44:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 11 16:35:28 UTC 2023)
 ```
+testapi.redoxengine.com
+fhir.redoxengine.com
+www.redoxengine.com
+help.redoxengine.com
+testapp.redoxengine.com
+10x.redoxengine.com
+docs.redoxengine.com
+explore.redoxengine.com
+10x.redoxengine.com
+testapp.redoxengine.com
+testapi.redoxengine.com
+docs.redoxengine.com
+fhir.redoxengine.com
+explore.redoxengine.com
+www.redoxengine.com
+help.redoxengine.com
 www.mobile-phantom.com
 *.palm.tech
 www.tecno-mobile.com
@@ -34,9 +50,9 @@ www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
-www.visa.co.nz
 www.visa.com.mx
 www.currencycloud.com
+www.visa.co.nz
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -132,8 +148,8 @@ m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
 id.avtoelon.uz
-m.avtoelon.uz
 kolesa.kz
+m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -475,7 +491,6 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
-www.orbitz.com
 www.mrjet.se
 www.expediaagents.com
 www.expediagroup.com
@@ -483,6 +498,7 @@ www.expediapartnersolutions.com
 www.hotels.com
 www.hotwirepartnercentral.com
 www.abritel.fr
+www.orbitz.com
 www.travelocity.com
 www.ebookers.com
 www.flights.com
@@ -1163,8 +1179,8 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-*.elstc.co
 *.elasticnet.co
+*.elstc.co
 cloud.elastic.co
 *.elastic.co
 www.elastic.co
@@ -1229,9 +1245,9 @@ redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
 accounts.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2515,11 +2531,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2649,10 +2665,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3015,17 +3031,17 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
-www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3197,8 +3213,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 smarttrader.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3289,9 +3305,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
