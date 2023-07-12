@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 12 17:26:39 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 12 18:30:06 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -501,8 +501,8 @@ www.expediagroup.com
 www.abritel.fr
 www.ebookers.com
 www.flights.com
-www.vrbo.com
 www.travelocity.com
+www.vrbo.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -1186,8 +1186,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 cloud.elastic.co
-*.swiftype.com
 *.elstc.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1250,10 +1250,10 @@ reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2430,8 +2430,8 @@ swiftfinancial.com
 py.pl
 *.paylution.com
 *.xoom.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2451,9 +2451,9 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
 api.loanbuilder.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2519,8 +2519,8 @@ staging-shop.shipt.com
 staging-app.shipt.com
 staging-shoppingcart.shipt.com
 *.shipt.com
-app.shipt.com
 shoppingcart.shipt.com
+app.shipt.com
 api.shipt.com
 staging-admin.shipt.com
 www.shipt.com
@@ -2538,11 +2538,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2672,10 +2672,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3049,10 +3049,10 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3302,8 +3302,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 *.shopifycloud.com
 linkpop.com
 shop.app
@@ -3568,10 +3568,10 @@ assets.tumblr.com
 intensedebate.com
 wordpress.com
 safe.tumblr.com
-*.tumblr.com
 www.tumblr.com
 t.umblr.com
 mailpoet.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
