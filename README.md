@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 13 16:34:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 13 17:24:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -50,9 +50,9 @@ www.visa.com.sg
 www.visa.co.ao
 www.visa.com.mx
 www.visa.com.vn
-www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -68,8 +68,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 visa.com.au
-www.cybersource.com
 www.authorize.net
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1167,8 +1167,8 @@ staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
 trufflesuite.com
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1903,8 +1903,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2147,11 +2147,11 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
+admin.rezserver.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2535,11 +2535,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2561,10 +2561,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
-*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3631,10 +3631,10 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
-app.slack.com
-*.quip.com
 slackatwork.com
 slack-redir.net
+app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3671,16 +3671,16 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 errors.hackerone.net
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3956,10 +3956,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
