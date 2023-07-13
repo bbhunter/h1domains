@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 13 11:24:39 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 13 12:48:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -53,13 +53,13 @@ www.visa.com.vn
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-www.cardinalcommerce.com
-aw.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 usa.visa.com
+www.cardinalcommerce.com
+aw.visa.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -70,7 +70,6 @@ visa.co.za
 visa.com.au
 www.cybersource.com
 www.authorize.net
-www.tink.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -79,6 +78,7 @@ www.visa.com.az
 www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
+www.visa.com.tr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -147,9 +147,9 @@ app.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
-m.avtoelon.uz
 kolesa.kz
 id.avtoelon.uz
+m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -442,8 +442,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -1185,8 +1185,8 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.elasticnet.co
-*.elstc.co
 *.swiftype.com
+*.elstc.co
 cloud.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1222,8 +1222,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1846,8 +1846,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2210,8 +2210,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 link.omise.co
-dashboard.omise.co
 www.opn.ooo
+dashboard.omise.co
 dashboard2.omise.co
 api.omise.co
 linksplus-dashboard.omise.co
@@ -2228,16 +2228,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2425,10 +2425,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 py.pl
-*.paylution.com
 *.braintreepayments.com
 *.braintree-api.com
 *.xoom.com
+*.paylution.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2437,8 +2437,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2535,11 +2535,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2561,10 +2561,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3631,10 +3631,10 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
-slackatwork.com
-slack-redir.net
 app.slack.com
 *.quip.com
+slackatwork.com
+slack-redir.net
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3671,8 +3671,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-*.vpn.hackerone.net
 reviewer.pullrequest.com
+*.vpn.hackerone.net
 www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 cover-photos.hackerone-user-content.com
