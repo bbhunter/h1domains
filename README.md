@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 13 08:28:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 13 09:26:03 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -58,8 +58,8 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 aw.visa.com
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -67,9 +67,9 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-visa.com.au
 www.cybersource.com
 www.authorize.net
+visa.com.au
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -442,8 +442,8 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.rs
 *.superbet.ro
 *.superbet.rs
@@ -496,9 +496,9 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.hotels.com
 www.hotwirepartnercentral.com
-www.orbitz.com
 www.expediagroup.com
 www.abritel.fr
+www.orbitz.com
 www.ebookers.com
 www.flights.com
 www.travelocity.com
@@ -1228,10 +1228,10 @@ www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
+gql.reddit.com
 new.reddit.com
 *.snooguts.net
 strapi.reddit.com
@@ -1906,8 +1906,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1986,9 +1986,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2538,11 +2538,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2672,10 +2672,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3959,10 +3959,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
