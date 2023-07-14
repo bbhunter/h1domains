@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 14 16:29:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 14 17:22:16 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -30,7 +30,6 @@ www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
 www.visa.com.tw
-www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
 www.visa.com.ph
@@ -38,6 +37,7 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.yellowpepper.com
+www.visa.com.cn
 visa.com.ru
 www.visa.com.cy
 www.visa.com.ge
@@ -58,8 +58,8 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 aw.visa.com
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -366,8 +366,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-pankki.fi
 www.prisma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -1249,10 +1249,10 @@ reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1902,8 +1902,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1982,9 +1982,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2227,16 +2227,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2534,11 +2534,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2560,10 +2560,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2668,10 +2668,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3301,8 +3301,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
