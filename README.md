@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 14 19:20:40 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 14 20:23:44 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -51,8 +51,8 @@ www.visa.com.mx
 www.visa.com.vn
 www.visa.co.nz
 www.currencycloud.com
-bb.visa.com
 www.visa.co.in
+bb.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -383,8 +383,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1901,10 +1901,10 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
+*.vladcazino.ro
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -1970,8 +1970,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2227,16 +2227,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2534,11 +2534,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2560,10 +2560,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3034,10 +3034,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3631,9 +3631,9 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
-*.quip.com
 slackatwork.com
 slack-redir.net
+*.quip.com
 app.slack.com
 edgeapi.slack.com
 slack-imgs.com
