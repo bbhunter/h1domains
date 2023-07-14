@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 14 03:04:53 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 14 03:36:55 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1222,8 +1222,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1903,8 +1903,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2535,11 +2535,11 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2561,10 +2561,10 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
-*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2856,8 +2856,8 @@ static.unkrn.com
 grab.careers
 wiki.grab.com
 gifts.grab.com
-*.grabpay.com
 *.grab-sure.com
+*.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3397,6 +3397,7 @@ rma.ui.com
 careers.ui.com
 account.ui.com
 fw-update.ubnt.com
+uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
@@ -3542,8 +3543,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3671,8 +3672,8 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
@@ -3956,10 +3957,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
