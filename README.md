@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 15 18:26:24 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 15 19:18:47 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -10,8 +10,8 @@ www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
-explore.redoxengine.com
 docs.redoxengine.com
+explore.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -51,15 +51,15 @@ www.visa.com.mx
 www.visa.com.vn
 www.visa.co.nz
 www.currencycloud.com
-www.visa.co.in
 bb.visa.com
+www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 aw.visa.com
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -383,8 +383,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1902,8 +1902,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3035,10 +3035,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3302,8 +3302,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
@@ -3632,9 +3632,9 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
-*.quip.com
 slackatwork.com
 slack-redir.net
+*.quip.com
 app.slack.com
 edgeapi.slack.com
 slack-imgs.com
