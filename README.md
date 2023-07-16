@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 15 23:20:22 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 16 02:04:28 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -50,8 +50,8 @@ www.visa.co.ao
 www.visa.com.mx
 www.visa.com.vn
 www.visa.co.nz
-bb.visa.com
 www.visa.co.in
+bb.visa.com
 www.currencycloud.com
 bq.visa.com
 www.visa.com.kh
@@ -68,8 +68,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 visa.com.au
-www.authorize.net
 www.cybersource.com
+www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -383,8 +383,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1249,10 +1249,10 @@ reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
-www.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1902,8 +1902,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2228,16 +2228,16 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
+reservations.wynnvacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
-reservations.wynnvacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 ebsext.oft.hyatt.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2926,8 +2926,8 @@ assets.spotify.com
 api.sonantic.io
 app.sonantic.io
 backstage.io
-api.spotify.com
 label-studio-public.sonantic.io
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 api.sonantic.io
@@ -3302,8 +3302,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 exchangemarketplace.com
 shopifyinbox.com
@@ -3543,8 +3543,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3632,9 +3632,9 @@ status.slack.com
 spaces.pm
 api.slack.com
 slackb.com
+*.quip.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
 edgeapi.slack.com
 slack-imgs.com
@@ -3671,8 +3671,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
@@ -3957,10 +3957,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
