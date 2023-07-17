@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 17 12:48:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 17 13:45:27 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1185,8 +1185,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1485,8 +1485,8 @@ tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -1983,9 +1983,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3488,7 +3488,6 @@ api.vhx.tv
 *.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
-*.vhx.tv
 magisto.com
 www.magisto.com
 staging.magisto.com
@@ -3671,8 +3670,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
@@ -3957,10 +3956,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
