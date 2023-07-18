@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 18 11:20:09 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 18 12:42:18 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1184,9 +1184,9 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.elasticnet.co
-*.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1484,8 +1484,8 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1744,7 +1744,6 @@ faucet.polygon.technology
 *.sbgcdn.com
 *.betviewapi.com
 *.skyvegas.com
-*.skybingo.com
 *.msgsvc.io
 *.operationstechnology.io
 *.securityservices.io
@@ -1752,6 +1751,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.betfair.com
 *.skybet.com
+*.skybingo.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2437,8 +2437,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2669,10 +2669,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 support.newrelic.com
+discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3147,8 +3147,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3542,8 +3542,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3669,8 +3669,8 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 *.vpn.hackerone.net
+reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 www.hackerone.com
