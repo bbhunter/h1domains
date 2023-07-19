@@ -1373,8 +1373,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -2458,8 +2458,8 @@ trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
 sidefx,*.sidefx.com,True
-tokenweb3,token.com,False
 tokenweb3,*.tokensvc.com,False
+tokenweb3,token.com,False
 tokenweb3,blog.token.com,False
 tokenweb3,*.tokensvc.com,False
 tokenweb3,token.com,False
@@ -2492,8 +2492,8 @@ planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
-planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
+planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
@@ -4005,8 +4005,8 @@ elastic,*.found.io,True
 elastic,*.eops.nl,True
 elastic,*.elasticnet.co,True
 elastic,*.elstc.co,True
-elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -4331,10 +4331,10 @@ cedars-sinai,*apps.huntingtonhospital.com/,False
 cedars-sinai,*appofchoice.huntingtonhospital.com/,False
 thomsonreuters-public,*.thomsonreuters.com,False
 thomsonreuters-public,*.thomsonreuters.com,False
-aktia,app.aktia.fi,False
 aktia,www.aktia.fi,False
 aktia,auth.aktia.fi,False
 aktia,ftn.aktia.fi,False
+aktia,app.aktia.fi,False
 aktia,ebank.aktia.fi,False
 aktia,mobile-gateway.aktia.fi,False
 aktia,www.aktia.com,False
@@ -5605,6 +5605,7 @@ watson_group,www.marionnaud.sk,True
 watson_group,www.pns.hk,True
 watson_group,www10.watsons.com.my,True
 watson_group,api.watsons.com.hk,True
+watson_group,api.watsons.co.id,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -6325,7 +6326,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.wavecell.com,False
 8x8,*.packet8.net,False
 8x8,*.p8t.us,False
-8x8,*.dxi.eu,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6801,8 +6801,8 @@ keybank,*.hellowallet.com,False
 keybank,*.laurelroad.com,False
 keybank,*.bolstr.com,False
 keybank,*.cainbrothers.com,False
-keybank,*.key.com,False
 keybank,*.keybank.com,False
+keybank,*.key.com,False
 keybank,*.key.com,False
 keybank,*.keybank.com,False
 keybank,*.bolstr.com,False
@@ -8590,8 +8590,8 @@ adobe,stream.frame.io,False
 adobe,app.frame.io,False
 adobe,magento.com,True
 adobe,firefly.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9182,12 +9182,12 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
+nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
-nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False

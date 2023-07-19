@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 19 10:23:12 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 19 11:19:35 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -294,8 +294,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1187,8 +1187,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1589,6 +1589,7 @@ www.marionnaud.sk
 www.pns.hk
 www10.watsons.com.my
 api.watsons.com.hk
+api.watsons.co.id
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
