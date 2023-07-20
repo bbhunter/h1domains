@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 20 16:25:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 20 17:19:53 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -1374,8 +1374,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 ccloud.yoti.com
 core.yoti.com
 code.yoti.com
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -1940,14 +1940,14 @@ cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
-giftcards.marriott.com
 all-inclusive.marriott.com
+giftcards.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -1988,9 +1988,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -3040,9 +3040,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
