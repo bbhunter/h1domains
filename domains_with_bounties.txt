@@ -51,9 +51,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
+www.cardinalcommerce.com
 aw.visa.com
 usa.visa.com
-www.cardinalcommerce.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -1901,8 +1901,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -3955,10 +3955,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
