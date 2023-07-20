@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 20 05:19:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 20 06:26:21 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -57,9 +57,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 aw.visa.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 www.visa.co.id
 www.visa.co.ke
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1253,10 +1253,10 @@ reddit.secure.force.com
 redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
-accounts.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -2540,10 +2540,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2566,9 +2566,9 @@ research.gs.com
 marquee.gs.com
 *.gs.de
 *.gsam.com
+*.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioclient.com
 *.goldmansachs.com
 *.gs.com
@@ -3961,10 +3961,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
