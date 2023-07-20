@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 20 02:38:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 20 03:21:50 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -2233,15 +2233,15 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
@@ -2543,12 +2543,12 @@ www.shipt.com
 *.gsselect.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
+*.goldman.com
 *.gspublishing.com
 *.honestdollar.com
 *.global-liquidity.gs.com
@@ -2674,10 +2674,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 support.newrelic.com
 alerts.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3547,8 +3547,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-api.cloudflare.com
 waf.cumulusfire.net
+api.cloudflare.com
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
