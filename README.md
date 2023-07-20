@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 20 12:38:12 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 20 13:26:48 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -294,8 +294,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -729,8 +729,8 @@ push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
-www.etoro.com
 push-d-hap.cloud.etoro.com
+www.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
@@ -1757,7 +1757,6 @@ faucet.polygon.technology
 *.skybingo.com
 *.betfair.com
 *.skybet.com
-*.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -1765,6 +1764,7 @@ faucet.polygon.technology
 *.sbgservices.com
 *.skybet.net
 *.skybet.co.uk
+*.betfair.se
 *.platformservices.io
 *.sbgtest.net
 *.betfair.ro
@@ -1843,8 +1843,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibabacloud.com
-*.alibaba.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -1988,9 +1988,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2233,15 +2233,15 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+res.universalorlandovacations.com
 book.beachbound.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-res.universalorlandovacations.com
 www.wynnvacations.com
 vacations.us.palladiumhotelgroup.com
 reservations.wynnvacations.com
@@ -2540,10 +2540,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.ayco.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2674,10 +2674,10 @@ synthetics.eu.newrelic.com
 blog.newrelic.com
 support.newrelic.com
 alerts.newrelic.com
-discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+discuss.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3040,10 +3040,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 app.starbucks.com
@@ -3961,10 +3961,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
