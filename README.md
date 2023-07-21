@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 21 04:22:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 21 05:20:49 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -1755,8 +1755,8 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.skybingo.com
-*.betfair.com
 *.skybet.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
@@ -1907,8 +1907,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.vladcazino.ro
 *.unibet.com
@@ -1988,9 +1988,9 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
@@ -2868,8 +2868,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 api.grabpay.com
-p.grabtaxi.com
 *.grab.com
+p.grabtaxi.com
 gamma.grab.co
 kartaview.org
 jira.grab.com
@@ -3040,9 +3040,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucks.com.br
 card.starbucks.com.sg
@@ -3547,8 +3547,8 @@ cloudflareworkers.com
 *.teams.cloudflare.com
 one.dash.cloudflare.com
 *.cloudflare.com
-waf.cumulusfire.net
 api.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3961,10 +3961,10 @@ marketplace.fedramp.gov
 *.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
