@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 22 08:23:26 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 22 09:18:39 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1905,8 +1905,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2656,18 +2656,18 @@ https://crypto.com/price
 insights.eu.newrelic.com
 *.eu.newrelic.com
 docs.newrelic.com
-rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
-one.newrelic.com
+rpm.newrelic.com
 *.nr-data.net
 *.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 *.newrelic.com
 infrastructure.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
