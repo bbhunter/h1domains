@@ -154,9 +154,9 @@ www.tink.com
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -4483,9 +4483,9 @@ amp.reddit.com
 redditforbusiness.com
 www.reddit.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
@@ -6265,10 +6265,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -6326,6 +6326,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7440,10 +7441,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.braintree-api.com
 *.xoom.com
 py.pl
 *.paylution.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -8463,8 +8464,8 @@ exchangemarketplace.com
 shopifyinbox.com
 *.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8919,8 +8920,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -9159,8 +9160,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
