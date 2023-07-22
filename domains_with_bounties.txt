@@ -1148,8 +1148,8 @@ rubygems.org
 activate.codefi.network
 trufflesuite.com
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 staking-uat.codefi.network
+consensys.net
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1900,8 +1900,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3635,8 +3635,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com

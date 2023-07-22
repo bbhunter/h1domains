@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 22 13:21:18 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 22 14:18:19 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1154,8 +1154,8 @@ rubygems.org
 activate.codefi.network
 trufflesuite.com
 on-ramp.metaswap-dev.codefi.network
-consensys.net
 staking-uat.codefi.network
+consensys.net
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1906,8 +1906,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3641,8 +3641,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
