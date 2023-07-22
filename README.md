@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 22 21:18:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 22 22:20:51 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -263,8 +263,8 @@ api-eu.floqast.app
 api-eu.floqast.app
 hiltonhawaiianvillage.jp
 hiltonjapan.co.jp
-hiltonmanage.com
 *.hilton.io
+hiltonmanage.com
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1255,9 +1255,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.reddithelp.com
 www.reddit.com
 oauth.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1575,7 +1575,6 @@ apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
 www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1583,6 +1582,7 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
