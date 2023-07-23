@@ -295,9 +295,9 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
+*.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1843,8 +1843,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1980,10 +1980,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
