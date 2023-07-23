@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 19:17:25 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 20:20:30 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1984,10 +1984,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2948,8 +2948,8 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
-*.wordpress.org
 planet.wordpress.org
+*.wordpress.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
@@ -3311,9 +3311,9 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3638,8 +3638,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
