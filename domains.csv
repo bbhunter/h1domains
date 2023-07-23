@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6327,7 +6327,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.8x8.vc,False
-8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8920,8 +8919,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True

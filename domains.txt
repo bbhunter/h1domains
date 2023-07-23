@@ -5227,11 +5227,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6326,7 +6326,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8919,8 +8918,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
