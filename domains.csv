@@ -1380,9 +1380,9 @@ indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -2164,7 +2164,6 @@ fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
-fossil,www.fossil.ch,False
 fossil,www.fossil.de,False
 fossil,www.fossil.es,False
 fossil,www.fossil.in,False
@@ -2181,6 +2180,7 @@ fossil,watchstationhk.com,False
 fossil,fossilcare.com,False
 fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
+fossil,www.fossil.ch,False
 fossil,*.fossil.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
@@ -5226,11 +5226,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5604,7 +5604,7 @@ watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
 watson_group,www.marionnaud.sk,True
 watson_group,www.pns.hk,True
-watson_group,www.watsons.com.tw,True
+watson_group,api.watsons.com.tw,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -6325,6 +6325,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.8x8.vc,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8343,9 +8344,9 @@ zomato,api.grofers.com,True
 zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
 zomato,*.zdev.net,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -9389,10 +9390,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
