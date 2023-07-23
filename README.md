@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 16:23:10 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 17:18:21 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -301,9 +301,9 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1243,19 +1243,19 @@ sh.reddit.com
 meta-api.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
 gateway.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 www.reddit.com
 *.reddithelp.com
 accounts.reddit.com
-oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1843,12 +1843,12 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.aliyun.com
 *.1688.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
 *.alimama.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2950,10 +2950,10 @@ logs.dashlane.com
 api.dashlane.com
 *.wordpress.org
 planet.wordpress.org
-wordpressfoundation.org
 *.buddypress.org
 bbpress.org
 profiles.wordpress.org
+wordpressfoundation.org
 *.wordcamp.org
 lists.wordpress.org
 api.wordpress.org
@@ -3195,9 +3195,9 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
 *.zdev.net
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
