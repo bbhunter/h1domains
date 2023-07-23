@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 07:18:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Jul 23 08:22:36 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1849,8 +1849,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1906,8 +1906,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3521,8 +3521,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 onboarding.greenhouse.io
-api.greenhouse.io
 support.greenhouse.io
+api.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io

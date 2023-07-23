@@ -1686,8 +1686,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.STATE.GOV
 *.USEMBASSY.GOV
+*.STATE.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -3833,9 +3833,9 @@ forum.sketchfab.com
 www.jfrog.co.jp
 www.jfrogchina.com
 *.jfrog.org
-*.jfrog.com
 www.jfrog.com
 conan.io
+*.jfrog.com
 *.jfrog.com
 *.jfrog.org
 www.jfrog.com
@@ -5942,8 +5942,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6326,7 +6326,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.8x8.vc
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8794,8 +8793,8 @@ donations.livestream.com
 *.informatica.com
 *.informaticacloud.com
 onboarding.greenhouse.io
-api.greenhouse.io
 support.greenhouse.io
+api.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
@@ -9159,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.nuri.com
 app.bitwala.com
+app.nuri.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
