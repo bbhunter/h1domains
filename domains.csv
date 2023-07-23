@@ -187,7 +187,6 @@ clarivate,compumark.fr,False
 clarivate,compumark.info,False
 clarivate,compumark.jp,False
 clarivate,compumarks.com,False
-clarivate,computer-central.com,False
 clarivate,corporateintelligence.com,False
 clarivate,corporateintelligence.org,False
 clarivate,cpainproma.co.uk,False
@@ -224,6 +223,7 @@ clarivate,drganswers.com,False
 clarivate,drgaws.com,False
 clarivate,drginsight.com,False
 clarivate,drgpayersandproviders.com,False
+clarivate,endnote360.com,False
 clarivate,cpaglobal.ru,False
 clarivate,authorconnect-webofscience.com,False
 clarivate,authorconnectwebofscience.com,False
@@ -1097,8 +1097,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
-mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1495,8 +1495,8 @@ s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
-s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,tunnistus.s-ryhma.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -2162,7 +2162,6 @@ fossil,www.fossil.co.id,False
 fossil,www.shopkatchin.com,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
-fossil,*.fossil.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -2182,6 +2181,7 @@ fossil,watchstationhk.com,False
 fossil,fossilcare.com,False
 fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
+fossil,*.fossil.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.com.au,False
@@ -5228,11 +5228,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -6839,9 +6839,9 @@ pixiv,*.fanbox.cc,True
 pixiv,accounts.pixiv.net,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
-pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,dic.pixiv.net,True
+pixiv,sketch.pixiv.net,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -8456,9 +8456,9 @@ udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True
+shopify,*.shopifycloud.com,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
@@ -9160,8 +9160,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
