@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 23 23:20:49 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 01:28:52 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -68,8 +68,8 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-www.cybersource.com
 www.authorize.net
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -301,9 +301,9 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1243,9 +1243,9 @@ sh.reddit.com
 meta-api.reddit.com
 s.reddit.com
 www.spiketrap.io
+ads-api.reddit.com
 *.reddit.com
 gateway.reddit.com
-ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1846,9 +1846,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.aliexpress.com
-*.Daraz.com
 *.alimama.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
