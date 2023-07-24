@@ -25,8 +25,8 @@ redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
-redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
+redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
@@ -154,8 +154,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1126,8 +1126,8 @@ kolesagroup,avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
@@ -1655,8 +1655,8 @@ superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
-moonpay,moonpay.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -1743,10 +1743,10 @@ expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.expediagroup.com,True
-expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
+expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
@@ -2325,7 +2325,6 @@ mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
 mars,*.twix.com,False
-mars,*.banfield.com,False
 mars,*.royalcanin.nl,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
@@ -2339,6 +2338,7 @@ mars,*.myroyalcanin.ro,False
 mars,*.royalcanin.be,False
 mars,banfield.us,False
 mars,*.royalcanin.pt,False
+mars,*.banfield.com,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -2626,8 +2626,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -3989,8 +3989,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
+xvideos,www.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -4010,8 +4010,8 @@ elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -4487,8 +4487,8 @@ reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
-reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5229,11 +5229,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -5411,9 +5411,9 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -6036,8 +6036,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6267,10 +6267,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -6328,6 +6328,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
 8x8,*.8x8.vc,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8464,8 +8465,8 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8916,8 +8917,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True
@@ -8956,8 +8957,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,ctf.hacker101.com,True
+security,www.hackerone.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
