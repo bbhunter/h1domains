@@ -2499,9 +2499,9 @@ iseeme.com
 www.canvasworld.com
 www.gifts.com
 *.canvasworld.com
-*.iseeme.com
 *.cafepress.com
 *.personalcreations.com
+*.iseeme.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -2966,7 +2966,6 @@ magnit.milka.ru
 milka.ru
 mothersday.cadbury.co.nz
 bot.cadburygifting.in
-www.cadburygifting.in
 loyalty.deliciousdisplay.co.uk
 fattorieosella.it
 missionebonta.fattorieosella.it
@@ -2974,6 +2973,7 @@ detoutcoeuraveclesbleus.milka.fr
 miamourembourse.milka.fr
 magnit.oreo.ru
 oreo.ru
+order-service.philadelphia-professional.de
 mondelezinternational.com
 www.cadbury.com.au
 amea.mondelezinternational.com
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6951,7 +6951,6 @@ chaodeudas.cl
 *.paynet.ca
 *.paynet.com
 *.paynet.credit
-*.efficientforms.com
 HOURLY-JOBS.NET
 JOBALINE.COM
 JOBALINECI.COM
@@ -6959,6 +6958,7 @@ efficienthire.info
 ehxhr.com
 wotctech.com
 *equifax.com
+*.efficientforms.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -8484,8 +8484,8 @@ ads.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
-businesshelp.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -8919,8 +8919,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

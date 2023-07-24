@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 24 08:26:04 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 24 09:23:52 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3332,8 +3332,8 @@ ads.snapchat.com
 create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
-businesshelp.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3638,8 +3638,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

@@ -2500,9 +2500,9 @@ planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -2967,7 +2967,6 @@ mondelez,magnit.milka.ru,False
 mondelez,milka.ru,False
 mondelez,mothersday.cadbury.co.nz,False
 mondelez,bot.cadburygifting.in,False
-mondelez,www.cadburygifting.in,False
 mondelez,loyalty.deliciousdisplay.co.uk,False
 mondelez,fattorieosella.it,False
 mondelez,missionebonta.fattorieosella.it,False
@@ -2975,6 +2974,7 @@ mondelez,detoutcoeuraveclesbleus.milka.fr,False
 mondelez,miamourembourse.milka.fr,False
 mondelez,magnit.oreo.ru,False
 mondelez,oreo.ru,False
+mondelez,order-service.philadelphia-professional.de,False
 mondelez,mondelezinternational.com,False
 mondelez,www.cadbury.com.au,False
 mondelez,amea.mondelezinternational.com,False
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6952,7 +6952,6 @@ equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
 equifax,*.paynet.credit,False
-equifax,*.efficientforms.com,False
 equifax,HOURLY-JOBS.NET,False
 equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
@@ -6960,6 +6959,7 @@ equifax,efficienthire.info,False
 equifax,ehxhr.com,False
 equifax,wotctech.com,False
 equifax,*equifax.com,False
+equifax,*.efficientforms.com,False
 equifax,*equifax.cl,False
 equifax,*equifax.ec,False
 equifax,*equifax.hn,False
@@ -8485,8 +8485,8 @@ snapchat,ads.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
-snapchat,businesshelp.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,businesshelp.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
@@ -8920,8 +8920,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
