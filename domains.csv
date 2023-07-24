@@ -1373,8 +1373,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -1494,9 +1494,9 @@ s-pankki,api.sokos.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,extranet.s-pankki.fi,True
-s-pankki,www.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
 s-pankki,tunnistus.s-ryhma.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,www.sokos.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -1602,7 +1602,6 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -1610,6 +1609,7 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8.id,True
+8x8-bounty,*.jit.si,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -2069,11 +2069,11 @@ allegion,*.allegionengage.com,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,www.planopunkt.com,False
 allegion,zentra.co,False
-allegion,*.allegion.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
 allegion,www.bricard.com,False
+allegion,*.allegion.com,False
 allegion,www.republicdoor.com,False
 allegion,www.normbau.de,False
 allegion,www.fshlocking.com.au,False
@@ -2362,7 +2362,6 @@ mars,banfieldfoundation.org,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
-mars,*.bluepearlvet.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
 mars,*.royalcaninrewards.co.za,False
@@ -2371,6 +2370,7 @@ mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
 mars,*.royalcanin.edu.pl,False
+mars,*.rcpracownik.pl,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -4004,9 +4004,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -6318,12 +6318,12 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
 8x8,*.mycontactual.com,False
-8x8,*.jit.si,False
 8x8,*.8x8e2e.com,False
 8x8,*.ucverse.com,False
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.jit.si,False
 8x8,*.8x8.vc,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
@@ -8101,8 +8101,8 @@ rockstargames,lifeinvader.com,True
 rockstargames,rockstarnorth.com,True
 rockstargames,circolocorecords.com/,True
 files,app.files.com,True
-files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
+files,your-assigned-subdomain.files.com,True
 files,app.files.com,True
 files,your-assigned-subdomain.files.com,True
 files,www.files.com,True
@@ -8714,8 +8714,8 @@ airbnb,*.muscache.com,True
 airbnb,luckey.fr,True
 airbnb,luckey.in,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.airbnb.com,True
 airbnb,luckey.partners,True
 airbnb,www.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -8917,8 +8917,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
@@ -9157,8 +9157,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9389,10 +9389,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
