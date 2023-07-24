@@ -35,8 +35,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -82,8 +82,8 @@ visa,www.visa.co.th,True
 visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
 visa,visa.co.za,True
-visa,www.authorize.net,True
 visa,www.cybersource.com,True
+visa,www.authorize.net,True
 visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
@@ -2365,7 +2365,6 @@ mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
-mars,*.coroapremiada.com.br,False
 mars,*.royalcaninrewards.co.za,False
 mars,*.royalcanin.it,False
 mars,*.royalcanin.sk,False
@@ -2373,6 +2372,7 @@ mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
 mars,*.royalcanin.edu.pl,False
 mars,*.rcpracownik.pl,False
+mars,*.plataformaurinary.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,www.32red.com,True
 kindred_group,*.ottokasino.com,True
+kindred_group,www.32red.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -7660,8 +7660,8 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,auth.crypto.com,True
 crypto,www.crypto.com,True
+crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
 crypto,tax.crypto.com,True
@@ -8263,9 +8263,9 @@ nextcloud,pushfeed.nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
-pornhub,www.pornhub.com,True
 pornhub,www.modelhub.com,True
 pornhub,www.redtube.com,True
+pornhub,www.pornhub.com,True
 pornhub,api.pornhub.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
@@ -8296,11 +8296,11 @@ github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
-github,education.github.com,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
 github,github.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8463,9 +8463,9 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopify.com,True
+shopify,shopify.plus,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8943,8 +8943,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
@@ -9160,8 +9160,8 @@ nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
 nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
-nuri,app.nuri.com,False
 nuri,app.bitwala.com,False
+nuri,app.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,app.bitwala.com,False
 nuri,api.app.bitwala.com,False
@@ -9392,10 +9392,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
