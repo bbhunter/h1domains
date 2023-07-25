@@ -153,8 +153,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.bharatbenz.com,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*fleetboard.de,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1381,8 +1381,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -5408,11 +5408,11 @@ tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -5567,8 +5567,8 @@ rebellion-defense,www.rebelliondefense.com,False
 dropcontact,app.dropcontact.io,False
 dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
-acronis,account.acronis.com,True
 acronis,*.5nine.com,True
+acronis,account.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
@@ -6035,8 +6035,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.casinohuone.com,True
 kindred_group,*.igame.com,True
 kindred_group,*.vladcazino.ro,True
-kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
+kindred_group,*.ottokasino.com,True
 kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
@@ -6768,8 +6768,8 @@ datastax,docs.datastax.com,True
 datastax,astra.datastax.com,True
 nordsecurity,*.nordvpn.com,True
 nordsecurity,*.nordvpn.com,True
-pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
+pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 line,*.line-apps.com,True
@@ -8298,8 +8298,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8345,8 +8345,8 @@ zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomans.com,True
-zomato,*.zdev.net,True
 zomato,*.zomato.com,True
+zomato,*.zdev.net,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

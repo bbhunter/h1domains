@@ -152,8 +152,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *.bharatbenz.com
-*.freightliner.com
 *fleetboard.de
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1380,8 +1380,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -5407,11 +5407,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -5566,8 +5566,8 @@ www.rebelliondefense.com
 app.dropcontact.io
 app.dropcontact.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6767,8 +6767,8 @@ docs.datastax.com
 astra.datastax.com
 *.nordvpn.com
 *.nordvpn.com
-*.pubgesports.com
 *.pubg.com
+*.pubgesports.com
 *.pubg.com
 *.pubgesports.com
 *.line-apps.com
@@ -8297,8 +8297,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -8344,8 +8344,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
-*.zdev.net
 *.zomato.com
+*.zdev.net
 *.runnr.in
 *.zomato.com
 *.zdev.net
