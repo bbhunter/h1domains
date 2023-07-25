@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 13:30:11 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 14:21:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -510,11 +510,11 @@ www.vrbo.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.travelocity.ca
 www.expedia.com
 www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
+www.travelocity.ca
 www.expediapartnercentral.com
 www.hotwire.com
 www.ebookers.fi
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1984,10 +1984,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -2540,11 +2540,11 @@ www.shipt.com
 *.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
