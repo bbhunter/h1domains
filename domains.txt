@@ -1095,9 +1095,9 @@ www.mercadopago.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.mercadopago.com
-www.mercadolivre.com.br
 www.mercadopago.cl
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1122,8 +1122,8 @@ m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
 id.avtoelon.uz
-kolesa.kz
 m.avtoelon.uz
+kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -1511,8 +1511,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -5228,11 +5228,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6035,8 +6035,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6264,8 +6264,8 @@ lifeology.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-*.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -6326,6 +6326,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9388,10 +9389,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
