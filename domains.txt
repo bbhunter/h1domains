@@ -5942,8 +5942,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6325,6 +6325,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8481,8 +8482,8 @@ create.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 businesshelp.snapchat.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -8501,8 +8502,8 @@ playcanvas.com
 rt.playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 www.bitstrips.com
 kit.snapchat.com
 *.sc-core.net
@@ -8590,8 +8591,8 @@ app.frame.io
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
 firefly.adobe.com
-*.adobeaemcloud.com
 *.adobe.com
+*.adobeaemcloud.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9389,10 +9390,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

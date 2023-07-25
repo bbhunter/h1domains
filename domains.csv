@@ -5943,8 +5943,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -6326,6 +6326,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8482,8 +8483,8 @@ snapchat,create.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
@@ -8502,8 +8503,8 @@ snapchat,playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
-snapchat,web.snapchat.com,True
 snapchat,*.sc-corp.net,True
+snapchat,web.snapchat.com,True
 snapchat,www.bitstrips.com,True
 snapchat,kit.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -8591,8 +8592,8 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,firefly.adobe.com,False
-adobe,*.adobeaemcloud.com,False
 adobe,*.adobe.com,False
+adobe,*.adobeaemcloud.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9390,10 +9391,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
