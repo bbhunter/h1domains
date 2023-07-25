@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 15:22:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 16:27:28 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -3039,8 +3039,8 @@ https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
-www.starbucks.co.uk
 www.starbucks.com.br
+www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3194,9 +3194,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zomans.com
 *.zdev.net
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

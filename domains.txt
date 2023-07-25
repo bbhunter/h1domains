@@ -1095,9 +1095,9 @@ www.mercadopago.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.mercadopago.com
+www.mercadolivre.com.br
 www.mercadopago.cl
 www.mercadopago.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1511,8 +1511,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1946,8 +1946,8 @@ app.citushealth.com/
 resmed.co.in
 resmed.com.cn
 resmed.es
-www.citushealth.com
 careers.resmed.com
+www.citushealth.com
 myair.resmed.com
 resmed.hk
 resmed.de
@@ -2521,8 +2521,8 @@ iseeme.com
 portfolio.metamask.io
 portfolio.metamask.io
 *.tms.pl
-*.oanda.com
 *.oanda.jp
+*.oanda.com
 *.tmsbrokers.com
 *.oanda.com
 *.oanda.jp
@@ -5430,7 +5430,6 @@ shop.tiktok.com
 live-backstage.tiktok.com
 alert.logitech.com
 *.myharmony.com
-*.logitech.com
 www.logitechg.com
 *.ultimateearsuniversity.com
 *.lukwerks.com
@@ -5440,6 +5439,7 @@ www.logitech.com.cn
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
+*.logitech.com
 *.streamlabscharity.com
 circle.logi.com
 www.ultimateears.com
@@ -6035,8 +6035,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6313,9 +6313,9 @@ www.8x8.com
 *.chalet.8x8.com
 work.8x8.com
 platform.8x8.com
-pay.8x8.com
 sso.8x8.com
 *.jitsi.net
+pay.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -6326,7 +6326,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -6387,7 +6386,6 @@ eppm.mtn.com
 fs-prdfus.mtn.com
 ecap.mtn.com
 mtnholdings.org
-mtnhostedservices.mobi
 usermtn.com
 mtnconnect.com
 promobymtn.com
@@ -8145,8 +8143,8 @@ https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
-www.starbucks.co.uk
 www.starbucks.com.br
+www.starbucks.co.uk
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -8344,9 +8342,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zomans.com
 *.zdev.net
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
