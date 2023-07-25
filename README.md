@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 06:26:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 07:20:43 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -329,8 +329,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
