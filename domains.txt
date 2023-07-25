@@ -151,9 +151,9 @@ www.tink.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
-*.bharatbenz.com
-*fleetboard.de
 *.freightliner.com
+*fleetboard.de
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -2335,8 +2335,8 @@ www.watchstationindia.com
 *.myroyalcanin.ro
 *.royalcanin.be
 banfield.us
-*.royalcanin.pt
 *.banfield.com
+*.royalcanin.pt
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.com
@@ -2624,8 +2624,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -6265,10 +6265,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -7578,8 +7578,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -8344,8 +8344,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zomans.com
-*.zomato.com
 *.zdev.net
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8819,8 +8819,8 @@ twitterflightschool.com
 t.co
 cloudflareworkers.com
 *.teams.cloudflare.com
-one.dash.cloudflare.com
 *.cloudflare.com
+one.dash.cloudflare.com
 *.cloudflarepartners.com
 api.cloudflare.com
 waf.cumulusfire.net
@@ -9158,8 +9158,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
