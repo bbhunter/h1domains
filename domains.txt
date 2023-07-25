@@ -1,10 +1,10 @@
 api.shi.com
 durango.shi.com
 renewalreminder.shi.com
-apiconsole.shi.com
 assetinsights.shi.com
 servicepro.shi.com
 accounts.shi.com
+apiconsole.shi.com
 www.content.shi.com
 www.shi.com
 accounts.shi.com
@@ -1790,7 +1790,6 @@ www.flights.com
 *.hotwirepartnercentral.com
 *.expediapartnersolutions.com
 *.expediaagents.com
-*.expedia.com
 *.orbitz.com
 *.wotif.com
 *.cruiseshipcenters.com
@@ -1799,6 +1798,7 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -2660,11 +2660,11 @@ api.smtp2go.com
 *.gymshark.com
 *.gymshark.io
 push-d-hap.cloud.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
 www.etoro.com
+push-demo-lightstreamer.cloud.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -4486,8 +4486,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5228,11 +5228,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5899,8 +5899,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 chat.amazon.com
-affiliate-program.amazon.com
 track.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -5942,9 +5942,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6035,8 +6035,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6326,6 +6326,7 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7578,8 +7579,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
+*.goldmansachs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -8461,8 +8462,8 @@ partners.shopify.com
 exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
