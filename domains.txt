@@ -2335,8 +2335,8 @@ www.watchstationindia.com
 *.myroyalcanin.ro
 *.royalcanin.be
 banfield.us
-*.banfield.com
 *.royalcanin.pt
+*.banfield.com
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.com
