@@ -6266,10 +6266,10 @@ lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,marketplace.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -7660,12 +7660,12 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
+crypto,www.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
-crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
+crypto,tax.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,js.crypto.com,True
 crypto,app.mona.co,True
@@ -8299,8 +8299,8 @@ github,*.github.net,True
 github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,education.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -8943,8 +8943,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True

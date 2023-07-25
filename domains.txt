@@ -6265,10 +6265,10 @@ ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
 marketplace.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -7659,12 +7659,12 @@ help.steampowered.com
 developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -8298,8 +8298,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -8942,8 +8942,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
