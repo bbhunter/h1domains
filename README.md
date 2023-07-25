@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul 25 05:21:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue Jul 25 06:26:12 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -595,9 +595,9 @@ tools.deribit.com
 metrics.deribit.com
 m.poloniex.com
 www.poloniex.com
-api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
+api.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -1904,8 +1904,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2547,7 +2547,6 @@ apigw.foliofn.com
 *.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
-*.goldmansachs.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2556,6 +2555,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -3148,8 +3148,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com

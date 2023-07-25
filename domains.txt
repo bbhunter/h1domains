@@ -21,8 +21,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -152,8 +152,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -2111,9 +2111,9 @@ zentra.co
 www.normbau.de
 m.poloniex.com
 www.poloniex.com
-api.poloniex.com
 api2.poloniex.com
 public.poloniex.com
+api.poloniex.com
 www.poloniex.com
 api.poloniex.com
 m.poloniex.com
@@ -6034,8 +6034,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -6325,7 +6325,6 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7571,7 +7570,6 @@ apigw.foliofn.com
 *.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
-*.goldmansachs.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -7580,6 +7578,7 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+*.goldmansachs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -8297,8 +8296,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-education.github.com
 github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -8591,8 +8590,8 @@ app.frame.io
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
 firefly.adobe.com
-*.adobe.com
 *.adobeaemcloud.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9158,8 +9157,8 @@ www.bitwala.com
 api.app.bitwala.com
 www.nuri.com
 api.app.nuri.com
-app.bitwala.com
 app.nuri.com
+app.bitwala.com
 www.bitwala.com
 app.bitwala.com
 api.app.bitwala.com
