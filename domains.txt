@@ -5228,11 +5228,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -5943,8 +5943,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6035,8 +6035,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -7870,8 +7870,8 @@ investors.semrush.com
 *.berush.com
 workflows.semrush.com
 investors.semrush.com
-vault.bitwarden.com
 api.bitwarden.com
+vault.bitwarden.com
 identity.bitwarden.com
 help.bitwarden.com
 bitwarden.com
@@ -8479,11 +8479,11 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 create.snapchat.com
-forum.playcanvas.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
