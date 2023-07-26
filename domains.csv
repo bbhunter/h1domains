@@ -5833,7 +5833,6 @@ xiaomi,*.miwifi.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
-flutteruki,*.skybet.com,True
 flutteruki,*.betviewapi.com,True
 flutteruki,*.skyvegas.com,True
 flutteruki,*.skybingo.com,True
@@ -5843,6 +5842,7 @@ flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skybet.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -8516,9 +8516,9 @@ snapchat,app.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True

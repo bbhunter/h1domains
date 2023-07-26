@@ -5832,7 +5832,6 @@ faucet.polygon.technology
 *.betfair.it
 *.paddypower.it
 *.sbgcdn.com
-*.skybet.com
 *.betviewapi.com
 *.skyvegas.com
 *.skybingo.com
@@ -5842,6 +5841,7 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -8515,9 +8515,9 @@ app.snapchat.com
 store.snapchat.com
 business.snapchat.com
 my.snapchat.com
-playcanvas.com
 rt.playcanvas.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

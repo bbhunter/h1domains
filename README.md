@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 26 04:23:29 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 26 05:20:05 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1762,7 +1762,6 @@ faucet.polygon.technology
 *.betfair.it
 *.paddypower.it
 *.sbgcdn.com
-*.skybet.com
 *.betviewapi.com
 *.skyvegas.com
 *.skybingo.com
@@ -1772,6 +1771,7 @@ faucet.polygon.technology
 *.skybettest.net
 *.sportinglife.com
 *.betfair.com
+*.skybet.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -3364,9 +3364,9 @@ app.snapchat.com
 store.snapchat.com
 business.snapchat.com
 my.snapchat.com
-playcanvas.com
 rt.playcanvas.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
