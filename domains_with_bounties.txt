@@ -752,8 +752,8 @@ push-demo-hk-lightstreamer.cloud.etoro.com
 push-dn-hap.cloud.etoro.com
 push-lightstreamer.cloud.etoro.com
 push-real-hk-lightstreamer.cloud.etoro.com
-bullsheet.me
 etorologsapi.etoro.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
