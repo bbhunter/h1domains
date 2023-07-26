@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 26 07:19:37 UTC 2023)
+## Domains with Bounties (Last Updated Wed Jul 26 08:25:41 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -261,10 +261,10 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-hiltonhawaiianvillage.jp
 hiltonjapan.co.jp
 *.hilton.io
 hiltonmanage.com
+hiltonhawaiianvillage.jp
 *.hiltonbusinessonline.com
 hilton.io
 hiltonbusinessonline.com
@@ -1188,8 +1188,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -3063,8 +3063,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
