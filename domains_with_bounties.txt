@@ -139,8 +139,8 @@ app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 m.krisha.kz
-app.avtoelon.uz
 avtoelon.uz
+app.avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -288,8 +288,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -504,11 +504,11 @@ www.vrbo.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
-www.expedia.com
 www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.travelocity.ca
+www.expedia.com
 www.expediapartnercentral.com
 www.hotwire.com
 www.ebookers.fi
@@ -1172,8 +1172,8 @@ www.xvideos.red
 www.xnxx.com
 gold.xnxx.com
 https://www.xvideos.net/app/
-www.trafficfactory.com
 *.trafficfactory.biz
+www.trafficfactory.com
 main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
@@ -3323,8 +3323,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
