@@ -22,8 +22,8 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -4246,7 +4246,6 @@ urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
-cedars-sinai,*csmc.edu,False
 cedars-sinai,*mycslink.org,False
 cedars-sinai,*Hmhrx.net,False
 cedars-sinai,*Hmhrx.org,False
@@ -4257,6 +4256,7 @@ cedars-sinai,*sgveconnect.org,False
 cedars-sinai,*huntingtonhospital.com,False
 cedars-sinai,*huntingtonhospital.net,False
 cedars-sinai,*hhphysicians.org,False
+cedars-sinai,*csmc.edu,False
 cedars-sinai,*ourstory.huntingtonhospital.com/,False
 cedars-sinai,*pricing.huntingtonhospital.com/,False
 cedars-sinai,*www.cshs.org,False
@@ -4521,8 +4521,8 @@ coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
 on,*.on-running.com,False
 on,*.on-running.com,False
-scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
+scopely,*.scopely.com,True
 scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
@@ -5430,8 +5430,8 @@ tiktok,tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8480,8 +8480,8 @@ shopify,*.shopifykloud.com,True
 shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
