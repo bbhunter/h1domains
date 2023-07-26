@@ -21,8 +21,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -1618,8 +1618,8 @@ sso.8x8pilot.com
 user-profile.8x8.com
 *.p8t.us
 *.wavecell.com
-*.8x8cloud.net
 pay.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1745,9 +1745,9 @@ www.travelocity.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
-www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
+www.cheaptickets.com
 www.expedia.com
 www.carrentals.com
 www.bookabach.co.nz
@@ -6312,8 +6312,8 @@ get8x8.com
 *.8x8.com
 *.easycontactnow.com
 *.thinkingphones.com
-*.8x8cloud.net
 connect.8x8.com
+*.8x8cloud.net
 *.fuze.com
 *.thinkingphones.net
 *.8x8staging.com
@@ -8219,8 +8219,8 @@ rubygems.org
 rubygems.org
 yelptop100.com
 *.yelpwifi.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -8242,7 +8242,6 @@ apps.nextcloud.com
 portal.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
-knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
 push-notifications.nextcloud.com
@@ -8250,6 +8249,7 @@ customerupdates.nextcloud.com
 nextcloud.com
 newsletter.nextcloud.com
 download.nextcloud.com
+knowledge.nextcloud.com
 surveyserver.nextcloud.com
 docs.nextcloud.com
 lists.nextcloud.com
