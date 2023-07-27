@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -1376,8 +1376,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -2499,13 +2499,13 @@ www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
 *.photoaffections.com
-*.gifts.com
 www.canvasworld.com
+*.gifts.com
 www.gifts.com
 *.canvasworld.com
-*.cafepress.com
 *.iseeme.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
