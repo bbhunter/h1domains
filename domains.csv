@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,api.shi.com,False
@@ -1377,8 +1377,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -6890,7 +6890,6 @@ forescout_technologies,uk.forescout.cloud,True
 forescout_technologies,de.forescout.cloud,True
 forescout_technologies,updates.forescout.com,True
 forescout_technologies,datapod-1-druid-ingest.production.forescoutcloud.net,True
-forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
 forescout_technologies,community.forescout.com,True
 forescout_technologies,app.iris.acceptance.forescoutcloud.net,True
@@ -6898,6 +6897,7 @@ forescout_technologies,obs-sensors.iris.acceptance.forescoutcloud.net,True
 forescout_technologies,streaming.iris.production.forescoutcloud.net,True
 forescout_technologies,streaming-api.iris.production.forescoutcloud.net,True
 forescout_technologies,us.forescout.cloud,True
+forescout_technologies,www.forescout.com,True
 forescout_technologies,iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com,True
 forescout_technologies,www.forescout.com,True
 forescout_technologies,datapod-2-ingest.acceptance.forescoutcloud.net,True
@@ -8518,9 +8518,9 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
