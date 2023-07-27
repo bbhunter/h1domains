@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 22:20:14 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 23:20:17 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1821,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -1943,8 +1943,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -3364,9 +3364,9 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
