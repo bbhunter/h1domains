@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 12:37:47 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 13:26:30 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -729,8 +729,8 @@ push-d-hap.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
 delta.app
-www.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1864,9 +1864,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3364,8 +3364,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
@@ -4009,36 +4009,4 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
-api.kiwi.ki
-portal.kiwi.ki
-mobile.kiwi.ki
-api.kiwi.ki
-mobile.kiwi.ki
-portal.kiwi.ki
-provider.enter.health
-api.enter.health
-login.enter.health
-api.enter.health
-login.enter.health
-provider.enter.health
-*.ud.wtf
-*.urbandictionary.com
-*.urbandictionary.org
-*.urbandictionary.biz
-av.urbandictionary.biz
-*.urbandictionary.blog
-urbandictionary.github.io
-*.urbandictionary.net
-*.udimg.com
-*.urbanup.com
-*.urbandictionary.com
-*.urbandictionary.net
-*.urbandictionary.biz
-*.urbandictionary.org
-*.ud.wtf
-*.udimg.com
-*.urbandictionary.blog
-*.urbanup.com
-urbandictionary.github.io
-av.urbandictionary.biz
 ```
