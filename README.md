@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 18:27:42 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 19:18:58 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -233,8 +233,8 @@ hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
 developer.mozilla.org
-monitor.firefox.com
 www.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
 vpn.mozilla.org
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1253,9 +1253,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1508,9 +1508,9 @@ careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
-developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2787,8 +2787,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3364,8 +3364,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-playcanvas.com
 my.snapchat.com
+playcanvas.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
