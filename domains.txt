@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -1300,9 +1300,9 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonmanage.com
 hilton.com
 *.hiltonlocalbiz.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2630,8 +2630,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -4246,8 +4246,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -5921,8 +5921,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -8517,9 +8517,9 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
+my.snapchat.com
 playcanvas.com
 snappublisher.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
