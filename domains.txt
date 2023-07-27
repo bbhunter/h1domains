@@ -1088,10 +1088,10 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
-api.mercadolibre.com
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
+api.mercadolibre.com
 www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
@@ -1376,8 +1376,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1807,11 +1807,11 @@ www.flights.com
 *.flights.com
 *.hoteles.com
 *.travelocity.ca
-*.homeaway.com
 *.cheaptickets.com
 *.carrentals.com
 *.bookabach.co.nz
 thailand.airasiago.com
+*.homeaway.com
 *.hotwire.com
 *.hotels.com
 *.travelocity.com
