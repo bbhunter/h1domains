@@ -1943,11 +1943,11 @@ resmed,provider.propellerhealth.biz,False
 resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
-resmed,produktion.api.praxispad.de/,False
-resmed,referenzkunden.api.praxispad.de,False
-resmed,app.medifox-therapie.de/,False
-resmed,app.citushealth.com/,False
 resmed,shop.resmed.com,False
+resmed,app.citushealth.com/,False
+resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
+resmed,produktion.api.praxispad.de/,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
@@ -1966,10 +1966,10 @@ resmed,resmed.com.br,False
 resmed,resmed.sg,False
 resmed,resmed.ch,False
 resmed,resmed.la,False
-resmed,propellerhealth.com,False
 resmed,airview.resmed.eu,False
 resmed,mealtracker.com,False
 resmed,u-sleep.umbian.com,False
+resmed,propellerhealth.com,False
 resmed,resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
@@ -8516,8 +8516,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,playcanvas.com,True
 snapchat,my.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
