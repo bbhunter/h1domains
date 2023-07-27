@@ -26,8 +26,8 @@ redox_bbp,fhir.redoxengine.com,True
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -2331,7 +2331,6 @@ mars,*.twix.com,False
 mars,*.royalcanin.nl,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
-mars,*.miroyalcanin.com.ar,False
 mars,*.mivetshop.com.ar,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
@@ -2342,6 +2341,7 @@ mars,*.royalcanin.be,False
 mars,banfield.us,False
 mars,*.royalcanin.pt,False
 mars,*.banfield.com,False
+mars,*.miroyalcanin.com.ar,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -2500,8 +2500,8 @@ planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
@@ -5920,8 +5920,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,track.amazon.com,True
-amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,chat.amazon.com,True
+amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -5956,8 +5956,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.1688.com,True
@@ -8516,8 +8516,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
