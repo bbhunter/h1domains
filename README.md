@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 08:24:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 09:21:41 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -70,7 +70,6 @@ www.visa.co.ve
 visa.co.za
 www.cybersource.com
 www.authorize.net
-bd.visa.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -79,6 +78,7 @@ www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
 www.visa.com.tr
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -294,8 +294,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -406,9 +406,9 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
 *.jit.si
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1763,7 +1763,6 @@ faucet.polygon.technology
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
-*.skyvegas.com
 *.skybingo.com
 *.msgsvc.io
 *.operationstechnology.io
@@ -1772,6 +1771,7 @@ faucet.polygon.technology
 *.sportinglife.com
 *.betfair.com
 *.skybet.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1821,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -3349,8 +3349,8 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
