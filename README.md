@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 13:26:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 14:21:03 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -1286,8 +1286,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1821,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -3329,8 +3329,8 @@ exchangemarketplace.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3364,8 +3364,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 playcanvas.com
+my.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
@@ -4009,4 +4009,36 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
+api.kiwi.ki
+portal.kiwi.ki
+mobile.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+portal.kiwi.ki
+provider.enter.health
+api.enter.health
+login.enter.health
+api.enter.health
+login.enter.health
+provider.enter.health
+*.ud.wtf
+*.urbandictionary.com
+*.urbandictionary.org
+*.urbandictionary.biz
+av.urbandictionary.biz
+*.urbandictionary.blog
+urbandictionary.github.io
+*.urbandictionary.net
+*.udimg.com
+*.urbanup.com
+*.urbandictionary.com
+*.urbandictionary.net
+*.urbandictionary.biz
+*.urbandictionary.org
+*.ud.wtf
+*.udimg.com
+*.urbandictionary.blog
+*.urbanup.com
+urbandictionary.github.io
+av.urbandictionary.biz
 ```
