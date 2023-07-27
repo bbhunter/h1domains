@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jul 27 03:21:14 UTC 2023)
+## Domains with Bounties (Last Updated Thu Jul 27 04:23:19 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -294,8 +294,8 @@ hiltonlocalbiz.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -416,8 +416,8 @@ voapi.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
-*.wavecell.com
 sso.8x8pilot.com
+*.wavecell.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
