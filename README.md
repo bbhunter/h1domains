@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 17:19:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 18:24:55 UTC 2023)
 ```
-fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
+fhir.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -933,8 +933,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 krisp.ai
@@ -1857,8 +1857,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1990,8 +1990,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3063,8 +3063,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn

@@ -21,9 +21,9 @@ servicepro.shi.com
 www.content.shi.com
 www.shi.com
 https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc
-fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
+fhir.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -3660,8 +3660,8 @@ jobs.krisp.ai
 url5145.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 krisp.ai
@@ -5958,8 +5958,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -6127,8 +6127,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7463,8 +7463,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -8171,8 +8171,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
