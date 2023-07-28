@@ -264,9 +264,9 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonlocalbiz.com
 *.hiltonmanage.com
 hilton.com
+*.hiltonlocalbiz.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1497,11 +1497,11 @@ ads.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
-creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1816,8 +1816,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-affiliate-program.amazon.com
 chat.amazon.com
+affiliate-program.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
