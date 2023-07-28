@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 13:26:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 14:20:40 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -982,11 +982,10 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.3lateral.com
 *.psyonix.com
-*.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
@@ -1254,8 +1253,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1822,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -3330,8 +3329,8 @@ shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

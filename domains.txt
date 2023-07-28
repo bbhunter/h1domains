@@ -148,10 +148,10 @@ www.yellowpepper.com
 www.fraedom.com
 usa.visa.com
 www.tink.com
-*exceleratorparts.com
 *.setra.de
 *omniplus.com
 *.mercedes-benz-trucks.com
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -3739,8 +3739,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 *.wilmingtontrust.com
-*.leafnow.com
 *.mtb.com
+*.leafnow.com
 *.trustnota.com
 *.mtb.com
 *.wilmingtontrust.com
@@ -3766,12 +3766,11 @@ api.stage.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.3lateral.com
 *.psyonix.com
 forum.sketchfab.com
-*.bcbits.com
 *.dropmix.com
 www.rockband4.com
 *.harmonixmusic.com
@@ -4493,8 +4492,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -5923,8 +5922,8 @@ eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
 track.amazon.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -8484,8 +8483,8 @@ shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
