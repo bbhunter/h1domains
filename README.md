@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 03:21:39 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 04:22:19 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1365,9 +1365,9 @@ internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
-open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 app.larksuite.com
@@ -3503,8 +3503,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-*.livestream.com
 vhx.tv
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
