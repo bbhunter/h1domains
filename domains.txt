@@ -1119,9 +1119,9 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.krisha.kz
-app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 m.krisha.kz
 avtoelon.uz
 app.avtoelon.uz
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5921,8 +5921,8 @@ aprms.insulet.com
 eu-aprms.omnipodapps.com
 www.poddercentral.com
 www.omnipod.com
-chat.amazon.com
 affiliate-program.amazon.com
+chat.amazon.com
 track.amazon.com
 manufacturing.amazon.com
 api.amazon.com
@@ -7470,8 +7470,8 @@ my.swiftfinancial.com
 swiftcapital.com
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-*.hyperwallet.com
 paypal.me
+*.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
 *.paypal.com
@@ -8318,8 +8318,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 education.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
