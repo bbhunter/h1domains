@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 18:24:55 UTC 2023)
+## Domains with Bounties (Last Updated Fri Jul 28 19:18:18 UTC 2023)
 ```
 testapi.redoxengine.com
-www.redoxengine.com
 fhir.redoxengine.com
+www.redoxengine.com
 help.redoxengine.com
 testapp.redoxengine.com
 10x.redoxengine.com
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.elstc.co
 cloud.elastic.co
 *.swiftype.com
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3698,8 +3698,8 @@ errors.hackerone.net
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
