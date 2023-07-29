@@ -8015,8 +8015,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -8483,8 +8483,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8612,8 +8612,8 @@ app.frame.io
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
 *.adobeaemcloud.com
-*.adobe.com
 firefly.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
