@@ -1815,8 +1815,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 affiliate-program.amazon.com
-track.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 16:23:38 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 17:17:32 UTC 2023)
 ```
 testapi.redoxengine.com
 www.redoxengine.com
@@ -1821,8 +1821,8 @@ faucet.polygon.technology
 super6.skysports.com
 itv7.itv.com
 affiliate-program.amazon.com
-track.amazon.com
 chat.amazon.com
+track.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com

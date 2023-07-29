@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5923,8 +5923,8 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 amazonvrp,affiliate-program.amazon.com,True
-amazonvrp,track.amazon.com,True
 amazonvrp,chat.amazon.com,True
+amazonvrp,track.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,api.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
@@ -8613,8 +8613,8 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobeaemcloud.com,False
-adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
