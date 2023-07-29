@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 21:17:25 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 22:18:17 UTC 2023)
 ```
 testapi.redoxengine.com
 www.redoxengine.com
@@ -3372,10 +3372,10 @@ spectacles.com
 web.snapchat.com
 *.sc-corp.net
 www.bitstrips.com
-kit.snapchat.com
 *.sc-core.net
 developer.playcanvas.com
 launch.playcanvas.com
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net

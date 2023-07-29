@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -8526,10 +8526,10 @@ spectacles.com
 web.snapchat.com
 *.sc-corp.net
 www.bitstrips.com
-kit.snapchat.com
 *.sc-core.net
 developer.playcanvas.com
 launch.playcanvas.com
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
