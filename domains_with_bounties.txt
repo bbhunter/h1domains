@@ -379,8 +379,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2061,8 +2061,8 @@ neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 booth.pm
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
@@ -2732,8 +2732,8 @@ my.plaid.com
 production.plaid.com
 api.blockscore.com
 secure.quovo.com
-cdn.plaid.com
 manage.blockscore.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com

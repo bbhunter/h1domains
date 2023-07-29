@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 05:18:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 06:23:39 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2067,8 +2067,8 @@ neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 booth.pm
+accounts.pixiv.net
 comic.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
@@ -2738,8 +2738,8 @@ my.plaid.com
 production.plaid.com
 api.blockscore.com
 secure.quovo.com
-cdn.plaid.com
 manage.blockscore.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
