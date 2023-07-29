@@ -1376,8 +1376,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2343,7 +2343,6 @@ banfield.us
 *.miroyalcanin.com.ar
 *.orbitgum.com
 *.extragum.com
-*.royalcanin.com
 *.royalcanin.co.uk
 *.royalcanin.pl
 *.royalcaninconcorsi.it
@@ -2353,6 +2352,7 @@ banfield.us
 *.myroyalcanin.hu
 banfieldexchange.com
 *.banfieldassets.com
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.vcahospitals.com
@@ -5966,8 +5966,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun.com
-*.aliexpress.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -6127,8 +6127,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8365,8 +8365,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8517,8 +8517,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
