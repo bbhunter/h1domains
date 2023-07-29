@@ -2765,9 +2765,9 @@ www.alohi.com
 *.sothebysrealty.*
 *.nrtllc.*
 *.realogy.*
-*.coldwellbanker.*
 *.cbcworldwide.*
 *.mycbdesk.com
+*.coldwellbanker.*
 new.myzap.com
 *.anywhere.re
 *.realogy.*

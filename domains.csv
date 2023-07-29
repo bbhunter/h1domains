@@ -2766,9 +2766,9 @@ anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.realogy.*,False
-anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.mycbdesk.com,False
+anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
