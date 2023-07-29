@@ -1243,10 +1243,10 @@ snapfish.de
 lifetouch.com
 prestigeportraits.com
 www.borrowlenses.com
-shutterfly.com
 jcpportraits.com
 snapfish.com
 admin.spoonflower.com
+shutterfly.com
 tinyprints.com
 snapfish.co.uk
 snapfish.com.au
@@ -1326,12 +1326,12 @@ decodefintech.com
 nigerialogos.com
 decodefintech.com
 * IPv6 addresses
-*.apnic.net
 *.apnic.foundation
 *.seedalliance.net
 * IPv4 addresses
 aso.apnic.net
 *.isif.asia
+*.apnic.net
 *.apidt.org
 orbit.apnic.net
 stats.labs.apnic.net
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5965,9 +5965,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
