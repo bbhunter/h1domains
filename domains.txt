@@ -6177,8 +6177,8 @@ status.topcoder.com
 tco17.topcoder.com
 vpn.topcoder.com
 wordpress-move.topcoder.com
-accounts.topcoder.com
 discussions.topcoder.com
+accounts.topcoder.com
 challenges.topcoder.com
 www.topcoder.com
 crowdsourcing.topcoder.com
@@ -8364,9 +8364,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 *.zdev.net
-winecellar.zomato.com
 *.zomans.com
 *.zomato.com
+winecellar.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8517,8 +8517,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
@@ -8612,8 +8612,8 @@ app.frame.io
 stream.frame.io
 nicetryapril.na1.echosignsandbox.com
 *.adobeaemcloud.com
-*.adobe.com
 firefly.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
