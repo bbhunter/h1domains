@@ -157,8 +157,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -5304,9 +5304,9 @@ netlify,api.netlify.com,True
 netlify,internal.netlify.com,True
 netlify,netlify-rum.netlify.app,True
 netlify,*.services.netlify.com,True
-netlify,netlify-cdp-loader.netlify.app,True
 netlify,www.netlifycms.org,True
 netlify,supportal.netlify.app,True
+netlify,netlify-cdp-loader.netlify.app,True
 netlify,*.services-prod.nsvcs.net,True
 netlify,*.infra-prod.nsvcs.net,True
 netlify,screenshot-proxy.netlify.app,True
@@ -7464,8 +7464,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True

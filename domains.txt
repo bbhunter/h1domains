@@ -156,8 +156,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -5303,9 +5303,9 @@ api.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
 *.services.netlify.com
-netlify-cdp-loader.netlify.app
 www.netlifycms.org
 supportal.netlify.app
+netlify-cdp-loader.netlify.app
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
 screenshot-proxy.netlify.app
@@ -7463,8 +7463,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
