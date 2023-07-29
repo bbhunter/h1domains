@@ -76,8 +76,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4015,8 +4015,8 @@ elastic,*.eops.nl,True
 elastic,*.elstc.co,True
 elastic,*.swiftype.com,True
 elastic,cloud.elastic.co,True
-elastic,*.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -8518,8 +8518,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
@@ -8612,9 +8612,9 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,*.adobe.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 03:20:40 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 04:22:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.elstc.co
 *.swiftype.com
 cloud.elastic.co
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -3363,8 +3363,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
