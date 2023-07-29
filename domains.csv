@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -39,8 +39,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -1385,8 +1385,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
@@ -1899,11 +1899,11 @@ avalara,*.papercrane.io,False
 avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
 avalara,*.track1099.com,False
-avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
+avalara,*.davosalestax.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5967,8 +5967,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8518,8 +8518,8 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True

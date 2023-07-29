@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 11:16:52 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 12:32:17 UTC 2023)
 ```
 testapi.redoxengine.com
 www.redoxengine.com
@@ -21,8 +21,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -302,8 +302,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1865,8 +1865,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3363,8 +3363,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com

@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -38,8 +38,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1384,8 +1384,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
@@ -1898,11 +1898,11 @@ www.divvyhomes.com
 *.netleglobal.com
 *.crowdreason.com
 *.track1099.com
-*.davosalestax.com
 *.ttrus.com
 *.impendulo.com
 *.avalara.io
 *.avalara.net
+*.davosalestax.com
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5966,8 +5966,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8517,8 +8517,8 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-my.snapchat.com
 snappublisher.snapchat.com
+my.snapchat.com
 playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
