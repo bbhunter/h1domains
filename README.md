@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 02:32:14 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 03:20:40 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -294,8 +294,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
-matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1760,7 +1760,6 @@ faucet.polygon.technology
 *.xiaomiyoupin.com
 *.miwifi.com
 *.betfair.it
-*.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
 *.skybingo.com
@@ -1772,6 +1771,7 @@ faucet.polygon.technology
 *.betfair.com
 *.skybet.com
 *.skyvegas.com
+*.paddypower.it
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3652,8 +3652,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
