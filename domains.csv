@@ -157,8 +157,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2636,8 +2636,8 @@ exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
-exness,social-trading.exness.com,True
 exness,api.excalls.mobi,True
+exness,social-trading.exness.com,True
 exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,https://my.exness.com/webtrading/,True
@@ -5464,12 +5464,12 @@ logitech,*.crossclip.com,False
 logitech,*.logi.com,False
 logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
-logitech,circle.logi.com,True
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
 logitech,jira.logitech.com,False
 logitech,logitechgchallenge.com,False
+logitech,circle.logi.com,True
 logitech,sync.logitech.com,True
 logitech,*.melonapp.com,False
 logitech,*.lucra.live,False
@@ -6128,8 +6128,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7464,8 +7464,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -8365,9 +8365,9 @@ zomato,api2.grofers.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
-zomato,*.zomans.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomato.com,True
+zomato,*.zomans.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

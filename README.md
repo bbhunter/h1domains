@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 28 23:20:07 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 01:20:58 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -707,8 +707,8 @@ exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
-social-trading.exness.com
 api.excalls.mobi
+social-trading.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1524,8 +1524,8 @@ shop.tiktok.com
 live-backstage.tiktok.com
 www.logitechg.com
 www.logitech.com.cn
-circle.logi.com
 www.ultimateears.com
+circle.logi.com
 sync.logitech.com
 id.logi.com
 *vc.logitech.com
@@ -1990,8 +1990,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3212,9 +3212,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 *.zdev.net
-*.zomans.com
 winecellar.zomato.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
