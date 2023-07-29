@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 29 01:20:58 UTC 2023)
+## Domains with Bounties (Last Updated Sat Jul 29 02:32:14 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -48,11 +48,11 @@ visa.com.jm
 www.visa.com.ms
 www.visa.com.my
 www.visa.com.sg
-www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.visa.co.in
 www.currencycloud.com
+www.visa.com.vn
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -228,10 +228,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 relay.firefox.com
-support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -2446,8 +2446,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3359,14 +3359,14 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 map.snapchat.com
-app.snapchat.com
 store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
