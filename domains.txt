@@ -150,8 +150,8 @@ usa.visa.com
 www.tink.com
 *.setra.de
 *omniplus.com
-*exceleratorparts.com
 *.mercedes-benz-trucks.com
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2505,9 +2505,9 @@ iseeme.com
 www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
-*.personalcreations.com
 www.gifts.com
 *.cafepress.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
