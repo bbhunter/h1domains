@@ -39,8 +39,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -1944,8 +1944,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5566,8 +5566,8 @@ simple_poll,simplegoals.app,False
 simple_poll,simplepoll.rocks,False
 simple_poll,simplegoals.app,False
 aiven_ltd,www.aiven.io,True
-aiven_ltd,api.aiven.io,True
 aiven_ltd,help.aiven.io,True
+aiven_ltd,api.aiven.io,True
 aiven_ltd,console.aiven.io,True
 aiven_ltd,aivencloud.com,True
 aiven_ltd,www.aiven.io,True
@@ -8311,8 +8311,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
@@ -8484,8 +8484,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8518,10 +8518,10 @@ snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,www.bitmoji.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,*.sc-corp.net,True

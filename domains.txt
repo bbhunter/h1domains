@@ -38,8 +38,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5565,8 +5565,8 @@ simplegoals.app
 simplepoll.rocks
 simplegoals.app
 www.aiven.io
-api.aiven.io
 help.aiven.io
+api.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -8310,8 +8310,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -8483,8 +8483,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8517,10 +8517,10 @@ store.snapchat.com
 business.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
-snappublisher.snapchat.com
 my.snapchat.com
 playcanvas.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
