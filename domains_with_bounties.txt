@@ -1246,9 +1246,9 @@ redditforbusiness.com
 mod.reddit.com
 *.reddithelp.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
