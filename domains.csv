@@ -157,8 +157,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1756,8 +1756,8 @@ expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.travelocity.ca,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.bookabach.co.nz,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
@@ -6346,11 +6346,11 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.mycontactual.com,False
 8x8,*.8x8e2e.com,False
 8x8,*.ucverse.com,False
-8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
 8x8,*.wavecell.com,False
+8x8,*.packet8.net,False
 8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
@@ -8109,11 +8109,11 @@ wordpress, github.com/WordPress,True
 rockstargames,rockstarnorth.com,True
 rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
