@@ -23,8 +23,8 @@ shi_vdp,www.content.shi.com,False
 shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
 redox_bbp,testapi.redoxengine.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -8483,9 +8483,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
