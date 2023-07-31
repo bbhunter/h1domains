@@ -1,5 +1,5 @@
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2178,7 +2178,6 @@ www.fossilsingapore.com.sg
 www.watchstation.co.uk
 prod.shopkatchin.com
 www.skagen-japan.com
-*.fossilgroup.com
 fossilmy.com
 watchstationhk.com
 fossilcare.com
@@ -2186,6 +2185,7 @@ fossilcare.com
 *.smartwatchstations.com
 www.fossil.ch
 *.fossil.com
+*.fossilgroup.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
