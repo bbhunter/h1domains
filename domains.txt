@@ -1676,9 +1676,9 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.FAN.GOV
-*.IBWC.GOV
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
+*.IBWC.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -8272,8 +8272,8 @@ classroom.github.com
 npmjs.org
 education.github.com
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -8436,8 +8436,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

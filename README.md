@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 22:20:15 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 23:19:35 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3160,8 +3160,8 @@ classroom.github.com
 npmjs.org
 education.github.com
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3322,8 +3322,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
