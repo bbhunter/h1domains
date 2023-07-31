@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -96,7 +96,7 @@ visa,www.visa.com.kz,True
 visa,www.visa.com.lk,True
 visa,www.visa.com.ng,True
 visa,www.visa.com.tr,True
-visa,visa.co.cr,True
+visa,bd.visa.com,True
 visa,aw.visa.com,True
 visa,bb.visa.com,True
 visa,bd.visa.com,True
@@ -151,8 +151,8 @@ visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1212,10 +1212,10 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
-mozilla_core_services,getpocket.com,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,getpocket.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -4013,8 +4013,8 @@ elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
+elastic,cloud.elastic.co,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -4492,9 +4492,9 @@ reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5428,8 +5428,8 @@ tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True

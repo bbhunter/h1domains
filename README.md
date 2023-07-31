@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 10:23:41 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 11:19:21 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -78,7 +78,7 @@ www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
 www.visa.com.tr
-visa.co.cr
+bd.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -228,10 +228,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-getpocket.com
 hg.mozilla.org
 relay.firefox.com
 support.mozilla.org
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1187,8 +1187,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1252,9 +1252,9 @@ redditforbusiness.com
 mod.reddit.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1499,8 +1499,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
