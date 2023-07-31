@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 19:17:14 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 20:21:30 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -367,9 +367,9 @@ online.s-pankki.fi
 mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
-www.prisma.fi
 www.s-pankki.fi
 tunnistus.s-ryhma.fi
+www.prisma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -679,9 +679,9 @@ www.momondo.com
 www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
-www.kayak.com
 www.swoodoo.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -3057,8 +3057,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3323,8 +3323,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
