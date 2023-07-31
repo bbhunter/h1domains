@@ -15,8 +15,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -513,8 +513,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
-www.wotif.com
 www.hotwire.com
+www.wotif.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1183,8 +1183,8 @@ main.trafficfactory.biz
 *.elstc.co
 cloud.elastic.co
 *.swiftype.com
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
