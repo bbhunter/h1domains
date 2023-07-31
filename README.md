@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 08:27:10 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 09:22:25 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -227,11 +227,11 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
-relay.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
-support.mozilla.org
 hg.mozilla.org
+relay.firefox.com
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 mod.reddit.com
-*.reddithelp.com
 accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1865,8 +1865,8 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3652,8 +3652,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com

@@ -26,8 +26,8 @@ redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
-redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
+redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
@@ -1211,11 +1211,11 @@ mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,getpocket.com,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
+mozilla_core_services,relay.firefox.com,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -2507,8 +2507,8 @@ planetart,www.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
-planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4490,11 +4490,11 @@ reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
-reddit,*.reddithelp.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,*.reddithelp.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5967,8 +5967,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8936,8 +8936,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,app.slack.com,True
 slack,*.quip.com,True
+slack,app.slack.com,True
 slack,edgeapi.slack.com,True
 slack,slack.com,True
 slack,slack-imgs.com,True
