@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul 31 16:27:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Jul 31 17:21:37 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1252,9 +1252,9 @@ redditforbusiness.com
 accounts.reddit.com
 *.reddithelp.com
 mod.reddit.com
-www.reddit.com
 oauth.reddit.com
 matrix.redditspace.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3057,8 +3057,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucks.co.kr
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3092,10 +3092,10 @@ www.blockchain.info
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
-brave.com
 basicattentiontoken.org
 search.brave.com
 talk.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
