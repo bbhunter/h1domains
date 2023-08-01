@@ -5408,8 +5408,8 @@ tiktok,tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -5435,8 +5435,8 @@ logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
-logitech,*.myharmony.com,False
 logitech,*.logitech.com,False
+logitech,*.myharmony.com,False
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False

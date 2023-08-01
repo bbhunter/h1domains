@@ -5407,8 +5407,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -5434,8 +5434,8 @@ www.logitech.com.cn
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
-*.myharmony.com
 *.logitech.com
+*.myharmony.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
