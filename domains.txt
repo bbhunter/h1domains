@@ -3,8 +3,8 @@
 *.servicenow.com
 *.service-now.com
 durango.shi.com
-renewalreminder.shi.com
 api.shi.com
+renewalreminder.shi.com
 assetinsights.shi.com
 servicepro.shi.com
 apiconsole.shi.com
@@ -1241,8 +1241,8 @@ photo.walgreens.com
 staging.spoonflower.com
 snapfish.de
 lifetouch.com
-prestigeportraits.com
 www.borrowlenses.com
+prestigeportraits.com
 jcpportraits.com
 snapfish.com
 admin.spoonflower.com
@@ -1602,9 +1602,9 @@ www.kkresg.com
 processaccess.kkr.com
 work.8x8.com
 sso.8x8.com
-*.jitsi.net
 *.8x8.vc
 connect.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -2355,7 +2355,6 @@ banfieldexchange.com
 *.royalcanin.com
 *.mms.com
 *.pedigree.com
-*.vcahospitals.com
 *.royalcanin.ca
 *.royalcanin.cz
 *.royalcanin.fr
@@ -2364,6 +2363,7 @@ banfieldexchange.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 banfieldfoundation.org
+*.vcahospitals.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -2499,8 +2499,8 @@ paetec.net
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.simplytoimpress.com
 *.mycustomcase.com
+*.simplytoimpress.com
 www.cafepress.com
 www.simplytoimpress.com
 iseeme.com
@@ -2510,8 +2510,8 @@ www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
 *.personalcreations.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4371,9 +4371,9 @@ blogs.zebra.com
 brand.zebra.com
 creative.zebra.com
 greece.zebra.com
-supportcommunity.zebra.com
 zsbsupport.zebra.com
 *.zebrasports.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5402,9 +5402,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -6307,9 +6307,9 @@ www.8x8.com
 work.8x8.com
 platform.8x8.com
 sso.8x8.com
-*.jitsi.net
 *.jitsi.org
 pay.8x8.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
