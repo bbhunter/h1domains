@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 19:18:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 20:23:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -3202,8 +3202,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-api.grofers.com
 *.hyperpure.com
+api.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
@@ -3497,8 +3497,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-vhx.tv
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com

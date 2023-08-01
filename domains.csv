@@ -80,8 +80,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,usa.visa.com,True
 visa,www.cardinalcommerce.com,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -1905,9 +1905,9 @@ avalara,*.crowdreason.com,False
 avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
-avalara,*.avalara.io,False
 avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
+avalara,*.avalara.io,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1948,8 +1948,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -8321,8 +8321,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api2.grofers.com,True
-zomato,api.grofers.com,True
 zomato,*.hyperpure.com,True
+zomato,api.grofers.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
@@ -8737,8 +8737,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
-vimeo,vhx.tv,True
 vimeo,*.livestream.com,True
+vimeo,vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,magisto.com,True

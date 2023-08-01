@@ -79,8 +79,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -1904,9 +1904,9 @@ www.divvyhomes.com
 *.track1099.com
 *.ttrus.com
 *.impendulo.com
-*.avalara.io
 *.avalara.net
 *.davosalestax.com
+*.avalara.io
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -1947,8 +1947,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -8320,8 +8320,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-api.grofers.com
 *.hyperpure.com
+api.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
@@ -8736,8 +8736,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-vhx.tv
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
