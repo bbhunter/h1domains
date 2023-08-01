@@ -1432,8 +1432,8 @@ http://miro.com/blog
 *.cylon.com
 *.tnb.com
 *.abb.com.tr
-*.baldor.com
 *.abb.com
+*.baldor.com
 *.abb
 *.abb.com
 *.abb
@@ -1943,8 +1943,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -1954,10 +1954,10 @@ careers.resmed.com
 www.citushealth.com
 myair.resmed.com
 resmed.hk
-resmed.de
 myair.resmed.eu
 resmed-healthcare.de
 airview.resmed.com
+resmed.de
 onlinestore.resmed.com
 narval-easy.resmed.eu
 resmed.mx
@@ -4489,11 +4489,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 mod.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
