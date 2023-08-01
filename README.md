@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 09:23:40 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 10:22:33 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -229,9 +229,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
-getpocket.com
 hg.mozilla.org
 support.mozilla.org
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-mod.reddit.com
 oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1499,8 +1499,8 @@ tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1850,9 +1850,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
 *.tmall.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2450,8 +2450,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -3202,8 +3202,8 @@ docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 api2.grofers.com
-*.hyperpure.com
 api.grofers.com
+*.hyperpure.com
 blinkit.com
 *.zdev.net
 *.zomans.com
