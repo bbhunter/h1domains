@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 05:21:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 06:27:58 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -229,9 +229,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
-support.mozilla.org
 getpocket.com
 hg.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1498,9 +1498,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -1851,8 +1851,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.tmall.com
 *.alibaba.com
+*.tmall.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -1984,8 +1984,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3060,9 +3060,9 @@ www.starbucks.de
 www.starbucks.com
 app.starbucks.com
 www.starbucks.co.kr
-www.starbucks.co.jp
 www.starbucks.com.cn
 login.starbucks.co.jp
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3322,9 +3322,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
