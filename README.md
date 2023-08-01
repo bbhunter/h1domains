@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 21:19:08 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 22:20:03 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2440,8 +2440,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2462,8 +2462,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2565,9 +2565,9 @@ goldmansachsindices.com
 *.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+*.vennhypotheken.nl
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
@@ -3049,10 +3049,10 @@ portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
-www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
 www.starbucks.co.uk
+www.starbucksreserve.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3683,10 +3683,10 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 www.hackerone.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
