@@ -1496,8 +1496,8 @@ business.tiktok.com
 *.tiktok.com
 *.tiktokv.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3309,8 +3309,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
