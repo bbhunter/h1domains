@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  1 06:27:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  1 07:22:42 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -51,8 +51,8 @@ www.visa.com.sg
 www.visa.co.ao
 www.visa.co.nz
 www.visa.co.in
-www.currencycloud.com
 www.visa.com.vn
+www.currencycloud.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -182,8 +182,8 @@ prd-ring-web-us.prd.rings.solutions
 login.tide.co
 api.tideplatform.in
 api.tide.co
-www.tide.co
 web.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1250,11 +1250,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 accounts.reddit.com
-*.reddithelp.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
 matrix.redditspace.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2779,10 +2779,10 @@ verovelvollisuustiedot.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
-asiointi.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
