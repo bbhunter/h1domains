@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 18:26:29 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 19:18:59 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1915,9 +1915,9 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
 *.kindredext.net
+*.mariacasino.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com

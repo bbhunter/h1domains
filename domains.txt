@@ -6063,9 +6063,9 @@ unibet.me
 *.kolikkopelit.com
 *.bingo.com
 maria.casino
-*.mariacasino.com
 *.unibet.com
 *.kindredext.net
+*.mariacasino.com
 *.storspiller.com
 *.casinohuone.com
 *.igame.com
