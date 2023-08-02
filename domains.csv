@@ -1218,8 +1218,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,getpocket.com,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -8349,8 +8349,8 @@ deriv,secure-dfadmin.binary.com,True
 deriv,cashier.deriv.com,True
 deriv,api.deriv.com,True
 deriv,*.binary.com,True
-deriv,*.deriv.com,True
 deriv,smarttrader.deriv.com,True
+deriv,*.deriv.com,True
 deriv,app.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True

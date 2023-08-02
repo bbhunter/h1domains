@@ -1217,8 +1217,8 @@ shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-support.mozilla.org
 getpocket.com
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -8348,8 +8348,8 @@ secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 *.binary.com
-*.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 app.deriv.com
 *.deriv.cloud
 oauth.deriv.com
