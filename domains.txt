@@ -2,11 +2,11 @@ nba.com
 bal.nba.com
 cdn.nba.com
 stats-trafficcop-prod.nba.com
-2kleague.nba.com
 content-api-prod.nba.com
 gleague.nba.com
 identity.nba.com
 teamportal.nba.com
+2kleague.nba.com
 core-api.nba.com
 wnba.com
 nba.com
@@ -175,9 +175,9 @@ www.fraedom.com
 usa.visa.com
 www.tink.com
 *omniplus.com
-*exceleratorparts.com
 *.setra.de
 *.mercedes-benz-trucks.com
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1239,8 +1239,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 hg.mozilla.org
 getpocket.com
-support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -1969,8 +1969,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -3655,8 +3655,8 @@ opensea.io
 pro.opensea.io
 opensea.io
 pro.opensea.io
-*.koralapp.com
 *.inmobi.com
+*.koralapp.com
 *.glance.app
 *.roposo.com
 *.dash101.com
@@ -7587,9 +7587,9 @@ cloud.rocket.chat
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.ayco.com
 *.gsselect.com
+*.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -8471,8 +8471,8 @@ partners.shopify.com
 *.shopifykloud.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 shopify.plus
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

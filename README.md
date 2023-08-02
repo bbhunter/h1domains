@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 15:23:25 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 16:27:35 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 hg.mozilla.org
 getpocket.com
-support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -2560,9 +2560,9 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.ayco.com
 *.gsselect.com
+*.foliofn.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -3329,8 +3329,8 @@ partners.shopify.com
 *.shopifykloud.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 shopify.plus
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
