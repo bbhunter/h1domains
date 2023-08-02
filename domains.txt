@@ -160,8 +160,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1607,8 +1607,8 @@ processaccess.kkr.com
 work.8x8.com
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1947,8 +1947,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5434,8 +5434,8 @@ www.logitech.com.cn
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
-*.logitech.com
 *.myharmony.com
+*.logitech.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -6101,8 +6101,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8434,9 +8434,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-linkpop.com
 *.shopifycloud.com
 shop.app
+linkpop.com
 exchangemarketplace.com
 shopifyinbox.com
 *.shopifykloud.com
