@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 13:28:15 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 14:20:31 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -1504,9 +1504,9 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3329,8 +3329,8 @@ shopifyinbox.com
 partners.shopify.com
 admin.shopify.com
 accounts.shopify.com
-*.shopify.com
 shopify.plus
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3503,8 +3503,8 @@ api.vimeo.com
 vimeo.magisto.com
 api.vhx.tv
 *.magisto.com
-*.livestream.com
 vhx.tv
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
