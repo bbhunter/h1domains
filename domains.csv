@@ -4645,6 +4645,12 @@ emoney-advisor,wealth.emaplan.com,False
 emoney-advisor,www.getincentive.com,False
 emoney-advisor,api.getincentive.com,False
 emoney-advisor,home.getincentive.com,False
+panther_labs,*.runpanther.io,True
+panther_labs,*.runpanther.com,True
+panther_labs,*.panther.com,True
+panther_labs,*.panther.com,True
+panther_labs,*.runpanther.io,True
+panther_labs,*.runpanther.com,True
 fetlife,fetlife.com,True
 fetlife,*.fetlife.com,True
 fetlife,*.fetlife.com,True
@@ -7436,8 +7442,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -9124,12 +9130,6 @@ earny,www.earny.com,False
 earny,www.earny.co,False
 earny,api.earny.com,False
 earny,www.earny.com,False
-panther_labs,*.runpanther.io,True
-panther_labs,*.runpanther.com,True
-panther_labs,*.panther.com,True
-panther_labs,*.panther.com,True
-panther_labs,*.runpanther.io,True
-panther_labs,*.runpanther.com,True
 federal-reserve,bostonfed.org,False
 federal-reserve,frbsf.org,False
 federal-reserve,federalreserveonline.org,False
