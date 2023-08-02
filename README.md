@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  2 09:20:26 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  2 10:23:19 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -519,8 +519,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
 www.stayz.com.au
-www.hotwire.com
 www.wotif.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.elstc.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2163,8 +2163,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.getaroom.com
-www.priceline.com
 www.bookingholdings.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -3059,10 +3059,10 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 app.starbucks.com
-www.starbucks.co.kr
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.jp
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3674,8 +3674,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
