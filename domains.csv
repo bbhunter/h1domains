@@ -2641,8 +2641,8 @@ shein,*.romwe.com,True
 shein,*.sheingsp.com,True
 exness,exnessaffiliates.com,True
 exness,my.exness.com,True
-exness,pay.ibex.exchange,True
 exness,exness.com,True
+exness,pay.ibex.exchange,True
 exness,pwapi.ex2b.com,True
 exness,api.excalls.mobi,True
 exness,social-trading.exness.com,True
@@ -5593,7 +5593,6 @@ watson_group,www.iciparisxl.lu,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,app.marionnaud.hu,True
 watson_group,www.marionnaud.ro,True
-watson_group,www.marionnaud.fr,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
@@ -5602,6 +5601,7 @@ watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.watsons.com.ph,True
+watson_group,www.marionnaud.fr,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -8448,10 +8448,10 @@ shopify,exchangemarketplace.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
-shopify,shopify.plus,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
