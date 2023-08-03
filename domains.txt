@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -5590,8 +5590,6 @@ www.rebelliondefense.com
 *.moochirp.io
 *.mooch.rip
 www.rebelliondefense.com
-app.dropcontact.io
-app.dropcontact.io
 beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
@@ -8247,10 +8245,10 @@ updates.nextcloud.com
 support.nextcloud.com
 push-notifications.nextcloud.com
 customerupdates.nextcloud.com
-nextcloud.com
 newsletter.nextcloud.com
 download.nextcloud.com
 knowledge.nextcloud.com
+nextcloud.com
 surveyserver.nextcloud.com
 docs.nextcloud.com
 lists.nextcloud.com
@@ -8281,8 +8279,8 @@ newsletter.nextcloud.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -8314,10 +8312,10 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 npmjs.org
-education.github.com
 gist.github.com
 github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -9189,6 +9187,8 @@ richmondfed.org
 frbsf.org
 stlouisfed.org
 alfred.stlouisfed.org
+app.dropcontact.io
+app.dropcontact.io
 id.ozon.ru
 job.ozon.ru
 www.ozon.ru

@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5591,8 +5591,6 @@ rebellion-defense,*.rebellion.dev,False
 rebellion-defense,*.moochirp.io,False
 rebellion-defense,*.mooch.rip,False
 rebellion-defense,www.rebelliondefense.com,False
-dropcontact,app.dropcontact.io,False
-dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
 acronis,*.5nine.com,True
 acronis,account.acronis.com,True
@@ -8248,10 +8246,10 @@ nextcloud,updates.nextcloud.com,False
 nextcloud,support.nextcloud.com,False
 nextcloud,push-notifications.nextcloud.com,False
 nextcloud,customerupdates.nextcloud.com,False
-nextcloud,nextcloud.com,False
 nextcloud,newsletter.nextcloud.com,False
 nextcloud,download.nextcloud.com,False
 nextcloud,knowledge.nextcloud.com,False
+nextcloud,nextcloud.com,False
 nextcloud,surveyserver.nextcloud.com,False
 nextcloud,docs.nextcloud.com,False
 nextcloud,lists.nextcloud.com,False
@@ -8282,8 +8280,8 @@ nextcloud,newsletter.nextcloud.com,False
 pornhub,www.thumbzilla.com,True
 pornhub,*.tube8.com,True
 pornhub,www.modelhub.com,True
-pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
+pornhub,www.redtube.com,True
 pornhub,api.pornhub.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youporn.com,True
@@ -8315,10 +8313,10 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
 github,npmjs.org,True
-github,education.github.com,True
 github,gist.github.com,True
 github,github.com,True
 github,*.githubusercontent.com,True
+github,education.github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -9190,6 +9188,8 @@ federal-reserve,richmondfed.org,False
 federal-reserve,frbsf.org,False
 federal-reserve,stlouisfed.org,False
 federal-reserve,alfred.stlouisfed.org,False
+dropcontact,app.dropcontact.io,False
+dropcontact,app.dropcontact.io,False
 ozon,id.ozon.ru,False
 ozon,job.ozon.ru,False
 ozon,www.ozon.ru,False

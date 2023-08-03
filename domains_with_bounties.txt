@@ -3125,8 +3125,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -3158,10 +3158,10 @@ classroom.github.com
 *.githubapp.com
 *.github.net
 npmjs.org
-education.github.com
 gist.github.com
 github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
