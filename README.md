@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 10:21:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 11:18:13 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2782,9 +2782,9 @@ myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-www.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
+www.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi

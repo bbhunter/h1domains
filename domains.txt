@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 *.massmutual.com
@@ -1576,12 +1576,12 @@ netdb.stanford.edu
 bi.stanford.edu
 ecm.stanford.edu
 fasa.stanford.edu
-login.stanford.edu
 spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
 www.stanford.edu
+login.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -2212,8 +2212,8 @@ watchstationhk.com
 *.smartwatchstations.com
 www.fossil.ch
 *.fossilgroup.com
-*.fossil.com
 fossilcare.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
@@ -7854,9 +7854,9 @@ myynti.lahitapiolarahoitus.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-www.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
+www.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi

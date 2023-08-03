@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 massmutual,*.massmutual.com,False
@@ -1577,12 +1577,12 @@ stanford-university,netdb.stanford.edu,False
 stanford-university,bi.stanford.edu,False
 stanford-university,ecm.stanford.edu,False
 stanford-university,fasa.stanford.edu,False
-stanford-university,login.stanford.edu,False
 stanford-university,spdb.stanford.edu,False
 stanford-university,vault.stanford.edu,False
 stanford-university,workgroup.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,login.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -2213,8 +2213,8 @@ fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
 fossil,www.fossil.ch,False
 fossil,*.fossilgroup.com,False
-fossil,*.fossil.com,False
 fossil,fossilcare.com,False
+fossil,*.fossil.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.com.au,False
@@ -7855,9 +7855,9 @@ localtapiola,myynti.lahitapiolarahoitus.fi,True
 localtapiola,secure.lahitapiola.fi,True
 localtapiola,lisasijoitus.lahitapiola.fi,True
 localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
-localtapiola,www.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
+localtapiola,www.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
