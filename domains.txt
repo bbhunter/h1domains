@@ -24,8 +24,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 *.massmutual.com
@@ -53,8 +53,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -1148,8 +1148,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.krisha.kz
 api.kolesa.kz
-app.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1829,8 +1829,8 @@ www.flights.com
 *.vrbo.com
 *.ean.com
 *.lastminute.co.nz
-*.expedia.com
 *.hoteis.com
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -4046,8 +4046,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.eops.nl
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -7427,11 +7427,11 @@ sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -7618,7 +7618,7 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -8314,8 +8314,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 github.com
-education.github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -8471,8 +8471,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com

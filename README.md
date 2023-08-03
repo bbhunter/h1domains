@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 14:21:13 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 15:24:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -142,8 +142,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.krisha.kz
 api.kolesa.kz
-app.kolesa.kz
 id.kolesa.kz
+app.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1189,8 +1189,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.eops.nl
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2404,11 +2404,11 @@ sportsbook.fanduel.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2583,7 +2583,7 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3166,8 +3166,8 @@ classroom.github.com
 npmjs.org
 gist.github.com
 github.com
-education.github.com
 *.githubusercontent.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3321,8 +3321,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
