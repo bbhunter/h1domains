@@ -184,8 +184,8 @@ www.tink.com
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -1685,8 +1685,8 @@ pay.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -7471,8 +7471,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7617,8 +7617,8 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -7916,8 +7916,8 @@ api.ukrn.io
 noti.ukrn.io
 quest.ukrn.io
 help.unikrn.com
-promotions.unikrn.com
 static.unkrn.com
+promotions.unikrn.com
 auth.ukrn.io
 c.ukrn.io
 casino.ukrn.io
@@ -8468,8 +8468,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 linkpop.com
@@ -8606,10 +8606,10 @@ magento.com
 accounts.frame.io
 app.frame.io
 stream.frame.io
-nicetryapril.na1.echosignsandbox.com
 *.adobeaemcloud.com
 firefly.adobe.com
 *.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com

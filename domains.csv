@@ -185,8 +185,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -1686,8 +1686,8 @@ superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
-moonpay,moonpay.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -7472,8 +7472,8 @@ paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
 paypal,py.pl,True
 paypal,*.paylution.com,True
-paypal,*.braintree-api.com,True
 paypal,*.xoom.com,True
+paypal,*.braintree-api.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
@@ -7618,8 +7618,8 @@ goldmansachs,*.gs.de,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.folioclient.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -7917,8 +7917,8 @@ unikrn,api.ukrn.io,True
 unikrn,noti.ukrn.io,True
 unikrn,quest.ukrn.io,True
 unikrn,help.unikrn.com,True
-unikrn,promotions.unikrn.com,True
 unikrn,static.unkrn.com,True
+unikrn,promotions.unikrn.com,True
 unikrn,auth.ukrn.io,True
 unikrn,c.ukrn.io,True
 unikrn,casino.ukrn.io,True
@@ -8469,8 +8469,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
+shopify,your-store.myshopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,linkpop.com,True
@@ -8607,10 +8607,10 @@ adobe,magento.com,True
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
