@@ -1544,8 +1544,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2570,8 +2570,8 @@ oanda,*.tmsbrokers.com,False
 recargapay,api.recarga.com,True
 recargapay,api.recarga.com,True
 razorpay,dashboard.razorpay.com,True
-razorpay,api.razorpay.com,True
 razorpay,payroll.razorpay.com,True
+razorpay,api.razorpay.com,True
 razorpay,x.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -4279,8 +4279,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -5285,8 +5285,8 @@ mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
-exodus,*.exodus.io,True
 exodus,*.exodus.com,True
+exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
@@ -7496,8 +7496,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.paypalcorp.com,True
-paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -7860,8 +7860,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,www.tapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True

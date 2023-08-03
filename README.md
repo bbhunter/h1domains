@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 01:16:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 02:32:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -653,8 +653,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -1223,8 +1223,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1384,8 +1384,8 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -2468,8 +2468,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2787,8 +2787,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi

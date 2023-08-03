@@ -1543,8 +1543,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2569,8 +2569,8 @@ portfolio.metamask.io
 api.recarga.com
 api.recarga.com
 dashboard.razorpay.com
-api.razorpay.com
 payroll.razorpay.com
+api.razorpay.com
 x.razorpay.com
 invoices.razorpay.com
 checkout.razorpay.com
@@ -4278,8 +4278,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -5284,8 +5284,8 @@ provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
 notification.billing.appservices.mendix.com
-*.exodus.io
 *.exodus.com
+*.exodus.io
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
@@ -7495,8 +7495,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -7859,8 +7859,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
