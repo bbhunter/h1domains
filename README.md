@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 19:18:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 20:22:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -58,8 +58,8 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -411,8 +411,8 @@ user-profile-staging.8x8.com
 cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
-voapi.8x8.com
 *.packet8.net
+voapi.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
@@ -1504,8 +1504,8 @@ partner.tiktokshop.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3157,8 +3157,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3320,8 +3320,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 *.shopifycloud.com
-linkpop.com
 shop.app
+linkpop.com
 exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
@@ -3355,8 +3355,8 @@ blog.playcanvas.com
 code.playcanvas.com
 relay.playcanvas.com
 store.playcanvas.com
-playcanv.as
 login.playcanvas.com
+playcanv.as
 store.snapchat.com
 rt.playcanvas.com
 www.bitmoji.com
