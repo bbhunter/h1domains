@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 21:19:14 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 22:19:27 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1769,8 +1769,8 @@ faucet.polygon.technology
 *.paddypower.it
 *.skyvegas.com
 *.skybet.com
-*.betfair.com
 *.sportinglife.com
+*.betfair.com
 *.skygamingcontent.com
 *.skypoker.com
 *.skybetservices.com
