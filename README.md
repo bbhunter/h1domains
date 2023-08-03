@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug  3 06:26:07 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug  3 07:19:34 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -67,9 +67,9 @@ www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
 visa.co.za
-www.authorize.net
 www.visa.co.ke
 www.cybersource.com
+www.authorize.net
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1865,8 +1865,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
 *.alimama.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3329,8 +3329,8 @@ partners.shopify.com
 *.shopifykloud.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -4006,4 +4006,38 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
+*.secnews.gr
+*.secnews.gr
+api.kiwi.ki
+portal.kiwi.ki
+mobile.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+portal.kiwi.ki
+provider.enter.health
+api.enter.health
+login.enter.health
+api.enter.health
+login.enter.health
+provider.enter.health
+*.ud.wtf
+*.urbandictionary.com
+*.urbandictionary.org
+*.urbandictionary.biz
+av.urbandictionary.biz
+*.urbandictionary.blog
+urbandictionary.github.io
+*.urbandictionary.net
+*.udimg.com
+*.urbanup.com
+*.urbandictionary.com
+*.urbandictionary.net
+*.urbandictionary.biz
+*.urbandictionary.org
+*.ud.wtf
+*.udimg.com
+*.urbandictionary.blog
+*.urbanup.com
+urbandictionary.github.io
+av.urbandictionary.biz
 ```
