@@ -3358,9 +3358,9 @@ www.bitmoji.com
 my.snapchat.com
 map.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 business.snapchat.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 web.snapchat.com
