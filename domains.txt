@@ -53,8 +53,8 @@ testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 10x.redoxengine.com
@@ -7974,8 +7974,8 @@ xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
 manage.grab.co
-*.grab.com
 p.grabtaxi.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
