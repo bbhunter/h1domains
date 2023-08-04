@@ -1,7 +1,7 @@
 nba.com
-bal.nba.com
 cdn.nba.com
 stats-trafficcop-prod.nba.com
+bal.nba.com
 content-api-prod.nba.com
 gleague.nba.com
 identity.nba.com
@@ -1771,14 +1771,14 @@ www.orbitz.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.expediagroup.com
 www.abritel.fr
+www.expediaagents.com
 www.hotels.com
-www.travelocity.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
+www.travelocity.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
@@ -1831,8 +1831,8 @@ www.flights.com
 *.ean.com
 *.lastminute.co.nz
 *.hoteis.com
-*.expedia.com
 *.wotif.com
+*.expedia.com
 *.lastminute.com.au
 *.flights.com
 *.hoteles.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -4044,9 +4044,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.elstc.co
-*.swiftype.com
 *.eops.nl
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -5285,8 +5285,8 @@ provisioning.servicemanagement.mendix.com
 k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com
 marketplaceadmin.mendixcloud.com
 notification.billing.appservices.mendix.com
-*.exodus.com
 *.exodus.io
+*.exodus.com
 *.a.exodus.io
 *.exodus.io
 *.a.exodus.io
