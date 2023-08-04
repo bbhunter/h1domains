@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 07:20:16 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 08:24:24 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -38,7 +38,6 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.yellowpepper.com
-bb.visa.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -53,13 +52,14 @@ www.visa.co.nz
 www.visa.co.in
 www.visa.com.vn
 www.currencycloud.com
+bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -385,8 +385,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
