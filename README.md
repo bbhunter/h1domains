@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 20:21:56 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 21:17:15 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1186,8 +1186,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.elstc.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -3129,9 +3129,9 @@ id.getharvest.com
 getharvest.com
 www.thumbzilla.com
 *.tube8.com
-www.modelhub.com
 www.pornhub.com
 www.redtube.com
+www.modelhub.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -3317,8 +3317,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 *.shopifycloud.com
 shop.app
 linkpop.com
@@ -3838,8 +3838,6 @@ usna.edu
 usnwc.edu
 usuhs.edu
 westpoint.edu
-www.myetherwallet.com
-www.myetherwallet.com
 ota.helium.com
 ota.helium.com
 app.localizestaging.com
