@@ -1160,8 +1160,8 @@ m.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1973,15 +1973,15 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
 resmed.com.cn
 resmed.es
-careers.resmed.com
 www.citushealth.com
+careers.resmed.com
 myair.resmed.com
 resmed.hk
 myair.resmed.eu
@@ -4279,8 +4279,8 @@ www.iafcf.org
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -6027,8 +6027,8 @@ osd.myndr.nl
 *.myndr.nl
 osd.myndr.nl
 www.myndr.nl
-cloud.digitalocean.com
 developers.cloudways.com
+cloud.digitalocean.com
 api.digitalocean.com
 169.254.169.254
 api.cloudways.com
@@ -7476,8 +7476,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -7862,8 +7862,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
-*.lahitapiola.fi
 www.tapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
