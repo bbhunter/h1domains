@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 03:19:46 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 04:23:41 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1185,11 +1185,11 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
 *.eops.nl
-*.elastic.co
+cloud.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2406,8 +2406,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3347,9 +3347,9 @@ create.snapchat.com
 msg.playcanvas.com
 businesshelp.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 story.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com

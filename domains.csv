@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -4045,11 +4045,11 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.elstc.co,True
-elastic,cloud.elastic.co,True
 elastic,*.swiftype.com,True
 elastic,*.eops.nl,True
-elastic,*.elastic.co,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
+elastic,*.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.found.io,True
 elastic,*.swiftype.com,True
@@ -7432,8 +7432,8 @@ fanduel,*racing.fanduel.com,True
 fanduel,m.4njbets.tvg.com,True
 fanduel,promos.tvg.com,True
 fanduel,us.tvg.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -8500,9 +8500,9 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,ads.snapchat.com,True
 snapchat,story.snapchat.com,True
 snapchat,accounts.snapchat.com,True
+snapchat,ads.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,code.playcanvas.com,True
