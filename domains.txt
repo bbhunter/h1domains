@@ -1153,8 +1153,8 @@ id.kolesa.kz
 app.kolesa.kz
 api.krisha.kz
 m.krisha.kz
-avtoelon.uz
 app.avtoelon.uz
+avtoelon.uz
 id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -6032,8 +6032,8 @@ cloud.digitalocean.com
 api.digitalocean.com
 169.254.169.254
 api.cloudways.com
-*.digitalocean.com
 marketplace.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
