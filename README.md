@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug  4 05:19:50 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug  4 06:26:12 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -512,9 +512,9 @@ www.lastminute.com.au
 www.cheaptickets.com
 www.carrentals.com
 www.fewo-direkt.de
-www.travelocity.ca
 www.bookabach.co.nz
 www.expedia.com
+www.travelocity.ca
 www.expediapartnercentral.com
 www.ebookers.fi
 www.expediacruises.com
@@ -1730,12 +1730,12 @@ transact.playstation.com
 wallets.api.playstation.com
 direct.playstation.com
 api.direct.playstation.com
-wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
 mapper.polygon.technology
 faucet.polygon.technology
+wallet.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology

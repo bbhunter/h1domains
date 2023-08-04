@@ -185,8 +185,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
@@ -1785,9 +1785,9 @@ expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.carrentals.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
-expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.expediapartnercentral.com,True
 expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.expediacruises.com,True
@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -5810,12 +5810,12 @@ trycourier,www.trycourier.app,False
 trycourier,api.trycourier.app,False
 trycourier,api.courier.com,False
 trycourier,www.courier.com,False
-polygon-technology,wallet.polygon.technology,True
 polygon-technology,staking-api.polygon.technology,True
 polygon-technology,bridge-explorer.polygon.technology,True
 polygon-technology,burn.polygon.technology,True
 polygon-technology,mapper.polygon.technology,True
 polygon-technology,faucet.polygon.technology,True
+polygon-technology,wallet.polygon.technology,True
 polygon-technology,bridge-api.matic.network,True
 polygon-technology,watchgod.polygon.technology,True
 polygon-technology,open-api.polygon.technology,True
@@ -6189,8 +6189,8 @@ topcoder,status.topcoder.com,False
 topcoder,tco17.topcoder.com,False
 topcoder,vpn.topcoder.com,False
 topcoder,wordpress-move.topcoder.com,False
-topcoder,discussions.topcoder.com,False
 topcoder,accounts.topcoder.com,False
+topcoder,discussions.topcoder.com,False
 topcoder,challenges.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,crowdsourcing.topcoder.com,False
