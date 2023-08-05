@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2537,11 +2537,11 @@ www.cafepress.com
 *.photoaffections.com
 *.gifts.com
 www.canvasworld.com
-*.canvasworld.com
 *.personalcreations.com
 www.gifts.com
 *.iseeme.com
 *.cafepress.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
