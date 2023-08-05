@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 12:32:19 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 13:21:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -453,8 +453,8 @@ pay.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-*.moonpaycloud.com
 moonpay.com
+*.moonpaycloud.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -1863,9 +1863,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3154,11 +3154,11 @@ npmjs.com
 classroom.github.com
 *.githubapp.com
 *.github.net
-npmjs.org
 gist.github.com
 *.githubusercontent.com
 education.github.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
