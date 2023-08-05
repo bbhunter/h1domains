@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  5 16:22:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug  5 17:17:47 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -197,8 +197,8 @@ firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
-push.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
@@ -453,8 +453,8 @@ pay.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com

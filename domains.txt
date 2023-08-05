@@ -1210,8 +1210,8 @@ firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
-push.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
@@ -1309,8 +1309,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.msd.com
 *.merck.com
+*.msd.com
 *.merck.com
 *.msd.com
 node.e2ro.com/*
@@ -1687,8 +1687,8 @@ pay.8x8.com
 *.superbet.rs
 *.superbet.com
 *.magicjackpot.ro
-moonpay.com
 *.moonpaycloud.com
+moonpay.com
 *.moonpay.com
 hypermint.com
 *.hypermint.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
