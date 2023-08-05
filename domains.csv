@@ -5627,8 +5627,8 @@ watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
 watson_group,apptps.theperfumeshop.com,True
 watson_group,www.watsons.co.id,True
-watson_group,www.watsons.com.ph,True
 watson_group,www.iciparisxl.lu,True
+watson_group,www.watsons.com.ph,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
 watson_group,app.marionnaud.cz,True
@@ -8974,9 +8974,9 @@ security,reviewer.pullrequest.com,True
 security,errors.hackerone.net,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
