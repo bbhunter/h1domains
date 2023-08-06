@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  6 14:18:04 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug  6 15:19:50 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2625,10 +2625,10 @@ developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
 partner.steampowered.com
-www.valvesoftware.com
 partner.steamgames.com
 www.teamfortress.com
 www.counter-strike.net
+www.valvesoftware.com
 api.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3318,9 +3318,9 @@ exchangemarketplace.com
 shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
