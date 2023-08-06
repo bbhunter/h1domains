@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  6 13:20:47 UTC 2023)
+## Domains with Bounties (Last Updated Sun Aug  6 14:18:04 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -501,8 +501,8 @@ www.expediapartnersolutions.com
 www.expediagroup.com
 www.abritel.fr
 www.expediaagents.com
-www.hotels.com
 www.orbitz.com
+www.hotels.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
