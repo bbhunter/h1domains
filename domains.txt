@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -3873,8 +3873,8 @@ www.jfrog.co.jp
 www.jfrogchina.com
 *.jfrog.org
 conan.io
-www.jfrog.com
 *.jfrog.com
+www.jfrog.com
 *.jfrog.com
 *.jfrog.org
 www.jfrog.com
@@ -6440,7 +6440,6 @@ mtnfastmail.com
 mtnmena.com
 mtnholdingsptyltd.net
 mtnatwork.com
-mtndeveloper.com
 mtnbanking.net
 mtnhomeland.com
 mtnrank.com
@@ -8968,8 +8967,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
-www.hackerone.com
 reviewer.pullrequest.com
+www.hackerone.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
