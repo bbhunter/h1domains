@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 20:22:38 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 21:19:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -344,9 +344,9 @@ api.miro.com
 http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
-cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1862,10 +1862,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2168,8 +2168,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -2467,8 +2467,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2750,9 +2750,9 @@ manage.blockscore.com
 api.blockscore.com
 demo.plaid.com
 plaid.com
-www.crowdstrike.com
-*.humio.com
 *.securecircle.com
+*.humio.com
+www.crowdstrike.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -3319,8 +3319,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com

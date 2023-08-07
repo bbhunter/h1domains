@@ -1475,9 +1475,9 @@ abb,*.baldor.com,False
 abb,*.cylon.com,False
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
-malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
+malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
@@ -2665,8 +2665,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -3774,8 +3774,8 @@ judgeme,woocommerce-adapter.judge.me,True
 judgeme,bigcommerce-adapter.judge.me,True
 judgeme,cache.judge.me,True
 mtb,*.wilmingtontrust.com,False
-mtb,*.mtb.com,False
 mtb,*.leafnow.com,False
+mtb,*.mtb.com,False
 mtb,*.trustnota.com,False
 mtb,*.mtb.com,False
 mtb,*.wilmingtontrust.com,False
@@ -5972,10 +5972,10 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7145,8 +7145,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,secure.rezserver.com,True
 priceline,api.rezserver.com,True
 priceline,cruises.priceline.com,True
@@ -7496,8 +7496,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.paypalcorp.com,True
-paypal,paypalobjects.com,True
 paypal,*.braintreegateway.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -7818,9 +7818,9 @@ coalition,api.thecoalition.com,False
 coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
-crowdstrike,www.crowdstrike.com,True
-crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
+crowdstrike,*.humio.com,True
+crowdstrike,www.crowdstrike.com,True
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,hybrid-analysis.com,True
@@ -8473,8 +8473,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
