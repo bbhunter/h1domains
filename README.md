@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 12:37:49 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 13:26:36 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1188,8 +1188,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -3492,10 +3492,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-api.vhx.tv
 *.magisto.com
 *.livestream.com
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 magisto.com
@@ -3669,22 +3669,22 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 www.hackerone.com
+hackathon-photos.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
