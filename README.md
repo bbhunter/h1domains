@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 13:26:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 14:21:47 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-support.mozilla.org
 hg.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -519,8 +519,8 @@ www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
-www.hotwire.com
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1895,9 +1895,9 @@ konfigurator.bmw-motorrad.de
 api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
-fortmatic.com
 auth.magic.link
 dashboard.magic.link
+fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -3204,8 +3204,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3319,8 +3319,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
