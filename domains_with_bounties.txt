@@ -62,8 +62,8 @@ www.visa.co.uk
 www.visa.co.ve
 visa.co.za
 www.visa.co.ke
-www.cybersource.com
 www.authorize.net
+www.cybersource.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -222,10 +222,10 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 relay.firefox.com
-getpocket.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
 support.mozilla.org
+getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -260,13 +260,13 @@ api-eu.floqast.app
 hiltonmanage.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
-*.hilton.com.tr
 hiltonlocalbiz.com
 hilton.io
 hiltonbusinessonline.com
+*.hilton.com.tr
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -3310,8 +3310,8 @@ shop.app
 linkpop.com
 exchangemarketplace.com
 shopifyinbox.com
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopify.plus
 *.shopify.com
 accounts.shopify.com
@@ -3637,8 +3637,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
