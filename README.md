@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug  7 14:21:47 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug  7 15:23:23 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -410,9 +410,9 @@ user-profile-staging.8x8.com
 *.jit.si
 cloud8.8x8.com
 *.8x8staging.com
-platform.8x8.com
 *.packet8.net
 voapi.8x8.com
+platform.8x8.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
@@ -1544,8 +1544,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -3121,9 +3121,9 @@ yelptop100.com
 yelptop100.com
 www.thumbzilla.com
 *.tube8.com
-www.pornhub.com
 www.redtube.com
 www.modelhub.com
+www.pornhub.com
 api.pornhub.com
 www.redtubepremium.com
 www.youporn.com
@@ -3319,9 +3319,9 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
