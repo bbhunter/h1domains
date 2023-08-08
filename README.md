@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  8 05:20:19 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  8 06:26:32 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -1248,12 +1248,12 @@ ads-api.reddit.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
-accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 oauth.reddit.com
 www.reddit.com
 *.reddithelp.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3319,8 +3319,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
