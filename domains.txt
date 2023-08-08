@@ -1406,8 +1406,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1973,8 +1973,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2100,8 +2100,8 @@ www.allegion.co.uk
 brio.com.au
 *.isonaspureaccesscloud.com
 zentra.co
-*.allegionengage.com
 www.planopunkt.com
+*.allegionengage.com
 www.krytonitelock.com
 www.schlage.com
 *.yonomi.co
@@ -2539,9 +2539,9 @@ www.simplytoimpress.com
 www.canvasworld.com
 *.personalcreations.com
 www.gifts.com
-*.canvasworld.com
 *.cafepress.com
 *.iseeme.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7168,8 +7168,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
