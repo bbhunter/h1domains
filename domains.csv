@@ -1974,8 +1974,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -2101,8 +2101,8 @@ allegion,www.allegion.co.uk,False
 allegion,brio.com.au,False
 allegion,*.isonaspureaccesscloud.com,False
 allegion,zentra.co,False
-allegion,*.allegionengage.com,False
 allegion,www.planopunkt.com,False
+allegion,*.allegionengage.com,False
 allegion,www.krytonitelock.com,False
 allegion,www.schlage.com,False
 allegion,*.yonomi.co,False
@@ -4045,9 +4045,9 @@ trafficfactory,main.trafficfactory.biz,True
 elastic,*.found.io,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,*.swiftype.com,True
 elastic,*.elstc.co,True
 elastic,cloud.elastic.co,True
+elastic,*.swiftype.com,True
 elastic,*.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
@@ -5993,9 +5993,9 @@ alibaba,www.alibabagroup.com,True
 bmwgroup,www.mini.de,True
 bmwgroup,configure.bmw.de,True
 bmwgroup,www.bmw.de,True
-bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
+bmwgroup,www.bmw-motorrad.de,True
 bmwgroup,www.bmw.de,True
 bmwgroup,www.mini.de,True
 bmwgroup,www.bmw-motorrad.de,True
@@ -7169,8 +7169,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -7264,8 +7264,8 @@ omise,www.opn.ooo,True
 ford,*.omnicraftautoparts.com,False
 ford,*.quicklane.com,False
 ford,*.motorcraft.com,False
-ford,*.lincoln.com,False
 ford,*.ford.com,False
+ford,*.lincoln.com,False
 ford,*.ford.com,False
 ford,*.lincoln.com,False
 ford,*.quicklane.com,False
@@ -8473,8 +8473,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -8958,8 +8958,8 @@ security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
-security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
+security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
@@ -8970,10 +8970,10 @@ security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
-security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
+security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
