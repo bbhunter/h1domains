@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug  8 21:19:50 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug  8 22:20:58 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3434,8 +3434,8 @@ admin.demo.urbandoor.com
 luckey.fr
 luckey.in
 *.hoteltonight-test.com
-*.airbnb.com
 www.hoteltonight.com
+*.airbnb.com
 luckey.partners
 assets.airbnb.com
 open.airbnb.com
