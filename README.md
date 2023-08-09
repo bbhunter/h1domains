@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 14:24:00 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 15:25:26 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2426,8 +2426,8 @@ swiftfinancial.com
 *.braintreepayments.com
 py.pl
 *.paylution.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2662,16 +2662,16 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-login.newrelic.com
 discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3300,9 +3300,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3555,8 +3555,8 @@ my.pressable.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
