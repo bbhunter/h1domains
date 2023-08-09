@@ -142,8 +142,8 @@ m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
 m.avtoelon.uz
-id.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -3037,8 +3037,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
