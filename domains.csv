@@ -110,10 +110,10 @@ visa,www.visa.co.id,True
 visa,www.visa.co.th,True
 visa,www.visa.co.uk,True
 visa,www.visa.co.ve,True
-visa,visa.co.za,True
 visa,www.visa.co.ke,True
 visa,www.cybersource.com,True
 visa,www.authorize.net,True
+visa,visa.co.za,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
 visa,www.visa.com.br,True
@@ -2539,8 +2539,8 @@ planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6139,8 +6139,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7165,8 +7165,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False

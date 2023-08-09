@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 10:23:53 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 11:19:16 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -66,10 +66,10 @@ www.visa.co.id
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
-visa.co.za
 www.visa.co.ke
 www.cybersource.com
 www.authorize.net
+visa.co.za
 cw.visa.com
 ht.visa.com
 www.visa.com.br
@@ -1988,8 +1988,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
