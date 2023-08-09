@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug  9 12:39:06 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug  9 13:27:31 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -3533,8 +3533,8 @@ gnip.com
 x.com
 cloudflareworkers.com
 *.teams.cloudflare.com
-*.cloudflare.com
 one.dash.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
