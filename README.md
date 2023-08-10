@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 10 07:20:56 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 10 08:26:00 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -702,8 +702,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -1067,8 +1067,8 @@ api.recordedfuture.com
 www.recordedfuture.com
 securitytrails.com
 geminiadvisory.io
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -3043,8 +3043,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.co.kr
@@ -3341,8 +3341,8 @@ playcanvas.com
 app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-*.sc-corp.net
 web.snapchat.com
+*.sc-corp.net
 www.bitstrips.com
 *.sc-core.net
 developer.playcanvas.com
