@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 10 14:20:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 10 15:23:17 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -203,9 +203,9 @@ contile.services.mozilla.com
 phabricator.services.mozilla.com
 lando.services.mozilla.com
 shavar.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
 hg.mozilla.org
+aus5.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -230,8 +230,8 @@ shavar.services.mozilla.com
 relay.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 hg.mozilla.org
-support.mozilla.org
 getpocket.com
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -2446,8 +2446,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.paypalcorp.com
-*.braintreegateway.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3598,8 +3598,8 @@ custody.coinbase.com
 paradex.io
 *.cbhq.net
 pro.coinbase.com
-*.coinbase.com
 prime.coinbase.com
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com

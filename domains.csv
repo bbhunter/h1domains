@@ -1215,9 +1215,9 @@ mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,phabricator.services.mozilla.com,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
-mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,hg.mozilla.org,True
+mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
@@ -1242,8 +1242,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,hg.mozilla.org,True
-mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,getpocket.com,True
+mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7488,8 +7488,8 @@ paypal,loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,*.paypalcorp.com,True
-paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -8894,8 +8894,8 @@ coinbase,custody.coinbase.com,True
 coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True
-coinbase,*.coinbase.com,True
 coinbase,prime.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,institutional.coinbase.com,True
