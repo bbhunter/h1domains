@@ -8466,8 +8466,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8598,7 +8598,6 @@ adobe,magento.com,True
 adobe,community.adobe.com,False
 adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
-adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
 adobe,*.typekit.com,False
@@ -8610,6 +8609,7 @@ adobe,magentolive.com,True
 adobe,*.proofhq.com,False
 adobe,applications.frame.io,False
 adobe,create.adobe.com,False
+adobe,*.marketo.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
