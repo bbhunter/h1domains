@@ -2573,8 +2573,8 @@ razorpay,dashboard.razorpay.com,True
 razorpay,payroll.razorpay.com,True
 razorpay,api.razorpay.com,True
 razorpay,x.razorpay.com,True
-razorpay,invoices.razorpay.com,True
 razorpay,checkout.razorpay.com,True
+razorpay,invoices.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,api.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -8947,8 +8947,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
