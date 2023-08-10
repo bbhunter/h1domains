@@ -1115,8 +1115,8 @@ freshworks,yourdomain.freshservice.com,True
 freshworks,http://yourdomain.myfreshworks.com/crm,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
-mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.uy,False
+mercadolibre_vdp,www.mercadolibre.com.pe,False
 mercadolibre_vdp,www.mercadolibre.com.mx,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,www.mercadolibre.com.ar,False
@@ -4230,10 +4230,10 @@ aig,*.corebridgefinancial.com,False
 aig,www-402.aigdirect.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
-aig,www-417.aig.ie,False
 aig,*.aig.com,False
 aig,*.myretirementmanager.com,False
 aig,www.aig.co.il,False
+aig,www-417.aig.ie,False
 aig,www.aig.com.br,False
 aig,www.vfisu.com,False
 aig,www.vfisal.com,False
@@ -8348,8 +8348,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8466,8 +8466,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

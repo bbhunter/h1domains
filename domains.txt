@@ -1114,8 +1114,8 @@ yourdomain.freshservice.com
 http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-www.mercadolibre.com.pe
 www.mercadolibre.com.uy
+www.mercadolibre.com.pe
 www.mercadolibre.com.mx
 api.mercadolibre.com
 www.mercadolibre.com.ar
@@ -4229,10 +4229,10 @@ www.glatfelters.com
 www-402.aigdirect.com
 www-1008.aig.com
 www.travelguard.com
-www-417.aig.ie
 *.aig.com
 *.myretirementmanager.com
 www.aig.co.il
+www-417.aig.ie
 www.aig.com.br
 www.vfisu.com
 www.vfisal.com
@@ -8347,8 +8347,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8465,8 +8465,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
