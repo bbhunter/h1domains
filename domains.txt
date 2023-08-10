@@ -2365,10 +2365,10 @@ www.watchstationindia.com
 *.myroyalcanin.ro
 banfield.us
 *.banfield.com
-*.royalcanin.be
 *.individualis.com
 *.royalcanin.pt
 *.miroyalcanin.com.ar
+*.royalcanin.be
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.co.uk
@@ -5970,8 +5970,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.1688.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7257,8 +7257,8 @@ support.creditkarma.ca
 *.omnicraftautoparts.com
 *.quicklane.com
 *.motorcraft.com
-*.ford.com
 *.lincoln.com
+*.ford.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
