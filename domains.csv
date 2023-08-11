@@ -25,8 +25,8 @@ greenfly,portal.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
-servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
+servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,renewalreminder.shi.com,False
@@ -1321,8 +1321,8 @@ floqast,*.eu.floqast.app,True
 floqast,*.floqast.app,True
 floqast,api-eu.floqast.app,True
 hilton,*.hilton.io,True
-hilton,*.hiltonhotels.jp,True
 hilton,hiltonmanage.com,True
+hilton,*.hiltonhotels.jp,True
 hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hiltonlocalbiz.com,True
@@ -1330,8 +1330,8 @@ hilton,hilton.io,True
 hilton,*.hilton.com.tr,True
 hilton,hiltonbusinessonline.com,True
 hilton,*.hiltonlocalbiz.com,True
-hilton,*.hiltonmanage.com,True
 hilton,hilton.com,True
+hilton,*.hiltonmanage.com,True
 hilton,hilton.com.tr,True
 hilton,*.hilton.com,True
 hilton,*.hilton.com,True
@@ -1930,8 +1930,8 @@ avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
-avalara,*.davosalestax.com,False
 avalara,*.avalara.net,False
+avalara,*.davosalestax.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -1972,8 +1972,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.in,False
@@ -3749,8 +3749,8 @@ snowplow,docs.snowplow.io,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False
 snowplow,iglucentral.com,False
-snowplow,snowplow.io,False
 snowplow,poplindata.com,False
+snowplow,snowplow.io,False
 snowplow,snowplowanalytics.com,False
 snowplow,next.snowplowanalytics.com,False
 snowplow,console.snowplowanalytics.com,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7461,6 +7461,8 @@ casper,casper.com,True
 casper,casper.com,True
 casper,bedpost.casper.com,True
 casper,operator.casper.tools,True
+matomo,matomo.cloud,True
+matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
@@ -9330,8 +9332,6 @@ otf,www.opentech.fund,True
 otf,sandbox.opentech.fund,True
 otf,www.opentech.fund,True
 otf,apply.opentech.fund,True
-matomo,matomo.cloud,True
-matomo,matomo.cloud,True
 eslint,jenkins.eslint.org,False
 eslint,jenkins.eslint.org,False
 fig,www.fig.co,False

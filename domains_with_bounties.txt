@@ -256,8 +256,8 @@ api-eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
 *.hilton.io
-*.hiltonhotels.jp
 hiltonmanage.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
@@ -265,8 +265,8 @@ hilton.io
 *.hilton.com.tr
 hiltonbusinessonline.com
 *.hiltonlocalbiz.com
-*.hiltonmanage.com
 hilton.com
+*.hiltonmanage.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2413,6 +2413,8 @@ casper.com
 casper.com
 bedpost.casper.com
 operator.casper.tools
+matomo.cloud
+matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
@@ -3859,8 +3861,6 @@ www.opentech.fund
 sandbox.opentech.fund
 www.opentech.fund
 apply.opentech.fund
-matomo.cloud
-matomo.cloud
 mossy.breadcrumb.com
 app.upserve.com
 hq.breadcrumb.com
