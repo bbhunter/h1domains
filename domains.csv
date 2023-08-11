@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7686,8 +7686,8 @@ crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
 crypto,testnet-croeseid-4.crypto.org,True
 crypto,crypto.org,True
-crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
+crypto,tax.crypto.com,True
 crypto,pay.crypto.com,True
 crypto,app.mona.co,True
 crypto,js.crypto.com,True
