@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2371,7 +2371,6 @@ banfield.us
 *.royalcanin.be
 *.orbitgum.com
 *.extragum.com
-*.royalcanin.co.uk
 *.royalcanin.pl
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
@@ -2381,6 +2380,7 @@ banfieldexchange.com
 *.banfieldassets.com
 *.jornadasroyalcanin.com.ar
 *.royalcanin.com
+*.royalcanin.co.uk
 *.mms.com
 *.pedigree.com
 *.royalcanin.ca
