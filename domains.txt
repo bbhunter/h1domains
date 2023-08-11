@@ -5,8 +5,8 @@ bal.nba.com
 content-api-prod.nba.com
 gleague.nba.com
 teamportal.nba.com
-2kleague.nba.com
 identity.nba.com
+2kleague.nba.com
 core-api.nba.com
 wnba.com
 nba.com
@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -2662,8 +2662,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 exness.com
 pay.ibex.exchange
 pwapi.ex2b.com
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7718,8 +7718,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-data.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -7727,7 +7727,6 @@ alerts.newrelic.com
 discuss.newrelic.com
 alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8947,14 +8946,14 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 reviewer.pullrequest.com
@@ -8964,11 +8963,11 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
-errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
