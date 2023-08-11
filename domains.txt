@@ -1971,8 +1971,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.co.in
@@ -8347,8 +8347,8 @@ api.grofers.com
 blinkit.com
 *.zdev.net
 winecellar.zomato.com
-*.zomans.com
 *.zomato.com
+*.zomans.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8962,11 +8962,11 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 errors.hackerone.net
 hackerone.live
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
