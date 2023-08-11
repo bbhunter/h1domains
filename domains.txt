@@ -1752,8 +1752,8 @@ www.engelvoelkers.com
 *.boredapeyachtclub.com
 *.yugalabs.io
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -2379,8 +2379,8 @@ banfield.us
 *.myroyalcanin.hu
 banfieldexchange.com
 *.banfieldassets.com
-*.royalcanin.com
 *.jornadasroyalcanin.com.ar
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.royalcanin.ca
