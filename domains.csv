@@ -1507,9 +1507,9 @@ svb-financial,api.svb.com,False
 svb-financial,developer.svb.com,False
 svb-financial,connect.svb.com,False
 svb-financial,www.cipherbio.com,False
-svb-financial,www.svb.com,False
 svb-financial,lendx.svb.com,False
 svb-financial,www.svbconnect.com,False
+svb-financial,www.svb.com,False
 svb-financial,www.svb.com,False
 svb-financial,www.svbconnect.com,False
 svb-financial,connect.svb.com,False
@@ -2530,9 +2530,9 @@ planetart,www.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
-planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,iseeme.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
@@ -8947,8 +8947,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
