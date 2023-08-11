@@ -1148,8 +1148,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 api.kolesa.kz
 api.krisha.kz
-id.kolesa.kz
 app.kolesa.kz
+id.kolesa.kz
 m.krisha.kz
 app.avtoelon.uz
 avtoelon.uz
@@ -1272,9 +1272,9 @@ lifetouch.com
 www.borrowlenses.com
 prestigeportraits.com
 jcpportraits.com
-snapfish.com
 shutterfly.com
 admin.spoonflower.com
+snapfish.com
 tinyprints.com
 snapfish.co.uk
 snapfish.com.au
@@ -2538,8 +2538,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.canvasworld.com
-*.cafepress.com
 *.personalcreations.com
+*.cafepress.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
