@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 12:31:31 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 13:20:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -271,8 +271,8 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -2858,11 +2858,11 @@ gifts.grab.com
 *.grabpay.com
 api.grabpay.com
 xtramile.grabpay.com
-*.myteksi.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
 *.grab.com
+*.myteksi.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3558,9 +3558,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-www.tumblr.com
 *.tumblr.com
 mailpoet.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3651,9 +3651,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com

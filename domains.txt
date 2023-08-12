@@ -1329,8 +1329,8 @@ hilton.io
 hiltonbusinessonline.com
 *.hilton.com.tr
 *.hiltonlocalbiz.com
-hilton.com
 *.hiltonmanage.com
+hilton.com
 hilton.com.tr
 *.hilton.com
 *.hilton.com
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -7180,8 +7180,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -7964,11 +7964,11 @@ gifts.grab.com
 *.grabpay.com
 api.grabpay.com
 xtramile.grabpay.com
-*.myteksi.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
 *.grab.com
+*.myteksi.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -8853,9 +8853,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-www.tumblr.com
 *.tumblr.com
 mailpoet.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -8946,9 +8946,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
