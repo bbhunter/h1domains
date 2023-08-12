@@ -1776,8 +1776,8 @@ expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
-expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.travelocity.com,True
+expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.com.au,True
@@ -4080,8 +4080,8 @@ john-deere,stage-dc-service.agrisync.com,False
 john-deere,stage-diagnostics.agrisync.com,False
 john-deere,stage-vnd.agrisync.com,False
 john-deere,www.agrisync.com,False
-john-deere,*deere.com*,False
 john-deere,kreiselelectric.com,False
+john-deere,*deere.com*,False
 john-deere,sandbox.spark.ai,False
 john-deere,www.allpartsstore.com,False
 john-deere,www.hagie.com,False
@@ -8924,8 +8924,8 @@ slack,slack-redir.net,True
 slack,app.slack.com,True
 slack,*.quip.com,True
 slack,edgeapi.slack.com,True
-slack,slack-imgs.com,True
 slack,slack.com,True
+slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
