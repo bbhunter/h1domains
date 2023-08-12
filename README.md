@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 01:08:01 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 02:22:22 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2424,10 +2424,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-py.pl
 *.paylution.com
 *.xoom.com
 *.braintree-api.com
+py.pl
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com

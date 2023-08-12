@@ -1963,7 +1963,6 @@ resmed,resmed.co.uk,False
 resmed,resmed.com.au,False
 resmed,resmed.co.id,False
 resmed,resmed.ph,False
-resmed,resmed.fr,False
 resmed,resmed.nl,False
 resmed,resmed.no,False
 resmed,resmed.dk,False
@@ -1972,10 +1971,11 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
+resmed,resmed.fr,False
 resmed,resmed.co.in,False
 resmed,resmed.com.cn,False
 resmed,resmed.es,False
@@ -7181,8 +7181,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7466,10 +7466,10 @@ matomo,matomo.cloud,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintreepayments.com,True
-paypal,py.pl,True
 paypal,*.paylution.com,True
 paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,py.pl,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
