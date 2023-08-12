@@ -186,8 +186,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1634,7 +1634,6 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
-8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -1642,6 +1641,7 @@ kkr_vdp,processaccess.kkr.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,*.packet8.net,True
 8x8-bounty,voapi.8x8.com,True
@@ -1971,8 +1971,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,referenzkunden.api.praxispad.de,False
 resmed,app.medifox-therapie.de/,False
+resmed,referenzkunden.api.praxispad.de,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -8952,17 +8952,17 @@ security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
-security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
+security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,hackerone-ext-content.com,True
-security,hackathon-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,www.hackerone.com,True
+security,hackathon-photos.hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True

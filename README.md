@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 12 13:20:56 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 12 14:17:01 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -401,7 +401,6 @@ work.8x8.com
 *.8x8.vc
 connect.8x8.com
 sso.8x8.com
-platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -409,6 +408,7 @@ user-profile-staging.8x8.com
 *.8x8.id
 *.jit.si
 cloud8.8x8.com
+platform.8x8pilot.com
 *.8x8staging.com
 *.packet8.net
 voapi.8x8.com
@@ -3656,17 +3656,17 @@ hackerone.com
 api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 www.hackerone.com
+hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
