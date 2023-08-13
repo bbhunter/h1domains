@@ -2318,8 +2318,8 @@ www.watchstationindia.com
 *.sinaidowntown.net
 *.mountsinaiheartnp.org
 *.southnassau.org
-*.mountsinai.org
 *.mssm.edu
+*.mountsinai.org
 *.stoppain.org
 *.nyee2020.com
 *.mountsinaiconnect.org
@@ -2630,8 +2630,8 @@ www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
 www.swoodoo.com
-www.kayak.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -4171,10 +4171,10 @@ johndeere.invisionapp.com
 js.stripe.com
 www.stripe.partners
 app.taxjar.com
-api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
 api.stripe.com
+api.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -7179,8 +7179,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8948,8 +8948,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
