@@ -1543,8 +1543,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2364,11 +2364,11 @@ www.watchstationindia.com
 *.myroyalcanin.gr
 *.myroyalcanin.ro
 banfield.us
-*.banfield.com
 *.individualis.com
 *.royalcanin.pt
 *.miroyalcanin.com.ar
 *.royalcanin.be
+*.banfield.com
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.pl
@@ -5484,8 +5484,8 @@ www.logitech.com.cn
 www.logitechstore.com.br
 *.crossclip.com
 *.logi.com
-*.myharmony.com
 *.logitech.com
+*.myharmony.com
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -7201,8 +7201,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
@@ -8984,11 +8984,11 @@ hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 errors.hackerone.net
-hackerone.live
 b5s.hackerone-ext-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
