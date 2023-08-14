@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-app.medifox-therapie.de/
 referenzkunden.api.praxispad.de
+app.medifox-therapie.de/
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -8951,8 +8951,8 @@ hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -8962,11 +8962,11 @@ profile-photos.hackerone-user-content.com
 www.hackerone.com
 hackathon-photos.hackerone-user-content.com
 errors.hackerone.net
-app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
+app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
