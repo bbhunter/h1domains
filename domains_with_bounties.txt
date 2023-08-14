@@ -673,9 +673,9 @@ www.momondo.com
 www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
-www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -3591,9 +3591,9 @@ blog.irccloud.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com

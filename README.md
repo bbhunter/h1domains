@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 14 12:34:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 14 13:24:56 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -679,9 +679,9 @@ www.momondo.com
 www.hotelscombined.com
 www.checkfelix.com
 business.kayak.com
-www.swoodoo.com
 www.cheapflights.com
 www.kayak.com
+www.swoodoo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -3597,9 +3597,9 @@ blog.irccloud.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
