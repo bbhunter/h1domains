@@ -178,8 +178,8 @@ www.tink.com
 *omniplus.com
 *.mercedes-benz-trucks.com
 *exceleratorparts.com
-*detroitconnect.com
 *.daimlertruck.com
+*detroitconnect.com
 *.westernstar.com
 *fleetboard.de
 *.freightliner.com
@@ -1970,8 +1970,8 @@ patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 app.citushealth.com/
-referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
+referenzkunden.api.praxispad.de
 produktion.api.praxispad.de/
 shop.resmed.com
 resmed.fr
@@ -7201,8 +7201,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.com
 *.capitalone.co.uk
+*.capitalone.com
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
