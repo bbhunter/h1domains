@@ -4173,8 +4173,8 @@ www.stripe.partners
 app.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
-api.stripe.com
 api.taxjar.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -5967,8 +5967,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.taobao.com
@@ -6988,8 +6988,8 @@ wotctech.com
 *.konduto.com
 *.redeverdeamarela.com.br
 *.efficientforms.com
-*.bvsnet.com.br
 *equifax.com
+*.bvsnet.com.br
 *equifax.cl
 *equifax.ec
 *equifax.hn
