@@ -13,8 +13,8 @@ aboitizpower_corporation,adventenergy.com.ph,False
 aboitizpower_corporation,retailelectricity.com.ph,False
 aboitizpower_corporation,snaboitizpower.com,False
 aboitizpower_corporation,*.davaolight.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.visayanelectric.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.cotabatolight.com,False
 aboitizpower_corporation,*.apps.sofa.csg.aboitizpower.org,False
 aboitizpower_corporation,aboitizpower.org,False
@@ -254,9 +254,9 @@ visa,www.fraedom.com,True
 visa,usa.visa.com,True
 visa,www.tink.com,True
 daimler_truck,*.setra.de,False
-daimler_truck,*omniplus.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*omniplus.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.westernstar.com,False
@@ -2049,8 +2049,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -8448,8 +8448,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,*.zdev.net,True
 zomato,winecellar.zomato.com,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -8602,8 +8602,8 @@ snapchat,map.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
