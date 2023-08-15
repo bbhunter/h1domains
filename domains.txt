@@ -22,7 +22,6 @@ aboitizpower.net
 enerzone.com.ph
 sustainablephilippines.com
 *.snaboitiz.com
-aboitizpower.com.ph
 aboitizpowercorporation.com.ph
 aboitiztrading.com
 apsiph.com
@@ -31,6 +30,7 @@ cleanergy.com.ph
 limaenerzone.com
 prismenergy.com.ph
 subicenerzone.com
+aboitizpower.com.ph
 aboitizpower.ph
 mactanenerzone.com
 snap-res.com
@@ -1719,10 +1719,10 @@ user-profile-staging.8x8.com
 *.jit.si
 platform.8x8pilot.com
 cloud8.8x8.com
-*.8x8staging.com
 *.packet8.net
 voapi.8x8.com
 platform.8x8.com
+*.8x8staging.com
 sms.8x8.com
 user-profile.8x8.com
 *.p8t.us
@@ -4119,8 +4119,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -6432,12 +6432,12 @@ get8x8.com
 *.8x8cloud.net
 connect.8x8.com
 *.thinkingphones.net
-*.8x8staging.com
 sms.8x8.com
 user-profile.8x8.com
 supersite.8x8.com
 cloud8.8x8.com
 *.fuze.com
+*.8x8staging.com
 *.8x8pilot.com
 www.8x8.com
 *.8x8.id
@@ -7279,8 +7279,8 @@ press.priceline.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitaloneshopping.com
-*.capitalone.co.uk
 *.capitalone.com
+*.capitalone.co.uk
 *.capitalonecards.com
 *.capitalone.ca
 *.capitalonebank.com
