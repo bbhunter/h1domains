@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 15 20:21:40 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 15 21:19:03 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -725,11 +725,11 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+www.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
 aggregator.etoro.com
 cashier.etoro.com
@@ -1148,10 +1148,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
-on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 consensys.net
+activate.codefi.network
+on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1206,10 +1206,10 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
-api.stripe.com
 api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1229,8 +1229,8 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 ads.reddit.com
 new.reddit.com
@@ -1390,8 +1390,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1589,8 +1589,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1598,6 +1596,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -1921,8 +1921,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -1995,12 +1995,12 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
-*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
@@ -2059,10 +2059,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2240,21 +2240,21 @@ vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
-login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2535,19 +2535,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3035,14 +3035,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
-app.starbucks.com
 secureui.starbucks.com
+app.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
@@ -3317,8 +3317,8 @@ linkpop.com
 shopifyinbox.com
 story.snapchat.com
 ads.snapchat.com
-create.snapchat.com
 accounts.snapchat.com
+create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
@@ -3600,8 +3600,8 @@ custody.coinbase.com
 prime.coinbase.com
 paradex.io
 *.cbhq.net
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
@@ -3669,9 +3669,9 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
+profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 hackerone.com
