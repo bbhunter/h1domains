@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 15 07:19:07 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 15 08:24:51 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -2232,12 +2232,12 @@ res.universalorlandovacations.com
 reservations.wynnvacations.com
 res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
-vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
 vacations.universalstudioshollywood.com
+vacations.us.palladiumhotelgroup.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -3506,8 +3506,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 onboarding.greenhouse.io
-support.greenhouse.io
 api.greenhouse.io
+support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io

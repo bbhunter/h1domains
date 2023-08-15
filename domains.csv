@@ -2049,8 +2049,8 @@ resmed,patient.propellerhealth.biz,False
 resmed,resmedshop.de,False
 resmed,resmed.jp,False
 resmed,app.citushealth.com/,False
-resmed,app.medifox-therapie.de/,False
 resmed,referenzkunden.api.praxispad.de,False
+resmed,app.medifox-therapie.de/,False
 resmed,produktion.api.praxispad.de/,False
 resmed,shop.resmed.com,False
 resmed,resmed.fr,False
@@ -2397,8 +2397,8 @@ mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
 mount-sinai-health,*.southnassau.org,False
-mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.mssm.edu,False
+mount-sinai-health,*.mountsinai.org,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -2434,7 +2434,6 @@ mount-sinai-health,*.mountsinaidoctors.org,False
 mount-sinai-health,*.snch.org,False
 mount-sinai-health,*.southnassau.org,False
 mars,*.twix.com,False
-mars,*.royalcanin.nl,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.mivetshop.com.ar,False
@@ -2448,6 +2447,7 @@ mars,*.royalcanin.pt,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.be,False
 mars,*.banfield.com,False
+mars,*.royalcanin.nl,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.pl,False
@@ -7294,8 +7294,8 @@ capital-one,*.theunioncard.com,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
-capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalone.com,False
+capital-one,*.capitalone.co.uk,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.capitalonebank.com,False
@@ -7386,12 +7386,12 @@ hyatt,res.universalorlandovacations.com,True
 hyatt,reservations.wynnvacations.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
-hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,www.wynnvacations.com,True
 hyatt,res.sunscaperesorts.com,True
 hyatt,res.vacations.buschgardens.com,True
 hyatt,book.beachbound.com,True
 hyatt,vacations.universalstudioshollywood.com,True
+hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -8910,8 +8910,8 @@ informatica,*.informaticacloud.com,False
 informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 greenhouse,onboarding.greenhouse.io,True
-greenhouse,support.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
+greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
