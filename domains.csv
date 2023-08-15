@@ -143,8 +143,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -180,8 +180,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,usa.visa.com,True
 visa,www.cardinalcommerce.com,True
+visa,usa.visa.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.id,True
@@ -4476,11 +4476,14 @@ aktia,ftn.aktia.fi,False
 aktia,ebank.aktia.fi,False
 aktia,mobile-gateway.aktia.fi,False
 aktia,www.aktia.com,False
+aktia,asuntolaina.aktiawallet.fi,False
 aktia,wealth-api.aktia.fi,False
 aktia,mobile-auth.aktia.fi,False
 aktia,impakti.fi,False
 aktia,*.aktia.fi,False
 aktia,varainhoito.aktia.fi,False
+aktia,store.aktiawallet.fi,False
+aktia,aktiawallet.fi,False
 aktia,*.aktia.fi,False
 aktia,www.aktia.fi,False
 aktia,auth.aktia.fi,False
@@ -4493,6 +4496,9 @@ aktia,app.aktia.fi,False
 aktia,impakti.fi,False
 aktia,varainhoito.aktia.fi,False
 aktia,wealth-api.aktia.fi,False
+aktia,aktiawallet.fi,False
+aktia,store.aktiawallet.fi,False
+aktia,asuntolaina.aktiawallet.fi,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,blogs.zebra.com,False
 zebra_vdp,brand.zebra.com,False
@@ -9066,8 +9072,8 @@ security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
-security,hackerone.live,True
 security,errors.hackerone.net,True
+security,hackerone.live,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
