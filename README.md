@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 16 02:23:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug 16 03:21:35 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -496,9 +496,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.abritel.fr
 www.expediagroup.com
@@ -1148,10 +1148,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-trufflesuite.com
-consensys.net
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
+trufflesuite.com
+consensys.net
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1185,10 +1185,10 @@ www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
+cloud.elastic.co
 *.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1229,8 +1229,8 @@ www.urbancompany.com
 www.urbanclap.com
 old.reddit.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 ads.reddit.com
 new.reddit.com
@@ -1504,12 +1504,12 @@ live-backstage.tiktok.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
-developers.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2535,19 +2535,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3035,14 +3035,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
@@ -3546,13 +3546,13 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
+simplenote.com
+simperium.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
