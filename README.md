@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 17 05:19:17 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 17 06:25:50 UTC 2023)
 ```
 testapi.redoxengine.com
 fhir.redoxengine.com
@@ -140,9 +140,9 @@ yourdomain.freshservice.com
 http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
+api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
@@ -191,10 +191,10 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -342,11 +342,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -496,9 +496,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
+www.hotwirepartnercentral.com
 www.orbitz.com
 www.mrjet.se
-www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.abritel.fr
 www.expediaagents.com
@@ -1228,8 +1228,8 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 ads.reddit.com
@@ -1253,8 +1253,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
-oauth.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1390,8 +1390,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1589,8 +1589,6 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1598,6 +1596,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -1922,8 +1922,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2060,10 +2060,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2423,19 +2423,19 @@ bedpost.casper.com
 operator.casper.tools
 matomo.cloud
 matomo.cloud
-*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
+*.xoom.com
 py.pl
+*.paylution.com
 *.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2536,19 +2536,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
