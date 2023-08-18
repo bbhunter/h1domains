@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 18 15:27:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 18 16:25:17 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 explore.redoxengine.com
 docs.redoxengine.com
 10x.redoxengine.com
@@ -46,13 +46,13 @@ www.visa.com.ge
 www.visa.com.hr
 visa.com.jm
 www.visa.com.ms
-www.visa.com.my
 www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
+www.visa.com.my
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -496,13 +496,13 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.abritel.fr
 www.expediaagents.com
-www.expediagroup.com
 www.orbitz.com
+www.expediagroup.com
 www.ebookers.com
 www.flights.com
 www.travelocity.com
@@ -982,8 +982,8 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
@@ -1229,8 +1229,8 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 ads.reddit.com
@@ -1391,8 +1391,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1923,8 +1923,8 @@ maria.casino
 *.casinohuone.com
 *.igame.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2061,10 +2061,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2087,10 +2087,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2439,16 +2439,16 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 py.pl
+*.paylution.com
 *.xoom.com
 *.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2549,19 +2549,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3543,13 +3543,13 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
+simplenote.com
+simperium.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
