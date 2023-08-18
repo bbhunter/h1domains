@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 18 07:18:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 18 08:24:19 UTC 2023)
 ```
 fhir.redoxengine.com
 www.redoxengine.com
@@ -342,15 +342,15 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
-*.malwarebytes.com
 *.mwb-threatintel.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -496,8 +496,8 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.mrjet.se
 www.hotwirepartnercentral.com
+www.mrjet.se
 www.expediapartnersolutions.com
 www.abritel.fr
 www.expediaagents.com
@@ -1190,8 +1190,8 @@ main.trafficfactory.biz
 *.eops.nl
 cloud.elastic.co
 *.swiftype.com
-*.elastic.co
 www.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1229,8 +1229,8 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 ads.reddit.com
@@ -1391,8 +1391,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2242,21 +2242,21 @@ vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
 vacations.travelimpressions.com
 www.cheapcaribbean.com
 www.globalhotelchoices.com
-login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
@@ -2427,16 +2427,16 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-py.pl
 *.paylution.com
+py.pl
 *.xoom.com
 *.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
-paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
+paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -3037,14 +3037,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
@@ -3507,8 +3507,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3531,13 +3531,13 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
+simplenote.com
+simperium.com
 intensedebate.com
 api.tumblr.com
 assets.tumblr.com
