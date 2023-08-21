@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 21 02:25:05 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 21 03:21:24 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -195,9 +195,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -398,9 +398,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
+*.jitsi.net
 *.8x8.vc
 connect.8x8.com
-*.jitsi.net
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -933,8 +933,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
 api.krisp.ai
 teams.krisp.ai
 krisp.ai
@@ -1149,10 +1149,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
-on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 consensys.net
+activate.codefi.network
+on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1590,14 +1590,14 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.ph
 www.kruidvat.be
 www.theperfumeshop.com
@@ -1736,8 +1736,8 @@ wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 burn.polygon.technology
-mapper.polygon.technology
 faucet.polygon.technology
+mapper.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 open-api.polygon.technology
@@ -2061,10 +2061,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2228,9 +2228,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2438,17 +2438,17 @@ matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
-py.pl
 *.paylution.com
+py.pl
 *.xoom.com
-*.braintreepayments.com
 *.braintree-api.com
+*.braintreepayments.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
-paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
+paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -2549,19 +2549,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 *.marcus.co.uk
 *.ayco.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
