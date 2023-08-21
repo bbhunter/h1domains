@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 21 21:19:09 UTC 2023)
+## Domains with Bounties (Last Updated Mon Aug 21 22:19:59 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -195,9 +195,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -496,8 +496,8 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.abritel.fr
 www.expediaagents.com
 www.orbitz.com
@@ -981,8 +981,8 @@ api.evernote.com
 *.audicagame.com
 fallguys.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 fortnite.com
 *.3lateral.com
 *.psyonix.com
@@ -1187,9 +1187,9 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elasticnet.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1244,8 +1244,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1301,8 +1301,8 @@ wp-dev1.chime.com
 wp-dev3.chime.com
 wp-integ.chime.com
 wp-qa.chime.com
-wp-dev4.chime.com
 *.chime.com
+wp-dev4.chime.com
 *.1debit.com
 *.chimebank.com
 *.chmfin.com
@@ -1504,10 +1504,10 @@ live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
@@ -2438,17 +2438,17 @@ matomo.cloud
 matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 py.pl
+*.paylution.com
 *.braintree-api.com
 *.braintreepayments.com
 *.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
+paypal.me
 partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
-paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
 *.venmo.com
@@ -3349,9 +3349,9 @@ snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3518,9 +3518,9 @@ onboarding.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
-x.com
 *.vine.co
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
