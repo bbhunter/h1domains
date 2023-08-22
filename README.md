@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 22 08:25:34 UTC 2023)
+## Domains with Bounties (Last Updated Tue Aug 22 09:21:14 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -342,11 +342,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -496,13 +496,13 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.abritel.fr
 www.expediaagents.com
-www.expediapartnersolutions.com
 www.expediagroup.com
 www.orbitz.com
+www.expediapartnersolutions.com
 www.ebookers.com
 www.flights.com
 www.travelocity.com
@@ -1590,13 +1590,13 @@ www.iciparisxl.lu
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.ph
 www.watsons.co.id
 www.kruidvat.be
@@ -2553,19 +2553,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
-*.ayco.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.ayco.com
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3053,14 +3053,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucksreserve.com
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
@@ -3547,12 +3547,12 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
-my.pressable.com
+*.srvcs.tumblr.com
 simplenote.com
 simperium.com
+embed.tumblr.com
+my.pressable.com
 happy.tools
 intensedebate.com
 api.tumblr.com
@@ -3583,9 +3583,9 @@ intensedebate.com
 happy.tools
 www.irccloud.com
 api.irccloud.com
-irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
+irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
 *.irccloud.com
@@ -3627,8 +3627,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3658,17 +3658,17 @@ hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
+www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
