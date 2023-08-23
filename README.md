@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 23 04:22:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed Aug 23 05:19:34 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -195,9 +195,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -342,11 +342,11 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-my.malwarebytes.com
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
+cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
 *.mwb-threatintel.com
@@ -399,8 +399,8 @@ jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
+*.8x8.vc
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -1997,11 +1997,11 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
-*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2553,19 +2553,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
+*.unitedcp.com
 *.marcus.co.uk
 *.ayco.com
-*.unitedcp.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3053,14 +3053,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucksreserve.com
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
@@ -3354,8 +3354,8 @@ store.snapchat.com
 my.snapchat.com
 rt.playcanvas.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3672,8 +3672,8 @@ errors.hackerone.net
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-hackerone.live
 cover-photos.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
