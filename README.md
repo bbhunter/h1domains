@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 25 12:33:40 UTC 2023)
+## Domains with Bounties (Last Updated Fri Aug 25 13:23:16 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -219,9 +219,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 contile.services.mozilla.com
@@ -522,8 +522,8 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.hotwirepartnercentral.com
 www.mrjet.se
+www.hotwirepartnercentral.com
 www.abritel.fr
 www.expediaagents.com
 www.expediagroup.com
@@ -1175,9 +1175,9 @@ main.trafficfactory.biz
 *.found.io
 *.eops.nl
 *.swiftype.com
-*.elstc.co
 cloud.elastic.co
 *.elasticnet.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1379,8 +1379,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1731,8 +1731,8 @@ burn.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
 bridge-api.matic.network
-watchgod.polygon.technology
 open-api.polygon.technology
+watchgod.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2057,10 +2057,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2083,10 +2083,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2224,9 +2224,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2376,8 +2376,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2452,7 +2452,6 @@ my.loanbuilder.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
-*.braintreegateway.com
 paypalobjects.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
@@ -2461,6 +2460,7 @@ api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
 *.paypalcorp.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2572,9 +2572,9 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.com
 *.folioclient.com
 *.gsam.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3045,14 +3045,14 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucksreserve.com
 card.starbucks.com.sg
-secureui.starbucks.com
 app.starbucks.com
+secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
@@ -3498,12 +3498,12 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
+simplenote.com
+simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
@@ -3601,9 +3601,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
