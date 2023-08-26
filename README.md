@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 26 05:18:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat Aug 26 06:23:40 UTC 2023)
 ```
 fhir.redoxengine.com
 testapi.redoxengine.com
@@ -366,10 +366,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -843,8 +843,8 @@ pgg11o.hubspot.databricks.com
 waf-test.corp.databricks.com
 docs.delta.io
 staging.spark-summit.org
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 connect.databricks.com
 go.corp.databricks.com
 gw1-eu.corp.databricks.com
@@ -1494,8 +1494,8 @@ tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2224,9 +2224,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
-link.omise.co
 vault.omise.co
 dashboard.omise.co
+link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -3498,12 +3498,12 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simplenote.com
-simperium.com
+akismet.com
 embed.tumblr.com
 my.pressable.com
+simplenote.com
+simperium.com
 happy.tools
 api.tumblr.com
 assets.tumblr.com
