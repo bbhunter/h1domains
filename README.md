@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 31 15:23:05 UTC 2023)
+## Domains with Bounties (Last Updated Thu Aug 31 16:27:32 UTC 2023)
 ```
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -221,9 +221,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -1387,8 +1387,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1585,12 +1585,12 @@ hackerone.affirm-odin.com
 apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
+www.watsons.com.tr
 www.watsons.com.ph
 www.watsons.co.id
 www.iciparisxl.lu
@@ -1997,11 +1997,11 @@ www.goodrx.com
 *.rbx.com
 *.guilded.gg
 *.ra.roblox.com
-*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
+*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2200,8 +2200,8 @@ help.smartsheet.com
 developers.smartsheet.com
 *authenticate.trustpilot.com
 *business.trustpilot.com
-*signup.business.trustpilot.com
 *emailsignature.trustpilot.com
+*signup.business.trustpilot.com
 *invitations-api.trustpilot.com
 *share.trustpilot.com
 *www.trustpilot.com
@@ -2264,9 +2264,9 @@ www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2553,19 +2553,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.unitedcp.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3351,10 +3351,10 @@ one.airbnb.com
 *.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
-*.muscache.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 api.airbnb.com
 open.airbnb.com
@@ -3456,17 +3456,17 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 simplenote.com
 happy.tools
 my.pressable.com
 api.tumblr.com
 assets.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 mailpoet.com
@@ -3576,8 +3576,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
