@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep  3 15:20:59 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep  3 16:21:50 UTC 2023)
 ```
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -221,9 +221,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -320,8 +320,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1246,10 +1246,10 @@ amp.reddit.com
 redditforbusiness.com
 *.reddithelp.com
 accounts.reddit.com
-matrix.redditspace.com
 oauth.reddit.com
 mod.reddit.com
 www.reddit.com
+matrix.redditspace.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1385,8 +1385,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2063,10 +2063,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2262,9 +2262,9 @@ book.beachbound.com
 res.universalorlandovacations.com
 res.blueskytours.globalbookingsolutions.com
 vacations.us.palladiumhotelgroup.com
+confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
-confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2551,19 +2551,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
-*.goldman.com
 *.ayco.com
-*.global-liquidity.gs.com
+*.goldman.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3246,8 +3246,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3352,8 +3352,8 @@ one.airbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-*.muscache.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 api.airbnb.com
 open.airbnb.com
@@ -3455,10 +3455,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3562,8 +3562,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
