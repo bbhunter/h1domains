@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep  5 10:21:35 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep  5 11:18:53 UTC 2023)
 ```
 baidu.jp
 creativeappnow.com
@@ -239,9 +239,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -2190,8 +2190,8 @@ app.command.cysiv.com
 admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 cruises.priceline.com
@@ -2697,8 +2697,8 @@ learn.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -2838,8 +2838,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.grabtaxi.com
 grab.careers
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grab-sure.com
 *.grabpay.com
 api.grabpay.com
@@ -3591,10 +3591,10 @@ a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
