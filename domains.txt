@@ -1550,9 +1550,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -4653,8 +4653,6 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-*sd.invio.dev
-*mycslink.org
 *Hmhrx.net
 *Hmhrx.org
 *Huntingtonhealtheconnect.net
@@ -4663,6 +4661,8 @@ www.urbanclap.com
 *sgveconnect.org
 *huntingtonhospital.com
 *huntingtonhospital.net
+*mycslink.org
+*sd.invio.dev
 *csmc.edu
 *hhphysicians.org
 *ourstory.huntingtonhospital.com/
@@ -4741,10 +4741,10 @@ www.urbanclap.com
 *appofchoice.huntingtonhospital.com/
 *.thomsonreuters.com
 *.thomsonreuters.com
+app.aktia.fi
 www.aktia.fi
 auth.aktia.fi
 ftn.aktia.fi
-app.aktia.fi
 ebank.aktia.fi
 mobile-gateway.aktia.fi
 www.aktia.com
@@ -5759,8 +5759,8 @@ live-backstage.tiktok.com
 buy.logitech.com
 outage.logitech.com
 www.logitech.com.cn
-*.crossclip.com
 *.logi.com
+*.crossclip.com
 *.myharmony.com
 alert.logitech.com
 www.logitechg.com
@@ -6386,8 +6386,8 @@ stage.optifyr.com
 optifyr.com
 upload.picsart.com
 console.picsart.io
-unibet.me
 relaxcdn.unibet.com
+unibet.me
 *.highrolling.nu
 *.bingo.com
 *.kolikkopelit.com
@@ -6701,6 +6701,7 @@ work-staging.8x8.com
 express.8x8.com
 *.wavecell.com
 *.p8t.us
+*.dxi.eu
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7221,10 +7222,10 @@ neoket.net
 novel.pixiv.net
 www.amitree.com
 www.amitree.com
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -9079,10 +9080,10 @@ http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
 *.cloudflarepartners.com
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -9386,8 +9387,8 @@ www.earny.com
 www.earny.co
 api.earny.com
 www.earny.com
-help.jimdo.com
 dash.e.jimdo.com
+help.jimdo.com
 cms-backend.jimdosite.com
 *.jimdosite.com
 ns1.jimdo.com
