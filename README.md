@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  7 10:23:23 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep  7 11:18:02 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -227,9 +227,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -1918,9 +1918,9 @@ dashboard.fortmatic.com
 fortmatic.com
 unibet.me
 *.highrolling.nu
+*.unibet.fr
 *.bingo.com
 *.kolikkopelit.com
-*.unibet.fr
 maria.casino
 *.mariacasino.com
 *.kindredext.net
@@ -2079,10 +2079,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2105,10 +2105,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2278,9 +2278,9 @@ book.beachbound.com
 res.universalorlandovacations.com
 res.blueskytours.globalbookingsolutions.com
 vacations.us.palladiumhotelgroup.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -3017,9 +3017,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3242,8 +3242,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3261,9 +3261,9 @@ story.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-ads.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
