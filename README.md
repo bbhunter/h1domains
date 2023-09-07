@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  7 13:26:17 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep  7 14:21:31 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -90,8 +90,8 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 aw.visa.com
-www.cardinalcommerce.com
 usa.visa.com
+www.cardinalcommerce.com
 visa.com.au
 www.visa.co.id
 www.visa.co.th
@@ -227,9 +227,9 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
@@ -1241,8 +1241,8 @@ new.reddit.com
 strapi.reddit.com
 m.reddit.com
 *.snooguts.net
-meta-api.reddit.com
 sh.reddit.com
+meta-api.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -1393,8 +1393,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1610,6 +1610,7 @@ www.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
+api.watsons.co.id
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1863,9 +1864,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
-www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2011,11 +2012,11 @@ localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
+*.dev.lifeomic.com
 connect-console.dev.lifeomic.com
 marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
-*.dev.lifeomic.com
 lifeology.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
@@ -2072,17 +2073,15 @@ http://grpc.oasis.dev
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-*.allegro.pl.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
 codacontent.io
 codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2105,10 +2104,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2848,9 +2847,9 @@ manage.grab.co
 p.grabtaxi.com
 *.grab.com
 gamma.grab.co
-jira.grab.com
 kartaview.org
 *.myteksi.net
+jira.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3017,9 +3016,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3458,8 +3457,8 @@ gnip.com
 x.com
 cloudflareworkers.com
 one.dash.cloudflare.com
-*.teams.cloudflare.com
 *.cloudflare.com
+*.teams.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3471,10 +3470,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3591,8 +3590,8 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
@@ -3742,6 +3741,8 @@ usuhs.edu
 westpoint.edu
 ota.helium.com
 ota.helium.com
+*.allegro.pl.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
