@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep  8 01:11:56 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep  8 02:26:33 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -90,8 +90,8 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 aw.visa.com
-usa.visa.com
 www.cardinalcommerce.com
+usa.visa.com
 visa.com.au
 www.visa.co.id
 www.visa.co.th
@@ -2271,14 +2271,14 @@ res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
 vacations.us.palladiumhotelgroup.com
-res.blueskytours.globalbookingsolutions.com
 book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 res.universalorlandovacations.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2565,19 +2565,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.unitedcp.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3015,9 +3015,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
