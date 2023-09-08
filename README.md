@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep  8 18:25:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep  8 19:18:02 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -70,6 +70,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.visa.com.tw
 www.visa.com.hk
+www.practicalmoneyskills.com
+www.practicalmoneyskills.org
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -109,8 +111,6 @@ www.visa.com.kz
 www.visa.com.lk
 www.visa.com.ng
 cw.visa.com
-www.tink.com
-visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -163,6 +163,9 @@ www.yellowpepper.com
 www.fraedom.com
 usa.visa.com
 www.tink.com
+www.practicalmoneyskills.com
+www.practicalbusinessskills.org
+www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -374,10 +377,10 @@ http://miro.com/app
 miro.com
 api.miro.com
 http://miro.com/blog
-cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
+cloud.malwarebytes.com
 my.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
@@ -1720,8 +1723,8 @@ api.direct.playstation.com
 transact.playstation.com
 direct.playstation.com
 *.api.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
+store.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -1967,8 +1970,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2078,10 +2081,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2566,19 +2569,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.unitedcp.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2593,9 +2596,9 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.folioclient.com
 *.folioinstitutional.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3468,10 +3471,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3548,8 +3551,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
