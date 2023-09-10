@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 10 09:19:16 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep 10 10:20:13 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -1192,8 +1192,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elstc.co
 *.elasticnet.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2081,10 +2081,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -2107,10 +2107,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2274,15 +2274,15 @@ www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 vacations.us.palladiumhotelgroup.com
-res.blueskytours.globalbookingsolutions.com
 book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 book.beachbound.com
 res.universalorlandovacations.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2598,7 +2598,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gsam.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3019,9 +3019,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3458,8 +3458,8 @@ gnip.com
 x.com
 cloudflareworkers.com
 one.dash.cloudflare.com
-*.cloudflare.com
 *.teams.cloudflare.com
+*.cloudflare.com
 api.cloudflare.com
 waf.cumulusfire.net
 dash.cloudflare.com
@@ -3580,8 +3580,8 @@ yimg.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
