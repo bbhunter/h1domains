@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 11 15:22:13 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 11 16:28:04 UTC 2023)
 ```
 www.coinhako.com
 www.coinhako.com
@@ -422,8 +422,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1614,7 +1614,6 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1972,8 +1971,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2250,9 +2249,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
-link.omise.co
 vault.omise.co
 dashboard.omise.co
+link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -3473,10 +3472,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 simplenote.com
 happy.tools
 my.pressable.com
