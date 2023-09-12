@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 17:21:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 18:25:25 UTC 2023)
 ```
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -260,8 +260,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -636,8 +636,8 @@ zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
 *.teleportinfra.sh
-*.gravitational.com
 askpam.ai
+*.gravitational.com
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -2285,9 +2285,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2606,19 +2606,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.unitedcp.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -3056,21 +3056,21 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
 www.starbucks.de
 card.starbucks.com.sg
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 login.starbucks.co.jp
-www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3160,8 +3160,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3315,8 +3315,8 @@ my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
