@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 08:26:12 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 09:21:48 UTC 2023)
 ```
 rei.com
 rei.com
@@ -234,8 +234,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-merino.services.mozilla.com
 sync.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -1596,7 +1596,6 @@ beta-cloud.acronis.com
 account.acronis.com
 hackerone.affirm-odin.com
 hackerone.affirm-odin.com
-apptps.theperfumeshop.com
 app.marionnaud.hu
 www.marionnaud.ro
 mapi-sim.fortress.com.hk
@@ -1607,8 +1606,8 @@ www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.ph
-www.iciparisxl.lu
 www.watsons.com.tr
+www.iciparisxl.lu
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -1618,6 +1617,7 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1632,7 +1632,6 @@ app.iciparisxl.be
 app.iciparisxl.lu
 app.superdrug.com
 api.superdrug.com
-apptps.theperfumeshop.com
 www.marionnaud.at
 app.marionnaud.at
 www.marionnaud.ch
@@ -1682,6 +1681,10 @@ app.marionnaud.fr
 www.watsons.com.tr
 app.watsons.com.tr
 app.theperfumeshop.com
+api.theperfumeshop.com
+api.iciparisxl.be
+api.iciparisxl.lu
+api.iciparisxl.nl
 blog.watsons.com.tr
 dl.clario.co
 event.clario.co
@@ -1976,8 +1979,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2098,8 +2101,8 @@ booth.pm
 accounts.pixiv.net
 sensei.pixiv.net
 dic.pixiv.net
-sketch.pixiv.net
 comic.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2113,10 +2116,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -3025,9 +3028,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3280,12 +3283,12 @@ login.playcanvas.com
 www.bitmoji.com
 store.snapchat.com
 rt.playcanvas.com
-app.snapchat.com
 my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
 map.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3477,10 +3480,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 simplenote.com
 happy.tools
 my.pressable.com
@@ -3600,11 +3603,11 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 app.pullrequest.com
-b5s.hackerone-ext-content.com
-profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
