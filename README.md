@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 13:26:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 14:22:17 UTC 2023)
 ```
 rei.com
 rei.com
@@ -234,8 +234,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-sync.services.mozilla.com
 merino.services.mozilla.com
+sync.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -610,8 +610,8 @@ zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
 *.teleportinfra.sh
-*.gravitational.com
 askpam.ai
+*.gravitational.com
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1516,8 +1516,8 @@ partner.tiktokshop.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1617,6 +1617,7 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2089,10 +2090,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-payment.pixiv.net
-neoket.net
 vroid.com
 hub.vroid.com
+payment.pixiv.net
+neoket.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -3244,8 +3245,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3957,8 +3958,8 @@ www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
 harvestapp.com
-id.getharvest.com
 getharvest.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
