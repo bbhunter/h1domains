@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 07:20:37 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 08:26:12 UTC 2023)
 ```
 rei.com
 rei.com
@@ -234,8 +234,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-sync.services.mozilla.com
 merino.services.mozilla.com
+sync.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -1618,7 +1618,6 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1682,6 +1681,7 @@ www.marionnaud.fr
 app.marionnaud.fr
 www.watsons.com.tr
 app.watsons.com.tr
+app.theperfumeshop.com
 blog.watsons.com.tr
 dl.clario.co
 event.clario.co
@@ -2087,10 +2087,10 @@ codahosted.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-vroid.com
-hub.vroid.com
 payment.pixiv.net
 neoket.net
+vroid.com
+hub.vroid.com
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -3025,9 +3025,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3477,10 +3477,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 simplenote.com
 happy.tools
 my.pressable.com
