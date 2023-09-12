@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 22:20:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 23:19:47 UTC 2023)
 ```
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -2007,8 +2007,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-hotel-deals.marriott.com
 passwordchallenge.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2038,8 +2038,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3015,8 +3015,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3628,8 +3628,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 www.hackerone.com
 ctf.hacker101.com
-profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
+profile-photos.hackerone-user-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
