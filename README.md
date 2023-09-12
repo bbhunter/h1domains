@@ -2,8 +2,34 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 14:22:17 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 15:23:59 UTC 2023)
 ```
+connect-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-lab.io
+api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+*.gocardless.com
+www.gocardless.com
+*.gocardless-cicd.io
+*.gocardless-staging.io
+manage-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless.com
+*.gocardless-staging.io
+*.gocardless-lab.io
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+www.gocardless.com
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -610,8 +636,8 @@ zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
 *.teleportinfra.sh
-askpam.ai
 *.gravitational.com
+askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -696,6 +722,8 @@ www.dolap.com
 *.sidefx.com
 *.sidefx.com
 portfolio.metamask.io
+snaps.metamask.io
+snaps.metamask.io
 portfolio.metamask.io
 api.recarga.com
 api.recarga.com
@@ -1196,8 +1224,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elstc.co
 *.elasticnet.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1511,8 +1539,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
@@ -2437,8 +2465,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3028,9 +3056,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3252,8 +3280,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3271,8 +3299,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
-accounts.snapchat.com
 ads.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3480,10 +3508,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-akismet.com
 *.srvcs.tumblr.com
-simperium.com
+akismet.com
 embed.tumblr.com
+simperium.com
 my.pressable.com
 happy.tools
 simplenote.com
@@ -3604,10 +3632,10 @@ www.hackerone.com
 ctf.hacker101.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone.live
 app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
