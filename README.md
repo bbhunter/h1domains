@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 09:21:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 10:23:35 UTC 2023)
 ```
 rei.com
 rei.com
@@ -234,8 +234,8 @@ firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
-sync.services.mozilla.com
 merino.services.mozilla.com
+sync.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
@@ -1979,8 +1979,8 @@ cpp.marriott.com
 gatewaydsapdev2.marriott.com
 *uat.marriott.com
 marrtool.com
-passwordchallenge.marriott.com
 hotel-deals.marriott.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -2116,10 +2116,10 @@ vroid.com
 payment.pixiv.net
 neoket.net
 novel.pixiv.net
-streaming-gw.iris.production.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-100-druid-query.production.forescoutcloud.net
+streaming-gw.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
@@ -2257,9 +2257,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2578,19 +2578,19 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.unitedcp.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
-*.global-liquidity.gs.com
+*.gspublishing.com
 *.honestdollar.com
 *.goldmansachs.com
-*.gspublishing.com
+*.global-liquidity.gs.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2810,9 +2810,9 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
-*.lahitapiolarahoitus.fi
 asiointi.lahitapiola.fi
+*.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3563,8 +3563,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3586,9 +3586,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3603,11 +3603,11 @@ profile-photos.hackerone-user-content.com
 hackerone-ext-content.com
 www.hackerone.com
 app.pullrequest.com
-hackerone.live
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
