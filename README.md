@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 04:24:11 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 12 05:19:24 UTC 2023)
 ```
 rei.com
 rei.com
@@ -2428,11 +2428,11 @@ fdbox.net
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3022,9 +3022,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3594,8 +3594,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 app.pullrequest.com
 b5s.hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
