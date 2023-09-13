@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 12 23:19:47 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 13 01:13:02 UTC 2023)
 ```
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -45,8 +45,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 testapi.redoxengine.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 clientcert.gamma.redoxstage.com
+www.redoxengine.com
 blob.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -92,7 +92,6 @@ www.boomplay.com
 security.tecno.com
 www.mobile-phantom.com
 www.visa.com.cn
-www.visa.com.lc
 www.visa.com.ph
 visa.com.ua
 www.visa.co.jp
@@ -102,6 +101,7 @@ www.visa.com.tw
 www.visa.com.hk
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
+www.visa.com.lc
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -1645,7 +1645,6 @@ api.watsons.com.tw
 www10.watsons.com.my
 api.watsons.com.hk
 api.watsons.co.id
-app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2285,9 +2284,9 @@ https://www.creditkarma.com/reviews/
 blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
+link.omise.co
 vault.omise.co
 dashboard.omise.co
-link.omise.co
 www.opn.ooo
 dashboard2.omise.co
 api.omise.co
@@ -2317,9 +2316,9 @@ vacations.universalstudioshollywood.com
 book.beachbound.com
 res.universalorlandovacations.com
 book.booktandl.com
-confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
+confluence.hyattdev.com
 booking.beachbound.com
 holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
@@ -2336,7 +2335,6 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
@@ -2349,6 +2347,7 @@ holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
 book.extraholidaysvacations.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3056,9 +3055,9 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 secureui.starbucks.com
@@ -3508,10 +3507,10 @@ api.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
 waf.cumulusfire.net
-*.srvcs.tumblr.com
 akismet.com
-embed.tumblr.com
+*.srvcs.tumblr.com
 simperium.com
+embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
@@ -3615,10 +3614,10 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
-mta-sts.wearehackerone.com
+hackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -3626,16 +3625,16 @@ a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-www.hackerone.com
 ctf.hacker101.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
