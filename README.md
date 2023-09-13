@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 13 12:38:05 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 13 13:26:31 UTC 2023)
 ```
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -13,10 +13,10 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
-www.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1277,10 +1277,10 @@ meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-ads-api.reddit.com
-*.reddit.com
-gateway.reddit.com
 s.reddit.com
+ads-api.reddit.com
+gateway.reddit.com
+*.reddit.com
 www.spiketrap.io
 *.redditblog.com
 reddit.secure.force.com
@@ -1495,9 +1495,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1627,8 +1627,6 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1636,6 +1634,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -1867,9 +1867,9 @@ faucet.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-chat.amazon.com
 affiliate-program.amazon.com
 track.amazon.com
+chat.amazon.com
 manufacturing.amazon.com
 api.amazon.com
 apay-us.amazon.com
@@ -2605,10 +2605,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2625,13 +2625,13 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
-*.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+*.gs.com
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -2729,13 +2729,13 @@ infrastructure.eu.newrelic.com
 developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
-insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+insights.newrelic.com
 *.blog.newrelic.com
 *.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3056,11 +3056,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3616,8 +3616,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3865,15 +3865,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
