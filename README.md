@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 13 23:21:09 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 14 01:11:20 UTC 2023)
 ```
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -45,8 +45,8 @@ api.wisdomtreeprimeapp.com
 testapi.redoxengine.com
 fhir.redoxengine.com
 www.redoxengine.com
-clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
+clientcert.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
@@ -370,8 +370,8 @@ priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
 super-services.indriverapp.com
-injob.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
+injob.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -462,9 +462,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 *.jitsi.net
-connect.8x8.com
 sso.8x8.com
 work.8x8.com
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 platform.8x8pilot.com
@@ -1186,10 +1186,10 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-consensys.net
 activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
+consensys.net
 staking-uat.codefi.network
 staking.codefi.network
 bridge.codefi.network
@@ -1430,8 +1430,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1496,9 +1496,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1544,9 +1544,9 @@ live-backstage.tiktok.com
 tiktok.com
 business.tiktok.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1998,12 +1998,12 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
 giftcards.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2155,11 +2155,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2493,11 +2493,11 @@ fanduel.design
 *.flickr.com
 matomo.cloud
 matomo.cloud
+*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
-*.xoom.com
 py.pl
 *.paylution.com
 www.swiftcapital.com
@@ -2507,8 +2507,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2606,10 +2606,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2626,13 +2626,13 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
+*.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
-*.gs.com
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -2730,12 +2730,12 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
-*.nr-ops.net
-insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
@@ -3486,8 +3486,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3517,10 +3517,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-wordpress.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+wordpress.com
+intensedebate.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3632,11 +3632,11 @@ hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone-ext-content.com
 hackerone.live
-profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 errors.hackerone.net
+b5s.hackerone-ext-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3865,15 +3865,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
