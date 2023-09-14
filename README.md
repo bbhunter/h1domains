@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 14 19:16:32 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 14 20:22:44 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -1289,9 +1289,9 @@ meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1639,8 +1639,6 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1648,6 +1646,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.be
 www.theperfumeshop.com
 app.marionnaud.cz
@@ -2321,13 +2321,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2350,15 +2350,15 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 book.extraholidaysvacations.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 world.hyatt.com
 hyatt.com
 www.hyatt.com
@@ -2617,10 +2617,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2637,12 +2637,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -3326,8 +3326,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 shopify.plus
 admin.shopify.com
@@ -3536,8 +3536,8 @@ support.greenhouse.io
 jss.greenhouse.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3573,9 +3573,9 @@ wordpress.com
 intensedebate.com
 safe.tumblr.com
 *.tumblr.com
-www.tumblr.com
 t.umblr.com
 mailpoet.com
+www.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3660,14 +3660,15 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
+data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3681,12 +3682,12 @@ hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone-ext-content.com
 reviewer.pullrequest.com
-app.pullrequest.com
 errors.hackerone.net
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
