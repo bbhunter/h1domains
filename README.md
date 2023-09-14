@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 14 10:23:01 UTC 2023)
+## Domains with Bounties (Last Updated Thu Sep 14 11:19:36 UTC 2023)
 ```
 prismalabsteam.com
 lensa-ai.com
@@ -18,8 +18,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -593,10 +593,10 @@ www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.travelocity.ca
-www.expedia.com
 www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
+www.expedia.com
 www.expediapartnercentral.com
 www.wotif.com
 www.hotwire.com
@@ -1289,9 +1289,9 @@ meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1441,8 +1441,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1922,10 +1922,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.aliexpress.com
 *.aliyun-inc.com
-*.aliyun.com
 *.1688.com
 *.alimama.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2166,11 +2166,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2321,13 +2321,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2350,15 +2350,15 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 book.extraholidaysvacations.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 hyatt.com
 www.hyatt.com
@@ -2617,10 +2617,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
-*.goldman.com
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
+*.goldman.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2637,12 +2637,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
@@ -2978,8 +2978,8 @@ console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
-*.wordpress.org
 planet.wordpress.org
+*.wordpress.org
 wordpressfoundation.org
 *.buddypress.org
 bbpress.org
@@ -3286,8 +3286,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopifyinbox.com
 *.shopify.com
 shopify.plus
@@ -3527,10 +3527,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3620,19 +3620,20 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
+data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-hackathon-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
