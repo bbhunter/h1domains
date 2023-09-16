@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 16 20:20:26 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 16 21:17:06 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -241,9 +241,9 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
@@ -251,10 +251,10 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -459,10 +459,10 @@ user-profile-staging.8x8.com
 *.chalet.8x8.com
 cloud8.8x8.com
 *.8x8.id
-*.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
+*.8x8staging.com
 sms.8x8.com
 sso.8x8pilot.com
 user-profile.8x8.com
@@ -1274,10 +1274,10 @@ amp.reddit.com
 redditforbusiness.com
 *.reddithelp.com
 mod.reddit.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1415,8 +1415,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1481,9 +1481,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -2140,11 +2140,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2481,10 +2481,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.xoom.com
 py.pl
 *.paylution.com
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -3041,11 +3041,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-*.shopifykloud.com
 partners.shopify.com
+*.shopifykloud.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3541,10 +3541,10 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
@@ -3916,15 +3916,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
