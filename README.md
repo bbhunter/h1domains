@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 16 01:10:47 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 16 02:22:56 UTC 2023)
 ```
 prismalabsteam.com
 prisma-ai.com
@@ -68,8 +68,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -1263,9 +1263,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1613,14 +1613,14 @@ hackerone.affirm-odin.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2295,13 +2295,13 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -2324,15 +2324,15 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 book.extraholidaysvacations.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 hyatt.com
 www.hyatt.com
@@ -2478,10 +2478,10 @@ fanduel.design
 *.flickr.com
 matomo.cloud
 matomo.cloud
-*.xoom.com
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
+*.xoom.com
 py.pl
 *.paylution.com
 *.braintree-api.com
@@ -2492,8 +2492,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-my.loanbuilder.com
 *.venmo.com
+my.loanbuilder.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2591,10 +2591,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.gsselect.com
-*.gs-mosaic.gs.com
 *.marcus.co.uk
 *.goldman.com
+*.gsselect.com
+*.gs-mosaic.gs.com
 *.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
@@ -2611,12 +2611,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2669,8 +2669,8 @@ www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
 www.dota2.com
-support.steampowered.com
 steamcommunity.com
+support.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3541,10 +3541,10 @@ simperium.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-api.tumblr.com
-assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
+assets.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
