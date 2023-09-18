@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 18 05:20:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 18 06:25:21 UTC 2023)
 ```
 prismalabsteam.com
 lensa-ai.com
@@ -1263,9 +1263,9 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1415,8 +1415,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -3300,8 +3300,8 @@ your-store.myshopify.com
 *.shopifycloud.com
 linkpop.com
 shop.app
-partners.shopify.com
 *.shopifykloud.com
+partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
@@ -3660,8 +3660,8 @@ errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone.live
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
