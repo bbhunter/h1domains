@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 19 15:22:20 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 19 16:29:18 UTC 2023)
 ```
 prismalabsteam.com
 lensa-ai.com
@@ -267,9 +267,9 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
+firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 accounts.firefox.com
 merino.services.mozilla.com
 sync.services.mozilla.com
@@ -277,10 +277,10 @@ push.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
@@ -473,10 +473,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 sso.8x8.com
-*.8x8.vc
 connect.8x8.com
 work.8x8.com
 *.jitsi.net
+*.8x8.vc
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -491,9 +491,9 @@ voapi.8x8.com
 *.8x8staging.com
 sms.8x8.com
 sso.8x8pilot.com
-user-profile.8x8.com
 *.p8t.us
 *.wavecell.com
+user-profile.8x8.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
@@ -1281,15 +1281,15 @@ app.spiketrap.io
 old.reddit.com
 gql.reddit.com
 new.reddit.com
-*.redditinc.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-s.reddit.com
+*.redditinc.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1505,9 +1505,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1599,9 +1599,9 @@ www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
-cs.money
 support.cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2509,10 +2509,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-py.pl
 *.paylution.com
-*.xoom.com
 *.braintree-api.com
+*.xoom.com
+py.pl
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2520,8 +2520,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
-*.venmo.com
 my.loanbuilder.com
+*.venmo.com
 *.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2619,9 +2619,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2639,12 +2639,12 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
-research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-marquee.gs.com
+research.gs.com
 *.gs.de
+marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -3069,17 +3069,17 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3165,8 +3165,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 *.github.net
@@ -3920,15 +3920,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
