@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 20 15:27:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 20 16:28:12 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -1104,10 +1104,10 @@ playwonderbox.com
 wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
-*.tinderops.net
 *.tinder.com
-*.tstaging.com
+*.tinderops.net
 *.gotinder.com
+*.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -1283,11 +1283,11 @@ www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
-ads.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
 gql.reddit.com
+ads.reddit.com
 new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
@@ -1648,13 +1648,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -2176,11 +2176,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2529,8 +2529,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -3077,11 +3077,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3339,10 +3339,10 @@ linkpop.com
 *.shopifykloud.com
 partners.shopify.com
 shopifyinbox.com
-accounts.shopify.com
 shopify.plus
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3575,9 +3575,9 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simplenote.com
-intensedebate.com
 api.tumblr.com
 assets.tumblr.com
+intensedebate.com
 wordpress.com
 safe.tumblr.com
 *.tumblr.com
