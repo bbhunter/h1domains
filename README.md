@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Sep 20 20:22:47 UTC 2023)
+## Domains with Bounties (Last Updated Wed Sep 20 21:17:59 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -1585,6 +1585,7 @@ circle.logi.com
 www.ultimateears.com
 sync.logitech.com
 id.logi.com
+www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -1648,13 +1649,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -2176,11 +2177,11 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -3036,8 +3037,8 @@ circolocorecords.com/
 socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 store.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3077,11 +3078,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 www.starbucks.com.sg
 secureui.starbucks.com
@@ -3675,8 +3676,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone-user-content.com
 hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3684,18 +3685,18 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
-ctf.hacker101.com
-hackathon-photos.hackerone-user-content.com
-profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
+hackathon-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
-profile-photos-us-east-2.hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackerone.live
+cover-photos.hackerone-user-content.com
+profile-photos-us-east-2.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
