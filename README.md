@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 22 03:21:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 22 04:23:34 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -349,8 +349,8 @@ api-eu.floqast.app
 hiltonmanage.com
 *.hilton.io
 *.hiltonhotels.jp
-hiltonhotels.jp
 *.hiltonbusinessonline.com
+hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
@@ -1420,8 +1420,8 @@ caldav.larksuite.com
 passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api.larksuite.com
+larksuite.com
 open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
@@ -1562,9 +1562,9 @@ partner.tiktokshop.com
 tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 *.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
