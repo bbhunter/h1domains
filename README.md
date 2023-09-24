@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 24 14:17:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Sep 24 15:19:30 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -589,9 +589,9 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.orbitz.com
 www.mrjet.se
 www.expediagroup.com
+www.orbitz.com
 www.flights.com
 www.travelocity.com
 www.vrbo.com
@@ -1448,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1650,13 +1650,13 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
 www10.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
 www.iciparisxl.lu
 www.watsons.com.tr
 mapi-sim.fortress.com.hk
@@ -2543,8 +2543,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2629,9 +2629,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2649,11 +2649,11 @@ goldmansachsindices.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
-*.gs.de
 marquee.gs.com
+*.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
@@ -2752,10 +2752,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -2979,9 +2979,9 @@ app.sonantic.io
 label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
-www.dashlane.com
 app.dashlane.com
 logs.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
