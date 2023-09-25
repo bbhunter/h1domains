@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Sep 25 13:25:52 UTC 2023)
+## Domains with Bounties (Last Updated Mon Sep 25 14:21:15 UTC 2023)
 ```
 test.nicehash.com
 nicex.com
@@ -532,8 +532,8 @@ cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -1448,8 +1448,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1584,8 +1584,8 @@ www.logitech.com.cn
 www.logitechg.com
 circle.logi.com
 www.ultimateears.com
-sync.logitech.com
 id.logi.com
+sync.logitech.com
 www.jaybirdsport.com
 *vc.logitech.com
 *.streamlabs.com
@@ -1994,8 +1994,8 @@ maria.casino
 *.igame.com
 *.vladcazino.ro
 *.ottokasino.com
-www.32red.com
 *.kes.kindredext.net
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3500,8 +3500,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3927,15 +3927,15 @@ federalist.18f.gov
 login.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+tock.18f.gov
+*.code.gov
+marketplace.fedramp.gov
+*.search.gov
 ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-tock.18f.gov
-*.code.gov
-marketplace.fedramp.gov
-*.search.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 www.fedramp.gov
