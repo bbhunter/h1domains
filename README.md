@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 26 10:21:55 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 26 11:19:03 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -38,8 +38,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-staging.io
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -540,8 +540,8 @@ cloud8.8x8.com
 pay.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -2186,10 +2186,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2341,12 +2341,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-book.booktandl.com
-res.blueskytours.globalbookingsolutions.com
-reservations.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
 book.beachbound.com
+book.booktandl.com
+res.blueskytours.globalbookingsolutions.com
+reservations.wynnvacations.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2369,14 +2369,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-res.breathlessresorts.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.outrigger.com
 vacations.united.com
+res.breathlessresorts.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 world.hyatt.com
 book.extraholidaysvacations.com
 assets.hyatt.com
@@ -2637,9 +2637,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2657,9 +2657,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3087,11 +3087,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3350,9 +3350,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3683,9 +3683,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3697,8 +3697,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
