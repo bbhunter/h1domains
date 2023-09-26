@@ -117,7 +117,6 @@ card.starbucks.com.kz
 boysweb.shaya.com.tr
 qt.boots.com
 sa.cosstores.com
-*.starbucks.com.kz
 *.aloyoga.ae
 *.aloyoga.com.qa
 *.americaneagle.com.eg
@@ -140,6 +139,7 @@ sa.cosstores.com
 *.carrier.alshaya.com
 customercare.alshaya.com
 kuwait.kidzania.com
+*.shakeshack.co.uk
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -2103,6 +2103,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 *.8x8cloud.net
 pay.8x8.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2128,6 +2129,7 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
+admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.com
@@ -2956,8 +2958,8 @@ www.dolap.com
 *.skyhighsecurity.com
 *.sidefx.com
 *.sidefx.com
-*.tokensvc.com
 token.com
+*.tokensvc.com
 blog.token.com
 *.tokensvc.com
 token.com
@@ -4018,11 +4020,11 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 staking-uat.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -4104,9 +4106,6 @@ stage-api.agrisync.com
 stage-app.agrisync.com
 stage-vhb.agrisync.com
 vnd.agrisync.com
-map.deere.com
-us-central-1.r4.abc.expertconnect.support
-us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
 stellarsupport.deere.com
@@ -4115,6 +4114,9 @@ machinereports.deere.com
 notifications.deere.com
 registration.deere.com
 rewards.deere.com
+map.deere.com
+us-central-1.r4.abc.expertconnect.support
+us-central-1.r4.xyz.expertconnect.support
 johndeereinnovation.com
 contest.deere.com
 jdquote2.deere.com
@@ -4663,9 +4665,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -5386,8 +5388,8 @@ notification.billing.appservices.mendix.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -5638,9 +5640,9 @@ simplepoll.rocks
 simplegoals.app
 simplepoll.rocks
 simplegoals.app
-www.aiven.io
 help.aiven.io
 api.aiven.io
+www.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -6450,6 +6452,7 @@ get8x8.com
 *.thinkingphones.com
 *.8x8cloud.net
 connect.8x8.com
+admin.8x8.com
 *.fuze.com
 *.thinkingphones.net
 sms.8x8.com
@@ -6521,6 +6524,7 @@ express.8x8.com
 cloud8.8x8.com
 supersite.8x8.com
 pay.8x8.com
+admin.8x8.com
 www.8x8.com
 get8x8.com
 www.paloalto.com
@@ -7749,9 +7753,9 @@ cloud.rocket.chat
 *.arkadiyt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -7769,9 +7773,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com

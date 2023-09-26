@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 26 20:22:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Sep 26 21:19:29 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -509,6 +509,7 @@ sso.8x8pilot.com
 user-profile.8x8.com
 *.8x8cloud.net
 pay.8x8.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -534,6 +535,7 @@ https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
+admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.com
@@ -1208,11 +1210,11 @@ federalist.18f.gov
 federalist-docs.18f.gov
 rubygems.org
 rubygems.org
-activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 trufflesuite.com
 staking-uat.codefi.network
 consensys.net
+activate.codefi.network
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1300,9 +1302,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1452,8 +1454,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1622,9 +1624,9 @@ wiki.cs.money
 3d.cs.money
 app.faraday.io
 app.faraday.io
-www.aiven.io
 help.aiven.io
 api.aiven.io
+www.aiven.io
 console.aiven.io
 aivencloud.com
 www.aiven.io
@@ -2633,9 +2635,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2653,9 +2655,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
