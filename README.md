@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Sep 29 01:12:30 UTC 2023)
+## Domains with Bounties (Last Updated Fri Sep 29 02:27:38 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -2077,29 +2077,6 @@ localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
-lifeology.dev.lifeomic.com
-connect-console.dev.lifeomic.com
-marketplace.dev.lifeomic.com
-ga4gh.dev.lifeomic.com
-api.dev.lifeomic.com
-*.dev.lifeomic.com
-apps.dev.skillspring.com
-fhir.dev.lifeomic.com
-*.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
-*.infra.lifeomic.com
-*.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
-lifeology.dev.lifeomic.com
-http://apps.dev.lifeomic.com/phc
-http://apps.dev.lifeomic.com/precision-ocr
-connect-console.dev.lifeomic.com
-apps.dev.skillspring.com
-marketplace.dev.lifeomic.com
-ga4gh.dev.lifeomic.com
-api.dev.lifeomic.com
-http://api.dev.lifeomic.com/graphql
-fhir.dev.lifeomic.com
 kubernetes.io
 kubernetes-csi.github.io
 k8s.io
@@ -2613,9 +2590,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2633,9 +2610,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2736,10 +2713,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -3063,11 +3040,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3828,6 +3805,29 @@ usuhs.edu
 westpoint.edu
 ota.helium.com
 ota.helium.com
+lifeology.dev.lifeomic.com
+connect-console.dev.lifeomic.com
+marketplace.dev.lifeomic.com
+ga4gh.dev.lifeomic.com
+api.dev.lifeomic.com
+*.dev.lifeomic.com
+apps.dev.skillspring.com
+fhir.dev.lifeomic.com
+*.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
+*.infra.lifeomic.com
+*.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
+lifeology.dev.lifeomic.com
+http://apps.dev.lifeomic.com/phc
+http://apps.dev.lifeomic.com/precision-ocr
+connect-console.dev.lifeomic.com
+apps.dev.skillspring.com
+marketplace.dev.lifeomic.com
+ga4gh.dev.lifeomic.com
+api.dev.lifeomic.com
+http://api.dev.lifeomic.com/graphql
+fhir.dev.lifeomic.com
 *.allegro.pl.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 https://github.com/evolveum/midpoint
