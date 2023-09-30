@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 30 14:16:35 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 30 15:19:29 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -994,8 +994,8 @@ opensea.io
 pro.opensea.io
 analytics.krisp.ai
 upld.krisp.ai
-*.krisp.ai
 account.krisp.ai
+*.krisp.ai
 teams.krisp.ai
 api.krisp.ai
 download.krisp.ai
@@ -1248,8 +1248,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2590,9 +2590,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
+*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2610,9 +2610,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2718,8 +2718,8 @@ insights.newrelic.com
 infrastructure.newrelic.com
 *.nr-ops.net
 *.newrelic.com
-one.newrelic.com
 *.nr-data.net
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3640,8 +3640,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
