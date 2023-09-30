@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 30 12:32:39 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 30 13:21:49 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -289,15 +289,15 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
-location.services.mozilla.com
 phabricator.allizom.org
+location.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -1299,9 +1299,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2294,12 +2294,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2322,14 +2322,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 assets.hyatt.com
 book.extraholidaysvacations.com
@@ -2590,9 +2590,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2610,9 +2610,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2713,10 +2713,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
+*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 one.newrelic.com
 *.nr-data.net
@@ -3040,11 +3040,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3303,9 +3303,9 @@ shop.app
 partners.shopify.com
 shopifyinbox.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
