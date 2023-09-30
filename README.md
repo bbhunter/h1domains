@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Sep 30 05:19:09 UTC 2023)
+## Domains with Bounties (Last Updated Sat Sep 30 06:24:26 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -322,8 +322,8 @@ relay.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
 monitor.firefox.com
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -1299,9 +1299,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1451,8 +1451,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1985,8 +1985,8 @@ fortmatic.com
 unibet.me
 *.highrolling.nu
 *.kolikkopelit.com
-*.unibet.fr
 *.bingo.com
+*.unibet.fr
 maria.casino
 *.mariacasino.com
 *.unibet.com
@@ -2157,10 +2157,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
