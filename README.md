@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  2 09:19:07 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  2 10:22:57 UTC 2023)
 ```
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -17,8 +17,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 prismalabsteam.com
-prisma-ai.com
 lensa-ai.com
+prisma-ai.com
 appapi.neuralprisma.com
 neuralprisma.com
 neuralprisma.com
@@ -296,8 +296,8 @@ relay.firefox.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 getpocket.com
 monitor.firefox.com
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -462,8 +462,8 @@ jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -569,9 +569,9 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.orbitz.com
 www.mrjet.se
 www.expediagroup.com
+www.orbitz.com
 www.flights.com
 www.travelocity.com
 www.vrbo.com
@@ -587,9 +587,9 @@ www.expedia.com
 www.expediapartnercentral.com
 www.wotif.com
 www.ebookers.fi
-www.expediacruises.com
 www.stayz.com.au
 www.hotwire.com
+www.expediacruises.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1273,9 +1273,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -1475,12 +1475,12 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-accounts.cloud.com
 *.browser.cloud.com
 sf-rp-eu.sharefile.com
 api.sharefile.com
 (yoursubdomain).sharefile.com
 www.cloud.com
+accounts.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.eu
@@ -2037,8 +2037,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2131,10 +2131,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2268,12 +2268,12 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
@@ -2296,14 +2296,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 world.hyatt.com
 assets.hyatt.com
 book.extraholidaysvacations.com
@@ -2564,9 +2564,9 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.marcus.co.uk
 *.gsselect.com
 *.gs-mosaic.gs.com
-*.marcus.co.uk
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2584,9 +2584,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2687,10 +2687,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3278,8 +3278,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3403,8 +3403,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.airbnb.com
 *.hoteltonight-test.com
+*.airbnb.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
@@ -3633,9 +3633,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
-app.pullrequest.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
