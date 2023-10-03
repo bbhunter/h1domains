@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  3 09:21:38 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct  3 10:22:52 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -369,9 +369,9 @@ cargo.indrive.com
 *.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
+new-order.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -1986,8 +1986,8 @@ maria.casino
 *.igame.com
 *.ottokasino.com
 www.32red.com
-*.kes.kindredext.net
 *.vladcazino.ro
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2053,8 +2053,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2076,8 +2076,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-astra.datastax.com
 docs.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -3030,11 +3030,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
