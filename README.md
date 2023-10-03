@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct  3 06:25:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct  3 07:18:37 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -275,10 +275,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1285,9 +1285,9 @@ m.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
+s.reddit.com
 ads-api.reddit.com
 gateway.reddit.com
-s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2147,10 +2147,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -3419,8 +3419,8 @@ next.airbnb.com
 *.byairbnb.com
 www.hoteltonight.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
