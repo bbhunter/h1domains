@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct  5 15:24:03 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct  5 16:27:44 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -267,18 +267,18 @@ app.tide.co
 api.tideplatform.in
 www.tide.co
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -1332,8 +1332,8 @@ www.coinspot.com.au
 www.coinspot.com.au
 global-api.citymapper.com
 global-api.citymapper.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -1503,9 +1503,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
-secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -3030,11 +3030,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3042,9 +3042,9 @@ www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
 login.starbucks.co.jp
-www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
