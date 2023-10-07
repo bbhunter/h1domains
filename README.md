@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct  7 12:31:53 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct  7 13:21:32 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -275,10 +275,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -473,9 +473,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
 sso.8x8.com
+connect.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -582,8 +582,8 @@ www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
-www.hotels.com
 www.expediagroup.com
+www.hotels.com
 www.travelocity.com
 www.ebookers.com
 www.vrbo.com
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 *.teleport.dev
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -2511,9 +2511,9 @@ api.loanbuilder.com
 loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-paypalobjects.com
 *.paypalcorp.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3004,11 +3004,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
