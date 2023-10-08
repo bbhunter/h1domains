@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct  8 09:18:57 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct  8 10:19:51 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -473,9 +473,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-*.8x8.vc
-connect.8x8.com
 sso.8x8.com
+connect.8x8.com
+*.8x8.vc
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -646,8 +646,8 @@ zerobounce.net
 *.gravitational.co
 *.teleport.dev
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1285,8 +1285,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 gateway.reddit.com
@@ -1437,8 +1437,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1503,9 +1503,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1920,8 +1920,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 *.alibaba.com
-*.alibabacloud.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.alimama.com
@@ -1986,8 +1986,8 @@ maria.casino
 *.igame.com
 *.ottokasino.com
 *.kes.kindredext.net
-www.32red.com
 *.vladcazino.ro
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2301,12 +2301,12 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-res.sunscaperesorts.com
-res.vacations.buschgardens.com
-book.beachbound.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 reservations.wynnvacations.com
+res.sunscaperesorts.com
+res.vacations.buschgardens.com
+book.beachbound.com
 res.universalorlandovacations.com
 www.wynnvacations.com
 confluence.hyattdev.com
@@ -2330,14 +2330,14 @@ upsell.hyatt.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
-shop.wyndhamvacationownership.trisept.travel
-vacations.outrigger.com
-vacations.united.com
 res.breathlessresorts.com
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
+media.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
+vacations.outrigger.com
+vacations.united.com
 assets.hyatt.com
 book.extraholidaysvacations.com
 world.hyatt.com
@@ -2618,9 +2618,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3048,11 +3048,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
-cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3518,8 +3518,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
