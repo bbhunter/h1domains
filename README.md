@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct  9 12:39:05 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct  9 13:25:08 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -58,8 +58,8 @@ launch.gamma.redoxstage.com
 clientcert.gamma.redoxstage.com
 www.redoxengine.com
 blob.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
+dashboard.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
@@ -473,9 +473,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -1927,9 +1927,9 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun-inc.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -1985,8 +1985,8 @@ maria.casino
 *.casinohuone.com
 *.ottokasino.com
 *.kes.kindredext.net
-www.32red.com
 *.vladcazino.ro
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2145,10 +2145,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
-updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2728,8 +2728,8 @@ one.newrelic.com
 *.newrelic.com
 support.newrelic.com
 blog.newrelic.com
-alerts.newrelic.com
 synthetics.eu.newrelic.com
+alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
 alerts.eu.newrelic.com
