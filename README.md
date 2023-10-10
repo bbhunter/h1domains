@@ -2,8 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 10 12:36:15 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 10 13:25:03 UTC 2023)
 ```
+www.compass.com
+www.compass.com
 pentesting2.gethypr.com
 *.hypr.com
 pentesting3.gethypr.com
@@ -301,10 +303,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
-contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
+contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -499,9 +501,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
+sso.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
@@ -672,8 +674,8 @@ zerobounce.net
 *.gravitational.co
 *.teleport.dev
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -1457,8 +1459,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -2165,10 +2167,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2447,8 +2449,8 @@ www.triseptapi.com
 www.triseptdemo.com
 vacations.united.com
 www.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3329,10 +3331,10 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
-*.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
+*.shopify.com
+shopify.plus
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3450,8 +3452,8 @@ support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
 one.airbnb.com
-*.withairbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
