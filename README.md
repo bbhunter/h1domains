@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 10 03:20:05 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 10 04:23:43 UTC 2023)
 ```
 pentesting2.gethypr.com
 *.hypr.com
@@ -275,10 +275,10 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -580,10 +580,10 @@ www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
-www.abritel.fr
 www.hotels.com
 www.expediagroup.com
 www.orbitz.com
+www.abritel.fr
 www.travelocity.com
 www.vrbo.com
 www.flights.com
@@ -2720,10 +2720,10 @@ developer.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
-*.nr-ops.net
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
+*.nr-ops.net
 *.nr-data.net
 one.newrelic.com
 *.newrelic.com
@@ -3047,11 +3047,11 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
 www.starbucks.com.br
+cart.starbucks.co.jp
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
@@ -3429,9 +3429,9 @@ m.airbnb.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
-*.withairbnb.com
 one.airbnb.com
 next.airbnb.com
+*.withairbnb.com
 *.airbnbcitizen.com
 *.byairbnb.com
 *.muscache.com
