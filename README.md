@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 10 15:23:09 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 10 16:25:29 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -91,8 +91,8 @@ dashboard.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 help.redoxengine.com
-10x.redoxengine.com
 eets.gamma.redoxstage.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -673,8 +673,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1313,8 +1313,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-ads-api.reddit.com
 s.reddit.com
+ads-api.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -2647,9 +2647,9 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3036,8 +3036,8 @@ circolocorecords.com/
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3339,10 +3339,10 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
