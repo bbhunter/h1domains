@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 16 08:26:59 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 16 09:22:10 UTC 2023)
 ```
 www.compass.com
 www.compass.com
@@ -733,8 +733,6 @@ www.amazon.com/photos/*
 api.amazonalexa.com/*
 https://www.amazon.com/luna/*
 https://luna.amazon.com/*
-knox.beta.blendlabs.com
-knox.beta.blendlabs.com
 https://www.*mongodb.com/*
 mongodb.live/*
 checksw.com
@@ -1255,8 +1253,8 @@ main.trafficfactory.biz
 *.swiftype.com
 cloud.elastic.co
 *.elstc.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1289,8 +1287,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
@@ -1306,8 +1304,8 @@ m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 gateway.reddit.com
 *.reddit.com
@@ -2024,8 +2022,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
@@ -2637,9 +2635,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
+research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3350,8 +3348,8 @@ create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3366,8 +3364,8 @@ map.snapchat.com
 www.bitmoji.com
 business.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3641,8 +3639,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -3668,8 +3666,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3681,8 +3679,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
@@ -3727,6 +3725,8 @@ node1.pivcac.staging.login.gov
 node1.pivcac.prod.login.gov
 www.engelvoelkers.com
 www.engelvoelkers.com
+knox.beta.blendlabs.com
+knox.beta.blendlabs.com
 businessdefense.gov
 ioss.gov
 itc.gov
