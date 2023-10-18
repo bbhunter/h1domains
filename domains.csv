@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -23,8 +23,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,*.hypr.com,True
+hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True
@@ -120,8 +120,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
+coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,http://qa.gbu-alert.com/,True
@@ -2356,9 +2356,9 @@ expediagroup,*.mrjet.se,False
 expediagroup,china.airasiago.com,False
 expediagroup,*.travelocity.com,False
 expediagroup,*.abritel.fr,False
-expediagroup,*.hotwire.com,False
 expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.expediagroup.com,False
+expediagroup,*.hotwire.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -2429,8 +2429,8 @@ zerobounce,zerobounce.net,True
 teleport,*.gravitational.com,True
 teleport,*.gravitational.co,True
 teleport,askpam.ai,True
-teleport,cloud.gravitational.io,True
 teleport,*.teleportinfra.sh,True
+teleport,cloud.gravitational.io,True
 teleport,*.teleport.dev,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
@@ -4508,8 +4508,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
+urbancompany,www.urbanclap.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -4646,8 +4646,8 @@ zebra_vdp,brand.zebra.com,False
 zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
-zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.profitect.com,False
@@ -5566,9 +5566,9 @@ citrix,secure.sharefile.com,True
 citrix,ap-s.cloud.com,True
 citrix,accounts-internal.cloud.com,True
 citrix,adm.cloud.com,True
-citrix,secure.sharefile.eu,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
+citrix,secure.sharefile.eu,True
 citrix,launch.cloud.com,True
 citrix,api.adm.cloud.com,True
 citrix,sf-rp.sharefile.com,True
@@ -8347,10 +8347,10 @@ portswigger,portswigger.net,True
 portswigger,portswigger.net,True
 portswigger,forum.portswigger.net,True
 portswigger,https://enterprise-demo.portswigger.net/,True
+starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,www.starbucks.fr,True
 starbucks,www.starbucks.com.br,True
-starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.uk,True
 starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
@@ -9433,9 +9433,9 @@ uphabit,web.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,api.uphabit.com,False
 uphabit,web.uphabit.com,False
-nuri,www.nuri.com,False
 nuri,www.bitwala.com,False
 nuri,api.app.bitwala.com,False
+nuri,www.nuri.com,False
 nuri,api.app.nuri.com,False
 nuri,app.bitwala.com,False
 nuri,app.nuri.com,False
