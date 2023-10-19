@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 08:27:20 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 09:19:48 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -12,8 +12,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1253,15 +1253,15 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 ads.reddit.com
 new.reddit.com
 meta-api.reddit.com
@@ -1393,9 +1393,9 @@ internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
-open.larksuite.com
 api.larksuite.com
 internal-api-lark-api.larksuite.com
+open.larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 status.larksuite.com
@@ -1483,9 +1483,9 @@ secure.sharefile.com
 ap-s.cloud.com
 accounts-internal.cloud.com
 adm.cloud.com
+secure.sharefile.eu
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-secure.sharefile.eu
 launch.cloud.com
 api.adm.cloud.com
 sf-rp.sharefile.com
@@ -1534,8 +1534,8 @@ careers.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2119,10 +2119,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2591,9 +2591,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2664,8 +2664,8 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
@@ -3021,10 +3021,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
-cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 secureui.starbucks.com
@@ -3284,9 +3284,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
