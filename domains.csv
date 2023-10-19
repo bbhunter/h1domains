@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -5618,8 +5618,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
@@ -7747,8 +7747,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
@@ -7998,8 +7998,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
+newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8684,8 +8684,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9144,6 +9144,7 @@ slack,spaces.pm,True
 slack,www.quip.com,True
 slack,*.quip.com,True
 yahoo,apis.mail.yahoo.com,True
+yahoo,data.mail.yahoo.com,True
 yahoo,data.mail.yahoo.com,True
 yahoo,le.yahooapis.com,True
 yahoo,onepush.query.yahoo.com,True
@@ -9698,10 +9699,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True

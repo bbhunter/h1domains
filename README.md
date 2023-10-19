@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 20:21:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 21:18:34 UTC 2023)
 ```
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1529,8 +1529,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 business.tiktok.com
 careers.tiktok.com
@@ -2472,8 +2472,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -2708,8 +2708,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3286,8 +3286,8 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3618,6 +3618,7 @@ www.quip.com
 *.quip.com
 apis.mail.yahoo.com
 data.mail.yahoo.com
+data.mail.yahoo.com
 le.yahooapis.com
 onepush.query.yahoo.com
 proddata.xobni.yahoo.com
@@ -3929,10 +3930,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
