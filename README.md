@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 19 10:22:22 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 19 11:19:09 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -318,10 +318,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
+contile.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 aus5.mozilla.org
-contile.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
 crash-reports.allizom.org
@@ -689,8 +689,8 @@ zerobounce.net
 *.gravitational.com
 *.gravitational.co
 askpam.ai
-cloud.gravitational.io
 *.teleportinfra.sh
+cloud.gravitational.io
 *.teleport.dev
 teleport.sh
 *.gravitational.io
@@ -1260,8 +1260,8 @@ www.urbanclap.com
 api.reddit.com
 app.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 gql.reddit.com
+*.redditmedia.com
 ads.reddit.com
 new.reddit.com
 meta-api.reddit.com
@@ -1952,8 +1952,8 @@ unibet.me
 *.bingo.com
 maria.casino
 *.kindredext.net
-*.unibet.com
 *.mariacasino.com
+*.unibet.com
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
@@ -2119,10 +2119,10 @@ mgmt-sensors.iris.production.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-updates.forescout.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 community.forescout.com
+updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
@@ -2591,9 +2591,9 @@ goldmansachsindices.com
 *.nextcapital.com
 *.vennhypotheken.nl
 *.goldmansachs.com
+research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3021,10 +3021,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
-cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.com.br
+cart.starbucks.co.jp
 www.starbucks.co.uk
 card.starbucks.com.sg
 secureui.starbucks.com
