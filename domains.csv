@@ -4813,10 +4813,10 @@ reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,www.reddit.com,True
 reddit,*.reddithelp.com,True
-reddit,mod.reddit.com,True
 reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
+reddit,mod.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5474,11 +5474,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -8612,10 +8612,10 @@ radancy,dropr.nl,True
 radancy,werkenbijdnb.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
-radancy,wp-mail.nl,True
 radancy,ruddercms.com,True
 radancy,*.maximum.nl,True
 radancy,werkenbijdefensie.nl,True
+radancy,wp-mail.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,no-reply.cloud,True
 radancy,maximum-status.com,True
@@ -8811,8 +8811,8 @@ adobe,magento.com,True
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
-adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
+adobe,firefly.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9151,8 +9151,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
