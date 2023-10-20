@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 20 11:18:27 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 20 12:36:46 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1593,8 +1593,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -1626,12 +1626,13 @@ www20.watsons.co.th
 www.watsons.co.id
 www.kruidvat.nl
 www.kruidvat.be
-www.theperfumeshop.com
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
+www.watsons.com.tw
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1901,8 +1902,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.aliexpress.com
-*.aliyun.com
 *.alimama.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2595,12 +2596,12 @@ goldmansachsindices.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
-*.gs.de
 *.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2707,8 +2708,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3285,8 +3286,8 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3413,10 +3414,10 @@ one.airbnb.com
 www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
-api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3640,9 +3641,9 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 hackerone.com
@@ -3992,10 +3993,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
