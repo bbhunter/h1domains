@@ -539,8 +539,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,www.tecno-mobile.com,True
 tecno,*.palm.tech,True
+tecno,www.tecno-mobile.com,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1636,8 +1636,8 @@ kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3058,9 +3058,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
-planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7445,9 +7445,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -9150,8 +9150,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
+security,hackerone-user-content.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
@@ -9491,10 +9491,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9698,10 +9698,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
