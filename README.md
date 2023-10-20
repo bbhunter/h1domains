@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 20 15:19:34 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 20 16:26:01 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1533,12 +1533,12 @@ live-backstage.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
-business.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2425,8 +2425,8 @@ sportsbook.fanduel.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+www.tvg.com
 *racing.fanduel.com
 tvg.com
 m.4njbets.tvg.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3642,9 +3642,9 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 errors.hackerone.net
+app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 hackerone.com
@@ -3790,10 +3790,6 @@ usna.edu
 usnwc.edu
 usuhs.edu
 westpoint.edu
-opensea.io
-pro.opensea.io
-opensea.io
-pro.opensea.io
 *.runpanther.io
 *.runpanther.com
 *.panther.com
@@ -3931,10 +3927,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
