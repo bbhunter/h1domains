@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 20 05:19:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 20 06:28:25 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -250,8 +250,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -621,13 +621,13 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.orbitz.com
 www.mrjet.se
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
 www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
+www.orbitz.com
 www.vrbo.com
 www.travelocity.com
 www.ebookers.com
@@ -944,10 +944,10 @@ support.databricks.com
 community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-help.databricks.com
 partners.databricks.com
-advocates.databricks.com
 customer-academy.databricks.com
+advocates.databricks.com
+help.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1528,9 +1528,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 careers.tiktok.com
@@ -1892,9 +1892,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibaba.com
-*.tmall.com
 *.alibabacloud.com
 www.alibabagroup.com
+*.tmall.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.Daraz.com
@@ -2707,8 +2707,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3285,8 +3285,8 @@ partners.shopify.com
 shopifyinbox.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3816,10 +3816,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
