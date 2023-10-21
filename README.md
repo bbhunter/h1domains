@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 21 12:31:56 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 21 13:21:41 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -191,10 +191,10 @@ www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
-www.visa.com.br
 www.visa.com.az
 www.visa.com.kz
 www.visa.com.lk
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -642,10 +642,10 @@ www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
 www.wotif.com
-www.hotwire.com
 www.ebookers.fi
 www.stayz.com.au
 www.expediacruises.com
+www.hotwire.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1530,8 +1530,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -3814,10 +3814,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3990,10 +3990,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
