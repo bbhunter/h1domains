@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -5683,7 +5683,6 @@ logilife.logitech.com
 *.uesmartradio.com
 jira.logitech.com
 logitechgchallenge.com
-sync.logitech.com
 id.logi.com
 *.logitechmusic.com
 external.logitech.com
@@ -5691,6 +5690,7 @@ feedback.logitech.com
 *.melonapp.com
 *.lucra.live
 www.logitechclub.com
+sync.logitech.com
 partner.logitech.com
 maintenance.logitech.com
 *vc.logitech.com
@@ -8018,8 +8018,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9185,8 +9185,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
