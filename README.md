@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 21 15:18:18 UTC 2023)
+## Domains with Bounties (Last Updated Sat Oct 21 16:23:43 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -12,8 +12,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1530,8 +1530,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -3990,10 +3990,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
