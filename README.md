@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 22 19:16:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 22 20:20:20 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
+synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3280,8 +3280,8 @@ yourcompany.udemy.com
 your-store.myshopify.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
-shop.app
 linkpop.com
+shop.app
 partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
