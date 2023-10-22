@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 22 18:23:46 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 22 19:16:53 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -468,8 +468,8 @@ my.malwarebytes.com
 cloud.malwarebytes.com
 *.mbamupdates.com
 oneview.malwarebytes.com
-*.malwarebytes.com
 *.mwb-threatintel.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1594,8 +1594,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2806,8 +2806,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3814,10 +3814,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3990,10 +3990,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

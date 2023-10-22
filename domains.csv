@@ -120,8 +120,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
+coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,http://qa.gbu-alert.com/,True
@@ -1606,8 +1606,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
+mercadolibre_vdp,www.mercadolivre.com.br,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1974,8 +1974,8 @@ malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,oneview.malwarebytes.com,True
-malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.mwb-threatintel.com,True
+malwarebytes,*.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
@@ -5798,8 +5798,8 @@ rebellion-defense,www.rebelliondefense.com,False
 dropcontact,app.dropcontact.io,False
 dropcontact,app.dropcontact.io,False
 acronis,beta-cloud.acronis.com,True
-acronis,account.acronis.com,True
 acronis,*.5nine.com,True
+acronis,account.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
@@ -7467,9 +7467,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8019,8 +8019,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
-newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8146,8 +8146,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8833,8 +8833,8 @@ adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9501,10 +9501,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9774,10 +9774,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
