@@ -119,8 +119,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-www.coinhako.com
 help.coinhako.com
+www.coinhako.com
 www.coinhako.com
 help.coinhako.com
 http://qa.gbu-alert.com/
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -1605,8 +1605,8 @@ api.mercadopago.com
 www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -1784,8 +1784,8 @@ staging.spoonflower.com
 blog.spoonflower.com
 www.six-group.com
 www.six-group.com
-*.merck.com
 *.msd.com
+*.merck.com
 *.merck.com
 *.msd.com
 www.prolinx.co.uk
@@ -4543,7 +4543,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
-*csmc.edu
 *mycslink.org
 *Hmhrx.net
 *Hmhrx.org
@@ -4554,6 +4553,7 @@ www.urbanclap.com
 *huntingtonhospital.com
 *huntingtonhospital.net
 *hhphysicians.org
+*csmc.edu
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
 *www.cshs.org
@@ -7466,9 +7466,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8145,8 +8145,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+*.lahitapiolarahoitus.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -9172,10 +9172,10 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
-www.wearehackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -9187,11 +9187,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
-app.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
+app.pullrequest.com
 hackerone.live
-b5s.hackerone-ext-content.com
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
