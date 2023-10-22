@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1606,8 +1606,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -2435,8 +2435,8 @@ teleport,askpam.ai,True
 teleport,teleport.sh,True
 teleport,*.gravitational.io,True
 teleport,h1-your-domain.teleport.sh,True
-teleport,*.goteleport.com,True
 teleport,platform.teleport.sh,True
+teleport,*.goteleport.com,True
 teleport,*.goteleport.com,True
 teleport,*.gravitational.com,True
 teleport,*.teleport.dev,True
@@ -2883,8 +2883,8 @@ mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,banfield.us,False
-mars,*.banfield.com,False
 mars,*.miroyalcanin.com.ar,False
+mars,*.banfield.com,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.royalcanin.com,False
@@ -3315,8 +3315,8 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
-anywhererealestate,*.century21.*,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
@@ -4442,10 +4442,10 @@ stripe,*.touchtechpayments.com,True
 stripe,js.stripe.com,True
 stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
-stripe,api.stripe.com,True
 stripe,api.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
+stripe,api.stripe.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -4833,11 +4833,11 @@ reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
 reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
-reddit,oauth.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,mod.reddit.com,True
 reddit,www.reddit.com,True
+reddit,oauth.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -5639,8 +5639,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -8019,8 +8019,8 @@ newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
-newrelic,synthetics.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8146,8 +8146,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8543,8 +8543,8 @@ github,*.github.net,True
 github,education.github.com,True
 github,npmjs.org,True
 github,*.githubusercontent.com,True
-github,github.com,True
 github,gist.github.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -9835,9 +9835,9 @@ legalrobot,app.legalrobot.com,True
 legalrobot,www.legalrobot.com,True
 legalrobot,www.legalrobot-test.com,True
 legalrobot,app.legalrobot-test.com,True
-harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
+harvest,harvestapp.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True

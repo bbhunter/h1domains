@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 22 16:24:37 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 22 17:19:15 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -695,8 +695,8 @@ askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-*.goteleport.com
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1239,10 +1239,10 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
-api.stripe.com
 api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1283,11 +1283,11 @@ reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
 *.reddithelp.com
-oauth.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 mod.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1530,8 +1530,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -2709,8 +2709,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2806,8 +2806,8 @@ www.lahitapiola.fi
 privatetarget-1-www.zigzag
 asiointi.lahitapiola.fi
 www.tapiola.fi
-*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3127,8 +3127,8 @@ classroom.github.com
 education.github.com
 npmjs.org
 *.githubusercontent.com
-github.com
 gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -4037,9 +4037,9 @@ app.legalrobot.com
 www.legalrobot.com
 www.legalrobot-test.com
 app.legalrobot-test.com
-harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
+harvestapp.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
