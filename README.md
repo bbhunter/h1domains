@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 23 10:23:17 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 23 11:18:47 UTC 2023)
 ```
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1534,9 +1534,9 @@ tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1956,11 +1956,11 @@ maria.casino
 *.kindredext.net
 *.unibet.com
 *.storspiller.com
-*.casinohuone.com
 *.vladcazino.ro
 *.ottokasino.com
 www.32red.com
 *.kes.kindredext.net
+*.casinohuone.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2708,8 +2708,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3029,10 +3029,10 @@ www.starbucks.com.br
 www.starbucksreserve.com
 card.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -3173,8 +3173,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3607,8 +3607,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -3971,10 +3971,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

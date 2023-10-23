@@ -1,5 +1,5 @@
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1605,8 +1605,8 @@ api.mercadopago.com
 www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
 api.mercadopago.com
@@ -5642,9 +5642,9 @@ tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -6304,11 +6304,11 @@ maria.casino
 *.kindredext.net
 *.unibet.com
 *.storspiller.com
-*.casinohuone.com
 *.vladcazino.ro
 *.ottokasino.com
 www.32red.com
 *.kes.kindredext.net
+*.casinohuone.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -7465,9 +7465,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8013,8 +8013,8 @@ blog.newrelic.com
 alerts.newrelic.com
 login.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8396,10 +8396,10 @@ www.starbucks.com.br
 www.starbucksreserve.com
 card.starbucks.com.sg
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.de
 www.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.co.jp
@@ -8584,8 +8584,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -8825,10 +8825,10 @@ accounts.frame.io
 app.frame.io
 stream.frame.io
 firefly.adobe.com
-auth.services.adobe.com
 magento.com
 *.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.marketo.com
 *.omniture.com
@@ -9149,8 +9149,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 a5s.hackerone-ext-content.com
@@ -9754,10 +9754,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
