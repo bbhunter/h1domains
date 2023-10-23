@@ -1606,8 +1606,8 @@ mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
-mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
 mercadolibre_vdp,api.mercadopago.com,False
@@ -1719,8 +1719,8 @@ mozilla_critical_services,phabricator.allizom.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,support.mozilla.org,True
-mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,getpocket.com,True
+mozilla_core_services,relay.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
@@ -3348,9 +3348,9 @@ databricks,docs.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
-databricks,community.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,marketplace.databricks.com,True
+databricks,community.databricks.com,True
 databricks,partners.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,advocates.databricks.com,True
@@ -3870,7 +3870,6 @@ epicgames,capturingreality.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
-epicgames,*.epicgames.com,True
 epicgames,*.fortnite.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
@@ -8146,8 +8145,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
-localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -8697,8 +8696,8 @@ udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
 shopify,your-store.myshopify.com,True
 shopify,arrive-server.shopifycloud.com,True
-shopify,*.shopifycloud.com,True
 shopify,linkpop.com,True
+shopify,*.shopifycloud.com,True
 shopify,shop.app,True
 shopify,partners.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -8833,8 +8832,8 @@ adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,magento.com,True
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
@@ -9501,10 +9500,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
