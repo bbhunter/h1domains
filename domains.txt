@@ -6,8 +6,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -171,11 +171,11 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.sa
 *.mothercare.com.kw
-*.footlocker.com.bh
 *.footlocker.ae
 *.debenhams.ae
 *.bathandbodyworks.jo
 *.bathandbodyworks.com.tr
+*.carrier.alshaya.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -297,8 +297,8 @@ http://vdp.kahootz.com
 *.abnamrocomfin.com
 *.bethmannbank.de
 *.abnamroinvestmentsolutions.com
-*.abnamro.com
 *.alfam.nl
+*.abnamro.com
 *.tikkie.me
 *abnamroprivatebanking.be
 *.abnamro.nl
@@ -503,8 +503,8 @@ clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 www.redoxengine.com
 blob.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -682,6 +682,7 @@ www.practicalmoneyskills.org
 https://www.mcgriff.com
 https://www.gotapco.com
 https://secure.gotapco.com
+https://www.truist.com
 cpaglobal.ru
 compumark.blog
 compumark.cf
@@ -1601,11 +1602,11 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
-api.mercadopago.com
 www.mercadopago.cl
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadolivre.com.br
+api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.cl
 api.mercadolibre.com
@@ -1748,10 +1749,10 @@ snapfish.de
 prestigeportraits.com
 lifetouch.com
 www.borrowlenses.com
-snapfish.com
 admin.spoonflower.com
 shutterfly.com
 jcpportraits.com
+snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -6591,6 +6592,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -8011,9 +8013,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8837,7 +8839,6 @@ auth.services.adobe.com
 firefly.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
-*.marketo.com
 *.omniture.com
 *.tubemogul.com
 *.typekit.com
@@ -8849,6 +8850,7 @@ status.adobe.com
 magentolive.com
 *.proofhq.com
 applications.frame.io
+*.marketo.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
@@ -9693,10 +9695,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov

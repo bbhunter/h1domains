@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -172,11 +172,11 @@ alshaya,*.potterybarn.com.sa,False
 alshaya,*.potterybarn.ae,False
 alshaya,*.mothercare.com.sa,False
 alshaya,*.mothercare.com.kw,False
-alshaya,*.footlocker.com.bh,False
 alshaya,*.footlocker.ae,False
 alshaya,*.debenhams.ae,False
 alshaya,*.bathandbodyworks.jo,False
 alshaya,*.bathandbodyworks.com.tr,False
+alshaya,*.carrier.alshaya.com,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -298,8 +298,8 @@ kahootz-vdp,http://vdp.kahootz.com,False
 abn_amro_vdp,*.abnamrocomfin.com,False
 abn_amro_vdp,*.bethmannbank.de,False
 abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
-abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*.alfam.nl,False
+abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*.tikkie.me,False
 abn_amro_vdp,*abnamroprivatebanking.be,False
 abn_amro_vdp,*.abnamro.nl,False
@@ -504,8 +504,8 @@ redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
-redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
+redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -683,6 +683,7 @@ fifth_third_bank_vdp,*53.com,False
 truist_financial,https://www.mcgriff.com,False
 truist_financial,https://www.gotapco.com,False
 truist_financial,https://secure.gotapco.com,False
+truist_financial,https://www.truist.com,False
 clarivate,cpaglobal.ru,False
 clarivate,compumark.blog,False
 clarivate,compumark.cf,False
@@ -1602,11 +1603,11 @@ mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,www.mercadopago.com.co,False
 mercadolibre_vdp,www.mercadopago.com.mx,False
 mercadolibre_vdp,www.mercadopago.com.br,False
-mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.cl,False
 mercadolibre_vdp,www.mercadopago.com.pe,False
 mercadolibre_vdp,www.mercadopago.com.uy,False
 mercadolibre_vdp,www.mercadolivre.com.br,False
+mercadolibre_vdp,api.mercadopago.com,False
 mercadolibre_vdp,www.mercadopago.com.ar,False
 mercadolibre_vdp,www.mercadolibre.cl,False
 mercadolibre_vdp,api.mercadolibre.com,False
@@ -1749,10 +1750,10 @@ shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -6592,6 +6593,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -8012,9 +8014,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8838,7 +8840,6 @@ adobe,auth.services.adobe.com,False
 adobe,firefly.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
-adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
 adobe,*.typekit.com,False
@@ -8850,6 +8851,7 @@ adobe,status.adobe.com,False
 adobe,magentolive.com,True
 adobe,*.proofhq.com,False
 adobe,applications.frame.io,False
+adobe,*.marketo.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -9694,10 +9696,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
