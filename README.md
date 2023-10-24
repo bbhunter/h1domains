@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 24 14:19:21 UTC 2023)
+## Domains with Bounties (Last Updated Tue Oct 24 15:24:29 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -3800,10 +3800,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
