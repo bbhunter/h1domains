@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -1583,8 +1583,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -1719,8 +1719,8 @@ mozilla_critical_services,phabricator.allizom.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
 mozilla_core_services,relay.firefox.com,True
-mozilla_core_services,getpocket.com,True
 mozilla_core_services,support.mozilla.org,True
+mozilla_core_services,getpocket.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
@@ -2275,7 +2275,6 @@ yuga_labs,*.10ktf.com,True
 yuga_labs,*.wenewmoments.com,True
 yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
-expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.expediaagents.com,True
@@ -2283,6 +2282,7 @@ expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.abritel.fr,True
+expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
@@ -5645,8 +5645,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -6059,8 +6059,8 @@ flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
 flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
-flutteruki,*.skybingo.com,True
 flutteruki,*.sportinglife.com,True
+flutteruki,*.skybingo.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7466,9 +7466,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -9171,11 +9171,11 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
-security,app.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.live,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
+security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
@@ -9695,10 +9695,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
