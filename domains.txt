@@ -4702,6 +4702,7 @@ dcs-polarion.zebra.com
 www.matrox.com
 artifactory-us.zebra.com
 zsl.zebra.com
+wfc.zebra.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -5685,12 +5686,12 @@ jira.logitech.com
 logitechgchallenge.com
 id.logi.com
 *.logitechmusic.com
-feedback.logitech.com
 *.melonapp.com
 *.lucra.live
 www.logitechclub.com
 sync.logitech.com
 external.logitech.com
+feedback.logitech.com
 partner.logitech.com
 maintenance.logitech.com
 *vc.logitech.com
@@ -7465,9 +7466,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -9102,8 +9103,8 @@ pro.coinbase.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
@@ -9483,10 +9484,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9760,10 +9761,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
