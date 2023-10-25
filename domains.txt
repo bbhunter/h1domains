@@ -174,8 +174,8 @@ sa.cosstores.com
 *.footlocker.ae
 *.debenhams.ae
 *.bathandbodyworks.jo
-*.bathandbodyworks.com.tr
 *.carrier.alshaya.com
+customercare.alshaya.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -6592,7 +6592,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7435,8 +7434,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 cruises.priceline.com
@@ -7466,9 +7465,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
+*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
-*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8013,9 +8012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9156,8 +9155,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
