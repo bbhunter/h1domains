@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -4105,11 +4105,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.elstc.co
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -6592,7 +6592,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7466,9 +7465,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -7553,9 +7552,9 @@ linksplus-dashboard.omise.co
 www.opn.ooo
 *.omnicraftautoparts.com
 *.quicklane.com
-*.lincoln.com
 *.motorcraft.com
 *.ford.com
+*.lincoln.com
 *.ford.com
 *.lincoln.com
 *.quicklane.com
@@ -8013,9 +8012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8836,8 +8835,8 @@ stream.frame.io
 *.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
-nicetryapril.na1.echosignsandbox.com
 magento.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9761,10 +9760,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
