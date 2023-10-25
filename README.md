@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 25 15:21:01 UTC 2023)
+## Domains with Bounties (Last Updated Wed Oct 25 16:24:50 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -67,10 +67,10 @@ api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -250,8 +250,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -1199,8 +1199,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-www.xnxx.com
 gold.xnxx.com
+www.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1218,8 +1218,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.elstc.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1793,7 +1793,6 @@ faucet.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.betfair.it
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
@@ -1806,6 +1805,7 @@ faucet.polygon.technology
 *.skybet.com
 *.sportinglife.com
 *.skybingo.com
+*.betfair.it
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2706,9 +2706,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -2848,9 +2848,9 @@ api.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co
-*.grab.com
 p.grabtaxi.com
 manage.grab.co
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3800,10 +3800,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com

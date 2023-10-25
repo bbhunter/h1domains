@@ -96,10 +96,10 @@ gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
 gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -1584,8 +1584,8 @@ clarivate,biology-browser.com,False
 clarivate,biologybrowser.com,False
 clarivate,biologybrowser.org,False
 clarivate,biologyfinder.com,False
-freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshcaller.com,True
+freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
@@ -4090,8 +4090,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
+xvideos,www.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -4109,8 +4109,8 @@ elastic,*.found.io,True
 elastic,*.swiftype.com,True
 elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
-elastic,cloud.elastic.co,True
 elastic,*.elstc.co,True
+elastic,cloud.elastic.co,True
 elastic,www.elastic.co,True
 elastic,*.elastic.co,True
 elastic,*.elastic.co,True
@@ -6049,7 +6049,6 @@ xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
 xiaomi,*.miwifi.com,True
-flutteruki,*.betfair.it,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
 flutteruki,*.betviewapi.com,True
@@ -6062,6 +6061,7 @@ flutteruki,*.betfair.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.skybingo.com,True
+flutteruki,*.betfair.it,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7466,9 +7466,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
@@ -8013,9 +8013,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8205,9 +8205,9 @@ grab,api.grabpay.com,True
 grab,xtramile.grabpay.com,True
 grab,*.myteksi.com,True
 grab,*.grab.co,True
-grab,*.grab.com,True
 grab,p.grabtaxi.com,True
 grab,manage.grab.co,True
+grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
@@ -9484,10 +9484,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
