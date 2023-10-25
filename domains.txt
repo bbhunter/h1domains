@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -2039,8 +2039,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2873,7 +2873,6 @@ fossil.at
 *.individualis.com
 *.myroyalcanin.gr
 *.myroyalcanin.ro
-*.royalcanin.be
 *.royalcanin.nl
 *.royalcanin.pt
 *.mivetshop.com.ar
@@ -2884,6 +2883,7 @@ fossil.at
 banfield.us
 *.miroyalcanin.com.ar
 *.banfield.com
+*.royalcanin.be
 *.orbitgum.com
 *.extragum.com
 *.royalcanin.com
@@ -5494,11 +5494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -6592,7 +6592,6 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
-*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -7282,7 +7281,6 @@ wotctech.com
 *.wageverify.com
 *.accountscore.co.uk
 *.employersedge.com
-*.healthefx.net
 *.healthefxforms.us
 mail.ext-equifax.cl
 *.paynetonline.us
@@ -7297,6 +7295,7 @@ JOBALINESTAGING.COM
 efficientwotc.com
 ntcusa.com
 BE-THE-AMERICAN-DREAM.net
+*.datacredito2.com
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -7466,9 +7465,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8013,9 +8012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8708,8 +8707,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -9695,10 +9694,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
