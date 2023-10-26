@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 26 16:24:54 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 26 17:19:39 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -1957,8 +1957,8 @@ maria.casino
 *.vladcazino.ro
 *.ottokasino.com
 www.32red.com
-*.kes.kindredext.net
 *.casinohuone.com
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2058,8 +2058,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me

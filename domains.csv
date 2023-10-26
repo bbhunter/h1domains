@@ -662,9 +662,9 @@ daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -6308,8 +6308,8 @@ kindred_group,*.storspiller.com,True
 kindred_group,*.vladcazino.ro,True
 kindred_group,*.ottokasino.com,True
 kindred_group,www.32red.com,True
-kindred_group,*.kes.kindredext.net,True
 kindred_group,*.casinohuone.com,True
+kindred_group,*.kes.kindredext.net,True
 kindred_group,*.unibet.com,True
 kindred_group,*.unibet.fr,True
 kindred_group,*.storspiller.com,True
@@ -6592,6 +6592,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.packet8.net,False
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
+8x8,*.p8t.us,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -6633,6 +6634,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,supersite.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,admin.8x8.com,False
+8x8,vm.8x8.com,False
 8x8,www.8x8.com,False
 8x8,get8x8.com,False
 palo_alto_software,www.paloalto.com,False
@@ -7066,8 +7068,8 @@ pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line-apps.com,True
 line,*.line.me,True
+line,*.line-apps.com,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
@@ -8832,9 +8834,9 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,magento.com,True
-adobe,*.adobe.com,False
 adobe,repo.magento.com,True
 adobe,firefly.adobe.com,False
+adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False

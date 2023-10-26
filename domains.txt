@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
-*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -6307,8 +6307,8 @@ maria.casino
 *.vladcazino.ro
 *.ottokasino.com
 www.32red.com
-*.kes.kindredext.net
 *.casinohuone.com
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -6591,6 +6591,7 @@ accountmanager.8x8.com
 *.packet8.net
 work-staging.8x8.com
 express.8x8.com
+*.p8t.us
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -6632,6 +6633,7 @@ cloud8.8x8.com
 supersite.8x8.com
 pay.8x8.com
 admin.8x8.com
+vm.8x8.com
 www.8x8.com
 get8x8.com
 www.paloalto.com
@@ -7065,8 +7067,8 @@ app.nordpass.com
 *.pubgesports.com
 *.pubg.com
 *.pubgesports.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -8831,9 +8833,9 @@ accounts.frame.io
 app.frame.io
 stream.frame.io
 magento.com
-*.adobe.com
 repo.magento.com
 firefly.adobe.com
+*.adobe.com
 auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net

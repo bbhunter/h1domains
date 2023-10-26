@@ -1951,8 +1951,8 @@ maria.casino
 *.vladcazino.ro
 *.ottokasino.com
 www.32red.com
-*.kes.kindredext.net
 *.casinohuone.com
+*.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2052,8 +2052,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
