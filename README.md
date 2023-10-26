@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 26 13:23:00 UTC 2023)
+## Domains with Bounties (Last Updated Thu Oct 26 14:20:55 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -2023,8 +2023,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3292,8 +3292,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -4040,9 +4040,9 @@ onboarding.greenhouse.io
 api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
-boards.greenhouse.io
 app.greenhouse.io
 interseller.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
