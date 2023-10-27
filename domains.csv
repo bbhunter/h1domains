@@ -7,8 +7,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3053,8 +3053,8 @@ planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
 planetart,*.photoaffections.com,False
-planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
+planetart,www.canvasworld.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
@@ -3291,8 +3291,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -5645,8 +5645,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9483,10 +9483,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -9694,10 +9694,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
