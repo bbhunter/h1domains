@@ -2,18 +2,18 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 27 05:19:44 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 27 06:25:52 UTC 2023)
 ```
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3538,10 +3538,10 @@ simperium.com
 intensedebate.com
 happy.tools
 www.irccloud.com
-api.irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 irccloud.com
+api.irccloud.com
 *.irccloud-cdn.com
 blog.irccloud.com
 *.irccloud.com
@@ -3611,8 +3611,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
