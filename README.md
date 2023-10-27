@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 27 10:22:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Oct 27 11:18:31 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -621,12 +621,12 @@ dookeydash.com
 hv-mtl.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediagroup.com
 www.orbitz.com
 www.mrjet.se
 www.abritel.fr
 www.hotels.com
 www.expediaagents.com
+www.expediagroup.com
 www.travelocity.com
 www.ebookers.com
 www.flights.com
@@ -922,8 +922,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1533,8 +1533,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
