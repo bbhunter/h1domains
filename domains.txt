@@ -661,9 +661,9 @@ www.practicalmoneyskills.org
 *fleetboard.de
 *.bharatbenz.com
 *.freightliner.com
+*.mitsubishi-fuso.com
 *evobus.com
 *fleetboard.com
-*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -7490,9 +7490,9 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
 *.capitalonecareers.co.uk
+*.wikibuy.com
 *.capitalone.com
 *.paribus.co
 *.capitalone360.com
@@ -8037,9 +8037,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9044,8 +9044,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
