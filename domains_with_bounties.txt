@@ -1,5 +1,5 @@
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -410,9 +410,9 @@ truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-watchdocs.indriverapp.com
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
 volans.tech

@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -140,7 +140,6 @@ alshaya,*.americaneagle.com.kw,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.thebodyshop.com.kw,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.muji.qa,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.footlocker.com.eg,False
@@ -151,6 +150,7 @@ alshaya,devimages.alshaya.com,False
 alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -1904,9 +1904,9 @@ indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,injob.indriver.com,True
 indrive,super-services.indriverapp.com,True
 indrive,volans.tech,True
@@ -7491,9 +7491,9 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
+capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
-capital-one,*.wikibuy.com,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
