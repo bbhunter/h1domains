@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 29 22:19:04 UTC 2023)
+## Domains with Bounties (Last Updated Sun Oct 29 23:19:55 UTC 2023)
 ```
 app.frontapp.com
 *.front.com
@@ -1532,9 +1532,9 @@ www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3130,8 +3130,8 @@ classroom.github.com
 education.github.com
 gist.github.com
 *.githubusercontent.com
-npmjs.org
 github.com
+npmjs.org
 *.github.net
 github.com
 api.github.com
@@ -3478,9 +3478,9 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
-*.twitter.com
 x.com
 *.vine.co
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3797,10 +3797,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -3973,10 +3973,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
