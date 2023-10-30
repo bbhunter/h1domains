@@ -6,8 +6,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2134,10 +2134,10 @@ advisortimetracker.kkr.com
 kkrpec.com
 kinfra.com
 ksam.com
-sso.8x8.com
 work.8x8.com
 *.jitsi.net
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 platform.8x8pilot.com
@@ -4190,6 +4190,8 @@ kreiselelectric.com
 sparkai.co
 hagiegear.com
 www.hagie.com
+staging.harvestprofit.com
+dealers.harvestprofit.com
 api-meubanco.deere.com
 meubanco.deere.com
 formant.dev.bearflagrobotics.com
@@ -4376,6 +4378,7 @@ staging.marksman.surepointag.com
 www.surepointelectronics.com
 vision-staging.johndeere.com
 droneci.deere.com
+dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.johndeerecloud.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -6558,7 +6561,6 @@ sms.8x8.com
 user-profile.8x8.com
 supersite.8x8.com
 cloud8.8x8.com
-sso.8x8.com
 *.8x8pilot.com
 www.8x8.com
 *.8x8.id
@@ -6571,6 +6573,7 @@ platform.8x8.com
 pay.8x8.com
 *.jitsi.org
 *.jitsi.net
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -8002,9 +8005,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8446,8 +8449,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 getharvest.com
-id.getharvest.com
 harvestapp.com
+id.getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -9120,8 +9123,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
@@ -9524,10 +9527,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -9735,10 +9738,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
