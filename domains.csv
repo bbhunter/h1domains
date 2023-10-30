@@ -2138,8 +2138,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
 8x8-bounty,connect.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.8x8.vc,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,work-staging.8x8.com,True
@@ -7459,8 +7459,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -7946,9 +7946,9 @@ valve,www.counter-strike.net,True
 valve,api.steampowered.com,True
 valve,wiki.teamfortress.com,False
 valve,storefront.steampowered.com,False
-valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,steamcommunity.com,True
+valve,www.dota2.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
@@ -8006,9 +8006,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8828,8 +8828,8 @@ adobe,accounts.frame.io,False
 adobe,app.frame.io,False
 adobe,stream.frame.io,False
 adobe,repo.magento.com,True
-adobe,magento.com,True
 adobe,firefly.adobe.com,False
+adobe,magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
@@ -9739,10 +9739,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -9805,10 +9805,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
