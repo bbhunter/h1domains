@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 30 08:25:54 UTC 2023)
+## Domains with Bounties (Last Updated Mon Oct 30 09:21:59 UTC 2023)
 ```
 *.front.com
 app.frontapp.com
@@ -12,8 +12,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2022,8 +2022,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3292,9 +3292,9 @@ partners.shopify.com
 *.shopifykloud.com
 shopifyinbox.com
 shopify.plus
-*.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3627,11 +3627,11 @@ hackerone-ext-content.com
 www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
-b5s.hackerone-ext-content.com
 hackerone.live
+app.pullrequest.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3799,10 +3799,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
-apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
+apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
