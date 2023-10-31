@@ -4,8 +4,8 @@ porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,finder.porsche.com,True
-porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,my.porsche.com,True
+porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,signup.porsche.com,True
 porsche-h1c,porsche.com,True
@@ -1777,8 +1777,8 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -4070,8 +4070,8 @@ ibb,rubygems.org,True
 ibb,rubygems.org,True
 consensys,on-ramp.metaswap-dev.codefi.network,True
 consensys,staking-uat.codefi.network,True
-consensys,consensys.net,True
 consensys,activate.codefi.network,True
+consensys,consensys.net,True
 consensys,staking.codefi.network,True
 consensys,bridge.codefi.network,True
 consensys,webhooks-api-experimental.codefi.network,True
@@ -5452,6 +5452,7 @@ gsa_vdp,notify.app.cloud.gov,False
 gsa_vdp,ssb-sms-notify-management.app.cloud.gov,False
 gsa_vdp,beta.notify.gov,False
 gsa_vdp,notify.gov,False
+gsa_vdp,ssb-smtp-notify-management.app.cloud.gov,False
 gsa_vdp,eoffer-test.fas.gsa.gov,False
 gsa_vdp,federalist.18f.gov,False
 gsa_vdp,federalist-docs.18f.gov,False
@@ -7488,8 +7489,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -8035,9 +8036,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -8714,8 +8715,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -8842,8 +8843,8 @@ adobe,magento.com,True
 adobe,*.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,auth.services.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,firefly.adobe.com,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False

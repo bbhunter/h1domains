@@ -3,8 +3,8 @@ api.emea.gravity.porsche.com
 connect-store.porsche.com
 skyway.porsche.com
 finder.porsche.com
-newsroom.porsche.com
 my.porsche.com
+newsroom.porsche.com
 configurator.porsche.com
 signup.porsche.com
 porsche.com
@@ -1776,8 +1776,8 @@ www.borrowlenses.com
 admin.spoonflower.com
 shutterfly.com
 jcpportraits.com
-*.snapfish.com
 snapfish.com
+*.snapfish.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -4069,8 +4069,8 @@ rubygems.org
 rubygems.org
 on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
-consensys.net
 activate.codefi.network
+consensys.net
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -5451,6 +5451,7 @@ notify.app.cloud.gov
 ssb-sms-notify-management.app.cloud.gov
 beta.notify.gov
 notify.gov
+ssb-smtp-notify-management.app.cloud.gov
 eoffer-test.fas.gsa.gov
 federalist.18f.gov
 federalist-docs.18f.gov
@@ -7487,8 +7488,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8034,9 +8035,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8713,8 +8714,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -8841,8 +8842,8 @@ magento.com
 *.adobe.com
 *.adobeaemcloud.com
 auth.services.adobe.com
-nicetryapril.na1.echosignsandbox.com
 firefly.adobe.com
+nicetryapril.na1.echosignsandbox.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
