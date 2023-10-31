@@ -6,8 +6,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -3057,11 +3057,11 @@ iseeme.com
 *.photoaffections.com
 *.gifts.com
 www.canvasworld.com
-*.iseeme.com
 *.personalcreations.com
 *.canvasworld.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
+*.iseeme.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -5628,8 +5628,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -7458,8 +7458,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -7772,8 +7772,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -8005,9 +8005,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -8391,8 +8391,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
@@ -8827,8 +8827,8 @@ accounts.frame.io
 app.frame.io
 stream.frame.io
 repo.magento.com
-firefly.adobe.com
 magento.com
+firefly.adobe.com
 auth.services.adobe.com
 *.adobe.com
 nicetryapril.na1.echosignsandbox.com
@@ -9149,8 +9149,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
