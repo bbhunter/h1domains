@@ -2600,8 +2600,8 @@ preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox-ci-tc.services.mozilla.com
 merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
@@ -3062,9 +3062,9 @@ platform.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-*.8x8.id
 cloud8.8x8.com
 uc.8x8pilot.com
+*.8x8.id
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -4772,7 +4772,6 @@ accounts.stage.evernote.com
 api.stage.evernote.com
 *.unrealtournament.com
 *.easy.ac
-*.popjam.com
 *.rukkaz.com
 *.jellychat.com
 *.audicagame.com
@@ -4783,6 +4782,7 @@ wonderboxdev.com
 capturingreality.com
 *.bcbits.com
 *.mediatonic.co.uk
+*.popjam.com
 *.3lateral.com
 *.psyonix.com
 forum.sketchfab.com
@@ -7131,8 +7131,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -7290,8 +7290,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -7486,7 +7486,6 @@ cloud8.8x8.com
 *.8x8staging.com
 *.8x8pilot.com
 www.8x8.com
-*.8x8.id
 *.8x8.uk
 *.adgjmp.net
 *.chalet.8x8.com
@@ -7497,6 +7496,7 @@ pay.8x8.com
 *.jitsi.org
 *.jitsi.net
 sso.8x8.com
+*.8x8.id
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.wavecell.com
@@ -8928,9 +8928,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -10059,8 +10059,8 @@ hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -10727,10 +10727,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

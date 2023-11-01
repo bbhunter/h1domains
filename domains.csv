@@ -2601,8 +2601,8 @@ oyo_rooms,preprod.oyorooms.ms,False
 oyo_rooms,http://patron.oyo.com/blog/in,False
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,crash-stats.allizom.org,True
-mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,merino.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,push.services.mozilla.com,True
@@ -3063,9 +3063,9 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
-8x8-bounty,*.8x8.id,True
 8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
+8x8-bounty,*.8x8.id,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.packet8.net,True
@@ -4773,7 +4773,6 @@ evernote,accounts.stage.evernote.com,False
 evernote,api.stage.evernote.com,False
 epicgames,*.unrealtournament.com,True
 epicgames,*.easy.ac,True
-epicgames,*.popjam.com,True
 epicgames,*.rukkaz.com,True
 epicgames,*.jellychat.com,True
 epicgames,*.audicagame.com,True
@@ -4784,6 +4783,7 @@ epicgames,wonderboxdev.com,True
 epicgames,capturingreality.com,True
 epicgames,*.bcbits.com,True
 epicgames,*.mediatonic.co.uk,True
+epicgames,*.popjam.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
@@ -7132,8 +7132,8 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
-magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
+magic-bbp,auth.magic.link,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
@@ -7291,8 +7291,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -7487,7 +7487,6 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.8x8staging.com,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
-8x8,*.8x8.id,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
 8x8,*.chalet.8x8.com,False
@@ -7498,6 +7497,7 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.jitsi.org,False
 8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.8x8.id,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.wavecell.com,False
@@ -8929,9 +8929,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -10060,8 +10060,8 @@ security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
-security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
+security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
@@ -10728,10 +10728,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
