@@ -6,9 +6,9 @@ connect-store.porsche.com
 api.emea.gravity.porsche.com
 jobs.porsche.com
 skyway.porsche.com
-newsroom.porsche.com
 finder.porsche.com
 my.porsche.com
+newsroom.porsche.com
 configurator.porsche.com
 identity.porsche.com
 signup.porsche.com

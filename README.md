@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  2 12:36:35 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  2 13:27:58 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -12,9 +12,9 @@ connect-store.porsche.com
 api.emea.gravity.porsche.com
 jobs.porsche.com
 skyway.porsche.com
-newsroom.porsche.com
 finder.porsche.com
 my.porsche.com
+newsroom.porsche.com
 configurator.porsche.com
 identity.porsche.com
 signup.porsche.com

@@ -12,8 +12,8 @@ navient_solutions,dsparkingportal.com,False
 navient_solutions,temp.msbpay.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,www.pampayments.com,False
-navient_solutions,www.pamcollectionsin.com,False
 navient_solutions,sandiego.dsmyportal.com,False
+navient_solutions,www.pamcollectionsin.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
@@ -942,9 +942,9 @@ porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,jobs.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
-porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,finder.porsche.com,True
 porsche-h1c,my.porsche.com,True
+porsche-h1c,newsroom.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,identity.porsche.com,True
 porsche-h1c,signup.porsche.com,True
@@ -6454,11 +6454,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
