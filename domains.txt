@@ -11,8 +11,8 @@ dsparkingportal.com
 temp.msbpay.com
 apply2.navirefi.com
 www.pampayments.com
-sandiego.dsmyportal.com
 www.pamcollectionsin.com
+sandiego.dsmyportal.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
@@ -937,9 +937,9 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-jobs.porsche.com
 connect-store.porsche.com
 api.emea.gravity.porsche.com
+jobs.porsche.com
 skyway.porsche.com
 newsroom.porsche.com
 finder.porsche.com
@@ -947,8 +947,8 @@ my.porsche.com
 configurator.porsche.com
 shop.porsche.com
 identity.porsche.com
-porsche.com
 signup.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -1532,9 +1532,9 @@ www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
-www.currencycloud.com
 www.visa.com.my
 www.visa.co.in
+www.currencycloud.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -6453,11 +6453,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8423,8 +8423,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10114,9 +10114,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
