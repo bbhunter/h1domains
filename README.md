@@ -2,23 +2,23 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  2 16:29:19 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  2 17:19:41 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api.emea.gravity.porsche.com
-jobs.porsche.com
 connect-store.porsche.com
+jobs.porsche.com
 skyway.porsche.com
 finder.porsche.com
 newsroom.porsche.com
 my.porsche.com
 configurator.porsche.com
 identity.porsche.com
-signup.porsche.com
 shop.porsche.com
+signup.porsche.com
 porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1244,8 +1244,8 @@ main.trafficfactory.biz
 *.swiftype.com
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1358,9 +1358,9 @@ www.chime.com
 wp-dev3.chime.com
 wp-dev1.chime.com
 wp-integ.chime.com
-*.chime.com
 wp-dev4.chime.com
 wp-qa.chime.com
+*.chime.com
 *.1debit.com
 *.chmfin.com
 wp-dev2.chime.com
@@ -3831,10 +3831,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
