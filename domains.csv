@@ -8424,8 +8424,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -9339,8 +9339,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com,True
-starbucks,www.starbucks.com.sg,True
 starbucks,app.starbucks.com,True
+starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
@@ -10096,8 +10096,8 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
+security,api.hackerone.com,True
 security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
