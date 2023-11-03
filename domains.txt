@@ -11,8 +11,8 @@ dsparkingportal.com
 temp.msbpay.com
 apply2.navirefi.com
 www.pampayments.com
-sandiego.dsmyportal.com
 www.pamcollectionsin.com
+sandiego.dsmyportal.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
@@ -4281,8 +4281,8 @@ www.alohi.com
 *.bhgre.*
 *.century21.*
 *.corcoran.*
-*.sothebysrealty.*
 *.nrtllc.*
+*.sothebysrealty.*
 *.realogy.*
 *.cbcworldwide.*
 *.mycbdesk.com
@@ -6455,11 +6455,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -10778,10 +10778,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io

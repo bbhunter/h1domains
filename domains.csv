@@ -12,8 +12,8 @@ navient_solutions,dsparkingportal.com,False
 navient_solutions,temp.msbpay.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,www.pampayments.com,False
-navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.pamcollectionsin.com,False
+navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
@@ -4282,8 +4282,8 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.corcoran.*,False
-anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.nrtllc.*,False
+anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.mycbdesk.com,False
@@ -6456,11 +6456,11 @@ mendix,3s.mendixcloud.com,False
 mendix,*.timeseries.nl,False
 mendix,notification.billing.appservices.mendix.com,False
 mendix,servicemanagement-accp.mendixcloud.com,False
+mendix,3dvis.mendixcloud.com,False
+mendix,mxbpconfig.mendixcloud.com,False
 mendix,dataprivacy.mendixcloud.com,False
 mendix,alm.mendixcloud.com,False
 mendix,simplate.mendixcloud.com,False
-mendix,3dvis.mendixcloud.com,False
-mendix,mxbpconfig.mendixcloud.com,False
 mendix,*.mendix.com,False
 mendix,*.timeseries.com,False
 mendix,*.timeseries.nl,False
@@ -10779,10 +10779,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
+unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
-unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
