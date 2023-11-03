@@ -12,8 +12,8 @@ navient_solutions,dsparkingportal.com,False
 navient_solutions,temp.msbpay.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,www.pampayments.com,False
-navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.pamcollectionsin.com,False
+navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
@@ -939,8 +939,8 @@ cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
 porsche-h1c,api.emea.gravity.porsche.com,True
-porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,jobs.porsche.com,True
+porsche-h1c,connect-store.porsche.com,True
 porsche-h1c,skyway.porsche.com,True
 porsche-h1c,finder.porsche.com,True
 porsche-h1c,newsroom.porsche.com,True
@@ -1039,8 +1039,8 @@ brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
-palta,prisma-ai.com,True
 palta,lensa-ai.com,True
+palta,prisma-ai.com,True
 palta,neuralprisma.com,True
 palta,appapi.neuralprisma.com,True
 palta,neuralprisma.com,True
@@ -3101,8 +3101,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -4307,9 +4307,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -4376,7 +4376,6 @@ mondelez,cadburyfc.com,False
 mondelez,milka.bg,False
 mondelez,milka.ru,False
 mondelez,fattorieosella.it,False
-mondelez,missionebonta.fattorieosella.it,False
 mondelez,oreo.ru,False
 mondelez,fr.philadelphia.ch,False
 mondelez,milka.cz,False
@@ -4441,7 +4440,6 @@ mondelez,cadbury.co.nz,False
 mondelez,cadburygifting.in,False
 mondelez,deliciousdisplay.co.uk,False
 mondelez,fattorieosella.it,False
-mondelez,missionebonta.fattorieosella.it,False
 mondelez,lu.fr,False
 mondelez,milka.at,False
 mondelez,mmmax.milka.at,False
@@ -4678,6 +4676,10 @@ mondelez,go.7days.com,False
 mondelez,heritageadvertising.cadbury.co.uk,False
 mondelez,loteria7days.pl,False
 mondelez,marabouchokladhus.se,False
+mondelez,milkamaxtrenutak.ba,False
+mondelez,milkamaxtrenutak.hr,False
+mondelez,milkamaxtrenutak.rs,False
+mondelez,milkamaxtrenutek.si,False
 mondelez,https://otm.croc.ru,False
 mondelez,https://milka.ru,False
 mondelez,https://alpengold.me,False
@@ -5811,9 +5813,9 @@ reddit,redditforbusiness.com,True
 reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -8450,8 +8452,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -10802,10 +10804,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
