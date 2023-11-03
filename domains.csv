@@ -3101,8 +3101,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -3799,8 +3799,8 @@ mount-sinai-health,*.thehealthcenterhudsonyards.com,False
 mount-sinai-health,*.thechep.org,False
 mount-sinai-health,*.sinaidowntown.net,False
 mount-sinai-health,*.mountsinaiheartnp.org,False
-mount-sinai-health,*.southnassau.org,False
 mount-sinai-health,*.mountsinai.org,False
+mount-sinai-health,*.southnassau.org,False
 mount-sinai-health,*.stoppain.org,False
 mount-sinai-health,*.nyee2020.com,False
 mount-sinai-health,*.mountsinaiconnect.org,False
@@ -4307,8 +4307,8 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,demo.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,demo.cloud.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
@@ -5907,8 +5907,8 @@ chime,*.chimecard.com,True
 chime,www.chime.com,True
 chime,*.chimepayments.com,True
 chime,wp-dev3.chime.com,True
-chime,wp-dev1.chime.com,True
 chime,wp-integ.chime.com,True
+chime,wp-dev1.chime.com,True
 chime,wp-dev4.chime.com,True
 chime,wp-qa.chime.com,True
 chime,*.chime.com,True
@@ -6587,10 +6587,10 @@ basecamp,world.hey.com,True
 citrix,*developer.cloud.com,False
 citrix,sf-rp-eu.sharefile.com,True
 citrix,(yoursubdomain).sharefile.com,True
-citrix,api.sharefile.com,True
 citrix,www.cloud.com,True
 citrix,*.browser.cloud.com,True
 citrix,accounts.cloud.com,True
+citrix,api.sharefile.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -8473,8 +8473,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -9020,9 +9020,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9826,9 +9826,9 @@ adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
-adobe,*.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -10146,8 +10146,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10164,9 +10164,9 @@ security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,app.pullrequest.com,True
 security,errors.hackerone.net,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -10759,10 +10759,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
