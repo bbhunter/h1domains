@@ -942,8 +942,8 @@ connect-store.porsche.com
 jobs.porsche.com
 skyway.porsche.com
 newsroom.porsche.com
-my.porsche.com
 finder.porsche.com
+my.porsche.com
 configurator.porsche.com
 shop.porsche.com
 identity.porsche.com
@@ -4306,8 +4306,8 @@ new.myzap.com
 new.myzap.com
 academy.databricks.com
 docs.databricks.com
-databricks.com
 demo.cloud.databricks.com
+databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -8472,8 +8472,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -9580,9 +9580,9 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 winecellar.zomato.com
-*.zdev.net
 *.zomans.com
 *.zomato.com
+*.zdev.net
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -9826,8 +9826,8 @@ magento.com
 *.adobeaemcloud.com
 firefly.adobe.com
 *.adobe.com
-auth.services.adobe.com
 nicetryapril.na1.echosignsandbox.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -10523,10 +10523,10 @@ marketplace.dev.lifeomic.com
 ga4gh.dev.lifeomic.com
 api.dev.lifeomic.com
 *.dev.lifeomic.com
+apps.wellness.dev.lifeomic.com
 apps.dev.skillspring.com
 fhir.dev.lifeomic.com
 *.infra.lifeomic.com
-apps.wellness.dev.lifeomic.com
 *.infra.lifeomic.com
 *.dev.lifeomic.com
 apps.wellness.dev.lifeomic.com
@@ -10824,10 +10824,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
