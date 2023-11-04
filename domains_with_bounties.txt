@@ -10,8 +10,8 @@ newsroom.porsche.com
 my.porsche.com
 finder.porsche.com
 configurator.porsche.com
-shop.porsche.com
 signup.porsche.com
+shop.porsche.com
 porsche.com
 identity.porsche.com
 api.emea.gravity.porsche.com
@@ -1346,8 +1346,8 @@ global-api.citymapper.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-*.chimecard.com
 www.chime.com
+*.chimecard.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -1548,8 +1548,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
@@ -1956,8 +1956,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -3647,12 +3647,12 @@ cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
-reviewer.pullrequest.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
+reviewer.pullrequest.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
