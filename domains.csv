@@ -1518,9 +1518,9 @@ visa,visa.com.ua,True
 visa,www.visa.co.jp,True
 visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
-visa,www.practicalmoneyskills.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.tw,True
+visa,www.practicalmoneyskills.com,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -3100,8 +3100,8 @@ kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,connect.8x8.com,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,work-staging.8x8.com,True
@@ -4023,8 +4023,8 @@ planetart,*.photoaffections.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4307,8 +4307,8 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,demo.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,demo.cloud.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
@@ -6646,8 +6646,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -8507,9 +8507,9 @@ trustpilot,*signup.business.trustpilot.com,True
 trustpilot,*invitations-api.trustpilot.com,True
 trustpilot,*share.trustpilot.com,True
 trustpilot,*www.trustpilot.com,True
-trustpilot,*api.trustpilot.com,True
 trustpilot,*b2b.trustpilot.com,True
 trustpilot,*widget.trustpilot.com,True
+trustpilot,*api.trustpilot.com,True
 trustpilot,*legal.trustpilot.com,True
 trustpilot,*api.trustpilot.com,True
 trustpilot,*authenticate.trustpilot.com,True
@@ -9020,9 +9020,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9699,8 +9699,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9826,9 +9826,9 @@ adobe,repo.magento.com,True
 adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,*.adobe.com,False
+adobe,magento.com,True
 adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,magento.com,True
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -10524,10 +10524,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -10759,10 +10759,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
