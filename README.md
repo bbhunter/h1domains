@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  5 17:18:41 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov  5 18:24:59 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -18,8 +18,8 @@ my.porsche.com
 configurator.porsche.com
 shop.porsche.com
 identity.porsche.com
-porsche.com
 signup.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -545,8 +545,8 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 connect.8x8.com
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 work-staging.8x8.com
@@ -1044,9 +1044,9 @@ harmonixmusic.com
 wonderboxdev.com
 capturingreality.com
 *.bcbits.com
-*.mediatonic.co.uk
 *.popjam.com
 fortnite.com
+*.mediatonic.co.uk
 *.3lateral.com
 *.psyonix.com
 *.bcbits.com
@@ -3325,9 +3325,9 @@ partners.shopify.com
 shopifyinbox.com
 *.shopifykloud.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3621,8 +3621,8 @@ slack-redir.net
 app.slack.com
 *.quip.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
