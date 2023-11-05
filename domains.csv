@@ -948,8 +948,8 @@ porsche-h1c,my.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,shop.porsche.com,True
 porsche-h1c,identity.porsche.com,True
-porsche-h1c,porsche.com,True
 porsche-h1c,signup.porsche.com,True
+porsche-h1c,porsche.com,True
 porsche-h1c,api.emea.gravity.porsche.com,True
 porsche-h1c,configurator.porsche.com,True
 porsche-h1c,connect-store.porsche.com,True
@@ -4023,8 +4023,8 @@ planetart,*.photoaffections.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -8465,8 +8465,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.luma.co.uk,False
 capital-one,*.wikibuy.com,False
+capital-one,*.luma.co.uk,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -9012,9 +9012,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -10759,10 +10759,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
