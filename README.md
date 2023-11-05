@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  5 22:19:31 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov  5 23:25:19 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -963,8 +963,8 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-databricks.com
 demo.cloud.databricks.com
+databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -2737,9 +2737,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3945,10 +3945,10 @@ federation.data.gov
 inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
