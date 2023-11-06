@@ -942,12 +942,12 @@ connect-store.porsche.com
 jobs.porsche.com
 skyway.porsche.com
 newsroom.porsche.com
-my.porsche.com
 finder.porsche.com
+my.porsche.com
 configurator.porsche.com
-signup.porsche.com
 identity.porsche.com
 shop.porsche.com
+signup.porsche.com
 porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
@@ -2861,8 +2861,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -4396,6 +4396,7 @@ cadbury-gifting.com
 fodboldrejse.marabou.dk
 marabouchokladhus.se
 oreo.kz
+potursinejnostta.milka.bg
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -4663,6 +4664,7 @@ cadburygift.com
 epack.mondelezinternational.com
 mitiendamondelez.com.ar
 cadbury-gifting.com
+https://otm.croc.ru
 100jaar.liga.nl
 7days-promo.com
 bakerypromo.milka.nl
@@ -4692,7 +4694,6 @@ trident.gr
 vyhrajschuti.cz
 vyhrajschutou.sk
 worldclass.cadburyfc.com
-https://otm.croc.ru
 https://milka.ru
 https://alpengold.me
 https://oreo.ru
@@ -6493,11 +6494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8464,8 +8465,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -10002,8 +10003,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -10149,8 +10150,8 @@ hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
-reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+reviewer.pullrequest.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
@@ -10824,10 +10825,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
