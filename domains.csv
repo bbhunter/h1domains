@@ -4022,8 +4022,8 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -8465,8 +8465,8 @@ capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
 capital-one,*.teamstercardnow.com,False
 capital-one,*.usejewel.com,False
-capital-one,*.wikibuy.com,False
 capital-one,*.luma.co.uk,False
+capital-one,*.wikibuy.com,False
 capital-one,*.capitalonecareers.co.uk,False
 capital-one,*.capitalone.com,False
 capital-one,*.paribus.co,False
@@ -9012,9 +9012,9 @@ newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
 newrelic,discuss.newrelic.com,True
+newrelic,alerts.eu.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
-newrelic,alerts.eu.newrelic.com,True
 newrelic,*.newrelic.com,True
 newrelic,*.infrastructure.newrelic.com,True
 newrelic,*.infrastructure-data.newrelic.com,True
@@ -9690,9 +9690,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -9928,9 +9928,9 @@ airbnb,*.luxuryretreats.com,True
 airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True
-airbnb,one.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
+airbnb,one.airbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,www.hoteltonight.com,True
@@ -10093,8 +10093,8 @@ coinbase,*.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
-coinbase,*.base.org,True
 coinbase,institutional.coinbase.com,True
+coinbase,*.base.org,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
@@ -10761,10 +10761,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
-tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
+tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -10827,10 +10827,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
