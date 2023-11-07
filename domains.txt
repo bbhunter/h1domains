@@ -945,10 +945,10 @@ newsroom.porsche.com
 finder.porsche.com
 my.porsche.com
 configurator.porsche.com
-shop.porsche.com
 signup.porsche.com
-identity.porsche.com
 porsche.com
+identity.porsche.com
+shop.porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -9018,9 +9018,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
+alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
-alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9174,8 +9174,8 @@ api.bitwarden.com
 vault.bitwarden.com
 help.bitwarden.com
 identity.bitwarden.com
-bitwarden.com
 v4.passwordless.dev
+bitwarden.com
 bitwarden.com
 api.bitwarden.com
 identity.bitwarden.com
@@ -10146,8 +10146,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -10761,10 +10761,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
