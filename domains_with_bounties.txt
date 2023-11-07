@@ -3508,8 +3508,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3614,8 +3614,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com

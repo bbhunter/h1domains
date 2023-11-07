@@ -4022,9 +4022,9 @@ planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -5389,6 +5389,7 @@ john-deere,dev-qdrant.isg-aa-comp-vision-training-devl-standalone2.us.e01.c01.jo
 john-deere,ewdocs.deere.com,False
 john-deere,i3dhub.ghns-web-platform-r2-prod-standalone4.eu.e00.c01.johndeerecloud.com,False
 john-deere,wwhui-legacy.channel-warranty-warehouse-devl-vpn2.us.e06.c01.johndeerecloud.com,False
+john-deere,displaysimulator.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -10011,8 +10012,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -10122,8 +10123,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
