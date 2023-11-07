@@ -1502,8 +1502,8 @@ redox_bbp,explore.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,help.redoxengine.com,True
 tecno,www.mobile-phantom.com,True
-tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
+tecno,*.palm.tech,True
 tecno,security.tecno.com,True
 tecno,*.palm.tech,True
 tecno,www.tecno-mobile.com,True
@@ -1541,8 +1541,8 @@ visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
 visa,visa.co.ni,True
-visa,www.cardinalcommerce.com,True
 visa,usa.visa.com,True
+visa,www.cardinalcommerce.com,True
 visa,bm.visa.com,True
 visa,visa.com.au,True
 visa,www.visa.co.ke,True
@@ -4022,8 +4022,8 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
@@ -4300,8 +4300,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -6581,9 +6581,9 @@ citrix,*developer.cloud.com,False
 citrix,sf-rp-eu.sharefile.com,True
 citrix,(yoursubdomain).sharefile.com,True
 citrix,www.cloud.com,True
-citrix,*.browser.cloud.com,True
 citrix,api.sharefile.com,True
 citrix,accounts.cloud.com,True
+citrix,*.browser.cloud.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -7564,8 +7564,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -8767,9 +8767,9 @@ paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,paypal.me,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
 paypal,my.loanbuilder.com,True
+paypal,*.paypal.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
@@ -10527,10 +10527,10 @@ lifeomic,marketplace.dev.lifeomic.com,True
 lifeomic,ga4gh.dev.lifeomic.com,True
 lifeomic,api.dev.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
-lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,apps.dev.skillspring.com,True
 lifeomic,fhir.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
+lifeomic,apps.wellness.dev.lifeomic.com,True
 lifeomic,*.infra.lifeomic.com,True
 lifeomic,*.dev.lifeomic.com,True
 lifeomic,apps.wellness.dev.lifeomic.com,True
@@ -10762,10 +10762,10 @@ tts,18f.gsa.gov,False
 tts,logs-platform.fr.cloud.gov,True
 tts,nessus.fr.cloud.gov,True
 tts,manage.data.gov,False
+tts,www.fedramp.gov,True
 tts,diagrams.fr.cloud.gov,True
 tts,prometheus.fr.cloud.gov,True
 tts,federalist-docs.18f.gov,True
-tts,dashboard.fr.cloud.gov,True
 tts,*.login.gov,True
 tts,*.code.gov,True
 tts,*.search.gov,True
@@ -10828,10 +10828,10 @@ unikrn,socket.ukrn.io,True
 unikrn,sysops.ukrn.io,True
 unikrn,u.ukrn.io,True
 unikrn,utils.ukrn.io,True
-unikrn,unikrn.ly,True
 unikrn,virtual.ukrn.io,True
 unikrn,cashier-w.unikrn.com,True
 unikrn,cashier.unikrn.com,True
+unikrn,unikrn.ly,True
 unikrn,unikrn.com,True
 unikrn,api.ukrn.io,True
 unikrn,auth-adm.ukrn.io,True
