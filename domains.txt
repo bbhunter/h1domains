@@ -985,8 +985,8 @@ www.blueapron.com
 https://blog.blueapron.com/
 www.blueapron.com
 http://www.blueapron.com/graphql
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -1429,8 +1429,8 @@ portal.greenfly.com
 api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
-*.aven.com
 my.aven.com
+*.aven.com
 notary.aven.com
 aven.com
 *.aven.com
@@ -4980,8 +4980,8 @@ www.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 www.usa.gov
-*.search.gov
 admin-catalog-bsp.data.gov
+*.search.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
@@ -5133,7 +5133,6 @@ us-central-1.r4.abc.expertconnect.support
 us-central-1.r4.xyz.expertconnect.support
 johndeeretours.deere.com
 shop.deere.com
-stellarsupport.deere.com
 connections.deere.com
 machinereports.deere.com
 notifications.deere.com
@@ -5167,6 +5166,7 @@ filebox-dev.kreiselelectric.com
 video.kreiselelectric.com
 vpn.kreiselelectric.com
 ghost.harvestprofit.com
+johndeereinnovation.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -6495,11 +6495,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8472,8 +8472,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.luma.co.uk
 *.wikibuy.com
+*.luma.co.uk
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -8762,10 +8762,10 @@ matomo.cloud
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintreepayments.com
-*.xoom.com
 *.paylution.com
 py.pl
 *.braintree-api.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -9826,8 +9826,8 @@ repo.magento.com
 firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
-auth.services.adobe.com
 *.adobe.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -10762,10 +10762,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
+www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
@@ -10828,10 +10828,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
+unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
-unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
