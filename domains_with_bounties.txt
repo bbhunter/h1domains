@@ -285,9 +285,9 @@ api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
-avtoelon.uz
 app.avtoelon.uz
 m.krisha.kz
+avtoelon.uz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -3475,10 +3475,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-vhx.tv
 api.vhx.tv
 *.magisto.com
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com

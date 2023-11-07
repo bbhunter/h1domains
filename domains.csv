@@ -2592,9 +2592,9 @@ kolesagroup,api.krisha.kz,True
 kolesagroup,api.kolesa.kz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
-kolesagroup,avtoelon.uz,True
 kolesagroup,app.avtoelon.uz,True
 kolesagroup,m.krisha.kz,True
+kolesagroup,avtoelon.uz,True
 kolesagroup,m.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
@@ -3673,10 +3673,10 @@ fossil,www.skagenbrand.de,False
 fossil,www.skagenglobal.com,False
 fossil,*.watchstation.com,False
 fossil,www.watchstation.fr,False
-fossil,www.fossil.co.id,False
 fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
+fossil,www.fossil.co.id,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -4023,8 +4023,8 @@ planetart,*.gifts.com,False
 planetart,*.canvasworld.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
-planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -9827,8 +9827,8 @@ adobe,*.adobeaemcloud.com,False
 adobe,firefly.adobe.com,False
 adobe,magento.com,True
 adobe,nicetryapril.na1.echosignsandbox.com,False
-adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.tubemogul.com,False
@@ -9973,10 +9973,10 @@ airbnb,www.hoteltonight.com,True
 vimeo,donations.livestream.com,True
 vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
-vimeo,vhx.tv,True
 vimeo,api.vhx.tv,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
+vimeo,vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True

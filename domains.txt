@@ -2591,9 +2591,9 @@ api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
-avtoelon.uz
 app.avtoelon.uz
 m.krisha.kz
+avtoelon.uz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
@@ -3672,10 +3672,10 @@ www.skagenbrand.de
 www.skagenglobal.com
 *.watchstation.com
 www.watchstation.fr
-www.fossil.co.id
 *.fossil.com.hk
 *.cdgfossil.com
 *.fossil.vn
+www.fossil.co.id
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -4022,8 +4022,8 @@ www.canvasworld.com
 *.canvasworld.com
 *.iseeme.com
 *.personalcreations.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -9826,8 +9826,8 @@ repo.magento.com
 firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
-*.adobe.com
 auth.services.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -9972,10 +9972,10 @@ www.hoteltonight.com
 donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
-vhx.tv
 api.vhx.tv
 *.magisto.com
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
