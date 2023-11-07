@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov  7 11:17:16 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov  7 12:35:08 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api.emea.gravity.porsche.com
-jobs.porsche.com
 connect-store.porsche.com
+jobs.porsche.com
 skyway.porsche.com
 newsroom.porsche.com
 finder.porsche.com
@@ -32,8 +32,8 @@ porsche.com
 shop.porsche.com
 signup.porsche.com
 skyway.porsche.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1244,8 +1244,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2053,8 +2053,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3356,13 +3356,13 @@ playcanv.as
 store.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
-my.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 snappublisher.snapchat.com
 business.snapchat.com
 store.snapchat.com
 app.snapchat.com
+my.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
