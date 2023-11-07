@@ -4021,8 +4021,8 @@ www.canvasworld.com
 *.photoaffections.com
 *.canvasworld.com
 *.iseeme.com
-*.cafepress.com
 www.gifts.com
+*.cafepress.com
 *.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
@@ -4141,8 +4141,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5805,8 +5805,8 @@ api.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -7447,7 +7447,6 @@ wordpress-move.topcoder.com
 accounts.topcoder.com
 discussions.topcoder.com
 challenges.topcoder.com
-accounts-auth0.topcoder.com
 crowdsourcing.topcoder.com
 enterprise.topcoder.com
 leaderboards.topcoder.com
@@ -7459,6 +7458,7 @@ tco18.topcoder.com
 zurich.topcoder.com
 vanilla.topcoder-dev.com
 www.topcoder.com
+accounts-auth0.topcoder.com
 cognitive.topcoder.com
 community.topcoder.com
 community-app.topcoder.com
@@ -8465,8 +8465,8 @@ www.bookingholdings.com
 *.capitalone.ca
 *.teamstercardnow.com
 *.usejewel.com
-*.wikibuy.com
 *.luma.co.uk
+*.wikibuy.com
 *.capitalonecareers.co.uk
 *.capitalone.com
 *.paribus.co
@@ -9012,9 +9012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -9120,10 +9120,10 @@ verovelvollisuustiedot.lahitapiola.fi
 www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
-asiointi.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
+asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -9819,8 +9819,8 @@ repo.magento.com
 firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
-*.adobe.com
 auth.services.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -10827,10 +10827,10 @@ socket.ukrn.io
 sysops.ukrn.io
 u.ukrn.io
 utils.ukrn.io
-unikrn.ly
 virtual.ukrn.io
 cashier-w.unikrn.com
 cashier.unikrn.com
+unikrn.ly
 unikrn.com
 api.ukrn.io
 auth-adm.ukrn.io
