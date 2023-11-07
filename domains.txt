@@ -4007,9 +4007,9 @@ paetec.net
 *.mystreetscape.com
 *.wealthscape.com
 *.fidelity.com
-ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
+ai.planetart.com
 www.photoaffections.com
 *.simplytoimpress.com
 *.mycustomcase.com
@@ -6494,11 +6494,11 @@ deskallocation.mendixcloud.com
 *.timeseries.nl
 notification.billing.appservices.mendix.com
 servicemanagement-accp.mendixcloud.com
+3dvis.mendixcloud.com
+mxbpconfig.mendixcloud.com
 dataprivacy.mendixcloud.com
 alm.mendixcloud.com
 simplate.mendixcloud.com
-3dvis.mendixcloud.com
-mxbpconfig.mendixcloud.com
 *.mendix.com
 *.timeseries.com
 *.timeseries.nl
@@ -8767,8 +8767,8 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 paypal.me
 *.venmo.com
-my.loanbuilder.com
 *.paypal.com
+my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 *.paydiant.com
@@ -9012,9 +9012,9 @@ support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 discuss.newrelic.com
-alerts.eu.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -10761,10 +10761,10 @@ inventory.data.gov
 logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 manage.data.gov
-www.fedramp.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
 federalist-docs.18f.gov
+dashboard.fr.cloud.gov
 *.login.gov
 *.code.gov
 *.search.gov
