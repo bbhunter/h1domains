@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 12:36:48 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 13:27:46 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -532,8 +532,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -858,8 +858,8 @@ ws.sorare.com
 *.sheingsp.com
 exnessaffiliates.com
 my.exness.com
-pay.ibex.exchange
 exness.com
+pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
@@ -2717,9 +2717,9 @@ testnet-croeseid-4.crypto.org
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 *.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 developer.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
