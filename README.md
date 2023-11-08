@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 22:20:01 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 23:20:35 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -18,8 +18,8 @@ newsroom.porsche.com
 configurator.porsche.com
 shop.porsche.com
 identity.porsche.com
-porsche.com
 signup.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -1984,11 +1984,11 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.storspiller.com
-*.vladcazino.ro
 *.ottokasino.com
 www.32red.com
 *.casinohuone.com
 *.kes.kindredext.net
+*.vladcazino.ro
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2116,9 +2116,9 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 www.pixiv.net
-*.fanbox.cc
 accounts.pixiv.net
 booth.pm
+*.fanbox.cc
 comic.pixiv.net
 sensei.pixiv.net
 sketch.pixiv.net
@@ -2219,9 +2219,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
+www.bookingholdings.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
