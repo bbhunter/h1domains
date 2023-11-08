@@ -3694,8 +3694,8 @@ fossil,fossilmy.com,False
 fossil,watchstationhk.com,False
 fossil,*.cdgcitizen.com,False
 fossil,*.smartwatchstations.com,False
-fossil,*.fossil.com,False
 fossil,*.fossilgroup.com,False
+fossil,*.fossil.com,False
 fossil,m.fossil.co.jp,False
 fossil,store.emporioarmaniwatches.com,False
 fossil,www.fossil.com.au,False
@@ -4300,8 +4300,8 @@ anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True

@@ -3693,8 +3693,8 @@ fossilmy.com
 watchstationhk.com
 *.cdgcitizen.com
 *.smartwatchstations.com
-*.fossil.com
 *.fossilgroup.com
+*.fossil.com
 m.fossil.co.jp
 store.emporioarmaniwatches.com
 www.fossil.com.au
@@ -4299,8 +4299,8 @@ new.myzap.com
 academy.databricks.com
 docs.databricks.com
 demo.cloud.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com

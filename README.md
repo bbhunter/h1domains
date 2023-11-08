@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 05:20:35 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 06:25:47 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -964,8 +964,8 @@ shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
 demo.cloud.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
