@@ -6581,11 +6581,11 @@ basecamp,launchpad.37signals.com,True
 basecamp,world.hey.com,True
 citrix,*developer.cloud.com,False
 citrix,sf-rp-eu.sharefile.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,www.cloud.com,True
 citrix,api.sharefile.com,True
 citrix,accounts.cloud.com,True
 citrix,*.browser.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -7566,8 +7566,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.thinkingphones.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
-8x8,connect.8x8.com,False
 8x8,admin.8x8.com,False
+8x8,connect.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9578,8 +9578,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api.grofers.com,True
-zomato,*.hyperpure.com,True
 zomato,api2.grofers.com,True
+zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zomans.com,True
@@ -10158,12 +10158,12 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
 security,*.vpn.hackerone.net,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,reviewer.pullrequest.com,True
 security,www.hackerone.com,True
 security,ctf.hacker101.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
