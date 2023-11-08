@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  8 16:29:32 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov  8 17:21:27 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -18,8 +18,8 @@ newsroom.porsche.com
 configurator.porsche.com
 signup.porsche.com
 shop.porsche.com
-porsche.com
 identity.porsche.com
+porsche.com
 api.emea.gravity.porsche.com
 configurator.porsche.com
 connect-store.porsche.com
@@ -3209,8 +3209,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3323,9 +3323,9 @@ shop.app
 partners.shopify.com
 shopifyinbox.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3357,10 +3357,10 @@ www.bitmoji.com
 rt.playcanvas.com
 playcanvas.com
 snappublisher.snapchat.com
-business.snapchat.com
 store.snapchat.com
 app.snapchat.com
 my.snapchat.com
+business.snapchat.com
 spectacles.com
 *.sc-corp.net
 web.snapchat.com
