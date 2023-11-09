@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 03:20:12 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 04:24:39 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -528,10 +528,10 @@ connect.8x8.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 uc.8x8pilot.com
 *.8x8.id
 platform.8x8pilot.com
+cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -1987,8 +1987,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
