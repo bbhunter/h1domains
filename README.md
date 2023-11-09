@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 11:25:16 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 12:35:27 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -28,8 +28,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-pentesting2.gethypr.com
 *.hypr.com
+pentesting2.gethypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -940,8 +940,8 @@ shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
 demo.cloud.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1596,8 +1596,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -2944,10 +2944,10 @@ bbpress.org
 profiles.wordpress.org
 *.wordcamp.org
 lists.wordpress.org
-api.wordpress.org
 irclogs.wordpress.org
 gutenberg.run
 *.wordpress.net
+api.wordpress.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3299,8 +3299,8 @@ partners.shopify.com
 shopifyinbox.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3632,8 +3632,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-ext-content.com
-www.hackerone.com
 hackathon-photos.hackerone-user-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
