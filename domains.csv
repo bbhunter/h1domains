@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-navient_solutions,www.pamcollections.com,False
 navient_solutions,admin.msbnexus.navient.com,False
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
+navient_solutions,www.pamcollections.com,False
 navient_solutions,sandiegoadmin.dsmyportal.com,False
 navient_solutions,www.nystapayment.com,False
 navient_solutions,payments.msbpay.navient.com,False
@@ -4847,7 +4847,6 @@ epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
-epicgames,*.dropmix.com,True
 epicgames,*.hmxwebservices.com,True
 epicgames,*.bandcamp.com,True
 epicgames,*.bcbits.com,True
@@ -8415,9 +8414,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,www.bookingholdings.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
