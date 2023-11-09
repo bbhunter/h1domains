@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 01:15:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 02:31:27 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -1622,9 +1622,9 @@ www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.watsons.com.ph
 www.watsons.com.tr
 www.marionnaud.fr
+www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -3570,8 +3570,8 @@ paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
