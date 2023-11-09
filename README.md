@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  9 22:20:55 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov  9 23:22:21 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -859,8 +859,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -2561,8 +2561,8 @@ staging-shoppingcart.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
 api.shipt.com
-staging-admin.shipt.com
 www.shipt.com
+staging-admin.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
