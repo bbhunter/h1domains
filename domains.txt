@@ -6619,8 +6619,8 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -8102,8 +8102,8 @@ app.overloop.com
 *.worklytics.co
 *.worklytics.co
 bigbiller.topechelon.com
-www.topechelon.com
 bb3api.topechelon.com
+www.topechelon.com
 www.topechelon.com
 bigbiller.topechelon.com
 bb3api.topechelon.com

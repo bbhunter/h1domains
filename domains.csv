@@ -6620,8 +6620,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8103,8 +8103,8 @@ overloop,app.overloop.com,False
 worklytics,*.worklytics.co,False
 worklytics,*.worklytics.co,False
 top_echelon_software,bigbiller.topechelon.com,False
-top_echelon_software,www.topechelon.com,False
 top_echelon_software,bb3api.topechelon.com,False
+top_echelon_software,www.topechelon.com,False
 top_echelon_software,www.topechelon.com,False
 top_echelon_software,bigbiller.topechelon.com,False
 top_echelon_software,bb3api.topechelon.com,False
