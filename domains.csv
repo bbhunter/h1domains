@@ -3983,9 +3983,9 @@ fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
-planetart,www.mycustomcase.com,False
 planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
+planetart,www.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,*.mycustomcase.com,False
 planetart,www.photoaffections.com,False
@@ -5802,8 +5802,8 @@ reddit,*.reddithelp.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -9506,8 +9506,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -9553,8 +9553,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True

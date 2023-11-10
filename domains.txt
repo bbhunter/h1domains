@@ -3982,9 +3982,9 @@ paetec.net
 *.mystreetscape.com
 *.wealthscape.com
 *.fidelity.com
-www.mycustomcase.com
 ai.planetart.com
 www.personalcreations.com
+www.mycustomcase.com
 *.simplytoimpress.com
 *.mycustomcase.com
 www.photoaffections.com
@@ -5801,8 +5801,8 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -9505,8 +9505,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -9552,8 +9552,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
