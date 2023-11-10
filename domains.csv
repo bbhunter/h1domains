@@ -937,8 +937,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -6613,9 +6613,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8047,8 +8047,8 @@ line,*.line.me,True
 line,*.line-apps.com,True
 line,*.line.naver.jp,True
 line,*.line.biz,True
-stripo,my.stripo.email,False
 stripo,stripo.email,False
+stripo,my.stripo.email,False
 stripo,my.stripo.email,False
 stripo,stripo.email,False
 oasisprotocol,wallet.oasis.io,True
