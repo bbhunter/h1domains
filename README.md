@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 08:27:28 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 09:21:23 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -3137,8 +3137,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3166,8 +3166,8 @@ advisories.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3298,9 +3298,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
