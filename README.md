@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 12:36:23 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 13:26:12 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -354,7 +354,6 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
-getpocket.com
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -369,7 +368,6 @@ relay.firefox.com
 monitor.firefox.com
 api.profiler.firefox.com
 www.mozilla.org
-getpocket.com
 support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
@@ -425,9 +423,9 @@ watchdocs.indriverapp.com
 *.indriverapp.com
 super-services.indriverapp.com
 wga.volans.tech
-file-storage-front.eu-east-1.indriverapp.com
 injob.indriver.com
 volans.tech
+file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1099,9 +1097,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-geminiadvisory.io
 securitytrails.com
 www.recordedfuture.com
+geminiadvisory.io
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1532,12 +1530,12 @@ live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 www.pangleglobal.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
+careers.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2198,8 +2196,8 @@ www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
 api.rezserver.com
-flyiin.com
 secure.rezserver.com
+flyiin.com
 cruises.priceline.com
 press.priceline.com
 www.priceline.com
@@ -3137,8 +3135,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
