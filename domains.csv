@@ -3643,7 +3643,6 @@ fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,www.fossil.co.jp,False
 fossil,www.fossil.co.uk,False
 fossil,www.fossilnorway.no,False
-fossil,*.misfit.com,False
 fossil,www.skagenbrand.de,False
 fossil,www.skagenglobal.com,False
 fossil,*.watchstation.com,False
@@ -3652,6 +3651,7 @@ fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.id,False
+fossil,*.misfit.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -7353,8 +7353,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True

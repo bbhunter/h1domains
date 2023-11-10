@@ -3642,7 +3642,6 @@ shard.wwwfeo.fossil.com.edgekey.net
 www.fossil.co.jp
 www.fossil.co.uk
 www.fossilnorway.no
-*.misfit.com
 www.skagenbrand.de
 www.skagenglobal.com
 *.watchstation.com
@@ -3651,6 +3650,7 @@ www.watchstation.fr
 *.cdgfossil.com
 *.fossil.vn
 www.fossil.co.id
+*.misfit.com
 m.fossil.co.uk
 m.fossil.de
 www.fossil.ch
@@ -7352,8 +7352,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
