@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 10 17:18:43 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 10 18:27:14 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -521,7 +521,6 @@ work.8x8.com
 *.jitsi.net
 sso.8x8.com
 *.8x8.vc
-connect.8x8.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
@@ -534,7 +533,6 @@ platform.8x8.com
 voapi.8x8.com
 *.packet8.net
 *.8x8staging.com
-sms.8x8.com
 sso.8x8pilot.com
 user-profile.8x8.com
 *.p8t.us
@@ -550,8 +548,6 @@ pay.8x8.com
 *.8x8cloud.net
 *.p8t.us
 *.wavecell.com
-connect.8x8.com
-sms.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 sso.8x8pilot.com
@@ -1260,9 +1256,9 @@ www.urbanclap.com
 api.reddit.com
 gql.reddit.com
 *.redditmedia.com
-app.spiketrap.io
 old.reddit.com
 ads.reddit.com
+app.spiketrap.io
 new.reddit.com
 *.redditinc.com
 *.snooguts.net
@@ -2193,8 +2189,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
