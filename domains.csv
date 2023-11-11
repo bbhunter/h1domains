@@ -2846,9 +2846,9 @@ indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,wga.volans.tech,True
-indrive,volans.tech,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,injob.indriver.com,True
+indrive,volans.tech,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -7146,9 +7146,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
@@ -7530,9 +7530,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.thinkingphones.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9541,8 +9541,8 @@ gitlab,docs.gitlab.com,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 zomato,api.grofers.com,True
-zomato,api2.grofers.com,True
 zomato,*.hyperpure.com,True
+zomato,api2.grofers.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
@@ -10130,8 +10130,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
