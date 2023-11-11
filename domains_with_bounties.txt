@@ -3321,9 +3321,9 @@ rt.playcanvas.com
 playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
-app.snapchat.com
 my.snapchat.com
 business.snapchat.com
+app.snapchat.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
