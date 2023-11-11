@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 02:14:50 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 02:57:46 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -2022,8 +2022,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
