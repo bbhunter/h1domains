@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 22:19:28 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 23:20:08 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -319,9 +319,9 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
-push.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
+push.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
 shavar.services.mozilla.com
@@ -2188,9 +2188,9 @@ cysiv.com
 app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3311,9 +3311,9 @@ story.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 msg.playcanvas.com
-forum.playcanvas.com
 ads.snapchat.com
 accounts.snapchat.com
+forum.playcanvas.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
@@ -3480,8 +3480,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
