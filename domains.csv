@@ -3986,8 +3986,8 @@ planetart,iseeme.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
-planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
+planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
@@ -10113,8 +10113,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
+security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
