@@ -935,8 +935,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -8852,8 +8852,8 @@ www.shipt.com
 apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
