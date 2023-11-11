@@ -9350,9 +9350,9 @@ www.starbucksreserve.com
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.kr
 login.starbucks.co.jp
