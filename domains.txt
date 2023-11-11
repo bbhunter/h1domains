@@ -1590,8 +1590,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *exceleratorparts.com
-*.setra.de
 *.mercedes-benz-trucks.com
+*.setra.de
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
