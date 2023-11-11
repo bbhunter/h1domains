@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 11 02:57:46 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 11 03:22:49 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
