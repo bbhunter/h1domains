@@ -2842,8 +2842,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,volans.tech,True
@@ -8405,9 +8405,9 @@ chainlink,*.smartcontract.com,False
 chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
-priceline,www.bookingholdings.com,True
 priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.bookingholdings.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -9663,8 +9663,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
