@@ -3825,9 +3825,9 @@ banfield.us
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
 banfieldexchange.com
-*.royalcanin.com
 *.banfieldassets.com
 *.royalcanin.pl
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.vcahospitals.com
@@ -6615,8 +6615,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-effecthouse.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7345,8 +7345,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8874,7 +8874,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.gs.com
-*.gs.de
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
