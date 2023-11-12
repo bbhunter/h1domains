@@ -3830,7 +3830,6 @@ mars,*.banfieldassets.com,False
 mars,*.royalcanin.pl,False
 mars,*.royalcanin.com,False
 mars,*.mms.com,False
-mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.royalcanin.ca,False
 mars,*.moncse-royalcanin-siege.com,False
@@ -3840,6 +3839,7 @@ mars,*.royalcanin.fr,False
 mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
+mars,*.pedigree.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
