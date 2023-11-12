@@ -3118,8 +3118,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -8508,8 +8508,8 @@ creditkarma,https://www.creditkarma.com/savings,True
 creditkarma,support.creditkarma.ca,True
 omise,vault.omise.co,True
 omise,link.omise.co,True
-omise,dashboard.omise.co,True
 omise,www.opn.ooo,True
+omise,dashboard.omise.co,True
 omise,dashboard2.omise.co,True
 omise,api.omise.co,True
 omise,linksplus-dashboard.omise.co,True

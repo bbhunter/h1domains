@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 12 18:24:00 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 12 19:17:34 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -565,8 +565,8 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -2251,8 +2251,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 link.omise.co
-dashboard.omise.co
 www.opn.ooo
+dashboard.omise.co
 dashboard2.omise.co
 api.omise.co
 linksplus-dashboard.omise.co
