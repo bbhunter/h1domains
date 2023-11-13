@@ -936,8 +936,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
+fronthq,*.front.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -2834,8 +2834,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -2912,8 +2912,8 @@ malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,forums.malwarebytes.com,False
 malwarebytes,*.mwb-threatintel.com,True
-malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
+malwarebytes,oneview.malwarebytes.com,True
 malwarebytes,support.malwarebytes.com,False
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,www.malwarebytes.com,True
@@ -4646,8 +4646,6 @@ mondelez,heritageadvertising.cadbury.co.uk,False
 mondelez,loteria7days.pl,False
 mondelez,marabouchokladhus.se,False
 mondelez,milkamaxtrenutak.ba,False
-mondelez,milkamaxtrenutak.hr,False
-mondelez,milkamaxtrenutak.rs,False
 mondelez,milkamaxtrenutek.si,False
 mondelez,mmmax-tester.milka.de,False
 mondelez,mongouterprince.fr,False
@@ -5773,8 +5771,8 @@ reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -10112,8 +10110,8 @@ yahoo,yimg.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
-security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
+security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
