@@ -6809,7 +6809,6 @@ www.pns.hk
 api.watsons.com.tw
 api.watsons.com.ph
 www10.watsons.com.my
-api.watsons.com.hk
 app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
