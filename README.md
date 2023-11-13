@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 04:23:30 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 05:19:25 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -522,21 +522,21 @@ work.8x8.com
 *.8x8.vc
 sso.8x8.com
 work-staging.8x8.com
-user-profile-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
 *.8x8.id
 platform.8x8pilot.com
 *.jit.si
 cloud8.8x8.com
+user-profile-staging.8x8.com
 voapi.8x8.com
 *.packet8.net
 *.8x8staging.com
 platform.8x8.com
 sso.8x8pilot.com
-user-profile.8x8.com
 *.p8t.us
 *.wavecell.com
+user-profile.8x8.com
 *.8x8cloud.net
 pay.8x8.com
 *.8x8.vc
