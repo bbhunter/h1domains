@@ -944,8 +944,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -7022,7 +7022,6 @@ xiaomi,*.miwifi.com,True
 flutteruki,*.paddypower.it,True
 flutteruki,*.sbgcdn.com,True
 flutteruki,*.betviewapi.com,True
-flutteruki,*.skyvegas.com,True
 flutteruki,*.msgsvc.io,True
 flutteruki,*.operationstechnology.io,True
 flutteruki,*.securityservices.io,True
@@ -7032,6 +7031,7 @@ flutteruki,*.betfair.it,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skybet.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7310,8 +7310,8 @@ marriott,all-inclusive.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
-marriott,www.ritzcarlton.com,True
 marriott,giftcards.marriott.com,True
+marriott,www.ritzcarlton.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,marrtool.com,True
 marriott,gatewaydsapdev2.marriott.com,True

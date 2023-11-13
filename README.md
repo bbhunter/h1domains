@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 18:25:32 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 19:19:02 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1795,7 +1795,6 @@ faucet.polygon.technology
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
-*.skyvegas.com
 *.msgsvc.io
 *.operationstechnology.io
 *.securityservices.io
@@ -1805,6 +1804,7 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.betfair.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1987,8 +1987,8 @@ all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
-www.ritzcarlton.com
 giftcards.marriott.com
+www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com

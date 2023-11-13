@@ -10,8 +10,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1789,7 +1789,6 @@ faucet.polygon.technology
 *.paddypower.it
 *.sbgcdn.com
 *.betviewapi.com
-*.skyvegas.com
 *.msgsvc.io
 *.operationstechnology.io
 *.securityservices.io
@@ -1799,6 +1798,7 @@ faucet.polygon.technology
 *.skybingo.com
 *.skybet.com
 *.betfair.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -1981,8 +1981,8 @@ all-inclusive.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
-www.ritzcarlton.com
 giftcards.marriott.com
+www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
