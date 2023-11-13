@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 07:19:22 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 13 08:26:50 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -160,7 +160,6 @@ www.practicalmoneyskills.org
 www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.co.jp
-bb.visa.com
 www.visa.com.mx
 www.visa.com.cy
 www.visa.com.ge
@@ -175,6 +174,7 @@ www.visa.com.my
 www.visa.co.in
 www.currencycloud.com
 visa.com.ru
+bb.visa.com
 aw.visa.com
 bq.visa.com
 www.visa.com.kh
@@ -1093,9 +1093,9 @@ therecord.media
 app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
-securitytrails.com
 www.recordedfuture.com
 geminiadvisory.io
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1973,9 +1973,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-sso.marriott.com
 mgs.marriott.com
 www.marriott.com
+sso.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
