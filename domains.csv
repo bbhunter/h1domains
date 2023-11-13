@@ -3118,8 +3118,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -3638,13 +3638,13 @@ fossil,www.fossil.co.uk,False
 fossil,www.fossilnorway.no,False
 fossil,www.skagenbrand.de,False
 fossil,www.skagenglobal.com,False
-fossil,*.watchstation.com,False
 fossil,www.watchstation.fr,False
 fossil,*.fossil.com.hk,False
 fossil,*.cdgfossil.com,False
 fossil,*.fossil.vn,False
 fossil,www.fossil.co.id,False
 fossil,*.misfit.com,False
+fossil,*.watchstation.com,False
 fossil,m.fossil.co.uk,False
 fossil,m.fossil.de,False
 fossil,www.fossil.ch,False
@@ -4830,8 +4830,8 @@ epicgames,wonderboxdev.com,True
 epicgames,capturingreality.com,True
 epicgames,*.popjam.com,True
 epicgames,*.mediatonic.co.uk,True
-epicgames,fortnite.com,True
 epicgames,*.bcbits.com,True
+epicgames,fortnite.com,True
 epicgames,*.3lateral.com,True
 epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
@@ -5650,9 +5650,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9971,8 +9971,8 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
