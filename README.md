@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 07:19:57 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 08:24:40 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -942,9 +942,9 @@ admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
 docs.databricks.com
-demo.cloud.databricks.com
 accounts.cloud.databricks.com
 databricks.com
+demo.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1599,8 +1599,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -1994,8 +1994,8 @@ cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -3300,8 +3300,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

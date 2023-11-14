@@ -4276,9 +4276,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,demo.cloud.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,demo.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -6776,8 +6776,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -7317,8 +7317,8 @@ marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
-marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,www.ritzcarlton.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,marrtool.com,True
 marriott,gatewaydsapdev2.marriott.com,True
@@ -9669,8 +9669,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
