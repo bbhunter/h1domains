@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 13 23:21:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 01:14:36 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -530,8 +530,8 @@ uc.8x8pilot.com
 *.8x8.id
 platform.8x8pilot.com
 *.jit.si
-cloud8.8x8.com
 user-profile-staging.8x8.com
+cloud8.8x8.com
 voapi.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -2852,8 +2852,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3297,8 +3297,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

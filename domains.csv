@@ -936,8 +936,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -3083,8 +3083,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
@@ -7542,8 +7542,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sms.8x8.com,False
 8x8,supersite.8x8.com,False
 8x8,*.8x8staging.com,False
-8x8,cloud8.8x8.com,False
 8x8,user-profile.8x8.com,False
+8x8,cloud8.8x8.com,False
 8x8,*.8x8pilot.com,False
 8x8,www.8x8.com,False
 8x8,*.8x8.uk,False
@@ -9163,8 +9163,8 @@ grab,*.myteksi.com,True
 grab,*.grab.co,True
 grab,manage.grab.co,True
 grab,p.grabtaxi.com,True
-grab,*.grab.com,True
 grab,api.grabpay.com,True
+grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
@@ -9666,8 +9666,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10279,14 +10279,6 @@ hack-us-h1c,usna.edu,True
 hack-us-h1c,usnwc.edu,True
 hack-us-h1c,usuhs.edu,True
 hack-us-h1c,westpoint.edu,True
-automation-anywhere,*.my.automationanywhere.digital,False
-automation-anywhere,1775.my.automationanywhere.digital,False
-automation-anywhere,14west-1.my.automationanywhere.digital,False
-automation-anywhere,botstore.automationanywhere.com,False
-automation-anywhere,*.my.automationanywhere.digital,False
-automation-anywhere,botstore.automationanywhere.com,False
-automation-anywhere,14west-1.my.automationanywhere.digital,False
-automation-anywhere,1775.my.automationanywhere.digital,False
 inmobi,appsumer.io,False
 inmobi,zyxw365.in,False
 inmobi,*.inmobi.com,False
