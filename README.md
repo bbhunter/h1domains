@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 12:36:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 13:25:58 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -574,14 +574,10 @@ pay.8x8.com
 admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
-*.superbet.com
 *.superbet.ro
 *.luckydays.ca
 *.spinaway.com
-*.superbet.rs
 *.superbet.ro
-*.superbet.rs
-*.superbet.com
 *.magicjackpot.ro
 *.spinaway.com
 *.luckydays.com
@@ -1599,8 +1595,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -1997,11 +1993,11 @@ all-inclusive.marriott.com
 www.ritzcarlton.com
 marriottfranchisetransactions.marriott.com
 homes-and-villas.marriott.com
-marrtool.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 *uat.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2798,9 +2794,9 @@ api.lahitapiola.fi
 secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-www.lahitapiola.fi
 privatetarget-1-www.zigzag
 *.tapiola.fi
+www.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
