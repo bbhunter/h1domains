@@ -1589,8 +1589,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -3282,9 +3282,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 *.shopify.com
-accounts.shopify.com
 shopify.plus
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
