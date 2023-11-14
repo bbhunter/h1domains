@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 17:18:03 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 18:23:47 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -10,8 +10,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -30,8 +30,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 pentesting2.gethypr.com
+*.hypr.com
 pentesting3.gethypr.com
 pentesting.gethypr.com
 hypr74352.gethypr.com
@@ -1535,8 +1535,8 @@ creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -1595,8 +1595,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -2026,8 +2026,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2274,9 +2274,9 @@ vacations.universalstudioshollywood.com
 www.wynnvacations.com
 res.sunscaperesorts.com
 res.vacations.buschgardens.com
-vacations.us.palladiumhotelgroup.com
 res.universalorlandovacations.com
 book.beachbound.com
+vacations.us.palladiumhotelgroup.com
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
@@ -3287,9 +3287,9 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
 accounts.shopify.com
+shopify.plus
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3621,8 +3621,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
@@ -4046,8 +4046,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 interseller.io
-boards.greenhouse.io
 app.greenhouse.io
+boards.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
