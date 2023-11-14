@@ -938,8 +938,8 @@ cbre,flatfileui.brokerhub.cbre.com,False
 cbre,flooredproducts.cbre.com,False
 cbre,fmdashboard.cbre.com,False
 cbre,fmsdemo-aws.dev.gcso.cbre.com,False
-fronthq,app.frontapp.com,True
 fronthq,*.front.com,True
+fronthq,app.frontapp.com,True
 fronthq,help.front.com,True
 fronthq,api2.frontapp.com,True
 fronthq,*.front.com,True
@@ -3397,8 +3397,8 @@ avalara,*.impendulo.com,False
 avalara,*.ttrus.com,False
 avalara,*.avalara.io,False
 avalara,*.avalara.net,False
-avalara,*.3ce.com,False
 avalara,*.inposia.com,False
+avalara,*.3ce.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
@@ -5790,8 +5790,8 @@ reddit,api.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,new.reddit.com,True
 reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
@@ -6785,8 +6785,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -9204,8 +9204,8 @@ bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
 bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
-bumble,badoo.com,True
 bumble,www.bumble.com,True
+bumble,badoo.com,True
 bumble,mus1.badoo.com,True
 bumble,translate.badoo.com,True
 bumble,www.bumble.com,True
@@ -10132,8 +10132,8 @@ security,reviewer.pullrequest.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
