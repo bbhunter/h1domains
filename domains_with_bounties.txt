@@ -3085,8 +3085,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 getharvest.com
-harvestapp.com
 id.getharvest.com
+harvestapp.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3291,8 +3291,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
