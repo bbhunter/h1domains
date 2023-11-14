@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 04:23:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 05:20:21 UTC 2023)
 ```
 portal.au.frontegg.com
 api.au.frontegg.com
@@ -16,8 +16,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1100,8 +1100,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 www.recordedfuture.com
-securitytrails.com
 geminiadvisory.io
+securitytrails.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -1340,8 +1340,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev2.chime.com
 wp-dev5.chime.com
-*.chimebank.com
 app.chime.com
+*.chimebank.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3297,8 +3297,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
