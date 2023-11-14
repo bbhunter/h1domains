@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 15:22:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 16:25:22 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -1895,8 +1895,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -2843,8 +2843,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3476,8 +3476,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 *.twimg.com
 gnip.com
 *.twitter.com
@@ -3621,8 +3621,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live

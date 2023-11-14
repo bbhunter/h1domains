@@ -7162,8 +7162,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -9166,8 +9166,8 @@ xtramile.grabpay.com
 *.grab.co
 manage.grab.co
 p.grabtaxi.com
-*.grab.com
 api.grabpay.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -9981,8 +9981,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -10131,8 +10131,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
