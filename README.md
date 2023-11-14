@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 14 16:25:22 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 14 17:18:03 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -1199,8 +1199,8 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -1595,8 +1595,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -1902,9 +1902,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
 *.alimama.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3281,9 +3281,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com

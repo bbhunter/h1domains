@@ -2698,8 +2698,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-www.spoonflower.com
 *.shutterfly.com
+www.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 lifetouch.com
@@ -5055,8 +5055,8 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
-gold.xnxx.com
 www.xnxx.com
+gold.xnxx.com
 www.xvideos.red
 www.xvideos.com
 www.xvideos.com
@@ -6784,8 +6784,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.devicelock.com
 *.acronis.com
+*.devicelock.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -7169,9 +7169,9 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
 *.alimama.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9662,9 +9662,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
