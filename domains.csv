@@ -946,8 +946,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3127,8 +3127,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,admin.8x8.com,True
 superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.com,True
+superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
@@ -6788,8 +6788,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.devicelock.com,True
 acronis,*.acronis.com,True
+acronis,*.devicelock.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -9682,8 +9682,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
