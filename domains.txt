@@ -3000,8 +3000,8 @@ accessories.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
-*.sahr.stanford.edu
 stanfordwho.stanford.edu
+*.sahr.stanford.edu
 secureportal.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
@@ -4114,8 +4114,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5341,6 +5341,7 @@ ghost.harvestprofit.com
 learn.harvestprofit.com
 swag.harvestprofit.com
 www.harvestprofit.com
+parts.waratah.com
 equipment.deere.com
 contest.deere.com
 vision.johndeere.com
@@ -6424,8 +6425,8 @@ federalist-docs.18f.gov
 *.ecpic.gov
 *.facadatabase.gov
 *.gsa.gov
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -6783,8 +6784,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -9097,8 +9098,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-*.tapiola.fi
 www.lahitapiola.fi
+*.tapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
