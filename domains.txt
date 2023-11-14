@@ -1,3 +1,5 @@
+*.bybit.com
+*.bybit.com
 admin.msbnexus.navient.com
 myaccount.navirefi.com
 wsmb2bresv.navient.com
@@ -943,8 +945,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -6773,8 +6775,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -9666,8 +9668,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
