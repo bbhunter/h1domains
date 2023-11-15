@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 10:23:50 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 11:17:57 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -87,30 +87,6 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
-connect-sandbox.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-*.gocardless-lab.io
-api-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-*.gocardless-cicd.io
-*.gocardless-staging.io
-manage-sandbox.gocardless.com
-www.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-*.gocardless-cicd.io
-*.gocardless-staging.io
-*.gocardless-lab.io
-manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-api-sandbox.gocardless.com
-connect-sandbox.gocardless.com
-www.gocardless.com
-oauth-sandbox.gocardless.com
-xero-sandbox.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -1348,8 +1324,8 @@ global-api.citymapper.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-www.chime.com
 *.chimecard.com
+www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -3675,6 +3651,30 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
+connect-sandbox.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+api-sandbox.gocardless.com
+*.gocardless-lab.io
+pay-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+*.gocardless-cicd.io
+*.gocardless-staging.io
+manage-sandbox.gocardless.com
+www.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless-staging.io
+*.gocardless-lab.io
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+www.gocardless.com
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
