@@ -1587,8 +1587,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *exceleratorparts.com
-*.mercedes-benz-trucks.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -5651,8 +5651,8 @@ zsbsupport.zebra.com
 downloads.zebra.com
 reflexisinc.com/
 supportcommunity.zebra.com
-cmm01.sl.zebra.com
 *.profitect.com
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -5873,8 +5873,8 @@ customers.mattermost.com
 *.vote.ohio.gov
 *.voteohio.gov
 *.electionintegrity.ohio.gov
-*.chimecard.com
 www.chime.com
+*.chimecard.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -7313,8 +7313,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -7355,8 +7355,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -9500,8 +9500,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -9662,8 +9662,8 @@ linkpop.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-*.shopify.com
 shopify.plus
+*.shopify.com
 admin.shopify.com
 accounts.shopify.com
 *.shopify.com

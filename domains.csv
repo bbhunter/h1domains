@@ -1588,8 +1588,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -5652,8 +5652,8 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -5874,8 +5874,8 @@ ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
-chime,*.chimecard.com,True
 chime,www.chime.com,True
+chime,*.chimecard.com,True
 chime,*.chimepayments.com,True
 chime,wp-dev3.chime.com,True
 chime,wp-integ.chime.com,True
@@ -7314,8 +7314,8 @@ marriott,www.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
-marriott,jobs.marriott.com,True
 marriott,activities.marriott.com,True
+marriott,jobs.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -7356,8 +7356,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9501,8 +9501,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,github.com,True
 github,*.githubusercontent.com,True
+github,github.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -9663,8 +9663,8 @@ shopify,linkpop.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,*.shopify.com,True
 shopify,shopify.plus,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
