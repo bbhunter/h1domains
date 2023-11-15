@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 19:19:11 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 20:23:35 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -412,8 +412,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -829,8 +829,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1324,8 +1324,8 @@ global-api.citymapper.com
 *.withbuddies.com
 customers.mattermost.com
 customers.mattermost.com
-www.chime.com
 *.chimecard.com
+www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -1804,8 +1804,8 @@ faucet.polygon.technology
 *.betfair.it
 *.skybingo.com
 *.skybet.com
-*.skyvegas.com
 *.betfair.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com

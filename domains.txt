@@ -2830,8 +2830,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -4108,8 +4108,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -5672,6 +5672,7 @@ zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
 *.fetchcore-cloud.com
+www.matrox.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -5873,8 +5874,8 @@ customers.mattermost.com
 *.vote.ohio.gov
 *.voteohio.gov
 *.electionintegrity.ohio.gov
-www.chime.com
 *.chimecard.com
+www.chime.com
 *.chimepayments.com
 wp-dev3.chime.com
 wp-integ.chime.com
@@ -7039,8 +7040,8 @@ faucet.polygon.technology
 *.betfair.it
 *.skybingo.com
 *.skybet.com
-*.skyvegas.com
 *.betfair.com
+*.skyvegas.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com

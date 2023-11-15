@@ -2831,8 +2831,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -4109,8 +4109,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -5673,6 +5673,7 @@ zebra_vdp,zsl.zebra.com,False
 zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,*.fetchcore-cloud.com,False
+zebra_vdp,www.matrox.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -5874,8 +5875,8 @@ ohiosecretaryofstate,*.sos.state.oh.us,False
 ohiosecretaryofstate,*.vote.ohio.gov,False
 ohiosecretaryofstate,*.voteohio.gov,False
 ohiosecretaryofstate,*.electionintegrity.ohio.gov,False
-chime,www.chime.com,True
 chime,*.chimecard.com,True
+chime,www.chime.com,True
 chime,*.chimepayments.com,True
 chime,wp-dev3.chime.com,True
 chime,wp-integ.chime.com,True
@@ -7040,8 +7041,8 @@ flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skybet.com,True
-flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skyvegas.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
