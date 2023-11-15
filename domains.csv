@@ -1059,8 +1059,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -3239,10 +3239,10 @@ expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediaagents.com,True
-expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.hotels.com,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.ebookers.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -4018,8 +4018,8 @@ planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4137,8 +4137,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -6807,8 +6807,8 @@ acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.5nine.com,True
 acronis,*-api-*.acronis.com,True
-acronis,*.acronis.com,True
 acronis,*.devicelock.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
@@ -10143,8 +10143,8 @@ yahoo,yimg.com,True
 security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
+security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
@@ -10396,12 +10396,12 @@ panther_labs,*.panther.com,True
 panther_labs,*.runpanther.io,True
 panther_labs,*.runpanther.com,True
 jimdo,help.jimdo.com,False
-jimdo,dash.e.jimdo.com,False
 jimdo,cms-backend.jimdosite.com,False
 jimdo,*.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
+jimdo,dash.e.jimdo.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 09:23:00 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 10:23:50 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -97,8 +97,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -648,10 +648,10 @@ www.hotwirepartnercentral.com
 www.mrjet.se
 www.abritel.fr
 www.expediaagents.com
-www.expediagroup.com
 www.expediapartnersolutions.com
 www.orbitz.com
 www.hotels.com
+www.expediagroup.com
 www.ebookers.com
 www.flights.com
 www.vrbo.com
@@ -853,8 +853,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1617,8 +1617,8 @@ beta-cloud.acronis.com
 account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
-*.acronis.com
 *.devicelock.com
+*.acronis.com
 *.acronis.work
 *-api-*.acronis.com
 *.acronis.com
@@ -3632,8 +3632,8 @@ yimg.com
 api.hackerone.com
 hackerone-user-content.com
 hackerone.com
-mta-sts.wearehackerone.com
 www.wearehackerone.com
+mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
