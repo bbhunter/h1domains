@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 20:23:35 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 21:19:05 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -492,8 +492,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.prisma.fi
-tunnistus.s-ryhma.fi
 www.s-pankki.fi
+tunnistus.s-ryhma.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
