@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 01:15:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 02:33:52 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -2595,8 +2595,8 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.com
-*.folioclient.com
 *.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3621,8 +3621,8 @@ reviewer.pullrequest.com
 hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
