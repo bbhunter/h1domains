@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 13:25:48 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 14:22:12 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -317,8 +317,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
@@ -829,8 +829,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1216,8 +1216,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1533,8 +1533,8 @@ creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
@@ -2693,8 +2693,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3219,9 +3219,9 @@ werkenbijdnb.nl
 acme-challenge.nl
 nossl.nl
 ruddercms.com
-*.maximum.nl
 werkenbijdefensie.nl
 wp-mail.nl
+*.maximum.nl
 mijnkombijdepolitie.nl
 no-reply.cloud
 maximum-status.com
@@ -3506,10 +3506,10 @@ my.pressable.com
 happy.tools
 simplenote.com
 gravatar.com
-wordpress.com
 api.tumblr.com
 assets.tumblr.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 *.tumblr.com
 t.umblr.com
