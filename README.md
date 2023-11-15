@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 04:25:35 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 05:20:41 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -494,8 +494,8 @@ mobile.s-pankki.fi
 digili.s-cloud.fi
 extranet.s-pankki.fi
 www.prisma.fi
-www.s-pankki.fi
 tunnistus.s-ryhma.fi
+www.s-pankki.fi
 www.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
@@ -831,8 +831,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1218,8 +1218,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -3289,8 +3289,8 @@ shopifyinbox.com
 partners.shopify.com
 *.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3320,12 +3320,12 @@ login.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
-playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
 app.snapchat.com
 business.snapchat.com
+playcanvas.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
