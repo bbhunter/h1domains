@@ -2839,8 +2839,8 @@ indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
+indrive,*.indriverapp.com,True
 indrive,super-services.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
@@ -5050,8 +5050,8 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
 xvideos,gold.xnxx.com,True
+xvideos,www.xnxx.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
@@ -9501,8 +9501,8 @@ github,education.github.com,True
 github,gist.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10132,8 +10132,8 @@ security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
