@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 17:19:57 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 18:25:52 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -3090,8 +3090,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.modelhub.com
-www.redtube.com
 www.pornhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
