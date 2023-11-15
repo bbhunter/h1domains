@@ -959,8 +959,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -1342,12 +1342,12 @@ snaboitizpower.com
 *.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
-1882energyventures.com
 aboitizpower.net
 enerzone.com.ph
 sustainablephilippines.com
 *.snaboitiz.com
 *.cotabatolight.com
+1882energyventures.com
 aboitizpower.com.ph
 aboitizpowercorporation.com.ph
 aboitiztrading.com
@@ -4136,8 +4136,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -8270,8 +8270,8 @@ wotctech.com
 *.redeverdeamarela.com.br
 *equifax.co.in
 HOURLY-JOBS.NET
-*.efficientforms.com
 *.bvsnet.com.br
+*.efficientforms.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -9528,8 +9528,8 @@ education.github.com
 gist.github.com
 npmjs.org
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
