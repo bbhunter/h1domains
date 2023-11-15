@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 15 05:20:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 15 06:26:39 UTC 2023)
 ```
 *.bybit.com
 *.bybit.com
@@ -858,8 +858,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
