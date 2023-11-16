@@ -183,10 +183,10 @@ www.visa.co.ke
 www.visa.co.th
 www.visa.co.uk
 visa.co.za
-www.cybersource.com
 www.authorize.net
 www.visa.co.id
 www.visa.co.ve
+www.cybersource.com
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -917,8 +917,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
