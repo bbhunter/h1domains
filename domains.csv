@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,booking.com,True
+bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -984,8 +984,8 @@ blueapron,www.blueapron.com,False
 blueapron,https://blog.blueapron.com/,False
 blueapron,www.blueapron.com,False
 blueapron,http://www.blueapron.com/graphql,False
-hypr-corp,*.hypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
+hypr-corp,*.hypr.com,True
 hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
@@ -7120,8 +7120,8 @@ tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7470,8 +7470,8 @@ playstation,*.api.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -7533,8 +7533,8 @@ flutteruki,*.sportinglife.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skybet.com,True
-flutteruki,*.betfair.com,True
 flutteruki,*.skyvegas.com,True
+flutteruki,*.betfair.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7658,8 +7658,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10606,8 +10606,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
