@@ -2577,8 +2577,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com

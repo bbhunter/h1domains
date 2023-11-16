@@ -5104,7 +5104,6 @@ budni.milka.de
 https://digitas.8thwall.app/chips-ahoy-happy-by-design
 doppeltgewinnen.fcmilka.de
 http://cadburypakistan.com/cricketworldcup
-hallsfangiveaway.com
 spar.nyerjakedvenceiddel.hu
 https://www.fundraising.com.au/
 chipsahoy.art
@@ -5143,7 +5142,6 @@ secretsanta.cadbury.co.uk
 signwithfingers.cadbury.co.uk
 sport70promo.hu
 sutazoreo.sk
-trident.gr
 vyhrajschuti.cz
 vyhrajschutou.sk
 worldclass.cadburyfc.com
@@ -9360,8 +9358,8 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.nextcapital.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
