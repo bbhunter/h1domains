@@ -1072,7 +1072,6 @@ alshaya,*.alshayaenterprises.com,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.westelm.com.kw,False
-alshaya,*.victoriassecret.com.qa,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
 alshaya,*.mothercare.com.eg,False
@@ -1085,6 +1084,7 @@ alshaya,suppliertraining.alshaya.com,False
 alshaya,sa.hm.com,False
 alshaya,kw.boots.com,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,*.victoriassecret.com.qa,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -10196,8 +10196,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
-snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
+snapchat,playcanvas.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
 snapchat,geofilters.snapchat.com,True

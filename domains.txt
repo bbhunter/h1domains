@@ -1071,7 +1071,6 @@ card.starbucks.com.kz
 *.americaneagle.com.bh
 *.americaneagle.com.kw
 *.westelm.com.kw
-*.victoriassecret.com.qa
 *.thebodyshop.com.kw
 *.muji.qa
 *.mothercare.com.eg
@@ -1084,6 +1083,7 @@ suppliertraining.alshaya.com
 sa.hm.com
 kw.boots.com
 *.starbuckscardtr.com
+*.victoriassecret.com.qa
 boysweb.shaya.com.tr
 qt.boots.com
 kw.hm.com
@@ -10195,8 +10195,8 @@ snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
 app.snapchat.com
-playcanvas.com
 business.snapchat.com
+playcanvas.com
 spectacles.com
 web.snapchat.com
 geofilters.snapchat.com
