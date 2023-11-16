@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 10:22:41 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 11:20:00 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -269,8 +269,8 @@ app.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 m.avtoelon.uz
 kolesa.kz
 id.avtoelon.uz
@@ -1921,8 +1921,8 @@ www.mini.de
 configure.bmw.de
 www.bmw.de
 www.bmw-motorrad.de
-configure.mini.de
 konfigurator.bmw-motorrad.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -2585,7 +2585,6 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.goldmansachs.com
 *.nextcapital.com
-*.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2595,6 +2594,7 @@ api.foliofn.com
 *.gs.de
 *.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
