@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 06:27:18 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 07:21:37 UTC 2023)
 ```
-experiences.booking.com
 careers.booking.com
+experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -324,11 +324,11 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 push.services.mozilla.com
 contile.services.mozilla.com
-aus5.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
 addons.allizom.org
+aus5.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
