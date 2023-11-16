@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 16 18:26:04 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 16 19:15:04 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1529,12 +1529,12 @@ live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 www.pangleglobal.com
-creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1982,8 +1982,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2914,8 +2914,8 @@ label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 logs.dashlane.com
-app.dashlane.com
 www.dashlane.com
+app.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com
@@ -3287,8 +3287,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
