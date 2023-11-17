@@ -1524,11 +1524,11 @@ partner.tiktokshop.com
 tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
