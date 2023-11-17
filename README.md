@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 08:26:44 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 09:20:13 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -674,8 +674,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1114,9 +1114,9 @@ logs.fr.cloud.gov
 www.data.gov
 ssh.fr.cloud.gov
 *.code.gov
-www.usa.gov
 admin-catalog-bsp.data.gov
 *.search.gov
+www.usa.gov
 federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
@@ -1526,15 +1526,15 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 creatormarketplace.tiktok.com
 *.tiktok.com
-*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1751,8 +1751,8 @@ store.playstation.com
 direct.playstation.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -1893,16 +1893,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.Daraz.com
-*.alimama.com
 *.aliyun.com
 *.aliexpress.com
 *.1688.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2832,8 +2832,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 grab.careers
 *.grabtaxi.com
-wiki.grab.com
 gifts.grab.com
+wiki.grab.com
 *.grabpay.com
 *.grab-sure.com
 xtramile.grabpay.com
@@ -3287,8 +3287,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
