@@ -99,7 +99,6 @@ cbre,cloud.sequentra.net,False
 cbre,pop.92mountainview.com,False
 cbre,smtp.92mountainview.com,False
 cbre,ftp.callawaydesigngroup.com,False
-cbre,sip.callawaydesigngroup.com,False
 cbre,www.callawaydesigngroup.com,False
 cbre,help.facilitysource.com,False
 cbre,mta-sts.mail1.facilitysource.com,False
@@ -110,6 +109,7 @@ cbre,cbrelive.com,False
 cbre,www.navesylogisticacbre.com,False
 cbre,dev.www.cartonspleins.fr,False
 cbre,3.gallileo-frankfurt.com,False
+cbre,academy.gallileo-frankfurt.com,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -1588,8 +1588,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.setra.de,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -3455,8 +3455,8 @@ resmed,resmed.ch,False
 resmed,resmed.la,False
 resmed,airview.resmed.eu,False
 resmed,propellerhealth.com,False
-resmed,onlinestore.resmed.com,False
 resmed,mealtracker.com,False
+resmed,onlinestore.resmed.com,False
 resmed,resmed.lat,False
 resmed,resmed.vn,False
 resmed,resmed.pt,False
@@ -4826,7 +4826,6 @@ mondelez,mmmax.milka.de,False
 mondelez,cadburyfc.com,False
 mondelez,milka.bg,False
 mondelez,milka.ru,False
-mondelez,fattorieosella.it,False
 mondelez,oreo.ru,False
 mondelez,fr.philadelphia.ch,False
 mondelez,milka.cz,False
@@ -5846,6 +5845,7 @@ john-deere,displaysimulator.deere.com,False
 john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,work-dispatcher-mobile.prod.us.e01.c01.johndeerecloud.com,False
 john-deere,work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com,False
+john-deere,vistaar.tal.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -6143,10 +6143,10 @@ zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
-zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7117,8 +7117,8 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
@@ -9365,11 +9365,11 @@ goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
-goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.de,True
-goldmansachs,*.gs.com,True
+goldmansachs,*.gsam.com,True
+goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10157,8 +10157,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 15:21:29 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 16:28:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1532,8 +1532,8 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2590,11 +2590,11 @@ goldmansachsindices.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
-*.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
 *.gs.de
-*.gs.com
+*.gsam.com
+*.advisorsolutions.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3287,8 +3287,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

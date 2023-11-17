@@ -98,7 +98,6 @@ cloud.sequentra.net
 pop.92mountainview.com
 smtp.92mountainview.com
 ftp.callawaydesigngroup.com
-sip.callawaydesigngroup.com
 www.callawaydesigngroup.com
 help.facilitysource.com
 mta-sts.mail1.facilitysource.com
@@ -109,6 +108,7 @@ cbrelive.com
 www.navesylogisticacbre.com
 dev.www.cartonspleins.fr
 3.gallileo-frankfurt.com
+academy.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -1587,8 +1587,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *exceleratorparts.com
-*.mercedes-benz-trucks.com
 *.setra.de
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -3454,8 +3454,8 @@ resmed.ch
 resmed.la
 airview.resmed.eu
 propellerhealth.com
-onlinestore.resmed.com
 mealtracker.com
+onlinestore.resmed.com
 resmed.lat
 resmed.vn
 resmed.pt
@@ -4825,7 +4825,6 @@ mmmax.milka.de
 cadburyfc.com
 milka.bg
 milka.ru
-fattorieosella.it
 oreo.ru
 fr.philadelphia.ch
 milka.cz
@@ -5845,6 +5844,7 @@ displaysimulator.deere.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 work-dispatcher-mobile.prod.us.e01.c01.johndeerecloud.com
 work-dispatcher-mobile.qual.us.e01.c01.johndeerecloud.com
+vistaar.tal.deere.com
 agrisync.com
 api.agrisync.com
 app.agrisync.com
@@ -6142,10 +6142,10 @@ zsbsupport.zebra.com
 *.zams-eu.zebra.com
 *.zams.zebra.com
 downloads.zebra.com
-reflexisinc.com/
 *.profitect.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+reflexisinc.com/
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7116,8 +7116,8 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -9364,11 +9364,11 @@ goldmansachsindices.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
-*.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
 *.gs.de
-*.gs.com
+*.gsam.com
+*.advisorsolutions.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10156,8 +10156,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
