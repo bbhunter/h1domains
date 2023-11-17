@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 17:20:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 18:25:09 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -317,8 +317,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 merino.services.mozilla.com
 bugzilla.mozilla.org
@@ -1466,19 +1466,19 @@ launchpad.37signals.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-sf-rp-eu.sharefile.com
 www.cloud.com
 api.sharefile.com
 accounts.cloud.com
 *.browser.cloud.com
 (yoursubdomain).sharefile.com
+sf-rp-eu.sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 (yoursubdomain).sharefile.eu
-sf-rp-us.sharefile.com
 secure.sharefile.com
+sf-rp-us.sharefile.com
 ap-s.cloud.com
 adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
@@ -1487,8 +1487,8 @@ accounts-internal.cloud.com
 (youriwssubdomain).cloud.com
 launch.cloud.com
 api.adm.cloud.com
-sf-rp.sharefile.com
 api.sharefile.eu
+sf-rp.sharefile.com
 us.cloud.com
 *.citrixworkspacesapi.net
 (yoursubdomain).us.iws.cloud.com
@@ -1533,8 +1533,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1590,8 +1590,8 @@ wiki.cs.money
 app.faraday.io
 app.faraday.io
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.com
@@ -2532,8 +2532,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging.airtable.com
 staging.airtable.com
-*.staging-airtableblocks.com
 api-staging.airtable.com
+*.staging-airtableblocks.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -2572,8 +2572,8 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.goldman.com
-*.ayco.com
 *.gsselect.com
+*.ayco.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -2582,19 +2582,19 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
-*.goldmansachs.com
 *.nextcapital.com
 *.finlife.com
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.gs.de
-*.gsam.com
 *.advisorsolutions.gs.com
 *.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3619,8 +3619,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 hackerone.live
