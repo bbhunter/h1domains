@@ -2864,8 +2864,8 @@ wga.volans.tech
 web.grindr.com
 *.dev.grindr.io
 *.grindr.io
-*.grindr.mobi
 preprod1.grindr.com
+*.grindr.mobi
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -2890,8 +2890,8 @@ http://miro.com/blog
 *.abb.com.cn
 *.tnb.com
 *.baldor.com
-*.abb.com
 *.abb.com.tr
+*.abb.com
 *.abb
 *.abb.com
 *.abb
@@ -7469,8 +7469,8 @@ store.playstation.com
 direct.playstation.com
 my.playstation.com
 ca.account.sony.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -9344,10 +9344,10 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.gsselect.com
 *.foliofn.com
 *.goldman.com
 *.ayco.com
+*.gsselect.com
 *.global-liquidity.gs.com
 *.honestdollar.com
 *.gspublishing.com
@@ -10604,8 +10604,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
