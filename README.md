@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 14:19:33 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 15:21:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1377,8 +1377,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -1532,9 +1532,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3122,11 +3122,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
-gist.github.com
 npmjs.org
 *.github.net
 *.githubusercontent.com
 github.com
+gist.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3196,8 +3196,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 *.deriv.com
-*.binary.com
 secure-dfadmin.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
