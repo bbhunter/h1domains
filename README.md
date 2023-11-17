@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 09:20:13 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 10:22:58 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -255,8 +255,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
@@ -1532,8 +1532,8 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
@@ -2591,10 +2591,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gs.de
 *.folioinstitutional.com
 *.folioclient.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3172,8 +3172,8 @@ api2.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3190,7 +3190,6 @@ www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
-secure-dfadmin.binary.com
 cashier.deriv.com
 api.deriv.com
 derivws.com
@@ -3198,6 +3197,7 @@ smarttrader.deriv.com
 *.derivws.com
 *.deriv.com
 *.binary.com
+secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3205,13 +3205,13 @@ app.deriv.com
 *.deriv.cloud
 *.derivws.com
 *.binary.com
-secure-dfadmin.binary.com
 app.deriv.com
 smarttrader.deriv.com
 cashier.deriv.com
 oauth.deriv.com
 api.deriv.com
 derivws.com
+secure-dfadmin.deriv.com
 maxcldapp.net
 werkenbijderet.nl
 dropr.nl
