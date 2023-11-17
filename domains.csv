@@ -4639,8 +4639,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
-etoro_bbp,www.etoro.com,True
 etoro_bbp,delta.app,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -7117,8 +7117,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -9321,9 +9321,9 @@ shipt,staging-shoppingcart.shipt.com,True
 shipt,*.shipt.com,True
 shipt,app.shipt.com,True
 shipt,shoppingcart.shipt.com,True
-shipt,api.shipt.com,True
 shipt,www.shipt.com,True
 shipt,staging-admin.shipt.com,True
+shipt,api.shipt.com,True
 shipt,*.shipt.com,True
 shipt,app.shipt.com,True
 shipt,api.shipt.com,True
@@ -10579,8 +10579,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True

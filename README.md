@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 06:33:57 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 07:20:47 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -856,8 +856,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1533,8 +1533,8 @@ academy-outbound-ads.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2548,9 +2548,9 @@ staging-shoppingcart.shipt.com
 *.shipt.com
 app.shipt.com
 shoppingcart.shipt.com
-api.shipt.com
 www.shipt.com
 staging-admin.shipt.com
+api.shipt.com
 *.shipt.com
 app.shipt.com
 api.shipt.com
@@ -3580,8 +3580,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-*.quip.com
 app.slack.com
+*.quip.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
