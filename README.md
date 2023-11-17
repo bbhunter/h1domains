@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 17 11:19:21 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 17 12:35:23 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -12,9 +12,9 @@ booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -1982,8 +1982,8 @@ www.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2593,8 +2593,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 *.folioclient.com
-*.gsam.com
 *.gs.de
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3415,9 +3415,9 @@ www.hoteltonight.com
 *.airbnb.com
 assets.airbnb.com
 open.airbnb.com
-api.airbnb.com
 callbacks.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
