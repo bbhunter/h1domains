@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 18 02:30:51 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 18 03:21:47 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -509,8 +509,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -711,8 +711,8 @@ askpam.ai
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-tools.deribit.com
 metrics.deribit.com
+tools.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -2643,8 +2643,8 @@ www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
 support.steampowered.com
-steamcommunity.com
 www.dota2.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
