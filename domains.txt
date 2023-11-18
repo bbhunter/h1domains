@@ -4470,8 +4470,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.mycustomcase.com
-*.simplytoimpress.com
 www.photoaffections.com
+*.simplytoimpress.com
 iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
@@ -10250,6 +10250,7 @@ rma.ui.com
 help.ui.com
 account.ui.com
 fw-update.ubnt.com
+uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com

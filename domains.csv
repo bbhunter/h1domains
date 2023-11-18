@@ -4471,8 +4471,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
+planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
@@ -10251,6 +10251,7 @@ ui,rma.ui.com,True
 ui,help.ui.com,False
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
+ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
