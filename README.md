@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 21:17:35 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 22:18:02 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1987,8 +1987,8 @@ cpp.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
-www.ritzcarlton.com
 marriottfranchisetransactions.marriott.com
+www.ritzcarlton.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
@@ -2573,7 +2573,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.global-liquidity.gs.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
@@ -2584,6 +2583,7 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.goldmansachs.com
+*.global-liquidity.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3089,8 +3089,8 @@ getharvest.com
 www.thumbzilla.com
 *.tube8.com
 www.pornhub.com
-www.redtube.com
 www.modelhub.com
+www.redtube.com
 www.pornhubpremium.com
 www.redtubepremium.com
 www.youpornpremium.com
@@ -3622,11 +3622,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone.live
 errors.hackerone.net
 b5s.hackerone-ext-content.com
+app.pullrequest.com
+hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
