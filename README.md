@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 16:23:21 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 17:17:15 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -356,8 +356,8 @@ relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 www.mozilla.org
-monitor.firefox.com
 developer.mozilla.org
+monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -533,10 +533,10 @@ platform.8x8pilot.com
 *.jit.si
 user-profile-staging.8x8.com
 cloud8.8x8.com
-voapi.8x8.com
 *.8x8staging.com
 platform.8x8.com
 *.packet8.net
+voapi.8x8.com
 sso.8x8pilot.com
 *.p8t.us
 *.wavecell.com
@@ -2182,8 +2182,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -3605,9 +3605,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
+hackerone.com
 hackerone-user-content.com
 api.hackerone.com
-hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
