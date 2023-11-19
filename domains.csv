@@ -8726,7 +8726,6 @@ equifax,*.paynet.us,False
 equifax,*.paynet.ca,False
 equifax,*.paynet.com,False
 equifax,*.paynet.credit,False
-equifax,JOBALINE.COM,False
 equifax,JOBALINECI.COM,False
 equifax,efficienthire.info,False
 equifax,ehxhr.com,False
@@ -8739,6 +8738,7 @@ equifax,*equifax.co.in,False
 equifax,HOURLY-JOBS.NET,False
 equifax,*.bvsnet.com.br,False
 equifax,*.efficientforms.com,False
+equifax,JOBALINE.COM,False
 equifax,*equifax.cl,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
@@ -10624,10 +10624,10 @@ security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,T
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,app.pullrequest.com,True
-security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,b5s.hackerone-ext-content.com,True
+security,hackerone.live,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
