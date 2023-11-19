@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 14:17:08 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 15:20:45 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1377,8 +1377,8 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-nvio.ar
 nvio.mx
+nvio.ar
 api.bitso.com
 bitso.com
 bitso.com
@@ -1899,9 +1899,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

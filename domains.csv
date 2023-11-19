@@ -4482,8 +4482,8 @@ planetart,*.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
-planetart,www.gifts.com,False
 planetart,*.canvasworld.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6915,8 +6915,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.ar,True
 bitso,nvio.mx,True
+bitso,nvio.ar,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
@@ -7658,9 +7658,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
