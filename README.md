@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 19 05:18:26 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 19 06:25:00 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1216,8 +1216,8 @@ main.trafficfactory.biz
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1816,7 +1816,6 @@ faucet.polygon.technology
 *.ppbdev.com
 *.sbgservices.com
 *.betfair.ro
-*.platformservices.io
 *.sbgtest.net
 *.betfair.com
 *.paddypower.com
@@ -2593,8 +2592,8 @@ api.foliofn.com
 *.gsam.com
 *.advisorsolutions.gs.com
 *.gs.de
-*.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3607,8 +3606,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
