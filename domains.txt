@@ -7293,7 +7293,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 direct-hackerone.affirm-odin.com
 vcn-hackerone.affirm-odin.com
-www.iciparisxl.lu
 app.marionnaud.hu
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
@@ -7305,6 +7304,7 @@ www.marionnaud.fr
 www.watsons.com.ph
 www.watsons.com.tr
 www.marionnaud.ro
+www.iciparisxl.lu
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz

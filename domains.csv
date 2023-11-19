@@ -7294,7 +7294,6 @@ affirm,helpcenter.affirm.ca,True
 affirm,helpcenter.affirm.com,True
 affirm,direct-hackerone.affirm-odin.com,False
 affirm,vcn-hackerone.affirm-odin.com,False
-watson_group,www.iciparisxl.lu,True
 watson_group,app.marionnaud.hu,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
@@ -7306,6 +7305,7 @@ watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.ro,True
+watson_group,www.iciparisxl.lu,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
