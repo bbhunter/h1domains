@@ -4295,7 +4295,6 @@ fossil.at
 *.twix.com
 *.myroyalcanin.ro
 *.royalcanin.nl
-*.royalcanin.pt
 *.mivetshop.com.ar
 *.shoproyalcanin.com
 *.vetschoice.co.za
@@ -4307,6 +4306,7 @@ banfield.us
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
 *.royalcanin.be
+*.royalcanin.pt
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -10623,9 +10623,9 @@ ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 hackerone.live
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
