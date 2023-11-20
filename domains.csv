@@ -968,8 +968,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1448,9 +1448,9 @@ redox_bbp,10x.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,explore.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
-redox_bbp,evening-earth.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
+redox_bbp,evening-earth.gamma.redoxstage.com,True
 redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
@@ -4480,10 +4480,10 @@ planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
 planetart,*.cafepress.com,False
-planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
 planetart,www.gifts.com,False
+planetart,*.personalcreations.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -10063,9 +10063,9 @@ deriv,api.deriv.com,True
 deriv,derivws.com,True
 deriv,smarttrader.deriv.com,True
 deriv,*.derivws.com,True
-deriv,*.deriv.com,True
 deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
+deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True

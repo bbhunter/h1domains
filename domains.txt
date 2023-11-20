@@ -967,8 +967,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1447,9 +1447,9 @@ testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
+evening-earth.gamma.redoxstage.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -4479,10 +4479,10 @@ www.simplytoimpress.com
 *.gifts.com
 www.canvasworld.com
 *.cafepress.com
-*.personalcreations.com
 *.iseeme.com
 *.canvasworld.com
 www.gifts.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -10062,9 +10062,9 @@ api.deriv.com
 derivws.com
 smarttrader.deriv.com
 *.derivws.com
-*.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
