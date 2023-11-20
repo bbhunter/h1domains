@@ -967,8 +967,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -2655,8 +2655,8 @@ relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 www.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -10281,8 +10281,8 @@ firefly.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
-*.adobe.com
 repo.magento.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.tubemogul.com
@@ -10621,8 +10621,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

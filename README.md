@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 12:38:15 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 13:27:41 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -356,8 +356,8 @@ relay.firefox.com
 support.mozilla.org
 hg.mozilla.org
 www.mozilla.org
-developer.mozilla.org
 monitor.firefox.com
+developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
 api.profiler.firefox.com
@@ -3624,8 +3624,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
