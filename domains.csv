@@ -1594,8 +1594,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.bharatbenz.com,False
 daimler_truck,*.freightliner.com,False
+daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -6917,8 +6917,8 @@ gsa_vdp,*.digital.gov,False
 gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.facadatabase.gov,False
 gsa_vdp,*.gsa.gov,False
-bitso,nvio.ar,True
 bitso,nvio.mx,True
+bitso,nvio.ar,True
 bitso,api.bitso.com,True
 bitso,bitso.com,True
 bitso,bitso.com,True
@@ -11095,9 +11095,9 @@ postmates,support.postmates.com,False
 filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,True
 magento,magentolive.com,True
 magento,accounts.magento.cloud,True
-magento,magentocommerce.com,True
 magento,account.magento.com,True
 magento,repo.magento.com,True
+magento,magentocommerce.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,marketplace.magento.com,True
