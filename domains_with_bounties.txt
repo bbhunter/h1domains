@@ -1740,8 +1740,8 @@ api.direct.playstation.com
 transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
-store.playstation.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 ca.account.sony.com
 my.account.sony.com
@@ -1892,9 +1892,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
