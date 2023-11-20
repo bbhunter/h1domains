@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 16:28:21 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 17:18:35 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -3415,8 +3415,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com

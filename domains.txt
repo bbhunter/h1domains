@@ -1593,8 +1593,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -4480,9 +4480,9 @@ www.canvasworld.com
 *.gifts.com
 *.cafepress.com
 *.iseeme.com
-*.canvasworld.com
 www.gifts.com
 *.personalcreations.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6141,12 +6141,12 @@ greece.zebra.com
 zsbsupport.zebra.com
 *.zebrasports.com
 *.zams-eu.zebra.com
-*.zams.zebra.com
 downloads.zebra.com
 *.profitect.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
 reflexisinc.com/
+*.zams.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10402,8 +10402,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 api.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
