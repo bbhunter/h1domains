@@ -1015,7 +1015,6 @@ capturingreality.com
 *.bcbits.com
 fortnite.com
 *.3lateral.com
-*.psyonix.com
 *.bcbits.com
 *.hmxwebservices.com
 *.bandcamp.com
@@ -3280,8 +3279,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

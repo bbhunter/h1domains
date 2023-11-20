@@ -2679,8 +2679,8 @@ snapfish.ie
 photo.walgreens.com
 snapfish.de
 prestigeportraits.com
-lifetouch.com
 www.borrowlenses.com
+lifetouch.com
 shutterfly.com
 jcpportraits.com
 snapfish.com
@@ -5320,7 +5320,6 @@ capturingreality.com
 *.bcbits.com
 fortnite.com
 *.3lateral.com
-*.psyonix.com
 forum.sketchfab.com
 *.bcbits.com
 *.hmxwebservices.com
@@ -10156,8 +10155,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

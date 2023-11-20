@@ -2680,8 +2680,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,snapfish.com,False
@@ -5321,7 +5321,6 @@ epicgames,*.mediatonic.co.uk,True
 epicgames,*.bcbits.com,True
 epicgames,fortnite.com,True
 epicgames,*.3lateral.com,True
-epicgames,*.psyonix.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.bcbits.com,True
 epicgames,*.hmxwebservices.com,True
@@ -10157,8 +10156,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
