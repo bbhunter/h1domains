@@ -3070,10 +3070,10 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -3271,8 +3271,8 @@ expediagroup,*.hoteis.com,False
 expediagroup,*.ean.com,False
 expediagroup,*.lastminute.co.nz,False
 expediagroup,*.wotif.com,False
-expediagroup,*.expedia.com,False
 expediagroup,*.vrbo.com,False
+expediagroup,*.expedia.com,False
 expediagroup,*.lastminute.com.au,False
 expediagroup,*.flights.com,False
 expediagroup,*.hoteles.com,False
@@ -7119,8 +7119,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,careers.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -8045,10 +8045,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8.id,False
-8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -9345,9 +9345,9 @@ goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
 goldmansachs,*.gsselect.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
 goldmansachs,*.marcus.co.uk,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
@@ -9367,8 +9367,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10154,8 +10154,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10553,8 +10553,8 @@ coinbase,paradex.io,True
 coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
@@ -10603,8 +10603,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
