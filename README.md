@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 20 06:27:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 20 07:19:39 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2969,9 +2969,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
