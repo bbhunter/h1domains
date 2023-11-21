@@ -2,8 +2,8 @@ handle,domain,eligible_for_bounty
 bookingcom,experiences.booking.com,True
 bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
-bookingcom,booking.com,True
 bookingcom,flights.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,widget.rentalcars.com,True
@@ -968,8 +968,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -3529,8 +3529,8 @@ deribit,insights.deribit.com,True
 deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
-abercrombie_fitch,corporate.abercrombie.com,False
 abercrombie_fitch,hollisterco.com,False
+abercrombie_fitch,corporate.abercrombie.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,abercrombie.com,False
 abercrombie_fitch,hollisterco.com,False
@@ -6147,9 +6147,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,supportcommunity.zebra.com,False
-zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.zams.zebra.com,False
+zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
