@@ -109,6 +109,9 @@ www.navesylogisticacbre.com
 dev.www.cartonspleins.fr
 3.gallileo-frankfurt.com
 academy.gallileo-frankfurt.com
+acc.gallileo-frankfurt.com
+adfs.gallileo-frankfurt.com
+ag.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -1593,8 +1596,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.bharatbenz.com
 *.freightliner.com
+*.bharatbenz.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -4472,14 +4475,14 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 www.photoaffections.com
-*.simplytoimpress.com
 *.mycustomcase.com
+*.simplytoimpress.com
 iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
-*.photoaffections.com
 www.canvasworld.com
 *.gifts.com
+*.photoaffections.com
 *.iseeme.com
 www.gifts.com
 *.personalcreations.com
@@ -7113,8 +7116,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
@@ -9354,9 +9357,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.ayco.com
 *.marcus.co.uk
 *.goldman.com
+*.ayco.com
 *.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
