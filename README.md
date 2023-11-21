@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 22:21:26 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 23:20:50 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -98,8 +98,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2777,10 +2777,10 @@ app.quovo.com
 secure.plaid.com
 demo.plaid.com
 dashboard.plaid.com
-plaid.com
 my.plaid.com
 api.blockscore.com
 production.plaid.com
+plaid.com
 secure.quovo.com
 cdn.plaid.com
 manage.blockscore.com

@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1063,8 +1063,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
-gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,www.gocardless.com,True
+gocardless_bbp,manage-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -2723,9 +2723,9 @@ shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
-shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,*.snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
+shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -9572,10 +9572,10 @@ plaid,app.quovo.com,True
 plaid,secure.plaid.com,True
 plaid,demo.plaid.com,True
 plaid,dashboard.plaid.com,True
-plaid,plaid.com,True
 plaid,my.plaid.com,True
 plaid,api.blockscore.com,True
 plaid,production.plaid.com,True
+plaid,plaid.com,True
 plaid,secure.quovo.com,True
 plaid,cdn.plaid.com,True
 plaid,manage.blockscore.com,True
