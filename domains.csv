@@ -971,8 +971,8 @@ fronthq,*.front.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,http://help.front.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -5419,8 +5419,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,geminiadvisory.io,True
-recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,securitytrails.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -10516,10 +10516,10 @@ automattic,happy.tools,True
 automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,simperium.com,True
-automattic,api.tumblr.com,True
 automattic,assets.tumblr.com,True
 automattic,wordpress.com,True
 automattic,intensedebate.com,True
+automattic,api.tumblr.com,True
 automattic,safe.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,t.umblr.com,True
