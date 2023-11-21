@@ -7698,9 +7698,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.Daraz.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9414,9 +9414,9 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.de,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10225,11 +10225,11 @@ snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
-snapchat,code.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
 snapchat,playcanv.as,True
 snapchat,store.playcanvas.com,True
 snapchat,login.playcanvas.com,True
+snapchat,code.playcanvas.com,True
 snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,rt.playcanvas.com,True
