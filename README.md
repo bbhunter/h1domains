@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 21 10:30:23 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 21 11:20:57 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -1748,8 +1748,8 @@ api.direct.playstation.com
 transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
-store.playstation.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 ca.account.sony.com
 my.account.sony.com
@@ -2588,11 +2588,11 @@ goldmansachsindices.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.nextcapital.com
-*.finlife.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.goldmansachs.com
 *.global-liquidity.gs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3295,8 +3295,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3483,8 +3483,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 *.twimg.com
 gnip.com
 *.twitter.com
