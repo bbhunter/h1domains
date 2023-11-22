@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 03:21:45 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 22 04:23:33 UTC 2023)
 ```
 careers.booking.com
 experiences.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3320,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3555,9 +3555,9 @@ akismet.com
 embed.tumblr.com
 my.pressable.com
 happy.tools
-simplenote.com
 gravatar.com
 simperium.com
+simplenote.com
 assets.tumblr.com
 wordpress.com
 intensedebate.com
