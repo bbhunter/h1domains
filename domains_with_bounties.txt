@@ -1553,8 +1553,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1919,8 +1919,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.Daraz.com
 *.taobao.com
 *.alibaba.com
@@ -2606,12 +2606,12 @@ goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.nextcapital.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.goldmansachs.com
 *.global-liquidity.gs.com
 *.finlife.com
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
