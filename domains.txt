@@ -1138,7 +1138,6 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.kw
 *.footlocker.ae
-*.debenhams.ae
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -1262,6 +1261,13 @@ starbucks.az
 shayakahve.com.tr
 ae.charlottetilbury.com
 bathandbodyworks.ro/
+ae.charlottetilbury.com/
+www.shayakahve.com.tr/
+www.starbucks.az/
+en.www.tekzone.me
+thebodyshop.cz/
+victoriassecret.cz/
+victoriassecret.ro/
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 http://vdp.kahootz.com
@@ -2721,8 +2727,8 @@ lifetouch.com
 shutterfly.com
 jcpportraits.com
 *.snapfish.com
-admin.spoonflower.com
 snapfish.com
+admin.spoonflower.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -3012,8 +3018,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4518,10 +4524,10 @@ www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
 *.iseeme.com
-*.personalcreations.com
 *.cafepress.com
 www.gifts.com
 *.canvasworld.com
+*.personalcreations.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -10686,8 +10692,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
-b5s.hackerone-ext-content.com
 errors.hackerone.net
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
