@@ -1085,8 +1085,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
+coinhako,help.coinhako.com,False
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -2724,8 +2724,8 @@ shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,*.snapfish.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,snapfish.co.uk,False
 shutterfly_vdp,snapfish.com.au,False
 shutterfly_vdp,snapfish.co.nz,False
@@ -3128,8 +3128,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
 8x8-bounty,user-profile.8x8.com,True
-8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.wavecell.com,True
+8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.8x8cloud.net,True
 8x8-bounty,pay.8x8.com,True
 8x8-bounty,*.8x8.vc,True
@@ -4359,8 +4359,8 @@ mars,*.royalcaninconcorsi.it,False
 mars,*.royalcanin-vouchers.com,False
 mars,banfieldexchange.com,False
 mars,*.banfieldassets.com,False
-mars,*.royalcanin.com,False
 mars,*.royalcanin.pl,False
+mars,*.royalcanin.com,False
 mars,*.mms.com,False
 mars,*.vcahospitals.com,False
 mars,*.royalcanin.ca,False
@@ -4799,9 +4799,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -7699,8 +7699,8 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliexpress.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -10669,9 +10669,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
