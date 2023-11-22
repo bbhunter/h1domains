@@ -2723,8 +2723,8 @@ lifetouch.com
 shutterfly.com
 jcpportraits.com
 *.snapfish.com
-admin.spoonflower.com
 snapfish.com
+admin.spoonflower.com
 snapfish.co.uk
 snapfish.com.au
 snapfish.co.nz
@@ -4510,12 +4510,12 @@ paetec.net
 ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
-*.mycustomcase.com
 www.photoaffections.com
 *.simplytoimpress.com
+*.mycustomcase.com
 iseeme.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
@@ -9236,9 +9236,9 @@ www.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-*racing.fanduel.com
 tvg.com
 *.fanduel.com
+*racing.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -10109,8 +10109,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -10517,8 +10517,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 app.greenhouse.io
-interseller.io
 boards.greenhouse.io
+interseller.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
