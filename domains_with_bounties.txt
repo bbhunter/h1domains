@@ -528,8 +528,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1624,8 +1624,8 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-helpcenter.affirm.ca
 hackerone.affirm-odin.com
+helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
@@ -1919,9 +1919,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com
-*.aliexpress.com
 *.aliyun.com
 *.Daraz.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3313,9 +3313,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
