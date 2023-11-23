@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 22 23:20:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 01:15:21 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -32,8 +32,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2626,8 +2626,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.de
+*.folioinstitutional.com
 *.gs.com
-*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3004,8 +3004,8 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-socialclub.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
