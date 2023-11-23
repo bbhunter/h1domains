@@ -2916,8 +2916,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -4518,8 +4518,8 @@ www.photoaffections.com
 *.mycustomcase.com
 *.simplytoimpress.com
 iseeme.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 *.photoaffections.com
 www.canvasworld.com
 *.gifts.com
@@ -6345,8 +6345,8 @@ redditforbusiness.com
 matrix.redditspace.com
 accounts.reddit.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7695,8 +7695,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -7735,8 +7735,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -9400,7 +9400,6 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
-*.gspublishing.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
@@ -9411,6 +9410,7 @@ goldmansachsindices.com
 *.global-liquidity.gs.com
 *.finlife.com
 *.nextcapital.com
+*.gspublishing.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -9922,8 +9922,8 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
-api.blockchain.info
 ws.blockchain.info
+api.blockchain.info
 www.blockchain.info
 *.blockchain.com
 *.blockchain.com
@@ -10240,9 +10240,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-business.snapchat.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -10536,8 +10536,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 *.twimg.com
 gnip.com
@@ -10672,9 +10672,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
+hackerone-user-content.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

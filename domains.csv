@@ -2917,8 +2917,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -4519,8 +4519,8 @@ planetart,www.photoaffections.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,iseeme.com,False
-planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
+planetart,www.simplytoimpress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6346,8 +6346,8 @@ reddit,*.reddithelp.com,True
 reddit,matrix.redditspace.com,True
 reddit,accounts.reddit.com,True
 reddit,oauth.reddit.com,True
-reddit,www.reddit.com,True
 reddit,mod.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7696,8 +7696,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
@@ -7736,8 +7736,8 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
-magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
+magic-bbp,auth.magic.link,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
@@ -9401,7 +9401,6 @@ goldmansachs,*.gsselect.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.ayco.com,True
-goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.goldmanpfm.com,True
 goldmansachs,*.finlifepartners.com,True
@@ -9412,6 +9411,7 @@ goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.nextcapital.com,True
+goldmansachs,*.gspublishing.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -9923,8 +9923,8 @@ starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,openapi.starbucks.com,True
 starbucks,secureui.starbucks.com,True
-blockchain,api.blockchain.info,True
 blockchain,ws.blockchain.info,True
+blockchain,api.blockchain.info,True
 blockchain,www.blockchain.info,True
 blockchain,*.blockchain.com,True
 blockchain,*.blockchain.com,True
@@ -10241,9 +10241,9 @@ snapchat,rt.playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10537,8 +10537,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,*.twimg.com,True
 x,gnip.com,True
@@ -10673,9 +10673,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
+security,hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
