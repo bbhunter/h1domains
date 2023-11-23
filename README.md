@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 12:35:24 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 13:26:04 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -546,10 +546,10 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
-*.8x8.vc
 sso.8x8.com
 *.jitsi.net
 connect.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -2624,10 +2624,10 @@ research.gs.com
 marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gsam.com
 *.gs.de
-*.gs.com
+*.folioinstitutional.com
 *.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3676,9 +3676,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
