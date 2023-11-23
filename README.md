@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 01:15:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 02:32:24 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -560,8 +560,8 @@ user-profile-staging.8x8.com
 cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
-*.packet8.net
 voapi.8x8.com
+*.packet8.net
 sso.8x8pilot.com
 *.p8t.us
 user-profile.8x8.com
@@ -3635,8 +3635,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3671,8 +3671,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackerone.live
