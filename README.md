@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 04:24:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 05:21:23 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1159,13 +1159,13 @@ api.data.gov
 dashboard.fr.cloud.gov
 sdg.data.gov
 labs.data.gov
-inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
 opslogin.fr.cloud.gov
 www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
+inventory.data.gov
 ci.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -3229,8 +3229,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
