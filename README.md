@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 06:22:51 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 07:19:05 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -12,9 +12,9 @@ booking.com
 metasearch-api.booking.com
 taxi.booking.com
 widget.rentalcars.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2626,8 +2626,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.gs.de
+*.folioinstitutional.com
 *.gs.com
-*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
