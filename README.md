@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 18:24:10 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 23 19:16:43 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -2488,9 +2488,9 @@ www.swiftfinancial.com
 swiftfinancial.com
 *.paylution.com
 py.pl
-*.braintree-api.com
 *.xoom.com
 *.braintreepayments.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2625,9 +2625,9 @@ marquee.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
-*.gs.com
-*.folioclient.com
 *.folioinstitutional.com
+*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3319,9 +3319,9 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
