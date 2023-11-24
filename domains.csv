@@ -2917,8 +2917,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -3019,8 +3019,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -7156,9 +7156,9 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
-tiktok,live-backstage.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,live-backstage.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -10239,11 +10239,11 @@ snapchat,map.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,snappublisher.snapchat.com,True
-snapchat,store.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
+snapchat,store.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True

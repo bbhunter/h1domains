@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 23 23:22:31 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 01:12:42 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -534,8 +534,8 @@ www.sokos.fi
 api.sokos.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1551,9 +1551,9 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
@@ -3352,11 +3352,11 @@ map.snapchat.com
 www.bitmoji.com
 rt.playcanvas.com
 snappublisher.snapchat.com
-store.snapchat.com
 app.snapchat.com
 playcanvas.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
