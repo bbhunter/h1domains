@@ -1628,9 +1628,9 @@ www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
-*exceleratorparts.com
 *.setra.de
 *.mercedes-benz-trucks.com
+*exceleratorparts.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -4643,8 +4643,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-exnessaffiliates.com
 my.exness.com
+exnessaffiliates.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -7695,8 +7695,8 @@ www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
 *.alibaba.com
-*.alibaba-inc.com
 *.aliexpress.ru
+*.alibaba-inc.com
 *.aliyun-inc.com
 *.1688.com
 *.alimama.com

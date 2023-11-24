@@ -1629,9 +1629,9 @@ visa,www.practicalmoneyskills.com,True
 visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -4644,8 +4644,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,exnessaffiliates.com,True
 exness,my.exness.com,True
+exness,exnessaffiliates.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -7696,8 +7696,8 @@ alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
-alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
+alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
 alibaba,*.alimama.com,True
