@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 22:20:03 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 23:21:04 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -166,8 +166,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -2602,9 +2602,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.ayco.com
 *.marcus.co.uk
 *.goldman.com
+*.ayco.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
