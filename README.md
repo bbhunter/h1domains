@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 14:19:02 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 15:22:46 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-booking.com
 flights.booking.com
+booking.com
 metasearch-api.booking.com
 widget.rentalcars.com
 taxi.booking.com
@@ -87,7 +87,6 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
-https://simple.life
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -476,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -855,8 +854,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1558,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
