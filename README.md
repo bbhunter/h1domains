@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 05:20:39 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 06:26:36 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -91,8 +91,8 @@ https://simple.life
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -476,8 +476,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -3229,8 +3229,8 @@ derivws.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -3320,8 +3320,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
