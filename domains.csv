@@ -4519,8 +4519,8 @@ planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7348,9 +7348,9 @@ watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
 watson_group,www.marionnaud.fr,True
 watson_group,www.watsons.com.ph,True
-watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.ro,True
 watson_group,www.iciparisxl.lu,True
+watson_group,www.watsons.com.tr,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,app.marionnaud.cz,True
@@ -7736,8 +7736,8 @@ magic-bbp,api.magic.link,True
 magic-bbp,dashboard.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
-magic-bbp,dashboard.magic.link,True
 magic-bbp,auth.magic.link,True
+magic-bbp,dashboard.magic.link,True
 magic-bbp,x2.fortmatic.com,True
 magic-bbp,careers.fortmatic.com,True
 magic-bbp,api.fortmatic.com,True
@@ -10206,8 +10206,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True

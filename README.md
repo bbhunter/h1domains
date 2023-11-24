@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 09:22:05 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 10:21:53 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1644,9 +1644,9 @@ www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.ph
-www.watsons.com.tr
 www.marionnaud.ro
 www.iciparisxl.lu
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 app.marionnaud.cz
@@ -1958,8 +1958,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -3319,8 +3319,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
