@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 24 11:19:48 UTC 2023)
+## Domains with Bounties (Last Updated Fri Nov 24 12:36:07 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -568,7 +568,6 @@ user-profile.8x8.com
 *.wavecell.com
 sms.8x8.com
 *.8x8cloud.net
-pay.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1559,8 +1558,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -2002,8 +2001,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 reservations.all-inclusive.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
@@ -2604,9 +2603,9 @@ apigw.foliofn.com
 *.foliofirst.com
 *.foliofn.com
 *.gsselect.com
-*.goldman.com
 *.ayco.com
 *.marcus.co.uk
+*.goldman.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
