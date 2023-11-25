@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 25 02:29:13 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 25 03:20:17 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2603,8 +2603,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
+*.goldman.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com

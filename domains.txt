@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -9396,8 +9396,8 @@ apigw.foliofn.com
 *.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
-*.goldman.com
 *.ayco.com
+*.goldman.com
 goldmansachsindices.com
 *.goldmanpfm.com
 *.finlifepartners.com
