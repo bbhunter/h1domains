@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 25 03:20:17 UTC 2023)
+## Domains with Bounties (Last Updated Sat Nov 25 04:24:37 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -444,8 +444,8 @@ new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 priority.eu-east-1.indriverapp.com
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 super-services.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1554,11 +1554,11 @@ tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -3317,8 +3317,8 @@ linkpop.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopify.com
 *.shopifykloud.com
