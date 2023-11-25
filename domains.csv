@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -3122,8 +3122,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,user-profile-staging.8x8.com,True
-8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
+8x8-bounty,cloud8.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -7162,8 +7162,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -8085,8 +8085,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sms.8x8.com,False
 8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
-8x8,cloud8.8x8.com,False
 8x8,supersite.8x8.com,False
+8x8,cloud8.8x8.com,False
 8x8,*.8x8pilot.com,False
 8x8,*.8x8.uk,False
 8x8,*.adgjmp.net,False
