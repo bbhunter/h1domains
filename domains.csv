@@ -2642,9 +2642,9 @@ ring,*.immedia-semi.com/*,True
 ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,api.tide.co,True
 tide,www.tide.co,True
 tide,web.tide.co,True
+tide,api.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -7560,8 +7560,8 @@ polygon-technology,faucet.polygon.technology,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
 xiaomi,*.xiaomiyoupin.com,True
-xiaomi,*.mi.com,True
 xiaomi,*.miwifi.com,True
+xiaomi,*.mi.com,True
 xiaomi,*.mi.com,True
 xiaomi,*.xiaomi.com,True
 xiaomi,*.miui.com,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.1688.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.1688.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True

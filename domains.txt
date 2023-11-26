@@ -2641,9 +2641,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 www.tide.co
 web.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -7559,8 +7559,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

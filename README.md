@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 08:24:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 09:18:31 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -329,9 +329,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-api.tide.co
 www.tide.co
 web.tide.co
+api.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
