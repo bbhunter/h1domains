@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 03:21:50 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 04:23:00 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -1256,8 +1256,8 @@ cloud.elastic.co
 *.stripe.com
 *.recko.io
 *.link.co
-*.touchtechpayments.com
 js.stripe.com
+*.touchtechpayments.com
 app.taxjar.com
 api.taxjar.com
 *.reckostaging.com
@@ -1550,15 +1550,15 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -1916,15 +1916,15 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.Daraz.com
 *.aliexpress.com
+*.aliyun.com
 *.1688.com
 *.taobao.com
 *.alibaba.com
