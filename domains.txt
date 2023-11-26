@@ -1119,7 +1119,6 @@ bathandbodyworks.ro/
 bathandbodyworks.ro
 *.mothercare.com.eg
 boysweb.shaya.com.tr
-qt.boots.com
 kw.hm.com
 kw.cosstores.com
 sa.cosstores.com
@@ -1127,7 +1126,6 @@ sa.cosstores.com
 *.aloyoga.com.qa
 *.americaneagle.com.eg
 *.americaneagle.com.sa
-*.victoriassecret.ae
 *.thebodyshop.pl
 *.thebodyshop.com.eg
 *.starbucks.com.tr
@@ -1137,6 +1135,8 @@ sa.cosstores.com
 *.potterybarn.ae
 *.mothercare.com.kw
 *.footlocker.ae
+*.debenhams.ae
+*.bathandbodyworks.jo
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -2915,8 +2915,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -6333,8 +6333,8 @@ new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -7161,8 +7161,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -7759,9 +7759,9 @@ developers.cloudways.com
 cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
-api.cloudways.com
 api.digitalocean.com
 *.digitalocean.com
+api.cloudways.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -10684,8 +10684,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com

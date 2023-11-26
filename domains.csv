@@ -1120,7 +1120,6 @@ alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.mothercare.com.eg,False
 alshaya,boysweb.shaya.com.tr,False
-alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
@@ -1128,7 +1127,6 @@ alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.com.qa,False
 alshaya,*.americaneagle.com.eg,False
 alshaya,*.americaneagle.com.sa,False
-alshaya,*.victoriassecret.ae,False
 alshaya,*.thebodyshop.pl,False
 alshaya,*.thebodyshop.com.eg,False
 alshaya,*.starbucks.com.tr,False
@@ -1138,6 +1136,8 @@ alshaya,*.potterybarn.com.sa,False
 alshaya,*.potterybarn.ae,False
 alshaya,*.mothercare.com.kw,False
 alshaya,*.footlocker.ae,False
+alshaya,*.debenhams.ae,False
+alshaya,*.bathandbodyworks.jo,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -2916,8 +2916,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,api.skinport.com,True
 skinport,app.skinport.com,True
+skinport,api.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -6334,8 +6334,8 @@ reddit,new.reddit.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,reddit.secure.force.com,True
 reddit,amp.reddit.com,True
@@ -7162,8 +7162,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
@@ -7702,8 +7702,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -7760,9 +7760,9 @@ digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.cloudways.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
@@ -10685,8 +10685,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,app.pullrequest.com,True
