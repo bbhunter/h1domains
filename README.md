@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 10:21:09 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 11:17:55 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1286,13 +1286,13 @@ gql.reddit.com
 app.spiketrap.io
 ads.reddit.com
 old.reddit.com
-new.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
 *.snooguts.net
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -1557,8 +1557,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
