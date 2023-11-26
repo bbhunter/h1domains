@@ -1346,7 +1346,6 @@ bettersolutions.com.ph
 cleanergy.ph
 veco.com.ph
 *.enerzone.com.ph
-*.davaolight.com
 *.oilbu.com
 aboitizpower.info
 adventenergy.com.ph
@@ -1354,6 +1353,7 @@ retailelectricity.com.ph
 snaboitizpower.com
 *.visayanelectric.com
 *.aboitizpower.com
+*.davaolight.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -1450,8 +1450,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 api.shi.com
@@ -7094,11 +7094,11 @@ launchpad.37signals.com
 world.hey.com
 *developer.cloud.com
 api.sharefile.com
-accounts.cloud.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 www.cloud.com
+accounts.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -7559,8 +7559,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -7701,8 +7701,8 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10111,8 +10111,8 @@ api.deriv.com
 smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.deriv.com
 *.binary.com
+*.deriv.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
