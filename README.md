@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 26 20:21:39 UTC 2023)
+## Domains with Bounties (Last Updated Sun Nov 26 21:18:46 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -40,8 +40,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1810,8 +1810,8 @@ faucet.polygon.technology
 *.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.miwifi.com
 *.mi.com
+*.miwifi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2011,8 +2011,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
 cpp.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 gatewaydsapdev2.marriott.com
 passwordchallenge.marriott.com
@@ -3669,8 +3669,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 app.pullrequest.com
