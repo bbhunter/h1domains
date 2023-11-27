@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 20:21:06 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 21:20:24 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -205,8 +205,8 @@ bq.visa.com
 www.visa.com.kh
 visa.co.ni
 www.cardinalcommerce.com
-usa.visa.com
 www.visa.co.il
+usa.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -2317,7 +2317,6 @@ www.cheapcaribbean.com
 login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
-sso.oft.hyatt.com
 upsell.hyatt.com
 res.breathlessresorts.com
 res.skyteam.com
@@ -2332,6 +2331,7 @@ www.blueskytours.com
 vacations.outrigger.com
 world.hyatt.com
 book.extraholidaysvacations.com
+sso.oft.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2594,11 +2594,11 @@ www.shipt.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
-*.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.goldman.com
 *.ayco.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2997,8 +2997,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3142,8 +3142,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3353,11 +3353,11 @@ geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
 web.snapchat.com
-kit.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
 *.sc-core.net
+kit.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3437,8 +3437,8 @@ next.airbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 *.airbnb.com
-www.hoteltonight.com
 *.muscache.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3624,8 +3624,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
