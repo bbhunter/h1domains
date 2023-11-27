@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 09:21:55 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 10:23:19 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -3344,9 +3344,9 @@ rt.playcanvas.com
 snappublisher.snapchat.com
 app.snapchat.com
 business.snapchat.com
+playcanvas.com
 my.snapchat.com
 store.snapchat.com
-playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
