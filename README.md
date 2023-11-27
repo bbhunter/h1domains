@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 18:27:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 19:19:29 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1232,8 +1232,8 @@ www.xvideos.red
 www.xnxx.com
 gold.xnxx.com
 https://www.xvideos.net/app/
-www.trafficfactory.com
 *.trafficfactory.biz
+www.trafficfactory.com
 main.trafficfactory.biz
 *.trafficfactory.biz
 www.trafficfactory.com
@@ -1924,8 +1924,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -3224,8 +3224,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
