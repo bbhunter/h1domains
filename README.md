@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 27 16:27:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Nov 27 17:22:26 UTC 2023)
 ```
 experiences.booking.com
 careers.booking.com
@@ -475,8 +475,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1241,8 +1241,8 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 *.elstc.co
+*.swiftype.com
 cloud.elastic.co
 www.elastic.co
 *.elastic.co
@@ -1261,10 +1261,10 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
-api.taxjar.com
 *.reckostaging.com
 *.getbouncer.com
 api.stripe.com
+api.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1298,8 +1298,8 @@ new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1308,8 +1308,8 @@ redditforbusiness.com
 matrix.redditspace.com
 accounts.reddit.com
 oauth.reddit.com
-mod.reddit.com
 www.reddit.com
+mod.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2227,8 +2227,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2997,8 +2997,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3425,8 +3425,8 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 m.airbnb.com
-*.airbnb-aws.com
 *.luxuryretreats.com
+*.airbnb-aws.com
 support-api.airbnb.com
 omgpro.airbnb.com
 *.atairbnb.com
