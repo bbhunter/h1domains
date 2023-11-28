@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 17:21:14 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 18:25:48 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1329,8 +1329,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.redditinc.com
-*.snooguts.net
 new.reddit.com
+*.snooguts.net
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -3178,8 +3178,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3314,8 +3314,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
@@ -3348,8 +3348,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
