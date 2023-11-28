@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 18:25:48 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 19:19:33 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,10 +13,10 @@ www.mercadolibre.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -509,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1327,10 +1327,10 @@ ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
-sh.reddit.com
-*.redditinc.com
 new.reddit.com
 *.snooguts.net
+*.redditinc.com
+sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
@@ -3554,8 +3554,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3692,8 +3692,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
