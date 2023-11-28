@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 16:30:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 17:21:14 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -13,10 +13,10 @@ www.mercadolibre.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -509,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -812,8 +812,10 @@ https://www.amazon.com/luna/*
 https://luna.amazon.com/*
 knox.beta.blendlabs.com
 knox.beta.blendlabs.com
+artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
+artifactory.corp.mongodb.com/
 checksw.com
 royal.checksw.com
 checksw.com
@@ -3312,8 +3314,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 apps.zendesk.com
 www.zendesk.com
 api.smooch.io
@@ -3554,8 +3556,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-*.twimg.com
 grok.x.ai
+*.twimg.com
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3879,6 +3881,7 @@ api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
 https://github.com/evolveum/midpoint
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 accounts.magento.cloud
 account.magento.com
@@ -4085,6 +4088,12 @@ www.legalrobot-test.com
 app.legalrobot-test.com
 *.secnews.gr
 *.secnews.gr
+api.kiwi.ki
+portal.kiwi.ki
+mobile.kiwi.ki
+api.kiwi.ki
+mobile.kiwi.ki
+portal.kiwi.ki
 provider.enter.health
 api.enter.health
 login.enter.health
