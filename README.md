@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 22:19:56 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 23:21:46 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1960,8 +1960,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2644,8 +2644,8 @@ apigw.foliofn.com
 *.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
-*.finlife.com
 *.goldmansachs.com
+*.finlife.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3033,8 +3033,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 support.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3556,8 +3556,8 @@ www.greenhouse.io
 *.vine.co
 x.com
 *.twitter.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
