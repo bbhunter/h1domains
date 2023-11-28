@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 28 21:19:00 UTC 2023)
+## Domains with Bounties (Last Updated Tue Nov 28 22:19:56 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -66,8 +66,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -509,8 +509,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1277,9 +1277,9 @@ main.trafficfactory.biz
 *.found.io
 *.elasticnet.co
 *.eops.nl
-*.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elstc.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1960,8 +1960,8 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
@@ -2655,7 +2655,7 @@ api.foliofn.com
 *.gsam.com
 *.gs.de
 *.gs.com
-*.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3448,8 +3448,8 @@ careers.ui.com
 ispdesign.ui.com
 ca.store.ui.com
 me.store.ui.com
-magento.com
 repo.magento.com
+magento.com
 magentolive.com
 marketplace.magento.com
 magentocommerce.com
