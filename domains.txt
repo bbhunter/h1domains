@@ -4774,8 +4774,8 @@ www.alohi.com
 *.cartus.com
 *.leadrouter.com
 *.bhgre.*
-*.century21.*
 *.era.com
+*.century21.*
 *.nrtllc.*
 *.sothebysrealty.*
 *.corcoran.*
@@ -6335,8 +6335,8 @@ new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
