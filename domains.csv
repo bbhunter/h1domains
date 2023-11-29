@@ -2936,8 +2936,8 @@ grindr,*.grindr.mobi,True
 grindr,web.grindr.com,True
 grindr,*.dev.grindr.io,False
 grindr,preprod1.grindr.com,False
-skinport,app.skinport.com,True
 skinport,api.skinport.com,True
+skinport,app.skinport.com,True
 skinport,skinport.com,True
 skinport,skinport.com,True
 skinport,app.skinport.com,True
@@ -6057,8 +6057,8 @@ stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
 stripe,*.getbouncer.com,True
-stripe,api.stripe.com,True
 stripe,api.taxjar.com,True
+stripe,api.stripe.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
@@ -10298,8 +10298,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10784,8 +10784,8 @@ security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
-security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
+security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,errors.hackerone.net,True
