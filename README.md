@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 22:19:31 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 23:21:48 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -2658,11 +2658,11 @@ apigw.foliofn.com
 *.vennhypotheken.nl
 *.honestdollar.com
 *.global-liquidity.gs.com
-*.nextcapital.com
 *.gspublishing.com
 goldmansachsindices.com
 *.finlife.com
 *.goldmansachs.com
+*.nextcapital.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -2923,8 +2923,8 @@ api.grabpay.com
 *.grab.com
 gamma.grab.co
 jira.grab.com
-*.myteksi.net
 kartaview.org
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3365,8 +3365,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3571,8 +3571,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
