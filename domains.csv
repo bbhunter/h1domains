@@ -7710,8 +7710,8 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
@@ -10536,8 +10536,8 @@ x,twitterflightschool.com,False
 x,x.com,True
 x,*.twitter.com,True
 x,t.co,False
-x,*.twimg.com,True
 x,grok.x.ai,True
+x,*.twimg.com,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
