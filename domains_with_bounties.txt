@@ -40,8 +40,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -124,8 +124,8 @@ test.nicex.com
 prismalabsteam.com
 lensa-ai.com
 prisma-ai.com
-appapi.neuralprisma.com
 neuralprisma.com
+appapi.neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
