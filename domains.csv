@@ -4532,8 +4532,8 @@ planetart,*.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -4651,8 +4651,8 @@ shein,*.romwe.com,True
 shein,*.shein.com,True
 shein,*.romwe.com,True
 shein,*.sheingsp.com,True
-exness,my.exness.com,True
 exness,exnessaffiliates.com,True
+exness,my.exness.com,True
 exness,pay.ibex.exchange,True
 exness,exness.com,True
 exness,pwapi.ex2b.com,True
@@ -9406,8 +9406,8 @@ goldmansachs,*.global-liquidity.gs.com,True
 goldmansachs,*.nextcapital.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.finlife.com,True
+goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -10446,8 +10446,8 @@ airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,*.muscache.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.muscache.com,True
 airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
@@ -10536,8 +10536,8 @@ x,twitterflightschool.com,False
 x,x.com,True
 x,*.twitter.com,True
 x,t.co,False
-x,*.twimg.com,True
 x,grok.x.ai,True
+x,*.twimg.com,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True
