@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 17:22:22 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 18:28:09 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1016,9 +1016,9 @@ admin.instacart.com
 shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
-academy.databricks.com
 databricks.com
 accounts.cloud.databricks.com
+academy.databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -1549,8 +1549,8 @@ api.sharefile.com
 (yoursubdomain).sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-www.cloud.com
 accounts.cloud.com
+www.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -2672,7 +2672,7 @@ api.foliofn.com
 *.gsam.com
 *.gs.de
 *.folioinstitutional.com
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
