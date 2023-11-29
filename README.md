@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 15:23:42 UTC 2023)
+## Domains with Bounties (Last Updated Wed Nov 29 16:30:28 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-distribution-xml.booking.com
 accommodations.booking.com
+distribution-xml.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -586,8 +586,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1880,11 +1880,11 @@ faucet.polygon.technology
 *.securityservices.io
 *.skybettest.net
 *.sportinglife.com
-*.betfair.it
 *.skybingo.com
 *.skyvegas.com
 *.skybet.com
 *.betfair.com
+*.betfair.it
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2742,9 +2742,9 @@ testnet-croeseid-4.crypto.org
 crypto.org
 merchant.crypto.com
 tax.crypto.com
-pay.crypto.com
 app.mona.co
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 https://crypto.com/exchange
 app.mona.co
@@ -3195,8 +3195,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3573,8 +3573,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3722,8 +3722,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
