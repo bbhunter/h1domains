@@ -2096,8 +2096,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2644,8 +2644,8 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.foliofn.com
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
