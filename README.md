@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 17:21:27 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 18:26:54 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,8 +46,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -176,11 +176,11 @@ www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
-testapi.redoxengine.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 www.redoxengine.com
+testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 blob.gamma.redoxstage.com
@@ -2099,8 +2099,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2652,7 +2652,6 @@ apigw.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
-*.vennhypotheken.nl
 *.honestdollar.com
 *.global-liquidity.gs.com
 *.gspublishing.com
@@ -2660,6 +2659,7 @@ goldmansachsindices.com
 *.finlife.com
 *.goldmansachs.com
 *.nextcapital.com
+*.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
@@ -3065,12 +3065,6 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.rhinternal.net
 forum.portswigger.net
 portswigger.net
 portswigger.net
@@ -3349,9 +3343,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3556,10 +3550,10 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
-grok.x.ai
+*.twitter.com
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
@@ -3671,8 +3665,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
@@ -4090,6 +4084,12 @@ dns.alvosec.com
 cloud.alvosec.com
 mail.alvosec.com
 proton-api.alvosec.com
+*.robinhood.com
+*.robinhood.net
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.rhinternal.net
 www.legalrobot-test.com
 app.legalrobot.com
 www.legalrobot.com
