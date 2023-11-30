@@ -40,8 +40,8 @@ flights.booking.com
 admin.booking.com
 booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
 widget.rentalcars.com
@@ -2935,8 +2935,8 @@ preprod1.grindr.com
 web.grindr.com
 *.dev.grindr.io
 preprod1.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -2973,7 +2973,6 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.abb.com
-*.abb
 *.busch-jaeger.nl
 *.ability.abb
 *.fi.abb.com
@@ -2985,6 +2984,7 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.abb-drives.com
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.ch.abb.com
@@ -10125,8 +10125,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
