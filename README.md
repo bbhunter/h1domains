@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 29 23:21:48 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 01:14:43 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -599,9 +599,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
-*.jitsi.net
 *.8x8.vc
 connect.8x8.com
+*.jitsi.net
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gs.com
-*.folioclient.com
 *.gsam.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3274,8 +3274,8 @@ api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
 *.binary.com
-*.deriv.com
 smarttrader.deriv.com
+*.deriv.com
 *.deriv.cloud
 app.deriv.com
 oauth.deriv.com
@@ -3495,8 +3495,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
