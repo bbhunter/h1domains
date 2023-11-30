@@ -2984,8 +2984,8 @@ abb,*.cn.abb.com,False
 abb,*.de.abb.com,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
-abb,*.abb-drives.com,False
 abb,*.abb,False
+abb,*.abb-drives.com,False
 abb,*.stratus.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.ch.abb.com,False
@@ -3326,9 +3326,9 @@ us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 one_zero_vdp,*.onezerobank.com,False
 one_zero_vdp,*.onezerobank.com,False
-yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.otherside.xyz,True
 yuga_labs,*.yuga.com,True
+yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.10ktf.com,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
@@ -4903,9 +4903,9 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,docs.databricks.com,True
 databricks,demo.cloud.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,academy.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
@@ -8195,8 +8195,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sso.8x8.com,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
-8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
+8x8,pay.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10204,8 +10204,8 @@ deriv,derivws.com,True
 deriv,api.deriv.com,True
 deriv,*.derivws.com,True
 deriv,secure-dfadmin.deriv.com,True
-deriv,*.binary.com,True
 deriv,smarttrader.deriv.com,True
+deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,app.deriv.com,True
@@ -10631,8 +10631,8 @@ x,twitterflightschool.com,False
 x,*.twitter.com,True
 x,x.com,True
 x,t.co,False
-x,grok.x.ai,True
 x,*.twimg.com,True
+x,grok.x.ai,True
 x,gnip.com,True
 x,api.x.ai,True
 x,ide.x.ai,True

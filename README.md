@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 30 05:21:30 UTC 2023)
+## Domains with Bounties (Last Updated Thu Nov 30 06:25:27 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -674,9 +674,9 @@ doppler.team
 api.doppler.com
 dashboard.doppler.com
 share.doppler.com
-*.mdvmm.xyz
 *.otherside.xyz
 *.yuga.com
+*.mdvmm.xyz
 *.10ktf.com
 *.meebits.app
 *.cryptopunks.app
@@ -1016,9 +1016,9 @@ admin.instacart.com
 shoppers.instacart.com
 docs.databricks.com
 demo.cloud.databricks.com
-databricks.com
 accounts.cloud.databricks.com
 academy.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 labs.databricks.com
@@ -3273,8 +3273,8 @@ derivws.com
 api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-*.binary.com
 smarttrader.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 app.deriv.com
@@ -3573,8 +3573,8 @@ www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
-grok.x.ai
 *.twimg.com
+grok.x.ai
 gnip.com
 api.x.ai
 ide.x.ai
