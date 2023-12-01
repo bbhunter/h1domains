@@ -133,7 +133,6 @@ bms.cbreesi.com
 iopleasant.cbreesi.com
 lp1.cbreinvestors.com
 lp3.cbreinvestors.com
-pcg.cbre.com.au
 www.test-highstreet.cbre.es
 www.us.sequentra.net
 mail.cbreresidencial.es
@@ -163,6 +162,7 @@ gitlab.gallileo-frankfurt.com
 hosting.gallileo-frankfurt.com
 mailgate.gallileo-frankfurt.com
 mailserver.gallileo-frankfurt.com
+ns1.gallileo-frankfurt.com
 *.mainstreamsasp.com
 *.bovis.es
 *.cbreglobalinvestors.com
@@ -7457,6 +7457,7 @@ api.watsons.com.tw
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
+api.iciparisxl.lu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be

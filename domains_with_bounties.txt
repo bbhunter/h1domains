@@ -1694,6 +1694,7 @@ api.watsons.com.tw
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
+api.iciparisxl.lu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
