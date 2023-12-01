@@ -4615,8 +4615,8 @@ planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
 planetart,*.mycustomcase.com,False
-planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
+planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
 planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
@@ -4625,9 +4625,9 @@ planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,*.iseeme.com,False
 planetart,*.canvasworld.com,False
-planetart,*.cafepress.com,False
 planetart,*.personalcreations.com,False
 planetart,www.gifts.com,False
+planetart,*.cafepress.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
