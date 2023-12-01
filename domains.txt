@@ -1,6 +1,6 @@
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
@@ -1103,8 +1103,8 @@ https://simple-life-app.com/
 connect-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-lab.io
 api-sandbox.gocardless.com
+*.gocardless-lab.io
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
@@ -1167,8 +1167,8 @@ bakimonarim.shaya.com.tr
 shayakahve.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-*.mothercare.com.eg
 *.americaneagle.com.kw
+*.mothercare.com.eg
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1501,8 +1501,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -4617,8 +4617,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.simplytoimpress.com
 iseeme.com
-www.simplytoimpress.com
 www.cafepress.com
+www.simplytoimpress.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -9504,8 +9504,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-marquee.gs.com
 *.gs.com
+marquee.gs.com
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -10180,9 +10180,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
-smarttrader.deriv.com
 *.binary.com
 *.deriv.com
+smarttrader.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
@@ -10760,8 +10760,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
