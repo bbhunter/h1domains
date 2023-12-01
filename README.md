@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 01:20:49 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 02:39:46 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -147,9 +147,9 @@ pay-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
-*.gocardless-staging.io
 www.gocardless.com
 manage-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -3662,8 +3662,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com

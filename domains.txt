@@ -1111,9 +1111,9 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
-*.gocardless-staging.io
 www.gocardless.com
 manage-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -10723,8 +10723,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
