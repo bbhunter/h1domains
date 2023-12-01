@@ -7687,8 +7687,8 @@ flutteruki,*.skybet.co.uk,True
 flutteruki,*.ppbdev.com,True
 flutteruki,*.sbgservices.com,True
 flutteruki,*.skybetservices.com,True
-flutteruki,*.betfair.ro,True
 flutteruki,*.sbgtest.net,True
+flutteruki,*.platformservices.io,True
 flutteruki,*.betfair.com,True
 flutteruki,*.paddypower.com,True
 flutteruki,*.betfair.es,True
@@ -10318,10 +10318,10 @@ snapchat,www.bitmoji.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,my.snapchat.com,True
 snapchat,store.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
+snapchat,business.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
@@ -10776,9 +10776,9 @@ security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
-security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,hackerone.live,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
