@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 03:21:41 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 04:24:41 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-app.frontapp.com
 *.front.com
+app.frontapp.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -351,8 +351,8 @@ id.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 app.krisha.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -526,8 +526,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1704,7 +1704,6 @@ app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
 api.watsons.com.tw
-api.watsons.com.ph
 api.watsons.com.hk
 api.watsons.co.id
 app.watsons.com.tr
@@ -3174,8 +3173,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3550,8 +3549,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
