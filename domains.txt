@@ -4620,13 +4620,13 @@ iseeme.com
 www.cafepress.com
 www.simplytoimpress.com
 www.canvasworld.com
-*.gifts.com
 *.photoaffections.com
+*.gifts.com
 *.iseeme.com
 *.canvasworld.com
 *.personalcreations.com
-www.gifts.com
 *.cafepress.com
+www.gifts.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
