@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 10:24:25 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 11:19:44 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -217,8 +217,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-www.tecno-mobile.com
 *.palm.tech
+www.tecno-mobile.com
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -2118,8 +2118,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -3367,8 +3367,8 @@ create.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3666,8 +3666,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
