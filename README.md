@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  1 04:24:41 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  1 05:20:58 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -46,13 +46,13 @@ flights.booking.com
 booking.com
 admin.booking.com
 metasearch-api.booking.com
-accommodations.booking.com
 distribution-xml.booking.com
+accommodations.booking.com
 portal.taxi.booking.com
 taxi.booking.com
-widget.rentalcars.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
+widget.rentalcars.com
 cars.booking.com
 secure.booking.com
 webhooks.booking.com
@@ -182,8 +182,8 @@ launch.gamma.redoxstage.com
 www.redoxengine.com
 testapi.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
 blob.gamma.redoxstage.com
+dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
@@ -336,7 +336,6 @@ yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
-http://yourdomain.myfreshworks.com/crm
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 api.krisha.kz
@@ -702,8 +701,8 @@ www.expediaagents.com
 www.expediapartnersolutions.com
 www.orbitz.com
 www.hotels.com
-www.abritel.fr
 www.expediagroup.com
+www.abritel.fr
 www.flights.com
 www.travelocity.com
 www.vrbo.com
@@ -2666,9 +2665,9 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gs.de
 *.gsam.com
-*.folioinstitutional.com
-*.folioclient.com
 *.gs.com
+marquee.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3335,9 +3334,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3661,8 +3660,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack.com
 slack-imgs.com
