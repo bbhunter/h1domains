@@ -6055,9 +6055,9 @@ stripe,js.stripe.com,True
 stripe,www.stripe.partners,False
 stripe,app.taxjar.com,True
 stripe,*.reckostaging.com,True
-stripe,*.getbouncer.com,True
 stripe,api.taxjar.com,True
 stripe,api.stripe.com,True
+stripe,*.getbouncer.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
 stripe,*.touchtechpayments.com,True
