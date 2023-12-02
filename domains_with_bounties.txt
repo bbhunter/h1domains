@@ -1776,8 +1776,8 @@ crm.clario.co
 updatetracker.clario.co
 dcs.clario.co
 webapi.clario.co
-api.account.clario.co
 account.mackeeper.com
+api.account.clario.co
 chat-crm.clario.co
 yapi.clario.co
 kbill.mackeeper.com
@@ -2896,8 +2896,8 @@ grab.careers
 *.grabtaxi.com
 gifts.grab.com
 wiki.grab.com
-*.grabpay.com
 *.grab-sure.com
+*.grabpay.com
 xtramile.grabpay.com
 *.myteksi.com
 *.grab.co

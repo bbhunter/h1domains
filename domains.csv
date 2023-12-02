@@ -7562,8 +7562,8 @@ clario,crm.clario.co,True
 clario,updatetracker.clario.co,True
 clario,dcs.clario.co,True
 clario,webapi.clario.co,True
-clario,api.account.clario.co,True
 clario,account.mackeeper.com,True
+clario,api.account.clario.co,True
 clario,chat-crm.clario.co,True
 clario,yapi.clario.co,True
 clario,kbill.mackeeper.com,True
@@ -9783,8 +9783,8 @@ grab,grab.careers,True
 grab,*.grabtaxi.com,True
 grab,gifts.grab.com,True
 grab,wiki.grab.com,True
-grab,*.grabpay.com,True
 grab,*.grab-sure.com,True
+grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
 grab,*.myteksi.com,True
 grab,*.grab.co,True
