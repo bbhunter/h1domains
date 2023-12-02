@@ -9504,8 +9504,8 @@ api.foliofn.com
 *.gs.de
 *.gsam.com
 *.folioclient.com
-*.folioinstitutional.com
 *.gs.com
+marquee.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
