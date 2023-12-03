@@ -10123,9 +10123,9 @@ github,*.githubapp.com,True
 github,education.github.com,True
 github,npmjs.org,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,*.github.net,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
