@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 15:20:25 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 16:24:59 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -330,8 +330,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshservice.com
 yourdomain.freshcaller.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
@@ -381,9 +381,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -3557,8 +3557,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3639,12 +3639,12 @@ irccloud.com
 irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
-pro.coinbase.com
 custody.coinbase.com
 paradex.io
 *.cbhq.net
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
