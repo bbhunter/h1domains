@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  3 17:18:45 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec  3 18:23:35 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -2094,8 +2094,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2889,8 +2889,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.sellzone.com
 *.semrush.com
+*.sellzone.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
