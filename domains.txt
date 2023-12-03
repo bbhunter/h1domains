@@ -7198,9 +7198,9 @@ world.hey.com
 api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
-accounts.cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.com
+accounts.cloud.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -9493,9 +9493,9 @@ apigw.foliofn.com
 *.gspublishing.com
 goldmansachsindices.com
 *.finlife.com
-*.goldmansachs.com
 *.nextcapital.com
 *.vennhypotheken.nl
+*.goldmansachs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 research.gs.com
