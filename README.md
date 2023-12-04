@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 15:23:18 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 16:32:32 UTC 2023)
 ```
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadolibre.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -178,8 +178,8 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
-launch.gamma.redoxstage.com
 testapi.redoxengine.com
+launch.gamma.redoxstage.com
 www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
@@ -676,8 +676,8 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.otherside.xyz
-*.yuga.com
 *.mdvmm.xyz
+*.yuga.com
 *.10ktf.com
 *.meebits.app
 *.cryptopunks.app
@@ -928,8 +928,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 app.smtp2go.com
-api.smtp2go.com
 smtp2go.com
+api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1607,8 +1607,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
@@ -1875,8 +1875,8 @@ faucet.polygon.technology
 *.skybingo.com
 *.skyvegas.com
 *.skybet.com
-*.betfair.com
 *.betfair.it
+*.betfair.com
 *.betfair.se
 *.skygamingcontent.com
 *.skypoker.com
@@ -2094,8 +2094,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2763,8 +2763,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3189,8 +3189,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3351,8 +3351,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3386,8 +3386,8 @@ my.snapchat.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
