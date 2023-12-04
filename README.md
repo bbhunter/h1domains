@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 11:20:28 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 12:36:18 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -217,8 +217,8 @@ explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
 www.mobile-phantom.com
-*.palm.tech
 www.tecno-mobile.com
+*.palm.tech
 security.tecno.com
 *.palm.tech
 www.tecno-mobile.com
@@ -2833,8 +2833,8 @@ api.blockscore.com
 demo.plaid.com
 plaid.com
 *.securecircle.com
-*.humio.com
 www.crowdstrike.com
+*.humio.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
@@ -2889,8 +2889,8 @@ privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
 *.scatec.io
-*.semrush.com
 *.sellzone.com
+*.semrush.com
 *.myinsights.io
 *.seoab.io
 *.semrush.com
@@ -3042,8 +3042,8 @@ circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
