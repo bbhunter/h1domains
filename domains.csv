@@ -1168,8 +1168,8 @@ alshaya,bakimonarim.shaya.com.tr,False
 alshaya,shayakahve.com.tr,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
-alshaya,*.mothercare.com.eg,False
 alshaya,*.americaneagle.com.kw,False
+alshaya,*.mothercare.com.eg,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2959,8 +2959,8 @@ abb,*.abb.cn,False
 abb,*.abb.co.in,False
 abb,*.abb.fr,False
 abb,*.abb.se,False
-abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
+abb,*.br-automation.com,False
 abb,*.tnb.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
@@ -2973,8 +2973,8 @@ abb,*.in.abb.com,False
 abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
-abb,*.abb.com,False
 abb,*.pl.abb.com,False
+abb,*.abb.com,False
 abb,*.busch-jaeger.nl,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
@@ -6195,11 +6195,11 @@ cedars-sinai,*SANGABRIELVALLEYHEALTHECONNECT.COM,False
 cedars-sinai,*sgveconnect.com,False
 cedars-sinai,*huntingtonsurgerycenter.com,False
 cedars-sinai,*legacy.huntingtonhospital.org,False
-cedars-sinai,*cedars-sinai.edu,False
 cedars-sinai,*Hmhdr.net,False
 cedars-sinai,*Hmhdr.org,False
 cedars-sinai,*Huntingtonhealthnetwork.org,False
 cedars-sinai,*cedars-sinai.org,False
+cedars-sinai,*cedars-sinai.edu,False
 cedars-sinai,*cedars-sinai.org,False
 cedars-sinai,*www.cshs.org,False
 cedars-sinai,*csmc.edu,False
@@ -7615,9 +7615,9 @@ playstation,direct.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
 playstation,my.playstation.com,True
-playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,ca.account.sony.com,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9508,7 +9508,7 @@ goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,marquee.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
