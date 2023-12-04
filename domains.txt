@@ -1134,8 +1134,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-help.coinhako.com
 www.coinhako.com
+help.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -2972,8 +2972,8 @@ http://miro.com/blog
 abb.com.br
 *.cms.abb
 *.abb.at
-*.pl.abb.com
 *.abb.com
+*.pl.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
