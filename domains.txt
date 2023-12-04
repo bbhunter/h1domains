@@ -1164,11 +1164,11 @@ kw.boots.com
 *.starbuckscardtr.com
 *.victoriassecret.com.qa
 bakimonarim.shaya.com.tr
-shayakahve.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
 *.americaneagle.com.kw
 *.mothercare.com.eg
+shayakahve.com.tr
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -4463,8 +4463,8 @@ banfield.us
 *.royalcanin-vouchers.com
 banfieldexchange.com
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.pl
+*.royalcanin.com
 *.mms.com
 *.vcahospitals.com
 *.moncse-royalcanin-siege.com
@@ -6057,8 +6057,8 @@ www.stripe.partners
 app.taxjar.com
 *.reckostaging.com
 api.taxjar.com
-api.stripe.com
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -10115,8 +10115,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
