@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 01:15:34 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec  4 02:35:46 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2121,8 +2121,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me

@@ -8675,8 +8675,8 @@ app.nordpass.com
 *.pubg.com
 *.pubg.com
 *.pubgesports.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
