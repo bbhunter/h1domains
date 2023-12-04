@@ -2663,9 +2663,9 @@ ring,*.immedia-semi.com/*,True
 ring,*.blinkforhome.com/*,True
 tide,login.tide.co,True
 tide,api.tideplatform.in,True
-tide,web.tide.co,True
 tide,api.tide.co,True
 tide,www.tide.co,True
+tide,web.tide.co,True
 tide,app.tide.co,True
 tide,web.tide.co,True
 tide,api.tide.co,True
@@ -8676,8 +8676,8 @@ pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line.me,True
 line,*.line-apps.com,True
+line,*.line.me,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
