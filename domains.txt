@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3133,12 +3133,12 @@ win.stanford.edu
 cardinalprintcenter.stanford.edu
 campusmap.stanford.edu
 authority.stanford.edu
-accessories.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
 stanfordwho.stanford.edu
 *.sahr.stanford.edu
+accessories.stanford.edu
 secureportal.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
@@ -7861,8 +7861,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
 api.cloudways.com
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -10123,8 +10123,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.github.net
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -10737,8 +10737,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
