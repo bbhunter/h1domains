@@ -1527,8 +1527,8 @@ shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
-redox_bbp,testapi.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
+redox_bbp,testapi.redoxengine.com,True
 redox_bbp,www.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
@@ -4620,8 +4620,8 @@ planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
 planetart,iseeme.com,False
-planetart,www.cafepress.com,False
 planetart,www.simplytoimpress.com,False
+planetart,www.cafepress.com,False
 planetart,www.canvasworld.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
@@ -7861,9 +7861,9 @@ digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,api.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,*.digitalocean.com,False
+digitalocean,api.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
@@ -9612,8 +9612,8 @@ newrelic,*.nr-ops.net,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
-newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
+newrelic,one.newrelic.com,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -10307,8 +10307,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,businesshelp.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True

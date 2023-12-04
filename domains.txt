@@ -1526,8 +1526,8 @@ www.shi.com
 https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
-testapi.redoxengine.com
 launch.gamma.redoxstage.com
+testapi.redoxengine.com
 www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
@@ -4619,8 +4619,8 @@ www.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
 iseeme.com
-www.cafepress.com
 www.simplytoimpress.com
+www.cafepress.com
 www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
@@ -7860,9 +7860,9 @@ developers.cloudways.com
 cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
-api.digitalocean.com
 api.cloudways.com
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -9611,8 +9611,8 @@ rpm.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
-one.newrelic.com
 *.newrelic.com
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -10306,8 +10306,8 @@ create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
 businesshelp.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
