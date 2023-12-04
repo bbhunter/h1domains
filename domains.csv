@@ -7202,8 +7202,8 @@ citrix,api.sharefile.com,True
 citrix,sf-rp-eu.sharefile.com,True
 citrix,*.browser.cloud.com,True
 citrix,www.cloud.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,accounts.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
 citrix,eu.cloud.com,True
 citrix,onboarding.cloud.com,True
 citrix,(yoursubdomain).sf-api.com,True
@@ -9507,8 +9507,8 @@ goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.folioclient.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,marquee.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
