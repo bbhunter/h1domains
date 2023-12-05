@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 13:26:41 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 14:22:48 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -42,9 +42,9 @@ chat.booking.com
 experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 admin.booking.com
 booking.com
+flights.booking.com
 metasearch-api.booking.com
 accommodations.booking.com
 portal.taxi.booking.com
@@ -1933,8 +1933,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-music.amazon.com
 api.amazon.com
+music.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -3258,8 +3258,8 @@ api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 secure-dfadmin.deriv.com
-*.binary.com
 *.deriv.com
+*.binary.com
 oauth.deriv.com
 app.deriv.com
 *.deriv.cloud
@@ -3349,8 +3349,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3693,8 +3693,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
