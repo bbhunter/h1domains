@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  4 23:21:53 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 01:16:59 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -345,15 +345,15 @@ app.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
 app.avtoelon.uz
-avtoelon.uz
 m.krisha.kz
+avtoelon.uz
 m.avtoelon.uz
 id.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 app.krisha.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1969,10 +1969,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.1688.com
 *.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3385,9 +3385,9 @@ my.snapchat.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 www.bitmoji.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
