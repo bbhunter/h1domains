@@ -1112,8 +1112,8 @@ oauth-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless-cicd.io
 www.gocardless.com
-*.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -4415,7 +4415,6 @@ www.fossilsg.com
 https://smartstore.naver.com/fossilkorea
 watchstationhk.com
 www.watchstationindia.com
-10tenmagazine.com
 54fossil.com
 abacuswatches.com
 abacuswatches.net
@@ -4676,6 +4675,7 @@ relicstore.com
 relicwatch.com
 relicwatches.com
 relicwatches.net
+shopcatchin.com
 *.healthandhealingny.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
@@ -10462,8 +10462,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net

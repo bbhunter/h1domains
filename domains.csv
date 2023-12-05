@@ -1113,8 +1113,8 @@ gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,www.gocardless.com,True
-gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,*.gocardless-cicd.io,True
@@ -4416,7 +4416,6 @@ fossil,www.fossilsg.com,False
 fossil,https://smartstore.naver.com/fossilkorea,False
 fossil,watchstationhk.com,False
 fossil,www.watchstationindia.com,False
-fossil,10tenmagazine.com,False
 fossil,54fossil.com,False
 fossil,abacuswatches.com,False
 fossil,abacuswatches.net,False
@@ -4677,6 +4676,7 @@ fossil,relicstore.com,False
 fossil,relicwatch.com,False
 fossil,relicwatches.com,False
 fossil,relicwatches.net,False
+fossil,shopcatchin.com,False
 mount-sinai-health,*.healthandhealingny.org,False
 mount-sinai-health,*.nyeesurgnet.com,False
 mount-sinai-health,*.dubinbreastcenter.com,False
@@ -10463,8 +10463,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
