@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  5 01:16:59 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec  5 02:35:50 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -1025,10 +1025,10 @@ support.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 community.databricks.com
-partners.databricks.com
 advocates.databricks.com
 help.databricks.com
 customer-academy.databricks.com
+partners.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1607,8 +1607,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com

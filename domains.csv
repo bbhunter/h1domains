@@ -4912,10 +4912,10 @@ databricks,support.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,marketplace.databricks.com,True
 databricks,community.databricks.com,True
-databricks,partners.databricks.com,True
 databricks,advocates.databricks.com,True
 databricks,help.databricks.com,True
 databricks,customer-academy.databricks.com,True
+databricks,partners.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
@@ -7266,8 +7266,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
