@@ -10226,8 +10226,8 @@ secure-dfadmin.deriv.com
 *.deriv.com
 *.binary.com
 oauth.deriv.com
-app.deriv.com
 *.deriv.cloud
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
