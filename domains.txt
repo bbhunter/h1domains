@@ -1535,8 +1535,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -9578,8 +9578,6 @@ storefront.steampowered.com
 wiki.teamfortress.com
 auth.crypto.com
 www.crypto.com
-testnet-croeseid-4.crypto.org
-crypto.org
 merchant.crypto.com
 tax.crypto.com
 app.mona.co
@@ -9593,8 +9591,6 @@ merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 https://crypto.com/defi/
-crypto.org
-testnet-croeseid-4.crypto.org
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
