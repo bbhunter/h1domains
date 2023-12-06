@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 19:17:19 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 20:22:39 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -2639,7 +2639,6 @@ www.shipt.com
 *.liberapay.com
 *.liberapay.com
 *.gs-mosaic.gs.com
-*.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
@@ -2647,6 +2646,7 @@ apigw.foliofn.com
 *.foliofn.com
 *.ayco.com
 *.goldman.com
+*.unitedcp.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3087,10 +3087,10 @@ www.starbucks.de
 app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
-login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
+login.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -3349,9 +3349,9 @@ shopifyinbox.com
 partners.shopify.com
 *.shopifykloud.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3556,8 +3556,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
