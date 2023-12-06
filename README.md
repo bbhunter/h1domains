@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  6 14:21:47 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec  6 15:25:50 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -42,9 +42,9 @@ chat.booking.com
 careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
-admin.booking.com
 flights.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -187,8 +187,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -251,13 +251,13 @@ www.visa.co.in
 www.currencycloud.com
 visa.com.ru
 bb.visa.com
-aw.visa.com
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
 www.cardinalcommerce.com
 www.visa.co.il
 usa.visa.com
+aw.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.ke
@@ -1546,8 +1546,8 @@ api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
 accounts.cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 eu.cloud.com
 onboarding.cloud.com
 (yoursubdomain).sf-api.com
@@ -2096,8 +2096,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
