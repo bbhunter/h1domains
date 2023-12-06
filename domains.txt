@@ -10593,8 +10593,8 @@ api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
 *.livestream.com
-api.vhx.tv
 vhx.tv
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com

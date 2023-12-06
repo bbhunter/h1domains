@@ -10594,8 +10594,8 @@ vimeo,api.vimeo.com,True
 vimeo,vimeo.magisto.com,True
 vimeo,*.magisto.com,True
 vimeo,*.livestream.com,True
-vimeo,api.vhx.tv,True
 vimeo,vhx.tv,True
+vimeo,api.vhx.tv,True
 vimeo,*.new.livestream.com,True
 vimeo,checkout.vimeo.com,True
 vimeo,staging.magisto.com,True
