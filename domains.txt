@@ -37,8 +37,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -9039,8 +9039,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10303,9 +10303,9 @@ story.snapchat.com
 create.snapchat.com
 msg.playcanvas.com
 ads.snapchat.com
-businesshelp.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
