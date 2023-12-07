@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 20:21:28 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 21:20:11 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -13,10 +13,10 @@ www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
+www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -2005,8 +2005,8 @@ api.magic.link
 dashboard.fortmatic.com
 api.fortmatic.com
 fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -3184,8 +3184,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3643,7 +3643,6 @@ irc.irccloud.com
 team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
-paradex.io
 *.cbhq.net
 prime.coinbase.com
 pro.coinbase.com
@@ -3653,6 +3652,7 @@ api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3664,7 +3664,7 @@ institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 cloud.coinbase.com
-paradex.io
+coinbase.com
 *.base.org
 status.slack.com
 spaces.pm
