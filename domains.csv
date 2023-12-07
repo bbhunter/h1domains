@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -3468,8 +3468,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
 magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
+magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
@@ -5364,8 +5364,8 @@ krisp,help.krisp.ai,False
 krisp,jobs.krisp.ai,False
 krisp,url5145.krisp.ai,False
 krisp,upld.krisp.ai,True
-krisp,*.krisp.ai,True
 krisp,account.krisp.ai,True
+krisp,*.krisp.ai,True
 krisp,teams.krisp.ai,True
 krisp,api.krisp.ai,True
 krisp,download.krisp.ai,True
@@ -10263,8 +10263,8 @@ snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,web.snapchat.com,True
 snapchat,spectacles.com,True
+snapchat,web.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
