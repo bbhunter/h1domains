@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3780,7 +3780,6 @@ alsco,royal.checksw.com,True
 fossil,shard.wwwfeo.fossil.com.edgekey.net,False
 fossil,*.cdgfossil.com,False
 fossil,*.abacuswatches.com,False
-fossil,*.cmdportfolio.com,False
 fossil,*.dieseltimeframes.co.uk,False
 fossil,*.dieseltimeframes.de,False
 fossil,*.dieseltimeframes.kr,False
@@ -3827,6 +3826,7 @@ fossil,*.relicwatch.com,False
 fossil,*.skagen-designs.de,False
 fossil,*.skagen.co.uk,False
 fossil,*.skagen.co.za,False
+fossil,*.skagen.es,False
 fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
