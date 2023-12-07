@@ -38,8 +38,8 @@ bookingcom,careers.booking.com,True
 bookingcom,experiences.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -148,15 +148,11 @@ cbre,www.callawaydesigngroup.com,False
 cbre,help.facilitysource.com,False
 cbre,mta-sts.mail1.facilitysource.com,False
 cbre,cbreproperties.cz,False
-cbre,cbre-marketplace.com,False
 cbre,cbrelive.com,False
 cbre,www.navesylogisticacbre.com,False
 cbre,dev.www.cartonspleins.fr,False
-cbre,academy.gallileo-frankfurt.com,False
 cbre,acc.gallileo-frankfurt.com,False
-cbre,ag.gallileo-frankfurt.com,False
 cbre,bot.gallileo-frankfurt.com,False
-cbre,calendar.gallileo-frankfurt.com,False
 cbre,developer.gallileo-frankfurt.com,False
 cbre,download.gallileo-frankfurt.com,False
 cbre,gitlab.gallileo-frankfurt.com,False
@@ -164,6 +160,10 @@ cbre,hosting.gallileo-frankfurt.com,False
 cbre,mailgate.gallileo-frankfurt.com,False
 cbre,mailserver.gallileo-frankfurt.com,False
 cbre,ns1.gallileo-frankfurt.com,False
+cbre,post.gallileo-frankfurt.com,False
+cbre,pop.fmpilot2.org,False
+cbre,www.fmpilot2.org,False
+cbre,ftp.fmpilot2.net,False
 cbre,*.mainstreamsasp.com,False
 cbre,*.bovis.es,False
 cbre,*.cbreglobalinvestors.com,False
@@ -1109,8 +1109,8 @@ gocardless_bbp,*.gocardless-lab.io,True
 gocardless_bbp,pay-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.dev,False
 gocardless_bbp,xero-sandbox.gocardless.com,True
-gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless.com,False
+gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,www.gocardless.com,True
