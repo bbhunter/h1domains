@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  7 21:20:11 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec  7 22:21:34 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -43,8 +43,8 @@ careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2667,7 +2667,7 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioinstitutional.com
-*.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3089,8 +3089,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
@@ -3665,6 +3665,7 @@ api.coinbase.com
 api.custody.coinbase.com
 cloud.coinbase.com
 coinbase.com
+http://coinbase.com
 *.base.org
 status.slack.com
 spaces.pm
@@ -3697,8 +3698,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
+hackerone-user-content.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
@@ -3714,11 +3715,11 @@ www.hackerone.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 hackerone.live
 b5s.hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
