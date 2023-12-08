@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 08:26:00 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 09:21:46 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -488,8 +488,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1354,8 +1354,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -3082,9 +3082,9 @@ forum.portswigger.net
 https://enterprise-demo.portswigger.net/
 cart.starbucks.co.jp
 www.starbucks.fr
-www.starbucks.com.br
 www.starbucksreserve.com
 www.starbucks.co.uk
+www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
