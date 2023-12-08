@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 13:25:06 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 14:21:16 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -55,8 +55,8 @@ secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -2766,8 +2766,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -3387,10 +3387,10 @@ rt.playcanvas.com
 store.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
