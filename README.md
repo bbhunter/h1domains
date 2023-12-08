@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 05:19:50 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 06:25:18 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -91,8 +91,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
