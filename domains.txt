@@ -1021,8 +1021,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -2755,8 +2755,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 lifetouch.com
