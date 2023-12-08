@@ -2615,8 +2615,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -7260,10 +7260,10 @@ tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,careers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10258,8 +10258,8 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,www.bitmoji.com,True
-snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
+snapchat,app.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True

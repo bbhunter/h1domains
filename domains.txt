@@ -2614,8 +2614,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -7259,10 +7259,10 @@ partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -10257,8 +10257,8 @@ snappublisher.snapchat.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

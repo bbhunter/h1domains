@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 22:19:59 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec  8 23:20:48 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadopago.cl
@@ -333,8 +333,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1607,10 +1607,10 @@ partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3389,8 +3389,8 @@ snappublisher.snapchat.com
 my.snapchat.com
 business.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
