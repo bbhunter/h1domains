@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  8 23:20:48 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec  9 01:15:18 UTC 2023)
 ```
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -3089,8 +3089,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 app.starbucks.com
-www.starbucks.com.sg
 www.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 www.starbucks.co.kr
 www.starbucks.com.cn
@@ -3714,8 +3714,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
