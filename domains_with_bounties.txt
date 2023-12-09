@@ -495,8 +495,8 @@ watchdocs.indriverapp.com
 wga.volans.tech
 volans.tech
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 super-services.indriverapp.com
+file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com

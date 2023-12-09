@@ -2906,8 +2906,8 @@ watchdocs.indriverapp.com
 wga.volans.tech
 volans.tech
 injob.indriver.com
-file-storage-front.eu-east-1.indriverapp.com
 super-services.indriverapp.com
+file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -5728,7 +5728,6 @@ connections.deere.com
 machinereports.deere.com
 notifications.deere.com
 registration.deere.com
-rewards.deere.com
 powerplan.deere.com
 crm.surefireag.com
 support.surefireag.com
@@ -5759,6 +5758,7 @@ stellarsupport.deere.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 citratest.deere.com
 ims.tcms.tal.deere.com
+parts.deere.africa
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
