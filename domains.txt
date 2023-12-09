@@ -1090,8 +1090,8 @@ brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
 prismalabsteam.com
-lensa-ai.com
 prisma-ai.com
+lensa-ai.com
 neuralprisma.com
 appapi.neuralprisma.com
 neuralprisma.com
@@ -3137,8 +3137,8 @@ iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
 stanfordwho.stanford.edu
-*.sahr.stanford.edu
 accessories.stanford.edu
+*.sahr.stanford.edu
 secureportal.stanford.edu
 idp.stanford.edu
 sponsorship.stanford.edu
