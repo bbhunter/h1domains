@@ -7605,10 +7605,10 @@ wallets.api.playstation.com
 social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
-store.playstation.com
 direct.playstation.com
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
+store.playstation.com
 my.playstation.com
 *.playstation.net
 ca.account.sony.com
