@@ -3212,10 +3212,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+sso.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -3749,8 +3749,8 @@ a4k.amazon.com
 blueprints.amazon.com
 creator.amazon.com
 alexaanswers.amazon.com
-alexa.amazon.com
 read.amazon.com
+alexa.amazon.com
 skills-store.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -8183,11 +8183,11 @@ work.8x8.com
 8x8.force.com
 *.jitsi.org
 *.8x8.id
-sso.8x8.com
 platform.8x8.com
 www.8x8.com
 pay.8x8.com
 *.jitsi.net
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -10312,8 +10312,8 @@ careers.ui.com
 dev-training.ui.com
 wiki.ui.com
 rma.ui.com
-account.ui.com
 help.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
