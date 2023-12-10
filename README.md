@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 01:21:25 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 02:34:33 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -148,8 +148,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2052,10 +2052,10 @@ sso.marriott.com
 mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
-gatewaydsaptst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -3510,9 +3510,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
-*.livestream.com
 vhx.tv
 api.vhx.tv
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
