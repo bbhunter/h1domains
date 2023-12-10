@@ -2894,8 +2894,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,cargo.indrive.com,True
 indrive,*.indrive.com,True
+indrive,cargo.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,new-order.eu-east-1.indriverapp.com,True
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gs.de,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
