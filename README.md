@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 10 18:24:43 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 10 19:15:58 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -1024,9 +1024,9 @@ docs.databricks.com
 accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
-labs.databricks.com
 marketplace.databricks.com
 community.databricks.com
+labs.databricks.com
 advocates.databricks.com
 help.databricks.com
 customer-academy.databricks.com
@@ -2054,8 +2054,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -2667,7 +2667,7 @@ api.foliofn.com
 marquee.gs.com
 *.folioclient.com
 *.gs.com
-*.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
