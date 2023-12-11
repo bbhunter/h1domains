@@ -7446,9 +7446,9 @@ watson_group,www10.watsons.com.ph,True
 watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
-watson_group,www.watsons.co.id,True
 watson_group,www.watsons.com.tr,True
 watson_group,www.marionnaud.fr,True
+watson_group,www.watsons.co.id,True
 watson_group,app.marionnaud.cz,True
 watson_group,app.marionnaud.it,True
 watson_group,app.marionnaud.ro,True
@@ -7612,8 +7612,8 @@ playstation,store.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
-playstation,ca.account.sony.com,True
 playstation,my.account.sony.com,True
+playstation,ca.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -7948,8 +7948,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -9443,7 +9443,7 @@ goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.gs.com,True
-goldmansachs,*.gs.de,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
