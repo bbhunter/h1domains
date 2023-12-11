@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 01:15:52 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 02:33:47 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -43,8 +43,8 @@ experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2666,7 +2666,7 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.gs.com
+*.gs.de
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -2866,8 +2866,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.lahitapiola.fi
 *.tapiola.fi
+www.lahitapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi

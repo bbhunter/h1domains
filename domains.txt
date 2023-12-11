@@ -37,8 +37,8 @@ experiences.booking.com
 careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
-admin.booking.com
 booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2972,8 +2972,8 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
-*.abb.com
 *.baldor.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.motors.abb.com.cn
@@ -3303,8 +3303,8 @@ share.doppler.com
 *.USMISSION.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -9441,7 +9441,7 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.gs.com
+*.gs.de
 *.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
@@ -9658,8 +9658,8 @@ secure.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
 privatetarget-1-www.zigzag
-www.lahitapiola.fi
 *.tapiola.fi
+www.lahitapiola.fi
 www.tapiola.fi
 asiointi.lahitapiola.fi
 *.lahitapiolarahoitus.fi
