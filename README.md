@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 11 04:24:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 11 05:21:41 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -715,8 +715,8 @@ www.lastminute.com.au
 www.travelocity.ca
 www.fewo-direkt.de
 www.carrentals.com
-www.expedia.com
 www.bookabach.co.nz
+www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
@@ -2054,8 +2054,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
 jobs.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
@@ -3387,10 +3387,10 @@ rt.playcanvas.com
 store.snapchat.com
 snappublisher.snapchat.com
 my.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
