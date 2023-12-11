@@ -1148,7 +1148,6 @@ pmp.shaya.com.tr
 kw.shopjustice.me
 card.starbucks.com.kz
 *.aloyoga.com.kw
-*.alshayaenterprises.com
 *.americaneagle.com.bh
 *.westelm.com.kw
 *.thebodyshop.com.kw
@@ -1169,6 +1168,7 @@ shayakahve.com.tr
 *.mothercare.com.eg
 *.victoriassecret.com.qa
 *.starbuckscardtr.com
+*.alshayaenterprises.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2893,8 +2893,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -4613,9 +4613,9 @@ www.mycustomcase.com
 *.mycustomcase.com
 *.simplytoimpress.com
 www.photoaffections.com
-iseeme.com
 www.simplytoimpress.com
 www.cafepress.com
+iseeme.com
 www.canvasworld.com
 *.photoaffections.com
 *.gifts.com
@@ -7267,8 +7267,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -7764,8 +7764,8 @@ affiliate-program.amazon.com
 chat.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -7952,8 +7952,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -9424,10 +9424,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
 *.goldman.com
 *.unitedcp.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -9447,8 +9447,8 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.folioclient.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10218,8 +10218,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 *.shopifycloud.com
 shop.app
@@ -10227,9 +10227,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10717,8 +10717,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-hackerone-ext-content.com
 www.hackerone.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
