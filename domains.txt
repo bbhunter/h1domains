@@ -2,9 +2,9 @@ research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
+pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 auth.23andme.com
@@ -1162,8 +1162,8 @@ http://rei.com/rei-garage
 http://rei.com/adventures
 http://rei.com/learn/expert-advice
 http://rei.com/events
-www.coinhako.com
 help.coinhako.com
+www.coinhako.com
 www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
@@ -1563,8 +1563,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -5574,8 +5574,8 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
+www.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 www.recordedfuture.com
@@ -5729,7 +5729,6 @@ www.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-deere.africa
 dev-crm-connector.agrisync.com
 dev-cs-admin.agrisync.com
 dev-dc-service.agrisync.com
@@ -5779,6 +5778,7 @@ work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 citratest.deere.com
 ims.tcms.tal.deere.com
 parts.deere.africa
+contest.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -9942,9 +9942,9 @@ app.starbucks.com
 www.starbucks.com
 www.starbucks.com.sg
 www.starbucks.co.jp
-www.starbucks.co.kr
 login.starbucks.co.jp
 www.starbucks.com.cn
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
@@ -10078,8 +10078,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -10284,9 +10284,9 @@ store.snapchat.com
 snappublisher.snapchat.com
 www.bitmoji.com
 playcanvas.com
+my.snapchat.com
 app.snapchat.com
 business.snapchat.com
-my.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com

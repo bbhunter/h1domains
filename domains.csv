@@ -3,9 +3,9 @@ handle,domain,eligible_for_bounty
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
-23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -1163,8 +1163,8 @@ rei_bbp,http://rei.com/rei-garage,True
 rei_bbp,http://rei.com/adventures,True
 rei_bbp,http://rei.com/learn/expert-advice,True
 rei_bbp,http://rei.com/events,True
-coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
+coinhako,www.coinhako.com,True
 coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
@@ -1564,8 +1564,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -5575,8 +5575,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
+recorded-future,www.recordedfuture.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
@@ -5730,7 +5730,6 @@ elastic,*.elasticnet.co,True
 elastic,*.eops.nl,True
 elastic,www.elastic.co,True
 elastic,cloud.elastic.co,True
-john-deere,deere.africa,False
 john-deere,dev-crm-connector.agrisync.com,False
 john-deere,dev-cs-admin.agrisync.com,False
 john-deere,dev-dc-service.agrisync.com,False
@@ -5780,6 +5779,7 @@ john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
 john-deere,parts.deere.africa,False
+john-deere,contest.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -9943,9 +9943,9 @@ starbucks,app.starbucks.com,True
 starbucks,www.starbucks.com,True
 starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.co.jp,True
-starbucks,www.starbucks.co.kr,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
+starbucks,www.starbucks.co.kr,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
@@ -10079,8 +10079,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,api.github.com,True
 github,npmjs.com,True
+github,api.github.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,education.github.com,True
@@ -10285,9 +10285,9 @@ snapchat,store.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,www.bitmoji.com,True
 snapchat,playcanvas.com,True
+snapchat,my.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
-snapchat,my.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
