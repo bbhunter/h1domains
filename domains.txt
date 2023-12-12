@@ -1327,8 +1327,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.abnamro.nl
 *.tikkie.me
+*.abnamro.nl
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -3219,11 +3219,11 @@ sso.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
-*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -7943,8 +7943,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -8179,12 +8179,12 @@ cloud8.8x8.com
 work.8x8.com
 8x8.force.com
 *.jitsi.org
-*.8x8.id
 platform.8x8.com
 www.8x8.com
 pay.8x8.com
 *.jitsi.net
 sso.8x8.com
+*.8x8.id
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -9437,8 +9437,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.gs.com
 *.goldmansachs.com
 *.gs.com

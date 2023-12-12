@@ -1328,8 +1328,8 @@ abn_amro_vdp,*.abnamroinvestmentsolutions.com,False
 abn_amro_vdp,*.alfam.nl,False
 abn_amro_vdp,*.abnamro.com,False
 abn_amro_vdp,*abnamroprivatebanking.be,False
-abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.tikkie.me,False
+abn_amro_vdp,*.abnamro.nl,False
 abn_amro_vdp,*.abnamrolease.com,False
 abn_amro_vdp,*.abnamro.org,False
 abn_amro_vdp,*neuflizeobc.fr,False
@@ -3220,11 +3220,11 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
-8x8-bounty,*.8x8.id,True
 8x8-bounty,user-profile-staging.8x8.com,True
 8x8-bounty,platform.8x8pilot.com,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,cloud8.8x8.com,True
+8x8-bounty,*.8x8.id,True
 8x8-bounty,*.8x8staging.com,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,voapi.8x8.com,True
@@ -7944,8 +7944,8 @@ marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,activities.marriott.com,True
-marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
+marriott,gatewaydsaptst1.marriott.com,True
 marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
@@ -8180,12 +8180,12 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work.8x8.com,False
 8x8,8x8.force.com,False
 8x8,*.jitsi.org,False
-8x8,*.8x8.id,False
 8x8,platform.8x8.com,False
 8x8,www.8x8.com,False
 8x8,pay.8x8.com,False
 8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.8x8.id,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -9438,8 +9438,8 @@ goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,marquee.gs.com,True
-goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.de,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
