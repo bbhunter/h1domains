@@ -2892,8 +2892,8 @@ api.fastly.com
 manage.fastly.com
 api.fastly.com
 docs.fastly.com
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -7949,8 +7949,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -9443,8 +9443,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.gs.com
 *.goldmansachs.com
 *.gs.com

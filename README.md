@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 02:35:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 03:21:23 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -487,8 +487,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -2059,8 +2059,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2671,8 +2671,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.gsam.com
 marquee.gs.com
-*.folioinstitutional.com
 *.gs.de
+*.folioinstitutional.com
 *.gs.com
 *.goldmansachs.com
 *.gs.com
