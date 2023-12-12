@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 11:19:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 12:35:31 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
@@ -83,8 +83,8 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -352,8 +352,8 @@ m.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 app.krisha.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -381,9 +381,9 @@ prd-ring-web-us.prd.rings.solutions
 *.blinkforhome.com/*
 login.tide.co
 api.tideplatform.in
-www.tide.co
 web.tide.co
 api.tide.co
+www.tide.co
 app.tide.co
 web.tide.co
 api.tide.co
@@ -488,8 +488,8 @@ hiltonhotels.jp
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 cargo.indrive.com
-*.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -1658,8 +1658,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-3d.cs.money
 cs.money
+3d.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -2257,8 +2257,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2668,8 +2668,8 @@ api.foliofn.com
 *.gsam.com
 marquee.gs.com
 *.gs.de
-*.folioinstitutional.com
 *.gs.com
+*.folioclient.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3512,9 +3512,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 *.magisto.com
-vhx.tv
 api.vhx.tv
 *.livestream.com
+vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3562,8 +3562,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
