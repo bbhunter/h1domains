@@ -1163,12 +1163,12 @@ kw.boots.com
 bakimonarim.shaya.com.tr
 bathandbodyworks.ro/
 bathandbodyworks.ro
-*.americaneagle.com.kw
 shayakahve.com.tr
 *.mothercare.com.eg
 *.victoriassecret.com.qa
 *.starbuckscardtr.com
 *.alshayaenterprises.com
+*.americaneagle.com.kw
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -2614,8 +2614,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -6306,8 +6306,8 @@ artifactory-us.zebra.com
 zsl.zebra.com
 wfc.zebra.com
 *.cto-si.zebra.com
-*.fetchcore-cloud.com
 stage-www.zebra.com
+www.matrox.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -10353,8 +10353,8 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 exchange.adobe.com
-*.adobe.com
 auth.services.adobe.com
+*.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com

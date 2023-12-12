@@ -1164,12 +1164,12 @@ alshaya,kw.boots.com,False
 alshaya,bakimonarim.shaya.com.tr,False
 alshaya,bathandbodyworks.ro/,False
 alshaya,bathandbodyworks.ro,False
-alshaya,*.americaneagle.com.kw,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,*.alshayaenterprises.com,False
+alshaya,*.americaneagle.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2615,8 +2615,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -6307,8 +6307,8 @@ zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,zsl.zebra.com,False
 zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
-zebra_vdp,*.fetchcore-cloud.com,False
 zebra_vdp,stage-www.zebra.com,False
+zebra_vdp,www.matrox.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -10354,8 +10354,8 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,repo.magento.com,True
 adobe,magento.com,True
 adobe,exchange.adobe.com,False
-adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
