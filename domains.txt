@@ -1,15 +1,15 @@
 research.23andme.com
-mediacenter.23andme.com
 www.lemonaidhealth.com
+mediacenter.23andme.com
 clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -7413,8 +7413,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 support.cs.money
-cs.money
 3d.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -8838,6 +8838,7 @@ HOURLY-JOBS.NET
 JOBALINE.COM
 *.bvsnet.com.br
 *.efficientforms.com
+register.alertxpress.com
 *equifax.cl
 *equifax.hn
 *equifax.co.nz
@@ -8861,7 +8862,6 @@ efficientwotc.com
 ntcusa.com
 *.datacredito2.com
 *.datacredito3.com
-*.acertandosuascontas.com.br
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -8926,6 +8926,7 @@ BE-THE-AMERICAN-DREAM.ORG
 BE-THE-AMERICAN-DREAM.net
 BE-THE-AMERICAN-DREAM.COM
 https://vpoconfig.tools.prod.appriss.com
+register.alertxpress.com
 *equifax.com
 *equifax.com.ar
 *equifax.com.mx
@@ -9939,8 +9940,8 @@ card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com
-www.starbucks.com.sg
 app.starbucks.com
+www.starbucks.com.sg
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -10377,9 +10378,9 @@ nicetryapril.na1.echosignsandbox.com
 repo.magento.com
 magento.com
 exchange.adobe.com
-auth.services.adobe.com
 *.adobe.com
 *.adobeaemcloud.com
+auth.services.adobe.com
 *.tt.omtrdc.net
 *.omniture.com
 *.typekit.com
@@ -10737,10 +10738,10 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
