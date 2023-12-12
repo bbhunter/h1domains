@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 08:26:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 09:22:44 UTC 2023)
 ```
 www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
-www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.uy
+www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -487,8 +487,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-cargo.indrive.com
 *.indrive.com
+cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
@@ -1096,7 +1096,6 @@ api.evernote.com
 harmonixmusic.com
 wonderboxdev.com
 *.mediatonic.co.uk
-*.bcbits.com
 fortnite.com
 fallguys.com
 *.unrealtournament.com
@@ -1104,9 +1103,7 @@ fallguys.com
 capturingreality.com
 *.popjam.com
 *.3lateral.com
-*.bcbits.com
 *.hmxwebservices.com
-*.bcbits.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1131,7 +1128,6 @@ twinmotion.unrealengine.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
-*.bcbits.com
 *.amplitude-game.com
 *.audicagame.com
 *.dancecentral.com
@@ -2261,8 +2257,8 @@ app.command.cysiv.com
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 www.priceline.com
+www.getaroom.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
