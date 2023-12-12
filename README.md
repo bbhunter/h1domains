@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 20:21:58 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 21:20:25 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -629,8 +629,8 @@ jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
 *.jitsi.net
-sso.8x8.com
 *.8x8.vc
+sso.8x8.com
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1997,8 +1997,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2677,8 +2677,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.foliofn.com
 *.unitedcp.com
-*.ayco.com
 *.goldman.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2695,11 +2695,11 @@ goldmansachsindices.com
 research.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
-*.gsam.com
 marquee.gs.com
 *.gs.de
 *.gs.com
 *.folioclient.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3120,9 +3120,9 @@ www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com
 www.starbucks.com.sg
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3421,8 +3421,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 playcanvas.com
 my.snapchat.com
-app.snapchat.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
