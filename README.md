@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 17:22:13 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 12 18:27:08 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -12,10 +12,10 @@ pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
-you.23andme.com
 blog.23andme.com
 auth.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1047,9 +1047,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
 docs.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -3509,10 +3509,10 @@ next.airbnb.com
 *.withairbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnbcitizen.com
-*.airbnb.com
 *.muscache.com
+www.hoteltonight.com
+*.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
