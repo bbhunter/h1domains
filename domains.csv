@@ -3361,9 +3361,9 @@ expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.vrbo.com,True
 expediagroup_bbp,www.ebookers.com,True
-expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.lastminute.com.au,True
+expediagroup_bbp,www.cheaptickets.com,True
 expediagroup_bbp,www.travelocity.ca,True
 expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.carrentals.com,True
@@ -7459,6 +7459,7 @@ watson_group,api.watsons.com.hk,True
 watson_group,app.watsons.com.tr,True
 watson_group,api.iciparisxl.lu,True
 watson_group,www.kruidvat.nl,True
+watson_group,www.kruidvat.be,True
 watson_group,www.superdrug.com,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
@@ -10244,8 +10245,8 @@ snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
 snapchat,ads.snapchat.com,True
-snapchat,accounts.snapchat.com,True
 snapchat,forum.playcanvas.com,True
+snapchat,accounts.snapchat.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10555,8 +10556,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10701,8 +10702,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
