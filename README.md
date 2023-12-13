@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 12 23:21:41 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 01:15:36 UTC 2023)
 ```
 research.23andme.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
+www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
@@ -14,8 +14,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 api.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -629,8 +629,8 @@ jobs.kiwi.com
 work.8x8.com
 connect.8x8.com
 *.jitsi.net
-*.8x8.vc
 sso.8x8.com
+*.8x8.vc
 work-staging.8x8.com
 *.chalet.8x8.com
 uc.8x8pilot.com
@@ -1364,9 +1364,9 @@ www.urbanclap.com
 api.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-ads.reddit.com
 gql.reddit.com
 old.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2937,8 +2937,8 @@ privatetarget-1-www.zigzag
 *.sellzone.com
 *.grabtaxi.com
 grab.careers
-gifts.grab.com
 wiki.grab.com
+gifts.grab.com
 *.grab-sure.com
 *.grabpay.com
 xtramile.grabpay.com
@@ -3592,8 +3592,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3732,9 +3732,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

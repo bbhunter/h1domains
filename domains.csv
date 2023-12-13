@@ -1,7 +1,7 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,research.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
@@ -9,8 +9,8 @@ handle,domain,eligible_for_bounty
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -1194,10 +1194,10 @@ alshaya,bathandbodyworks.ro,False
 alshaya,shayakahve.com.tr,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.victoriassecret.com.qa,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.alshayaenterprises.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -3243,8 +3243,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.jitsi.net,True
-8x8-bounty,*.8x8.vc,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,*.8x8.vc,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,*.chalet.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
@@ -6444,9 +6444,9 @@ drugs_com,www.woolshed.com,False
 reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
-reddit,ads.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,old.reddit.com,True
+reddit,ads.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -9747,8 +9747,8 @@ bitwarden,help.bitwarden.com,False
 bitwarden,v4.passwordless.dev,False
 grab,*.grabtaxi.com,True
 grab,grab.careers,True
-grab,gifts.grab.com,True
 grab,wiki.grab.com,True
+grab,gifts.grab.com,True
 grab,*.grab-sure.com,True
 grab,*.grabpay.com,True
 grab,xtramile.grabpay.com,True
@@ -10582,8 +10582,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
@@ -10727,9 +10727,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
