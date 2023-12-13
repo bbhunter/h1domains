@@ -62,9 +62,9 @@ www.temu.com
 www.temu.com
 chat.booking.com
 experiences.booking.com
-careers.booking.com
 indicative-pricing.taxi.booking.com
 kyc-onboarding.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -1217,8 +1217,8 @@ shayakahve.com.tr
 *.victoriassecret.com.qa
 *.americaneagle.com.kw
 card.starbucks.com.kz
-*.starbuckscardtr.com
 *.alshayaenterprises.com
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -1736,8 +1736,8 @@ www.practicalmoneyskills.org
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *.mitsubishi-fuso.com
 *fleetboard.com
@@ -2679,8 +2679,8 @@ app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
 id.avtoelon.uz
-kolesa.kz
 m.avtoelon.uz
+kolesa.kz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -3618,7 +3618,6 @@ resmed.nl
 resmed.no
 resmed.dk
 provider.propellerhealth.biz
-patient.propellerhealth.biz
 resmedshop.de
 resmed.jp
 produktion.api.praxispad.de/
@@ -3626,6 +3625,7 @@ referenzkunden.api.praxispad.de
 app.medifox-therapie.de/
 app.citushealth.com/
 shop.resmed.com
+patient.propellerhealth.biz
 resmed.co.in
 resmed.es
 www.citushealth.com
@@ -4514,8 +4514,8 @@ banfieldexchange.com
 *.royalcanin-pethealthday.com
 *.teile-deine-erfahrung-mit-royal-canin.com
 banfieldfoundation.org
-*.pedigree.com
 *.royalcanin.ca
+*.pedigree.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -5478,8 +5478,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 *.wilmingtontrust.com
-*.leafnow.com
 *.mtb.com
+*.leafnow.com
 *.trustnota.com
 *.mtb.com
 *.wilmingtontrust.com
@@ -6532,8 +6532,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com

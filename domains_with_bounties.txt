@@ -62,9 +62,9 @@ www.temu.com
 www.temu.com
 chat.booking.com
 experiences.booking.com
-careers.booking.com
 indicative-pricing.taxi.booking.com
 kyc-onboarding.booking.com
+careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
@@ -392,8 +392,8 @@ app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
 id.avtoelon.uz
-kolesa.kz
 m.avtoelon.uz
+kolesa.kz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -1443,8 +1443,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
