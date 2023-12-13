@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 19:18:51 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 20:22:35 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -2360,8 +2360,8 @@ developers.smartsheet.com
 blog.creditkarma.com
 support.creditkarma.ca
 accounts.creditkarma.com
-www.creditkarma.ca
 api.creditkarma.com
+www.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3407,8 +3407,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
+accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3755,8 +3755,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
