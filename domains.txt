@@ -8,8 +8,8 @@ pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -76,9 +76,9 @@ autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
 webhooks.booking.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 booking.com
 secure.booking.com
 careers.booking.com
@@ -2834,8 +2834,8 @@ api-eu.floqast.app
 hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
-*.hilton.com.tr
 hiltonlocalbiz.com
+*.hilton.com.tr
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
@@ -5714,11 +5714,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.elasticnet.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
 cloud.elastic.co
+*.elasticnet.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -7974,8 +7974,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -10494,9 +10494,9 @@ next.airbnb.com
 *.byairbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
-*.muscache.com
 www.hoteltonight.com
 *.airbnb.com
+*.muscache.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
