@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 18:25:33 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 19:18:51 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
-clinic.lemonaidhealth.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 blog.23andme.com
 auth.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2583,8 +2583,8 @@ swiftfinancial.com
 *.paylution.com
 py.pl
 *.braintreepayments.com
-*.braintree-api.com
 *.xoom.com
+*.braintree-api.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -3142,9 +3142,9 @@ www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3408,8 +3408,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3439,12 +3439,12 @@ store.playcanvas.com
 map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
-snappublisher.snapchat.com
 www.bitmoji.com
 playcanvas.com
 my.snapchat.com
 business.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3773,9 +3773,9 @@ www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
-errors.hackerone.net
 hackerone.live
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
