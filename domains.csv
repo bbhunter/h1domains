@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -1586,8 +1586,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,10x.redoxengine.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -3169,8 +3169,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -4487,13 +4487,13 @@ mars,*.vetschoice.co.za,False
 mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
 mars,*.miroyalcanin.com.ar,False
-mars,*.banfield.com,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
 mars,*.royalcanin.be,False
 mars,*.mivetshop.com.ar,False
 mars,*.individualis.com,False
 mars,*.royalcanin.pt,False
+mars,*.banfield.com,False
 mars,*.orbitgum.com,False
 mars,*.extragum.com,False
 mars,*.jornadasroyalcanin.com.ar,False
@@ -6521,8 +6521,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,platform.remix.com,True
 ridewithvia,remix.com,True
+ridewithvia,platform.remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
@@ -10273,9 +10273,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

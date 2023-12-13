@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 17:21:44 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 18:25:33 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -237,8 +237,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -637,8 +637,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -1441,8 +1441,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-platform.remix.com
 remix.com
+platform.remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -3407,9 +3407,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

@@ -1,7 +1,7 @@
 mediacenter.23andme.com
 research.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 education.23andme.com
 store.23andme.com
 pd-api.polkadoc.com
@@ -1585,8 +1585,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -3168,8 +3168,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4486,13 +4486,13 @@ https://smartstore.naver.com/fossilkorea
 *.eukanubasportingdog.com
 banfield.us
 *.miroyalcanin.com.ar
-*.banfield.com
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
 *.royalcanin.be
 *.mivetshop.com.ar
 *.individualis.com
 *.royalcanin.pt
+*.banfield.com
 *.orbitgum.com
 *.extragum.com
 *.jornadasroyalcanin.com.ar
@@ -6520,8 +6520,8 @@ app.spiketrap.io
 www.spiketrap.io
 www.coinspot.com.au
 www.coinspot.com.au
-platform.remix.com
 remix.com
+platform.remix.com
 eu.remix.com
 global-api.citymapper.com
 global-api.citymapper.com
@@ -10272,9 +10272,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
