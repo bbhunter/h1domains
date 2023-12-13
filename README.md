@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 07:20:42 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 08:26:48 UTC 2023)
 ```
 research.23andme.com
 www.lemonaidhealth.com
@@ -69,42 +69,64 @@ www.temu.com
 chat.booking.com
 experiences.booking.com
 careers.booking.com
+indicative-pricing.taxi.booking.com
+kyc-onboarding.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 booking.com
 admin.booking.com
+supply-xml.booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
+phone-validation.taxi.booking.com
+taxis.booking.com
+*.rentalcars.com
 taxi.booking.com
 autocomplete.booking.com
 secure-supply-xml.booking.com
 widget.rentalcars.com
+paymentcomponent.booking.com
+paynotifications.booking.com
 webhooks.booking.com
 secure.booking.com
-account.booking.com
 cars.booking.com
+paybridge.booking.com
+account.booking.com
+*.booking.com
+*.rentalcars.com
 booking.com
 secure.booking.com
 careers.booking.com
 https://iphone-xml.booking.com/json/
+https://secure-iphone-xml.booking.com/json/
 account.booking.com
+kyc-onboarding.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
 supplier.auth.toag.booking.com
+paymentcomponent.booking.com
 metasearch-api.booking.com
 experiences.booking.com
 webhooks.booking.com
+taxis.booking.com
+paybridge.booking.com
+phone-validation.taxi.booking.com
+indicative-pricing.taxi.booking.com
 admin.booking.com
 chat.booking.com
 autocomplete.booking.com
 distribution-xml.booking.com
+paynotifications.booking.com
+supply-xml.booking.com
 accommodations.booking.com
 portal.taxi.booking.com
 flights.booking.com
 secure-supply-xml.booking.com
+http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
 portal.au.frontegg.com
@@ -376,8 +398,8 @@ app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
 id.avtoelon.uz
-m.avtoelon.uz
 kolesa.kz
+m.avtoelon.uz
 m.kolesa.kz
 app.krisha.kz
 api.avtoelon.uz
@@ -1047,9 +1069,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 docs.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1427,8 +1449,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2085,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3592,8 +3614,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
