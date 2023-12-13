@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 13 13:26:02 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 13 14:26:58 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -1343,8 +1343,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.swiftype.com
 *.elstc.co
-cloud.elastic.co
 *.elasticnet.co
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -3142,9 +3142,9 @@ www.starbucks.com.br
 card.starbucks.com.sg
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 app.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3244,9 +3244,9 @@ classroom.github.com
 *.githubapp.com
 education.github.com
 npmjs.org
-gist.github.com
 *.github.net
 *.githubusercontent.com
+gist.github.com
 github.com
 github.com
 api.github.com
@@ -4135,10 +4135,10 @@ help.unikrn.com
 promotions.unikrn.com
 unikrn.ly
 static.unkrn.com
-www.alvosec.com
 dns.alvosec.com
 cloud.alvosec.com
 proton-api.alvosec.com
+www.alvosec.com
 mail.alvosec.com
 www.alvosec.com
 dns.alvosec.com
