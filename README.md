@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 20:22:00 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 21:18:49 UTC 2023)
 ```
+www.lemonaidhealth.com
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-store.23andme.com
-education.23andme.com
 pd-api.polkadoc.com
+education.23andme.com
+store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 auth.23andme.com
@@ -2776,8 +2776,8 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 developer.valvesoftware.com
-store.steampowered.com
 help.steampowered.com
+store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 www.teamfortress.com
