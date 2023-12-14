@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 07:19:22 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 08:26:31 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-www.lemonaidhealth.com
 clinic.lemonaidhealth.com
+www.lemonaidhealth.com
 store.23andme.com
 education.23andme.com
 pd-api.polkadoc.com
@@ -74,9 +74,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
-admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
+admin.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -397,9 +397,9 @@ id.kolesa.kz
 app.avtoelon.uz
 avtoelon.uz
 m.krisha.kz
-id.avtoelon.uz
 m.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
@@ -542,12 +542,20 @@ ab-platform-api.eu-east-1.indriverapp.com
 cargo.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+external.indrive.dev
+auth.indrive.tech
+aws.indrive.tech
+ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
+argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
+auth2.indrive.tech
+debug.clairvoyance.indrive.tech
 wga.volans.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -569,6 +577,14 @@ file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 volans.tech
 wga.volans.tech
+argocd.indrive.dev
+ci.indrive.dev
+external.indrive.dev
+auth.indrive.tech
+auth2.indrive.tech
+aws.indrive.tech
+debug.clairvoyance.indrive.tech
+ingest.clairvoyance.indrive.tech
 web.grindr.com
 *.grindr.io
 *.grindr.mobi
@@ -1660,8 +1676,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 *.tiktokv.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2019,8 +2035,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -2107,8 +2123,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
+gatewaydsaptst1.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2593,8 +2609,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3614,8 +3630,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
