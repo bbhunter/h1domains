@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 06:25:33 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 07:19:22 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -2107,8 +2107,8 @@ mgs.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 activities.marriott.com
-reservations.all-inclusive.marriott.com
 gatewaydsaptst1.marriott.com
+reservations.all-inclusive.marriott.com
 jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
@@ -2968,8 +2968,8 @@ xtramile.grabpay.com
 manage.grab.co
 p.grabtaxi.com
 api.grabpay.com
-*.grab.com
 *.myteksi.com
+*.grab.com
 gamma.grab.co
 jira.grab.com
 kartaview.org
@@ -3275,8 +3275,8 @@ advisories.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3755,8 +3755,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
