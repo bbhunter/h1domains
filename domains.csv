@@ -9,14 +9,14 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,sapi-live.lh.us-west-2.prd.23andme.us,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -76,8 +76,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -1208,7 +1208,6 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
-alshaya,*.footlocker.com.eg,False
 alshaya,*.debenhams.sa,False
 alshaya,*.bathandbodyworks.com.kw,False
 alshaya,dev.alshaya.com,False
@@ -1226,6 +1225,7 @@ alshaya,*.alshayaenterprises.com,False
 alshaya,*.starbuckscardtr.com,False
 alshaya,card.starbucks.com.kz,False
 alshaya,*.victoriassecret.com.qa,False
+alshaya,*.footlocker.com.eg,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -2671,8 +2671,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.myfreshworks.com,True
+freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3426,9 +3426,9 @@ expediagroup_bbp,www.mrjet.se,True
 expediagroup_bbp,www.expediaagents.com,True
 expediagroup_bbp,www.expediapartnersolutions.com,True
 expediagroup_bbp,www.hotels.com,True
-expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.orbitz.com,True
+expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,www.travelocity.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -7751,9 +7751,9 @@ flutteruki,*.skybettest.net,True
 flutteruki,*.sportinglife.com,True
 flutteruki,*.skybingo.com,True
 flutteruki,*.skyvegas.com,True
-flutteruki,*.skybet.com,True
 flutteruki,*.betfair.it,True
 flutteruki,*.betfair.com,True
+flutteruki,*.skybet.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -9398,9 +9398,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
 paypal,*.paypalcorp.com,True
+paypal,*.braintreegateway.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
