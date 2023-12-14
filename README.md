@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 17:27:15 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 14 18:27:47 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -41,10 +41,10 @@ www.mercadolibre.com.uy
 www.mercadolivre.com.br
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -653,8 +653,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -686,7 +686,6 @@ sso.8x8pilot.com
 user-profile.8x8.com
 sms.8x8.com
 *.wavecell.com
-admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -2609,8 +2608,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3783,9 +3782,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-ctf.hacker101.com
 www.hackerone.com
 hackerone-ext-content.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live

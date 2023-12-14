@@ -42,10 +42,10 @@ mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -3191,8 +3191,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
+kiwicom,*.kiwi.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -3306,7 +3306,6 @@ kkr_vdp,ksam.com,False
 8x8-bounty,user-profile.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,*.wavecell.com,True
-8x8-bounty,admin.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jit.si,True
 8x8-bounty,*.jitsi.net,True
@@ -6172,10 +6171,10 @@ homebargains,hackerone-m1rtuq8orz.hbstaging.website,True
 aig,www-264.aig.com,False
 aig,www.vfis.com,False
 aig,www.glatfelters.com,False
-aig,www.layahealthcare.ie,False
 aig,www.lifeandretirement.aig.com,False
 aig,*.corebridgefinancial.com,False
 aig,www.rapidcover.ie,False
+aig,www.layahealthcare.ie,False
 aig,*.myretirementmanager.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
@@ -8242,10 +8241,10 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,get8x8.com,False
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
-8x8,admin.8x8.com,False
 8x8,connect.8x8.com,False
 8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
+8x8,admin.8x8.com,False
 8x8,*.fuze.com,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
@@ -9387,8 +9386,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -10789,9 +10788,9 @@ security,profile-photos.hackerone-user-content.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
