@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 15:23:15 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 16:27:45 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-pd-api.polkadoc.com
 store.23andme.com
 education.23andme.com
+pd-api.polkadoc.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
@@ -1420,12 +1420,12 @@ ads-api.reddit.com
 reddit.secure.force.com
 amp.reddit.com
 redditforbusiness.com
-*.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3728,9 +3728,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-hackerone-ext-content.com
 www.hackerone.com
 ctf.hacker101.com
+hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
