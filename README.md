@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 08:27:11 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 09:21:26 UTC 2023)
 ```
 research.23andme.com
-clinic.lemonaidhealth.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 education.23andme.com
 store.23andme.com
@@ -43,8 +43,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-www.mercadolibre.com.ar
 api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -653,8 +653,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -2165,8 +2165,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg

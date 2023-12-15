@@ -6,9 +6,9 @@ egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
-23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,www.lemonaidhealth.com,True
+23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
@@ -44,8 +44,8 @@ mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
@@ -132,8 +132,8 @@ bybit_fintech,*.bybit.com,True
 bybit_fintech,*.bybit.com,True
 navient_solutions,myaccount.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-navient_solutions,www.pamcollections.com,False
 navient_solutions,admin.msbnexus.navient.com,False
+navient_solutions,www.pamcollections.com,False
 navient_solutions,sandiegoadmin.dsmyportal.com,False
 navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.msbpay.com,False
@@ -3191,8 +3191,8 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,jobs.kiwi.com,True
 kiwicom,auth.skypicker.com,True
-kiwicom,*.skypicker.com,True
 kiwicom,*.kiwi.com,True
+kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
 kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
@@ -8068,8 +8068,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
