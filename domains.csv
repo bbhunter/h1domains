@@ -7,8 +7,8 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
-23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,clinic.lemonaidhealth.com,True
+23andme_bbp,www.lemonaidhealth.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,pd-api.polkadoc.com,True
@@ -76,8 +76,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -2961,8 +2961,8 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
 indrive,*.indriver.com,True
-indrive,ci.indrive.dev,True
 indrive,argocd.indrive.dev,True
+indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,watchdocs.indriverapp.com,True
@@ -6357,7 +6357,6 @@ zebra_vdp,brand.zebra.com,False
 zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
@@ -6365,6 +6364,7 @@ zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9371,8 +9371,8 @@ paypal,swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,py.pl,True
 paypal,*.braintreepayments.com,True
-paypal,*.xoom.com,True
 paypal,*.braintree-api.com,True
+paypal,*.xoom.com,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
 paypal,swiftcapital.com,True
