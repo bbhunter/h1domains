@@ -2,19 +2,19 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 14 23:20:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 01:17:50 UTC 2023)
 ```
 research.23andme.com
-www.lemonaidhealth.com
 mediacenter.23andme.com
+www.lemonaidhealth.com
 clinic.lemonaidhealth.com
-pd-api.polkadoc.com
 education.23andme.com
+pd-api.polkadoc.com
 store.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
-auth.23andme.com
 blog.23andme.com
+auth.23andme.com
 you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -380,8 +380,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
@@ -1673,10 +1673,10 @@ tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3455,11 +3455,11 @@ map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
-playcanvas.com
 my.snapchat.com
 business.snapchat.com
 app.snapchat.com
 snappublisher.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3629,8 +3629,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3769,9 +3769,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
