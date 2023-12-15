@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 21:19:45 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 22:20:53 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-clinic.lemonaidhealth.com
 www.lemonaidhealth.com
+clinic.lemonaidhealth.com
 store.23andme.com
 education.23andme.com
 pd-api.polkadoc.com
@@ -46,8 +46,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1675,8 +1675,8 @@ academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3410,10 +3410,10 @@ rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
-business.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
+business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3736,9 +3736,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 ctf.hacker101.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
