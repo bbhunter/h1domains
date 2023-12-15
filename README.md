@@ -2,20 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 14:21:47 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 15:23:15 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 www.lemonaidhealth.com
 clinic.lemonaidhealth.com
 pd-api.polkadoc.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -549,8 +549,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -1402,8 +1402,8 @@ api.reddit.com
 app.spiketrap.io
 gql.reddit.com
 old.reddit.com
-ads.reddit.com
 *.redditmedia.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2402,7 +2402,6 @@ res.marival.globalbookingsolutions.com
 res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 www.wynnvacations.com
-res.sunscaperesorts.com
 res.vacations.buschgardens.com
 res.universalorlandovacations.com
 book.beachbound.com
@@ -2426,20 +2425,21 @@ login.www.vaxvacationaccess.com
 assets.hyatt.com
 roominglist.hyatt.com
 upsell.hyatt.com
-res.breathlessresorts.com
 res.skyteam.com
 res.vacations.seaworld.com
 www.beachbound.com
-media.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 holidays-hk.fijiairways.com
 vacations.velasvallarta.com
 www.blueskytours.com
-vacations.outrigger.com
 world.hyatt.com
 book.extraholidaysvacations.com
 sso.oft.hyatt.com
 vacations.united.com
+soaext.oft.hyatt.com
+vacations.vallarta.grandvelas.com
+book.cheapcaribbean.com
+holidays-fj.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2468,7 +2468,6 @@ holidays-us.fijiairways.com
 images2.triseptsolutions.com
 res.marivalresidences.globalbookingsolutions.com
 res.nowresorts.com
-res.sunscaperesorts.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.buschgardens.com
 res.vacations.sesameplace.com
@@ -2487,8 +2486,6 @@ booking.beachbound.com
 book.beachbound.com
 book.extraholidaysvacations.com
 holidays-nz.fijiairways.com
-res.breathlessresorts.com
-res.dreamsresorts.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.marival.globalbookingsolutions.com
@@ -2502,14 +2499,12 @@ vacations.vallarta.grandvelas.com
 www.funjet.com
 www.universalorlandovacations.com
 www.wynnvacations.com
-www.amrcollection.com
 www.beachbound.com
 book.applevacations.com
 book.booktandl.com
 login.en.travelbrandsagent.com
 login.fr.travelbrandsagent.com
 login.www.vaxvacationaccess.com
-media.triseptsolutions.com
 new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
@@ -2517,12 +2512,10 @@ res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.zoetryresorts.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.grandclass.grandvelas.com
-vacations.outrigger.com
 vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
@@ -2898,8 +2891,8 @@ api.blockscore.com
 demo.plaid.com
 plaid.com
 *.securecircle.com
-www.crowdstrike.com
 *.humio.com
+www.crowdstrike.com
 www.crowdstrike.org
 *.crowdstrike.com
 hybrid-analysis.com
