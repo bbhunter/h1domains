@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 13:25:08 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 14:21:47 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -43,8 +43,8 @@ www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-api.mercadopago.com
 www.mercadolibre.com.ar
+api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -3501,8 +3501,8 @@ next.airbnb.com
 *.hoteltonight-test.com
 *.airbnbcitizen.com
 *.muscache.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
