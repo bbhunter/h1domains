@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 17:21:24 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 18:26:18 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -549,8 +549,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-argocd.indrive.dev
 ci.indrive.dev
+argocd.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -1424,8 +1424,8 @@ oauth.reddit.com
 mod.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-www.reddit.com
 *.reddithelp.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1600,6 +1600,14 @@ netlify-rum.netlify.app
 list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
+*.hey.com
+world.hey.com
+launchpad.37signals.com
+3.basecamp.com
+*.hey.com
+3.basecamp.com
+launchpad.37signals.com
+world.hey.com
 api.sharefile.com
 sf-rp-eu.sharefile.com
 *.browser.cloud.com
@@ -3888,14 +3896,6 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
-*.hey.com
-world.hey.com
-launchpad.37signals.com
-3.basecamp.com
-*.hey.com
-3.basecamp.com
-launchpad.37signals.com
-world.hey.com
 www.aiven.io
 help.aiven.io
 api.aiven.io
