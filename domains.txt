@@ -2960,8 +2960,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
-ci.indrive.dev
 argocd.indrive.dev
+ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
@@ -4443,6 +4443,8 @@ fossil-staging2.cloud.akeneo.com
 fossil.cloud.akeneo.com
 http://www.findemand.in/dmdprod/
 https://smartstore.naver.com/fossilkorea
+fgemp.fnfsale.in
+fossil.fnfsale.in
 *.healthandhealingny.org
 *.nyeesurgnet.com
 *.dubinbreastcenter.com
@@ -9520,6 +9522,7 @@ marquee.gs.com
 *.gs.com
 *.folioclient.com
 *.gsam.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -10787,9 +10790,9 @@ profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
