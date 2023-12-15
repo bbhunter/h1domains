@@ -34,8 +34,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,pd-api.polkadoc.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadopago.cl,True
+mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,www.mercadolivre.com.br,True
@@ -1737,8 +1737,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False

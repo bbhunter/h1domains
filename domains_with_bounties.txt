@@ -27,8 +27,8 @@ sapi-live.lh.us-west-2.prd.23andme.us
 pd-api.polkadoc.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadolibre.com.pe
 www.mercadopago.cl
+www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
