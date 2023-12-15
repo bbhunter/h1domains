@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 15 22:20:53 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 15 23:22:02 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -75,8 +75,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 admin.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -93,8 +93,8 @@ autocomplete.booking.com
 webhooks.booking.com
 secure.booking.com
 paybridge.booking.com
-cars.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1414,8 +1414,8 @@ sh.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -2165,8 +2165,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
