@@ -381,11 +381,11 @@ app.kolesa.kz
 api.kolesa.kz
 id.kolesa.kz
 app.avtoelon.uz
-m.krisha.kz
 avtoelon.uz
+m.krisha.kz
 m.avtoelon.uz
-id.avtoelon.uz
 kolesa.kz
+id.avtoelon.uz
 app.krisha.kz
 m.kolesa.kz
 api.avtoelon.uz
