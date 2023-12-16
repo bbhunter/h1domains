@@ -10153,8 +10153,8 @@ gitlab,*.gitlap.com,True
 gitlab,customers.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.org,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
