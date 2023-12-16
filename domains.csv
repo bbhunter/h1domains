@@ -10,9 +10,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -6212,8 +6212,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -7869,8 +7869,8 @@ alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.1688.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliyun.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8888,7 +8888,6 @@ equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
-equifax,*.wageverify.com,False
 equifax,*.accountscore.co.uk,False
 equifax,*.healthefxforms.us,False
 equifax,mail.ext-equifax.cl,False
@@ -8905,6 +8904,7 @@ equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
+equifax,*.acertandosuascontas.com.br,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -10578,8 +10578,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True

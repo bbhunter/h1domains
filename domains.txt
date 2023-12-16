@@ -9,9 +9,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 api.23andme.com
-you.23andme.com
 blog.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -6211,8 +6211,8 @@ www.travelguard.com
 *.blackrock.com
 *.blackrock.com
 *.ishares.com
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 *sd.invio.dev
@@ -7868,8 +7868,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8887,7 +8887,6 @@ JOBALINE.COM
 *equifax.es
 *.dicom.cl
 *.i2verify.com
-*.wageverify.com
 *.accountscore.co.uk
 *.healthefxforms.us
 mail.ext-equifax.cl
@@ -8904,6 +8903,7 @@ efficientwotc.com
 ntcusa.com
 *.datacredito2.com
 *.datacredito3.com
+*.acertandosuascontas.com.br
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10577,8 +10577,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
