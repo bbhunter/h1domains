@@ -2692,9 +2692,9 @@ apigw.foliofn.com
 *.gsselect.com
 *.marcus.co.uk
 *.unitedcp.com
-*.goldman.com
 *.ayco.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
