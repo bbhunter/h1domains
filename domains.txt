@@ -10,8 +10,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -5788,7 +5788,6 @@ powerplan.deere.com
 crm.surefireag.com
 support.surefireag.com
 toolbox.surefireag.com
-core.surepointag.com
 enterpriseenrollment.surepointag.com
 site.marksman.surepointag.com
 staging.marksman.surepointag.com
@@ -5816,6 +5815,7 @@ citratest.deere.com
 ims.tcms.tal.deere.com
 parts.deere.africa
 marksman.surepointag.com
+johndeereinnovation.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
