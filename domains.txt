@@ -10,8 +10,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1151,8 +1151,8 @@ https://simple-life-app.com/
 *.gocardless.io
 *.gocardless-banking.io
 connect-sandbox.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-lab.io
+api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.dev
 xero-sandbox.gocardless.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -9825,8 +9825,8 @@ chatdate.app
 zodia.studio
 eu1.badoo.com
 bma.badoo.com
-heyfiesta.com
 badoocdn.com
+heyfiesta.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
