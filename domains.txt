@@ -10,8 +10,8 @@ education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -5782,7 +5782,6 @@ johndeeretours.deere.com
 shop.deere.com
 connections.deere.com
 machinereports.deere.com
-notifications.deere.com
 registration.deere.com
 powerplan.deere.com
 crm.surefireag.com
@@ -5816,6 +5815,7 @@ ims.tcms.tal.deere.com
 parts.deere.africa
 marksman.surepointag.com
 johndeereinnovation.com
+parts.waratah.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
