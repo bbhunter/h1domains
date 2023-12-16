@@ -36,8 +36,8 @@ mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.ar,True
-mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
+mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -8023,9 +8023,9 @@ marriott,gatewaydsaptst1.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
-marriott,cpp.marriott.com,True
 marriott,all-inclusive.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
+marriott,cpp.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
