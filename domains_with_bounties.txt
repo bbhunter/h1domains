@@ -2691,10 +2691,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.ayco.com
 *.foliofn.com
 *.goldman.com
 *.unitedcp.com
+*.ayco.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
