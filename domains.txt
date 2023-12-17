@@ -9,11 +9,11 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 you.23andme.com
-auth.23andme.com
 api.23andme.com
 blog.23andme.com
-therapeutics.23andme.com
+auth.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1575,8 +1575,8 @@ https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptser
 fhir.redoxengine.com
 clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
-www.redoxengine.com
 testapi.redoxengine.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -10491,8 +10491,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
