@@ -3593,8 +3593,8 @@ www.divvyhomes.com
 *.avalara.io
 *.davosalestax.com
 *.track1099.com
-*.avalara.net
 *.ttrus.com
+*.avalara.net
 *.inposia.com
 *.3ce.com
 *.avalara.com
@@ -9890,11 +9890,11 @@ codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
 mercantile.wordpress.org
+doaction.org
 *.trac.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
