@@ -1549,8 +1549,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -9921,9 +9921,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -10215,8 +10215,8 @@ www.coursera.org
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io

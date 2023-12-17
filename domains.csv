@@ -1550,8 +1550,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -9922,9 +9922,9 @@ rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
 rockstargames,lifeinvader.com,True
 rockstargames,store.rockstargames.com,True
-rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
+rockstargames,socialclub.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10216,8 +10216,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True

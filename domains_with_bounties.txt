@@ -3093,9 +3093,9 @@ rockstarnorth.com
 circolocorecords.com/
 lifeinvader.com
 store.rockstargames.com
-socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3331,8 +3331,8 @@ secure-dfadmin.deriv.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
