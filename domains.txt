@@ -2895,8 +2895,8 @@ standard.paystack.co
 *.seedalliance.net
 * IPv4 addresses
 aso.apnic.net
-*.apnic.net
 *.apnic.foundation
+*.apnic.net
 *.apidt.org
 stats.labs.apnic.net
 nori.apnic.net
@@ -3427,9 +3427,9 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
 www.travelocity.ca
-www.fewo-direkt.de
 www.carrentals.com
 www.bookabach.co.nz
+www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
 www.ebookers.fi
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
-*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
