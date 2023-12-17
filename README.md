@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 04:23:13 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 05:20:16 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 you.23andme.com
 auth.23andme.com
 api.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -229,8 +229,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -1394,8 +1394,8 @@ api.reddit.com
 app.spiketrap.io
 gql.reddit.com
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -3494,8 +3494,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 www.hoteltonight.com
-*.hoteltonight-test.com
 *.airbnb.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
