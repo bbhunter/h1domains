@@ -9,10 +9,10 @@ egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3533,8 +3533,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,magiceden.io,True
 magic-eden,*.magiceden.dev,True
+magic-eden,magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -6376,6 +6376,7 @@ zebra_vdp,wfc.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,stage-www.zebra.com,False
 zebra_vdp,www.matrox.com,False
+zebra_vdp,connect.zebra.com,False
 zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7861,8 +7862,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,www.alibabagroup.com,True
 alibaba,*.tmall.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.alibabacloud.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True

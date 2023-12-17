@@ -8,10 +8,10 @@ research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-you.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -3532,8 +3532,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -6375,6 +6375,7 @@ wfc.zebra.com
 *.cto-si.zebra.com
 stage-www.zebra.com
 www.matrox.com
+connect.zebra.com
 *.cto-si.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7860,8 +7861,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
