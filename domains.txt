@@ -1583,8 +1583,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
