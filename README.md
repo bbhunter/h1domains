@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 01:21:26 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 17 02:36:01 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -759,9 +759,9 @@ www.mrjet.se
 www.expediaagents.com
 www.expediapartnersolutions.com
 www.hotels.com
-www.expediagroup.com
 www.orbitz.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
 www.ebookers.com
