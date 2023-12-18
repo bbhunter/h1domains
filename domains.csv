@@ -11,8 +11,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -10221,8 +10221,8 @@ zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True
-zendesk,zopim.com,True
 zendesk,api.getbase.com,True
+zendesk,zopim.com,True
 zendesk,www.zendesk.com,True
 zendesk,developer.zendesk.com,True
 zendesk,h1-your-domain.zendesk.com,True
@@ -10724,8 +10724,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

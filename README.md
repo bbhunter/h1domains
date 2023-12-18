@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 12:37:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 13:25:38 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -10,8 +10,8 @@ store.23andme.com
 education.23andme.com
 blog.23andme.com
 you.23andme.com
-auth.23andme.com
 api.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -3341,8 +3341,8 @@ www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
-zopim.com
 api.getbase.com
+zopim.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3715,8 +3715,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
