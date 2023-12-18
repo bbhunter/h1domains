@@ -66,9 +66,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
 supply-xml.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3057,8 +3057,8 @@ abb.com.br
 *.abb.ca
 *.abb.net
 *.abb.pl
-*.busch-jaeger.de
 *.ch.abb.com
+*.busch-jaeger.de
 *.abb.com
 *.abb
 *.tnb.com
@@ -6353,9 +6353,9 @@ downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
 cmm01.sl.zebra.com
+*.zebrasports.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7675,9 +7675,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 *.api.playstation.com
-direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -7861,8 +7861,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -10578,8 +10578,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com

@@ -60,9 +60,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
 supply-xml.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1872,9 +1872,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 *.api.playstation.com
-direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -2020,8 +2020,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3569,8 +3569,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

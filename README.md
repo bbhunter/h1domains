@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 07:20:19 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 08:28:31 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
@@ -66,9 +66,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
-booking.com
 *.booking.com
 supply-xml.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1878,9 +1878,9 @@ social.playstation.com
 api.direct.playstation.com
 transact.playstation.com
 *.api.playstation.com
-direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -2026,8 +2026,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.tmall.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
@@ -3575,8 +3575,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
