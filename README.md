@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 17 23:19:27 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 01:16:56 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 api.23andme.com
 blog.23andme.com
 auth.23andme.com
@@ -658,9 +658,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.jitsi.net
-sso.8x8.com
 *.8x8.vc
 connect.8x8.com
+sso.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -3143,9 +3143,9 @@ www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
 www.starbucks.com.sg
-www.starbucks.com
 app.starbucks.com
 secureui.starbucks.com
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
