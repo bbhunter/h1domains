@@ -1549,8 +1549,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.servicenow.com
 *.service-now.com
+*.servicenow.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
