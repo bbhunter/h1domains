@@ -10124,8 +10124,8 @@ github,*.githubapp.com,True
 github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
-github,*.githubusercontent.com,True
 github,gist.github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -10199,8 +10199,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True
@@ -10248,9 +10248,9 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,accounts.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
