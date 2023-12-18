@@ -4,14 +4,14 @@ www.egress.com
 reader.vdp-egress.com
 switch.vdp-egress.com
 www.egress.com
-research.23andme.com
 mediacenter.23andme.com
+research.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 auth.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -7333,9 +7333,9 @@ creatormarketplace.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
-effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7354,7 +7354,6 @@ www.pangleglobal.com
 *.lukwerks.com
 buy.logitech.com
 outage.logitech.com
-www.logitech.com.cn
 www.logitechstore.com.br
 alert.logitech.com
 *.crossclip.com
@@ -7362,6 +7361,7 @@ alert.logitech.com
 *.myharmony.com
 www.logitechg.com
 *.logitech.com
+www.logitech.com.cn
 *.streamlabscharity.com
 www.ultimateears.com
 logilife.logitech.com
@@ -7927,9 +7927,9 @@ developers.cloudways.com
 cloud.digitalocean.com
 marketplace.digitalocean.com
 169.254.169.254
-*.digitalocean.com
 api.cloudways.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hackathon-tracker.digitalocean.com
@@ -9384,9 +9384,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-*.paypalcorp.com
 *.braintreegateway.com
 paypalobjects.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -10246,8 +10246,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com

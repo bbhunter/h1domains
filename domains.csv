@@ -5,14 +5,14 @@ egress-vdp,www.egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
-23andme_bbp,research.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
+23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,blog.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -7334,9 +7334,9 @@ tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,effecthouse.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7355,7 +7355,6 @@ logitech,*.ultimateearsuniversity.com,False
 logitech,*.lukwerks.com,False
 logitech,buy.logitech.com,False
 logitech,outage.logitech.com,False
-logitech,www.logitech.com.cn,True
 logitech,www.logitechstore.com.br,False
 logitech,alert.logitech.com,False
 logitech,*.crossclip.com,False
@@ -7363,6 +7362,7 @@ logitech,*.logi.com,False
 logitech,*.myharmony.com,False
 logitech,www.logitechg.com,True
 logitech,*.logitech.com,False
+logitech,www.logitech.com.cn,True
 logitech,*.streamlabscharity.com,False
 logitech,www.ultimateears.com,True
 logitech,logilife.logitech.com,False
@@ -7928,9 +7928,9 @@ digitalocean,developers.cloudways.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,169.254.169.254,False
-digitalocean,*.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
@@ -9385,9 +9385,9 @@ paypal,api.loanbuilder.com,True
 paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
-paypal,*.paypalcorp.com,True
 paypal,*.braintreegateway.com,True
 paypal,paypalobjects.com,True
+paypal,*.paypalcorp.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -10247,8 +10247,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
