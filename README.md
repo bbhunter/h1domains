@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 18 08:28:31 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 18 09:22:57 UTC 2023)
 ```
 research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -25,8 +25,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
@@ -808,8 +808,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1666,9 +1666,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+careers.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -2184,8 +2184,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -2699,8 +2699,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.foliofn.com
 *.goldman.com
-*.unitedcp.com
 *.ayco.com
+*.unitedcp.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2718,7 +2718,6 @@ research.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 marquee.gs.com
-*.gs.de
 *.gs.com
 *.folioclient.com
 *.gsam.com
