@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 05:21:01 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 06:25:46 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -133,8 +133,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -774,12 +774,12 @@ www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
-www.expediapartnercentral.com
 www.ebookers.fi
 www.stayz.com.au
 www.wotif.com
 www.hotwire.com
 www.expediacruises.com
+www.expediapartnercentral.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -3367,8 +3367,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
