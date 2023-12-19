@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 03:23:42 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 04:25:46 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -67,8 +67,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
 supply-xml.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -667,8 +667,8 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
-cloud8.8x8.com
 *.chalet.8x8.com
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -2120,9 +2120,9 @@ gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 www.ritzcarlton.com
-cpp.marriott.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
+cpp.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
