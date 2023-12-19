@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 13:25:51 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 14:19:48 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -125,16 +125,16 @@ portal.au.frontegg.com
 api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -372,8 +372,8 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-yourdomain.freshcaller.com
 yourdomain.freshservice.com
+yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
