@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 09:20:36 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 10:24:46 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -439,8 +439,8 @@ firefox.settings.services.mozilla.com
 accounts.firefox.com
 push.services.mozilla.com
 sync.services.mozilla.com
-bugzilla.mozilla.org
 merino.services.mozilla.com
+bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
 hg.mozilla.org
@@ -2157,8 +2157,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3115,8 +3115,8 @@ your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
-*.lystit.com
 *.lyst.co
+*.lystit.com
 *.lyst.com
 mobileapi.lystit.com
 cdna.lystit.com
@@ -3492,8 +3492,8 @@ next.airbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
 *.muscache.com
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com
 *.airbnb.com
 assets.airbnb.com
 open.airbnb.com
