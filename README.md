@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 18:22:39 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 19:17:55 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -283,7 +283,6 @@ www.visa.com.cy
 www.visa.com.ge
 www.visa.com.hr
 www.visa.com.ms
-www.visa.com.sg
 www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
@@ -293,6 +292,7 @@ visa.com.ru
 bb.visa.com
 visa.com.jm
 www.visa.co.in
+www.visa.com.sg
 bq.visa.com
 www.visa.com.kh
 visa.co.ni
@@ -2593,8 +2593,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3574,8 +3574,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3728,8 +3728,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
