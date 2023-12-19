@@ -8,10 +8,10 @@ mediacenter.23andme.com
 research.23andme.com
 store.23andme.com
 education.23andme.com
-auth.23andme.com
 blog.23andme.com
 you.23andme.com
 api.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -84,9 +84,9 @@ autocomplete.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-cars.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2662,8 +2662,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -5256,6 +5256,7 @@ tuc.fun
 tuctime.it
 twobite.ca
 unclewallys.com
+www.clifbar.be
 www.clifbar.co.nz
 www.clifbar.co.uk
 www.clifbar.com.au
@@ -7451,8 +7452,8 @@ beam.enjin.io
 jumpnet.beam.enjin.io
 api.enjinx.io
 enjinx.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -8061,8 +8062,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -10578,8 +10579,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10724,8 +10725,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
