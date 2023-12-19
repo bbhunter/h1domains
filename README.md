@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 19 06:25:46 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 19 07:19:37 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
@@ -3320,8 +3320,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-app.deriv.com
 oauth.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
