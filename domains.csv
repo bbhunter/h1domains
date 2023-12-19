@@ -10,8 +10,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -68,8 +68,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -9101,8 +9101,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9377,8 +9377,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
