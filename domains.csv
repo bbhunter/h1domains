@@ -7,12 +7,12 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,education.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3023,8 +3023,8 @@ abb,*.abb.cn,False
 abb,*.abb.co.in,False
 abb,*.abb.fr,False
 abb,*.abb.se,False
-abb,*.br-automation.com,False
 abb,*.abb.com.cn,False
+abb,*.br-automation.com,False
 abb,*.busch-jaeger.nu,False
 abb,*.xc.abb.com,False
 abb,*.evcharging.abb.com,False
@@ -6213,8 +6213,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*sd.invio.dev,False
@@ -7169,9 +7169,9 @@ mendix,slm.store.mendix.com,False
 mendix,contributor.mendixcloud.com,False
 mendix,datalake-sync.apps.mendix.com,False
 mendix,employees.mendix.com,False
-mendix,revenuedatahub.mendixcloud.com,False
 mendix,*.timeseries.com,False
 mendix,*.mendix.com,False
+mendix,revenuedatahub.mendixcloud.com,False
 mendix,mxpeople.mendixcloud.com,False
 mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
@@ -8026,8 +8026,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
-marriott,marriottfranchisetransactions.marriott.com,True
 marriott,cpp.marriott.com,True
+marriott,marriottfranchisetransactions.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
@@ -8678,8 +8678,8 @@ pubg,*.pubgesports.com,False
 pubg,*.pubg.com,False
 pubg,*.pubg.com,False
 pubg,*.pubgesports.com,False
-line,*.line.me,True
 line,*.line-apps.com,True
+line,*.line.me,True
 line,*.line.biz,True
 line,*.line.naver.jp,True
 line,*.line.me,True
@@ -9375,8 +9375,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -10090,8 +10090,8 @@ nextcloud,newsletter.nextcloud.com,False
 pornhub,*.tube8.com,True
 pornhub,www.thumbzilla.com,True
 pornhub,www.modelhub.com,True
-pornhub,www.redtube.com,True
 pornhub,www.pornhub.com,True
+pornhub,www.redtube.com,True
 pornhub,www.pornhubpremium.com,True
 pornhub,www.redtubepremium.com,True
 pornhub,www.youpornpremium.com,True
@@ -10267,9 +10267,9 @@ snapchat,story.snapchat.com,True
 snapchat,create.snapchat.com,True
 snapchat,msg.playcanvas.com,True
 snapchat,businesshelp.snapchat.com,True
+snapchat,forum.playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,accounts.snapchat.com,True
-snapchat,forum.playcanvas.com,True
 snapchat,scan.snapchat.com,True
 snapchat,blog.playcanvas.com,True
 snapchat,relay.playcanvas.com,True
@@ -10377,8 +10377,8 @@ adobe,magento.com,True
 adobe,exchange.adobe.com,False
 adobe,auth.services.adobe.com,False
 adobe,*.adobeaemcloud.com,False
-adobe,*.adobe.com,False
 adobe,app.frame.io,False
+adobe,*.adobe.com,False
 adobe,*.tt.omtrdc.net,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
