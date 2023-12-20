@@ -3368,8 +3368,8 @@ us-department-of-state,*.USMISSION.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -10457,8 +10457,8 @@ airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
-airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
+airbnb,api.airbnb.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10630,9 +10630,9 @@ coinbase,*.cbhq.net,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True

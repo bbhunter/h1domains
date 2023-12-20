@@ -3367,8 +3367,8 @@ share.doppler.com
 *.AMERICA.GOV
 *.FSGB.GOV
 *.PEPFAR.GOV
-*.USEMBASSY.GOV
 *.STATE.GOV
+*.USEMBASSY.GOV
 *.USCONSULATE.GOV
 *.AMERICA.GOV
 *.DEVTESTFAN1.GOV
@@ -10456,8 +10456,8 @@ www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-api.airbnb.com
 www.airbnb.com
+api.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -10629,9 +10629,9 @@ custody.coinbase.com
 prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
+cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 *.base.org
