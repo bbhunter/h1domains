@@ -543,10 +543,10 @@ auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
 wga.volans.tech
-injob.indriver.com
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
+injob.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
