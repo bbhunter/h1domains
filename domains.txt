@@ -2682,8 +2682,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -6355,10 +6355,10 @@ zsbsupport.zebra.com
 downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
-cmm01.sl.zebra.com
 *.zebrasports.com
 *.profitect.com
 reflexisinc.com/
+cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7871,9 +7871,9 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.1688.com
-*.Daraz.com
 *.aliyun.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
