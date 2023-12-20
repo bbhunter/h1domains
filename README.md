@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 20 18:26:58 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 20 19:17:55 UTC 2023)
 ```
 mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -471,8 +471,8 @@ shavar.services.mozilla.com
 phabricator.allizom.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
-support.mozilla.org
 hg.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
@@ -2157,8 +2157,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3208,32 +3208,6 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-*.tube8.com
-www.thumbzilla.com
-www.modelhub.com
-www.pornhub.com
-www.redtube.com
-www.pornhubpremium.com
-www.redtubepremium.com
-www.youpornpremium.com
-www.youporn.com
-api.pornhub.com
-www.pornmd.com
-ht.pornhub.com
-mobile.pornhub.com
-*.tube8.com
-www.pornhub.com
-mobile.pornhub.com
-api.pornhub.com
-ht.pornhub.com
-www.pornhubpremium.com
-www.pornmd.com
-www.modelhub.com
-www.thumbzilla.com
-www.redtube.com
-www.redtubepremium.com
-www.youporn.com
-www.youpornpremium.com
 moneybird.com
 moneybirdstorage.com
 moneybird.com
@@ -3402,9 +3376,9 @@ store.snapchat.com
 www.bitmoji.com
 my.snapchat.com
 business.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
@@ -3574,8 +3548,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3619,8 +3593,8 @@ wordpress.com
 safe.tumblr.com
 mailpoet.com
 t.umblr.com
-*.tumblr.com
 www.tumblr.com
+*.tumblr.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
