@@ -6,12 +6,12 @@ switch.vdp-egress.com
 www.egress.com
 mediacenter.23andme.com
 research.23andme.com
-store.23andme.com
 education.23andme.com
+store.23andme.com
 blog.23andme.com
 auth.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -5026,7 +5026,6 @@ tuctime.it
 twobite.ca
 www.clifbar.pt
 mmmax.milka.de
-cadburyfc.com
 milka.ru
 oreo.ru
 fr.philadelphia.ch
@@ -5060,6 +5059,7 @@ nabiscoholiday.com
 fattorieosella.it
 milka.bg
 milka.cz
+cadburyworld.co.uk
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
@@ -5073,7 +5073,6 @@ mueller.milka.de
 de.oreo.eu
 nl.oreo.eu
 alpengold.me
-cadburyfc.com
 ticketing.cadburyfc.com
 oreo-la.com
 xn--80abwto.xn--p1ai
@@ -8152,9 +8151,9 @@ tco15.topcoder.com
 textsummarization.topcoder.com
 veterans.topcoder.com
 webhooks.topcoder.com
-wordpress.topcoder.com
 app.topcoder.com
 community.topcoder.com
+wordpress.topcoder.com
 arena.topcoder.com
 bugzilla.topcoder.com
 demo.topcoder.com

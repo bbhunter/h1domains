@@ -7,12 +7,12 @@ egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -5027,7 +5027,6 @@ mondelez,tuctime.it,False
 mondelez,twobite.ca,False
 mondelez,www.clifbar.pt,False
 mondelez,mmmax.milka.de,False
-mondelez,cadburyfc.com,False
 mondelez,milka.ru,False
 mondelez,oreo.ru,False
 mondelez,fr.philadelphia.ch,False
@@ -5061,6 +5060,7 @@ mondelez,nabiscoholiday.com,False
 mondelez,fattorieosella.it,False
 mondelez,milka.bg,False
 mondelez,milka.cz,False
+mondelez,cadburyworld.co.uk,False
 mondelez,mondelezinternational.com,False
 mondelez,ir.mondelezinternational.com,False
 mondelez,cadbury.co.uk,False
@@ -5074,7 +5074,6 @@ mondelez,mueller.milka.de,False
 mondelez,de.oreo.eu,False
 mondelez,nl.oreo.eu,False
 mondelez,alpengold.me,False
-mondelez,cadburyfc.com,False
 mondelez,ticketing.cadburyfc.com,False
 mondelez,oreo-la.com,False
 mondelez,xn--80abwto.xn--p1ai,False
@@ -8153,9 +8152,9 @@ topcoder,tco15.topcoder.com,False
 topcoder,textsummarization.topcoder.com,False
 topcoder,veterans.topcoder.com,False
 topcoder,webhooks.topcoder.com,False
-topcoder,wordpress.topcoder.com,False
 topcoder,app.topcoder.com,False
 topcoder,community.topcoder.com,False
+topcoder,wordpress.topcoder.com,False
 topcoder,arena.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
 topcoder,demo.topcoder.com,False
