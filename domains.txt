@@ -9,10 +9,10 @@ research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
-blog.23andme.com
 auth.23andme.com
 you.23andme.com
 api.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -26,8 +26,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.uy
-www.mercadopago.cl
 www.mercadolibre.com.pe
+www.mercadopago.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
 www.mercadolibre.com.mx
@@ -6336,11 +6336,11 @@ zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
 domore.zebra.com
-zsbportal.zebra.com
 mwwprod.zebra.engineering
 *.zebramwe.com
 fs.viq.zebra.com
 *.antuit.ai
+zsbportal.zebra.com
 global.zebra.com
 hcm.zebra.com
 test-marketing-api.zebra.com
@@ -9030,8 +9030,8 @@ www.bookingholdings.com
 *.capitalone360.com
 *.bluetarp.com
 *.capitalone.co.uk
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalonecards.com
 *.capitalonebank.com
 *.capitalone.ca
@@ -10181,8 +10181,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
