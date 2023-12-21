@@ -1,3 +1,4 @@
+https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
 education.23andme.com
@@ -2814,8 +2815,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 *.newrelic.com
-one.newrelic.com
 *.nr-ops.net
+one.newrelic.com
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
