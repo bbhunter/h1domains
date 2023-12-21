@@ -2,10 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 21 08:26:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 21 09:21:07 UTC 2023)
 ```
-mediacenter.23andme.com
 research.23andme.com
+mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
@@ -84,9 +84,9 @@ autocomplete.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-cars.booking.com
 account.booking.com
 secure.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -133,8 +133,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -1753,8 +1753,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
-www.marionnaud.fr
 www.watsons.co.id
+www.marionnaud.fr
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
