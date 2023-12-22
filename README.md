@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 22 22:18:52 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 22 23:20:43 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -35,9 +35,9 @@ www.mercadolibre.cl
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -2695,9 +2695,9 @@ research.gs.com
 api.foliofn.com
 *.advisorsolutions.gs.com
 marquee.gs.com
-*.folioclient.com
 *.gsam.com
 *.folioinstitutional.com
+*.gs.de
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3189,8 +3189,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3679,8 +3679,8 @@ reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
