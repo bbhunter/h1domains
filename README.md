@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 22 16:25:55 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 22 17:18:04 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -2581,9 +2581,9 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
-paypalobjects.com
 *.paypalcorp.com
 loanbuilder.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3189,8 +3189,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-api.github.com
 npmjs.com
+api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3319,8 +3319,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
