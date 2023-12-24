@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 17:18:53 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 18:24:12 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
 research.23andme.com
-education.23andme.com
 store.23andme.com
+education.23andme.com
 blog.23andme.com
 api.23andme.com
 you.23andme.com
@@ -2087,13 +2087,13 @@ maria.casino
 www.32red.com
 sso.marriott.com
 mgs.marriott.com
-gatewaydsaptst2.marriott.com
 www.marriott.com
+gatewaydsaptst2.marriott.com
 reservations.all-inclusive.marriott.com
-gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
 dcfgatewaytst1.marriott.com
+gatewaydsaptst1.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 all-inclusive.marriott.com
@@ -2134,8 +2134,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3218,8 +3218,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -3610,8 +3610,8 @@ blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
 pro.coinbase.com
-prime.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 international.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
