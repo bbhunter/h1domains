@@ -1742,7 +1742,6 @@ compumark.co.uk
 compumark.de
 compumark.es
 compumark.eu
-compumark.fr
 compumark.info
 compumark.jp
 compumarks.com
@@ -1783,6 +1782,7 @@ endnote360.com
 endnote.fi
 endnote.in
 endnote.jp
+endnote.ru
 cpaglobal.ru
 authorconnect-webofscience.com
 authorconnectwebofscience.com
@@ -9824,8 +9824,8 @@ label-studio-public.sonantic.io
 backstage.io
 api.dashlane.com
 logs.dashlane.com
-www.dashlane.com
 app.dashlane.com
+www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
 ws1.dashlane.com

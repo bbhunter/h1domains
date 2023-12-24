@@ -1743,7 +1743,6 @@ clarivate,compumark.co.uk,False
 clarivate,compumark.de,False
 clarivate,compumark.es,False
 clarivate,compumark.eu,False
-clarivate,compumark.fr,False
 clarivate,compumark.info,False
 clarivate,compumark.jp,False
 clarivate,compumarks.com,False
@@ -1784,6 +1783,7 @@ clarivate,endnote360.com,False
 clarivate,endnote.fi,False
 clarivate,endnote.in,False
 clarivate,endnote.jp,False
+clarivate,endnote.ru,False
 clarivate,cpaglobal.ru,False
 clarivate,authorconnect-webofscience.com,False
 clarivate,authorconnectwebofscience.com,False
@@ -9825,8 +9825,8 @@ spotify,label-studio-public.sonantic.io,True
 spotify,backstage.io,True
 dashlane,api.dashlane.com,True
 dashlane,logs.dashlane.com,True
-dashlane,www.dashlane.com,True
 dashlane,app.dashlane.com,True
+dashlane,www.dashlane.com,True
 dashlane,console.dashlane.com,True
 dashlane,ws1.dashlane.com,True
 dashlane,ws1.dashlane.com,True
