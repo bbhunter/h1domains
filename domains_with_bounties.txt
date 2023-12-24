@@ -80,8 +80,8 @@ paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -918,8 +918,8 @@ www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
 www.swoodoo.com
-www.kayak.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com

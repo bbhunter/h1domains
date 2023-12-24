@@ -87,8 +87,8 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1703,8 +1703,8 @@ visa,www.practicalbusinessskills.org,True
 visa,www.practicalmoneyskills.org,True
 daimler_truck,*omniplus.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
+daimler_truck,*exceleratorparts.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -4746,8 +4746,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.swoodoo.com,True
-kayak,www.kayak.com,True
 kayak,www.cheapflights.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
