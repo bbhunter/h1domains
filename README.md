@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 24 12:33:01 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 24 13:22:37 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -2982,8 +2982,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
