@@ -7651,9 +7651,9 @@ social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 store.playstation.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -10676,8 +10676,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
-errors.hackerone.net
 app.pullrequest.com
+errors.hackerone.net
 hackerone.com
 api.hackerone.com
 www.hackerone.com
