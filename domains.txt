@@ -1702,8 +1702,8 @@ www.practicalbusinessskills.org
 www.practicalmoneyskills.org
 *omniplus.com
 *.setra.de
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -10181,8 +10181,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10511,8 +10511,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-x.com
 *.twitter.com
+x.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10659,8 +10659,8 @@ yimg.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
-www.wearehackerone.com
 mta-sts.wearehackerone.com
+www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
