@@ -1349,8 +1349,8 @@ http://vdp.kahootz.com
 *.alfam.nl
 *.abnamro.com
 *abnamroprivatebanking.be
-*.tikkie.me
 *.abnamro.nl
+*.tikkie.me
 *.abnamrolease.com
 *.abnamro.org
 *neuflizeobc.fr
@@ -3014,7 +3014,6 @@ abb.com.br
 *.abb.com
 *.fi.abb.com
 *.motors.abb.com.cn
-*.motors.abb.com
 *.pdc.abb.com
 *.cn.abb.com
 *.de.abb.com
@@ -3024,6 +3023,7 @@ abb.com.br
 *.abb
 *.busch-jaeger.nl
 *.ability.abb
+*.motors.abb.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -4682,8 +4682,8 @@ snaps.metamask.io
 snaps.metamask.io
 portfolio.metamask.io
 *.tms.pl
-*.oanda.com
 *.oanda.jp
+*.oanda.com
 *.tmsbrokers.com
 *.oanda.com
 *.oanda.jp
@@ -9559,8 +9559,8 @@ https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
 *.eu.newrelic.com
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 infrastructure.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
