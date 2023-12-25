@@ -2765,8 +2765,8 @@ shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
-shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,www.borrowlenses.com,False
+shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,admin.spoonflower.com,False
@@ -10079,8 +10079,8 @@ mapbox,api.mapbox.com,True
 mapbox,www.mapbox.com,True
 mapbox,https://docs.mapbox.com/api/,True
 mapbox,api.mapbox.com,True
-gitlab,*.gitlab.net,True
 gitlab,registry.gitlab.com,True
+gitlab,*.gitlab.net,True
 gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,*.gitlap.com,True
@@ -10676,9 +10676,9 @@ security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
-security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
 security,errors.hackerone.net,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 05:21:33 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 25 06:26:41 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -3218,8 +3218,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -3684,9 +3684,9 @@ hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

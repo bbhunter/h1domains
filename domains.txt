@@ -2764,8 +2764,8 @@ snapfish.ie
 photo.walgreens.com
 snapfish.de
 prestigeportraits.com
-lifetouch.com
 www.borrowlenses.com
+lifetouch.com
 shutterfly.com
 jcpportraits.com
 admin.spoonflower.com
@@ -10078,8 +10078,8 @@ api.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
-*.gitlab.net
 registry.gitlab.com
+*.gitlab.net
 design.gitlab.com
 advisories.gitlab.com
 *.gitlap.com
@@ -10675,9 +10675,9 @@ hackerone-ext-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 hackerone.live
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 errors.hackerone.net
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
