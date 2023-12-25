@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 25 16:24:36 UTC 2023)
+## Domains with Bounties (Last Updated Mon Dec 25 17:18:11 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 supply-xml.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3120,8 +3120,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
-www.starbucks.com
 www.starbucks.de
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3617,8 +3617,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 *.base.org
-coinbase.com
 institutional.coinbase.com
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
