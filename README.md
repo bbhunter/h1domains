@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 03:20:14 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 04:24:54 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -1856,8 +1856,8 @@ transact.playstation.com
 api.direct.playstation.com
 store.playstation.com
 *.api.playstation.com
-direct.playstation.com
 *.sonyentertainmentnetwork.com
+direct.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -2011,8 +2011,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.aliyun-inc.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2409,10 +2409,10 @@ shop.wyndhamvacationownership.trisept.travel
 holidays-hk.fijiairways.com
 www.blueskytours.com
 world.hyatt.com
-book.extraholidaysvacations.com
 sso.oft.hyatt.com
 vacations.velasvallarta.com
 vacations.united.com
+book.extraholidaysvacations.com
 soaext.oft.hyatt.com
 vacations.vallarta.grandvelas.com
 book.cheapcaribbean.com
