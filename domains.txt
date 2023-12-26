@@ -1168,7 +1168,6 @@ boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
-*.americaneagle.com.bh
 *.westelm.com.kw
 *.thebodyshop.com.kw
 *.muji.qa
@@ -1191,6 +1190,7 @@ card.starbucks.com.kz
 *.starbuckscardtr.com
 *.victoriassecret.com.qa
 *.aloyoga.com.kw
+*.americaneagle.com.bh
 boysweb.shaya.com.tr
 kw.hm.com
 kw.cosstores.com
@@ -5023,6 +5023,7 @@ milka.bg
 milka.cz
 cadburyworld.co.uk
 secretsanta.cadbury.co.uk
+www.clifbar.be
 mondelezinternational.com
 ir.mondelezinternational.com
 cadbury.co.uk
