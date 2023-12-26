@@ -24,8 +24,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
-www.mercadolibre.com.mx
 www.mercadolibre.cl
+www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
@@ -1386,9 +1386,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com

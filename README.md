@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 13:23:10 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 14:20:24 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -30,8 +30,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
-www.mercadolibre.com.mx
 www.mercadolibre.cl
+www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.co
@@ -1392,9 +1392,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-accounts.reddit.com
 oauth.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
