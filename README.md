@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 26 04:24:54 UTC 2023)
+## Domains with Bounties (Last Updated Tue Dec 26 05:20:54 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
