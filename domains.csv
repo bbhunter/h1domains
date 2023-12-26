@@ -11,9 +11,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4934,10 +4934,10 @@ anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
-databricks,academy.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,academy.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -9140,12 +9140,12 @@ hyatt,res.blueskytours.globalbookingsolutions.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
 hyatt,res.vacations.discoverycove.com,True
 hyatt,vacations.universalstudioshollywood.com,True
-hyatt,www.wynnvacations.com,True
 hyatt,res.vacations.buschgardens.com,True
 hyatt,res.universalorlandovacations.com,True
 hyatt,book.beachbound.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,reservations.wynnvacations.com,True
+hyatt,www.wynnvacations.com,True
 hyatt,confluence.hyattdev.com,True
 hyatt,ebsext.oft.hyatt.com,True
 hyatt,newsroom.images.hyatt.com,True
@@ -9173,8 +9173,8 @@ hyatt,www.blueskytours.com,True
 hyatt,world.hyatt.com,True
 hyatt,book.extraholidaysvacations.com,True
 hyatt,sso.oft.hyatt.com,True
-hyatt,vacations.united.com,True
 hyatt,vacations.velasvallarta.com,True
+hyatt,vacations.united.com,True
 hyatt,soaext.oft.hyatt.com,True
 hyatt,vacations.vallarta.grandvelas.com,True
 hyatt,book.cheapcaribbean.com,True
