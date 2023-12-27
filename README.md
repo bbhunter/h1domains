@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 14:19:52 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 15:20:03 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -206,8 +206,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -2010,8 +2010,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.aliyun-inc.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3337,8 +3337,8 @@ create.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 ads.snapchat.com
-businesshelp.snapchat.com
 accounts.snapchat.com
+businesshelp.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
@@ -3353,8 +3353,8 @@ www.bitmoji.com
 my.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 spectacles.com
