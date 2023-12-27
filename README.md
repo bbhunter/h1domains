@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 08:25:03 UTC 2023)
+## Domains with Bounties (Last Updated Wed Dec 27 09:21:23 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -65,11 +65,11 @@ kyc-onboarding.booking.com
 careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 supply-xml.booking.com
 booking.com
 admin.booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2012,8 +2012,8 @@ www.alibabagroup.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun-inc.com
 *.aliyun.com
+*.aliyun-inc.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3666,8 +3666,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
