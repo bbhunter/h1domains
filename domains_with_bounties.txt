@@ -3333,8 +3333,8 @@ create.snapchat.com
 msg.playcanvas.com
 forum.playcanvas.com
 ads.snapchat.com
-accounts.snapchat.com
 businesshelp.snapchat.com
+accounts.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 relay.playcanvas.com
