@@ -7300,8 +7300,8 @@ tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -9560,8 +9560,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,one.newrelic.com,True
-newrelic,*.nr-ops.net,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-ops.net,True
 newrelic,synthetics.eu.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
@@ -9769,9 +9769,9 @@ bumble,hotornot.com,True
 bumble,m.badoo.com,True
 bumble,meu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
-bumble,zodia.studio,True
 bumble,chatdate.app,True
 bumble,us1.badoo.com,True
+bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True

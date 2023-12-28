@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 11:18:59 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 12:34:45 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1647,8 +1647,8 @@ careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2796,8 +2796,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 infrastructure.newrelic.com
 one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
+*.nr-ops.net
 synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
@@ -2973,9 +2973,9 @@ hotornot.com
 m.badoo.com
 meu1.badoo.com
 ccardsus1.badoo.com
-zodia.studio
 chatdate.app
 us1.badoo.com
+zodia.studio
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
