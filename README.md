@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 28 07:20:21 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 08:25:46 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -11,8 +11,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 auth.23andme.com
-blog.23andme.com
 you.23andme.com
+blog.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2005,12 +2005,12 @@ https://amazonpay.amazon.in/*
 www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.alimama.com
 *.1688.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.aliyun.com
+*.alimama.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3356,8 +3356,8 @@ app.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-spectacles.com
 web.snapchat.com
+spectacles.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
