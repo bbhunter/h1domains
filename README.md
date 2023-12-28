@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 27 23:19:52 UTC 2023)
+## Domains with Bounties (Last Updated Thu Dec 28 01:12:21 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
@@ -3563,8 +3563,8 @@ simplenote.com
 gravatar.com
 assets.tumblr.com
 api.tumblr.com
-wordpress.com
 intensedebate.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com
