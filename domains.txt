@@ -1425,8 +1425,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.aboitizpower.com
 *.visayanelectric.com
+*.aboitizpower.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
