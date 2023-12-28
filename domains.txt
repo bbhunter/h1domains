@@ -10,9 +10,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 auth.23andme.com
-you.23andme.com
 blog.23andme.com
 api.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -1063,8 +1063,8 @@ flatfileui.brokerhub.cbre.com
 flooredproducts.cbre.com
 fmdashboard.cbre.com
 fmsdemo-aws.dev.gcso.cbre.com
-*.front.com
 app.frontapp.com
+*.front.com
 help.front.com
 api2.frontapp.com
 *.front.com
@@ -3507,8 +3507,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -10309,8 +10309,8 @@ status.adobe.com
 magentolive.com
 applications.frame.io
 *.proofhq.com
-*.tubemogul.com
 *.marketo.com
+*.tubemogul.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
