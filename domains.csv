@@ -1635,10 +1635,10 @@ visa,www.visa.co.ke,True
 visa,www.visa.co.th,True
 visa,www.visa.co.uk,True
 visa,visa.co.za,True
-visa,www.authorize.net,True
 visa,www.visa.co.id,True
 visa,www.cybersource.com,True
 visa,www.visa.co.ve,True
+visa,www.authorize.net,True
 visa,bd.visa.com,True
 visa,cw.visa.com,True
 visa,ht.visa.com,True
@@ -7811,9 +7811,9 @@ amazonvrp,https://www.amazonpay.in/*,True
 amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.Daraz.com,True
@@ -10106,8 +10106,8 @@ deriv,secure-dfadmin.deriv.com,True
 deriv,*.binary.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
-deriv,oauth.deriv.com,True
 deriv,app.deriv.com,True
+deriv,oauth.deriv.com,True
 deriv,*.deriv.com,True
 deriv,*.deriv.cloud,True
 deriv,*.derivws.com,True

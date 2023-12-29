@@ -268,10 +268,10 @@ www.visa.co.ke
 www.visa.co.th
 www.visa.co.uk
 visa.co.za
-www.authorize.net
 www.visa.co.id
 www.cybersource.com
 www.visa.co.ve
+www.authorize.net
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -1986,9 +1986,9 @@ https://www.amazonpay.in/*
 https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.alibabacloud.com
-*.alibaba.com
 *.tmall.com
 www.alibabagroup.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.Daraz.com
@@ -3255,8 +3255,8 @@ secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
 *.deriv.cloud
-oauth.deriv.com
 app.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
