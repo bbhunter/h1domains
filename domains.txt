@@ -138,8 +138,8 @@ www.pampayments.com
 onlineserviceshub.com
 temp.msbnexus.com
 www.navirefi.com
-sandiego.dsmyportal.com
 www.pamcollectionsin.com
+sandiego.dsmyportal.com
 www.msbnexus.com
 duncan.imageenforcement.com
 myaccount.navirefi.com
@@ -3329,8 +3329,8 @@ dashboard.doppler.com
 share.doppler.com
 *.SUPPORTFAN.GOV
 *.USDOSCLOUD.GOV
-*.FAN.GOV
 *.IBWC.GOV
+*.FAN.GOV
 *.DEVTESTFAN1.GOV
 *.IAWG.GOV
 *.OSAC.GOV

@@ -139,8 +139,8 @@ navient_solutions,www.pampayments.com,False
 navient_solutions,onlineserviceshub.com,False
 navient_solutions,temp.msbnexus.com,False
 navient_solutions,www.navirefi.com,False
-navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.pamcollectionsin.com,False
+navient_solutions,sandiego.dsmyportal.com,False
 navient_solutions,www.msbnexus.com,False
 navient_solutions,duncan.imageenforcement.com,False
 navient_solutions,myaccount.navirefi.com,False
@@ -3330,8 +3330,8 @@ doppler,dashboard.doppler.com,True
 doppler,share.doppler.com,True
 us-department-of-state,*.SUPPORTFAN.GOV,False
 us-department-of-state,*.USDOSCLOUD.GOV,False
-us-department-of-state,*.FAN.GOV,False
 us-department-of-state,*.IBWC.GOV,False
+us-department-of-state,*.FAN.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
 us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.OSAC.GOV,False
