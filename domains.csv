@@ -5578,10 +5578,10 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,hatching.io,True
 recorded-future,securitytrails.com,True
-recorded-future,www.recordedfuture.com,True
 recorded-future,geminiadvisory.io,True
-recorded-future,id.recordedfuture.com,True
+recorded-future,www.recordedfuture.com,True
 recorded-future,tria.ge,True
+recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -9512,8 +9512,8 @@ valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
 crypto,*.mona.co,True
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
+crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True

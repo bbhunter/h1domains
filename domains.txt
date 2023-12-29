@@ -5577,10 +5577,10 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
-id.recordedfuture.com
+www.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -9511,8 +9511,8 @@ developer.valvesoftware.com
 storefront.steampowered.com
 wiki.teamfortress.com
 *.mona.co
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com

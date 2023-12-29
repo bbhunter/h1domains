@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 29 15:22:32 UTC 2023)
+## Domains with Bounties (Last Updated Fri Dec 29 16:27:55 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -1199,10 +1199,10 @@ app.recordedfuture.com
 api.recordedfuture.com
 hatching.io
 securitytrails.com
-www.recordedfuture.com
 geminiadvisory.io
-id.recordedfuture.com
+www.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2753,8 +2753,8 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
