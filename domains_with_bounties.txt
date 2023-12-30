@@ -3141,8 +3141,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 talk.brave.com
-search.brave.com
 brave.com
+search.brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
