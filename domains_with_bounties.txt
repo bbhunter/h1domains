@@ -80,8 +80,8 @@ paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1629,8 +1629,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3104,8 +3104,8 @@ card.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3509,8 +3509,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3593,9 +3593,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com

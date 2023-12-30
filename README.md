@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 05:19:29 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 06:25:12 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -86,8 +86,8 @@ paymentcomponent.booking.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1635,8 +1635,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3110,8 +3110,8 @@ card.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn
@@ -3515,8 +3515,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3599,9 +3599,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-pro.coinbase.com
 prime.coinbase.com
 *.coinbase.com
+pro.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
