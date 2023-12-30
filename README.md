@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 18:23:50 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 19:17:52 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -134,8 +134,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -196,10 +196,10 @@ www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
-clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 testapi.redoxengine.com
 www.redoxengine.com
+clientcert.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -3600,8 +3600,8 @@ blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
 prime.coinbase.com
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com

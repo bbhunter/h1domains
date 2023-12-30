@@ -128,8 +128,8 @@ api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 http://help.front.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -190,10 +190,10 @@ www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
-clientcert.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 testapi.redoxengine.com
 www.redoxengine.com
+clientcert.gamma.redoxstage.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -3594,8 +3594,8 @@ blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
 prime.coinbase.com
-*.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
