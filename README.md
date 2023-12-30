@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 09:18:30 UTC 2023)
+## Domains with Bounties (Last Updated Sat Dec 30 10:20:36 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2759,8 +2759,8 @@ www.crypto.com
 tax.crypto.com
 merchant.crypto.com
 js.crypto.com
-pay.crypto.com
 app.mona.co
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3147,8 +3147,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 talk.brave.com
-brave.com
 search.brave.com
+brave.com
 creators.basicattentiontoken.org
 account.brave.com
 brave.com
