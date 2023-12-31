@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 17:18:48 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 18:22:59 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -401,10 +401,10 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+crash-stats.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
@@ -3308,9 +3308,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
