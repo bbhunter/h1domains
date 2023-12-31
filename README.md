@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 18:22:59 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 19:16:26 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2092,10 +2092,10 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
-marrtool.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -3216,8 +3216,8 @@ advisories.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 about.gitlab.com
-*.gitlab.org
 gitlab.com
+*.gitlab.org
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3599,8 +3599,8 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-*.coinbase.com
 prime.coinbase.com
+*.coinbase.com
 pro.coinbase.com
 international.coinbase.com
 api.coinbase.com
