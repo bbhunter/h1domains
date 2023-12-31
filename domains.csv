@@ -1169,7 +1169,6 @@ alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
 alshaya,kw.shopjustice.me,False
-alshaya,*.westelm.com.kw,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
 alshaya,*.debenhams.sa,False
@@ -1192,6 +1191,7 @@ alshaya,*.americaneagle.com.kw,False
 alshaya,card.starbucks.com.kz,False
 alshaya,shayakahve.com.tr,False
 alshaya,kw.boots.com,False
+alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
@@ -10184,7 +10184,6 @@ snapchat,login.playcanvas.com,True
 snapchat,code.playcanvas.com,True
 snapchat,store.playcanvas.com,True
 snapchat,playcanv.as,True
-snapchat,map.snapchat.com,True
 snapchat,rt.playcanvas.com,True
 snapchat,store.snapchat.com,True
 snapchat,www.bitmoji.com,True
@@ -10193,10 +10192,11 @@ snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,app.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,map.snapchat.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
-snapchat,web.snapchat.com,True
 snapchat,spectacles.com,True
+snapchat,web.snapchat.com,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
@@ -10575,9 +10575,9 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,custody.coinbase.com,True
 coinbase,*.cbhq.net,True
-coinbase,*.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,pro.coinbase.com,True
+coinbase,*.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.coinbase.com,True
@@ -10645,8 +10645,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,www.hackerone.com,True
 security,hackerone-ext-content.com,True
+security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,b5s.hackerone-ext-content.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 09:18:39 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 10:20:27 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -3337,7 +3337,6 @@ login.playcanvas.com
 code.playcanvas.com
 store.playcanvas.com
 playcanv.as
-map.snapchat.com
 rt.playcanvas.com
 store.snapchat.com
 www.bitmoji.com
@@ -3346,10 +3345,11 @@ snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
+map.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
@@ -3599,9 +3599,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-*.coinbase.com
 prime.coinbase.com
 pro.coinbase.com
+*.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
@@ -3669,8 +3669,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
