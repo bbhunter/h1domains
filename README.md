@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 10:20:27 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 11:16:14 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -915,8 +915,8 @@ www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
 www.swoodoo.com
-www.cheapflights.com
 www.kayak.com
+www.cheapflights.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -937,8 +937,8 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 exnessaffiliates.com
+my.exness.com
 pay.ibex.exchange
 exness.com
 pwapi.ex2b.com
@@ -1124,9 +1124,9 @@ fallguys.com
 *.unrealtournament.com
 *.jellychat.com
 *.popjam.com
-capturingreality.com
 *.mediatonic.co.uk
 fortnite.com
+capturingreality.com
 *.3lateral.com
 *.hmxwebservices.com
 *.rocketleague.com
