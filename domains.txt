@@ -3808,7 +3808,6 @@ shard.wwwfeo.fossil.com.edgekey.net
 *.dieseltimeframes.co.uk
 *.dieseltimeframes.de
 *.dieseltimeframes.kr
-*.fossi.com
 *.fossil.cl
 *.fossil.com.hk
 *.fossil.com.lk
@@ -3852,6 +3851,7 @@ shard.wwwfeo.fossil.com.edgekey.net
 *.skagen.co.uk
 *.skagen.co.za
 *.skagen.es
+*.skagen.gr
 *.cdgfossil.com
 *.linkplatforms.com
 *.cdgcitizen.com
@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net

@@ -3809,7 +3809,6 @@ fossil,*.abacuswatches.com,False
 fossil,*.dieseltimeframes.co.uk,False
 fossil,*.dieseltimeframes.de,False
 fossil,*.dieseltimeframes.kr,False
-fossil,*.fossi.com,False
 fossil,*.fossil.cl,False
 fossil,*.fossil.com.hk,False
 fossil,*.fossil.com.lk,False
@@ -3853,6 +3852,7 @@ fossil,*.skagen-designs.de,False
 fossil,*.skagen.co.uk,False
 fossil,*.skagen.co.za,False
 fossil,*.skagen.es,False
+fossil,*.skagen.gr,False
 fossil,*.cdgfossil.com,False
 fossil,*.linkplatforms.com,False
 fossil,*.cdgcitizen.com,False
@@ -10583,8 +10583,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,*.base.org,True
 coinbase,coinbase.com,True
+coinbase,*.base.org,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
