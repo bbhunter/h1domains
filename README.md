@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 30 23:20:22 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 01:18:42 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2086,10 +2086,10 @@ gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
-marriottfranchisetransactions.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 marrtool.com
@@ -2572,8 +2572,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 *.braintreegateway.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3515,8 +3515,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3599,9 +3599,9 @@ team-irc.irccloud.com
 blog.irccloud.com
 custody.coinbase.com
 *.cbhq.net
-prime.coinbase.com
 pro.coinbase.com
 *.coinbase.com
+prime.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 api.coinbase.com
