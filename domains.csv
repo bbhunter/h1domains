@@ -1602,11 +1602,11 @@ visa,www.visa.com.lc,True
 visa,www.visa.com.ph,True
 visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
-visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.tw,True
 visa,www.visa.co.jp,True
 visa,visa.com.ua,True
 visa,www.practicalmoneyskills.com,True
+visa,www.practicalmoneyskills.org,True
 visa,www.visa.com.mx,True
 visa,www.visa.com.cy,True
 visa,www.visa.com.ge,True
@@ -6561,9 +6561,9 @@ chime,*.chime.com,True
 chime,*.1debit.com,True
 chime,*.chmfin.com,True
 chime,wp-dev2.chime.com,True
-chime,app.chime.com,True
 chime,wp-dev5.chime.com,True
 chime,*.chimebank.com,True
+chime,app.chime.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -10632,8 +10632,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,hackerone-user-content.com,True
+security,hackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

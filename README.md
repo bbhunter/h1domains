@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 31 08:24:23 UTC 2023)
+## Domains with Bounties (Last Updated Sun Dec 31 09:18:39 UTC 2023)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -241,11 +241,11 @@ www.visa.com.lc
 www.visa.com.ph
 www.yellowpepper.com
 www.fraedom.com
-www.practicalmoneyskills.org
 www.visa.com.tw
 www.visa.co.jp
 visa.com.ua
 www.practicalmoneyskills.com
+www.practicalmoneyskills.org
 www.visa.com.mx
 www.visa.com.cy
 www.visa.com.ge
@@ -1444,9 +1444,9 @@ wp-qa.chime.com
 *.1debit.com
 *.chmfin.com
 wp-dev2.chime.com
-app.chime.com
 wp-dev5.chime.com
 *.chimebank.com
+app.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3656,8 +3656,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
