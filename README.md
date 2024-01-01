@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  1 17:19:03 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  1 18:23:58 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -68,8 +68,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -403,8 +403,8 @@ api.tideplatform.in
 www.tide.co
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-crash-stats.allizom.org
 accounts.firefox.com
+crash-stats.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
 merino.services.mozilla.com
@@ -514,8 +514,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -799,8 +799,8 @@ askpam.ai
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
-*.goteleport.com
 platform.teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -3028,8 +3028,8 @@ profiles.wordpress.org
 lists.wordpress.org
 irclogs.wordpress.org
 gutenberg.run
-*.wordpress.net
 api.wordpress.org
+*.wordpress.net
 mercantile.wordpress.org
 doaction.org
 *.trac.wordpress.org
@@ -3466,8 +3466,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 api.vhx.tv
-*.livestream.com
 *.magisto.com
+*.livestream.com
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -3515,8 +3515,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3607,8 +3607,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3669,14 +3669,14 @@ ctf.hacker101.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 www.hackerone.com
+hackathon-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 errors.hackerone.net
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
