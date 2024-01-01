@@ -8822,7 +8822,6 @@ efficienthire.info
 ehxhr.com
 *.boavistascpc.com.br
 *.certificadoboavista.com.br
-*.konduto.com
 *.redeverdeamarela.com.br
 *.efficientforms.com
 register.alertxpress.com
@@ -8832,6 +8831,7 @@ JOBALINECI.COM
 *equifax.co.in
 www.equifax.com
 *.bvsnet.com.br
+*.konduto.com
 *equifax.cl
 *equifax.co.nz
 *equifax.es
@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
