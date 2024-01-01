@@ -4735,8 +4735,8 @@ www.hotelscombined.com
 business.kayak.com
 www.checkfelix.com
 www.swoodoo.com
-www.kayak.com
 www.cheapflights.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -10582,8 +10582,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -10630,9 +10630,9 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-hackerone-user-content.com
 api.hackerone.com
 hackerone.com
+hackerone-user-content.com
 mta-sts.wearehackerone.com
 www.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -10885,11 +10885,11 @@ api.remitano.com
 socket.remitano.com
 help.jimdo.com
 cms-backend.jimdosite.com
-*.jimdosite.com
 ns1.jimdo.com
 ns12.jimdo.com
 *.jimdo.systems
 dash.e.jimdo.com
+*.jimdosite.com
 cms.e.jimdo.com
 business-profile-service.jimdosite.com
 ns2.jimdo.com

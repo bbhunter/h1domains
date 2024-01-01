@@ -4736,8 +4736,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.swoodoo.com,True
-kayak,www.kayak.com,True
 kayak,www.cheapflights.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -10583,8 +10583,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,*.base.org,True
 coinbase,coinbase.com,True
+coinbase,*.base.org,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
@@ -10631,9 +10631,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,hackerone.com,True
+security,hackerone-user-content.com,True
 security,mta-sts.wearehackerone.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
@@ -10886,11 +10886,11 @@ remitano,api.remitano.com,True
 remitano,socket.remitano.com,True
 jimdo,help.jimdo.com,False
 jimdo,cms-backend.jimdosite.com,False
-jimdo,*.jimdosite.com,False
 jimdo,ns1.jimdo.com,False
 jimdo,ns12.jimdo.com,False
 jimdo,*.jimdo.systems,False
 jimdo,dash.e.jimdo.com,False
+jimdo,*.jimdosite.com,False
 jimdo,cms.e.jimdo.com,False
 jimdo,business-profile-service.jimdosite.com,False
 jimdo,ns2.jimdo.com,False
