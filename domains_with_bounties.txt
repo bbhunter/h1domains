@@ -1991,12 +1991,12 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliexpress.ru
 *.alibaba-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
