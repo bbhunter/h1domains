@@ -6319,10 +6319,10 @@ zsbsupport.zebra.com
 downloads.zebra.com
 *.zams.zebra.com
 supportcommunity.zebra.com
-*.profitect.com
 *.zebrasports.com
 reflexisinc.com/
 cmm01.sl.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -6473,9 +6473,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-oauth.reddit.com
 accounts.reddit.com
 www.reddit.com
+oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -10031,8 +10031,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
