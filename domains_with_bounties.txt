@@ -2564,10 +2564,10 @@ api.swiftfinancial.com
 api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 02:32:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 03:21:17 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -2570,10 +2570,10 @@ api.swiftfinancial.com
 api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com

@@ -1425,8 +1425,8 @@ adventenergy.com.ph
 retailelectricity.com.ph
 snaboitizpower.com
 *.davaolight.com
-*.visayanelectric.com
 *.aboitizpower.com
+*.visayanelectric.com
 *.apps.sofa.csg.aboitizpower.org
 aboitizpower.org
 aboitizpower.net
@@ -1447,9 +1447,9 @@ subicenerzone.com
 aboitizpower.ph
 mactanenerzone.com
 snap-res.com
-visayanelectric.com.ph
-visayanelectric.ph
 *.hedcor.com
+visayanelectric.ph
+visayanelectric.com.ph
 *.aboitizpower.com
 *.snaboitiz.com
 *.enerzone.com.ph
@@ -9317,10 +9317,10 @@ api.swiftfinancial.com
 api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 paypalobjects.com
+*.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
