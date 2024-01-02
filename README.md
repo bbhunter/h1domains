@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 09:22:57 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 10:21:56 UTC 2024)
 ```
 https://passport.eufy.com/?app=eufy-us
 mediacenter.23andme.com
@@ -67,9 +67,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 admin.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -181,6 +181,30 @@ lensa-ai.com
 prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
+*.gocardless.io
+*.gocardless-banking.io
+connect-sandbox.gocardless.com
+*.gocardless-lab.io
+api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+xero-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+*.gocardless-cicd.io
+*.gocardless-staging.io
+manage-sandbox.gocardless.com
+www.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless-staging.io
+*.gocardless-lab.io
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+www.gocardless.com
+oauth-sandbox.gocardless.com
+xero-sandbox.gocardless.com
 rei.com
 rei.com
 http://rei.com/rei-garage
@@ -1362,8 +1386,8 @@ api.reddit.com
 app.spiketrap.io
 gql.reddit.com
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2688,7 +2712,7 @@ marquee.gs.com
 *.gsam.com
 *.folioinstitutional.com
 *.gs.de
-*.folioclient.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3701,30 +3725,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
-*.gocardless.io
-*.gocardless-banking.io
-connect-sandbox.gocardless.com
-*.gocardless-lab.io
-api-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-xero-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-*.gocardless-cicd.io
-*.gocardless-staging.io
-manage-sandbox.gocardless.com
-www.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
-*.gocardless-cicd.io
-*.gocardless-staging.io
-*.gocardless-lab.io
-manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-api-sandbox.gocardless.com
-connect-sandbox.gocardless.com
-www.gocardless.com
-oauth-sandbox.gocardless.com
-xero-sandbox.gocardless.com
 idp.int.identitysandbox.gov
 login.gov
 node1.pivcac.prod.login.gov
