@@ -41,11 +41,11 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
-23andme_bbp,medical.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
+23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -108,12 +108,12 @@ bookingcom,accommodations.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,*.rentalcars.com,True
-bookingcom,taxi.booking.com,True
 bookingcom,secure-supply-xml.booking.com,True
 bookingcom,paynotifications.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,widget.rentalcars.com,True
 bookingcom,paymentcomponent.booking.com,True
+bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,secure.booking.com,True
@@ -3425,8 +3425,8 @@ us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 one_zero_vdp,*.onezerobank.com,False
 one_zero_vdp,*.onezerobank.com,False
 yuga_labs,*.mdvmm.xyz,True
-yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
+yuga_labs,*.yuga.com,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.10ktf.com,True
 yuga_labs,*.cryptopunks.app,True

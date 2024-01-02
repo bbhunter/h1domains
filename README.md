@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  2 21:20:23 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  2 22:19:34 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -40,11 +40,11 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-auth.23andme.com
 blog.23andme.com
 you.23andme.com
-medical.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -107,12 +107,12 @@ accommodations.booking.com
 phone-validation.taxi.booking.com
 taxis.booking.com
 *.rentalcars.com
-taxi.booking.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 paymentcomponent.booking.com
+taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
@@ -757,8 +757,8 @@ api.doppler.com
 dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
-*.yuga.com
 *.otherside.xyz
+*.yuga.com
 *.meebits.app
 *.10ktf.com
 *.cryptopunks.app
