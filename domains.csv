@@ -3069,8 +3069,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.pl.abb.com,False
-abb,*.abb.com,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.pdc.abb.com,False
@@ -6535,8 +6535,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,sh.reddit.com,True
 reddit,*.snooguts.net,True
-reddit,*.redditinc.com,True
 reddit,new.reddit.com,True
+reddit,*.redditinc.com,True
 reddit,s.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,ads-api.reddit.com,True
@@ -10600,8 +10600,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
