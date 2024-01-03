@@ -1534,8 +1534,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
+internal-api-drive-stream.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -1679,8 +1679,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com

@@ -2864,8 +2864,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-*.shutterfly.com
 www.spoonflower.com
+*.shutterfly.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
@@ -3801,8 +3801,8 @@ insights.deribit.com
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-corporate.abercrombie.com
 hollisterco.com
+corporate.abercrombie.com
 abercrombie.com
 abercrombie.com
 hollisterco.com
@@ -5889,8 +5889,8 @@ ims.tcms.tal.deere.com
 parts.deere.africa
 marksman.surepointag.com
 johndeereinnovation.com
-parts.waratah.com
 rewards.deere.com
+contest.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -7212,8 +7212,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
+internal-api-drive-stream.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -7405,8 +7405,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com

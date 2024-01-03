@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 20:20:49 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 21:20:04 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -1540,8 +1540,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
+internal-api-drive-stream.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -1685,8 +1685,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
