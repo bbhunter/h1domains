@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 03:23:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 04:23:29 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
 cpanel.hosting24.com
 www.niagahoster.co.id
 payments.hosting24.com
-www.hosting24.com
 hpanel.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -40,11 +40,11 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 blog.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -98,8 +98,8 @@ supplier.auth.toag.booking.com
 flights.booking.com
 admin.booking.com
 *.booking.com
-booking.com
 supply-xml.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
