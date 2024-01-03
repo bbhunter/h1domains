@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 08:25:41 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan  3 09:23:51 UTC 2024)
 ```
 payments.hostinger.com
 hpanel.hostinger.com
@@ -465,10 +465,10 @@ merino.services.mozilla.com
 bugzilla.mozilla.org
 shavar.services.mozilla.com
 lando.services.mozilla.com
-hg.mozilla.org
 addons.allizom.org
 aus5.mozilla.org
 contile.services.mozilla.com
+hg.mozilla.org
 crash-reports.allizom.org
 location.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
@@ -491,17 +491,17 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-hg.mozilla.org
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1423,8 +1423,8 @@ strapi.reddit.com
 m.reddit.com
 sh.reddit.com
 *.snooguts.net
-new.reddit.com
 *.redditinc.com
+new.reddit.com
 s.reddit.com
 gateway.reddit.com
 ads-api.reddit.com
