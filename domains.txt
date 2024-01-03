@@ -3079,9 +3079,9 @@ abb.com.br
 *.abb.in
 *.abb-drives.com
 *.busch-jaeger.nl
-*.ability.abb
 *.motors.abb.com
 *.abb
+*.ability.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
