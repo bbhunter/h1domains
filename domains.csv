@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,cpanel.hosting24.com,True
 hostinger,www.niagahoster.co.id,True
-hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -3393,8 +3393,8 @@ superbet,*.magicjackpot.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
 superbet,*.luckydays.ca,True
-moonpay,moonpay.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
 moonpay,hypermint.com,True
 moonpay,*.hypermint.com,True
@@ -4990,8 +4990,8 @@ anywhererealestate,*.cartus.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.century21.*,False
-anywhererealestate,*.era.com,False
 anywhererealestate,*.bhgre.*,False
+anywhererealestate,*.era.com,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.corcoran.*,False
@@ -6420,10 +6420,10 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,downloads.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -9421,8 +9421,8 @@ paypal,prequal.swiftfinancial.com,True
 paypal,decision.swiftfinancial.com,True
 paypal,loanbuilder.com,True
 paypal,*.paypalcorp.com,True
-paypal,paypalobjects.com,True
 paypal,*.braintreegateway.com,True
+paypal,paypalobjects.com,True
 paypal,www.paypal-*.com,True
 paypal,*.xoom.com,True
 paypal,*.paypal.com,True
@@ -9531,8 +9531,8 @@ goldmansachs,*.gspublishing.com,True
 goldmansachs,goldmansachsindices.com,True
 goldmansachs,*.finlife.com,True
 goldmansachs,*.nextcapital.com,True
-goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.goldmansachs.com,True
+goldmansachs,*.vennhypotheken.nl,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
 goldmansachs,research.gs.com,True
@@ -9830,8 +9830,8 @@ grab,*.myteksi.com,True
 grab,*.grab.com,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
-grab,*.myteksi.net,True
 grab,kartaview.org,True
+grab,*.myteksi.net,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10386,8 +10386,8 @@ ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 ui,help.ui.com,False
-ui,rma.ui.com,True
 ui,account.ui.com,True
+ui,rma.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
