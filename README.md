@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 19:17:16 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 20:22:13 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2012,8 +2012,8 @@ chat.amazon.com
 affiliate-program.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
-api.amazon.com
 music.amazon.com
+api.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
@@ -2737,8 +2737,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.gsam.com
 *.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3162,10 +3162,10 @@ secureui.starbucks.com
 www.starbucks.de
 www.starbucks.com.sg
 www.starbucks.com
-www.starbucks.co.jp
 www.starbucks.com.cn
 login.starbucks.co.jp
 www.starbucks.co.kr
+www.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp

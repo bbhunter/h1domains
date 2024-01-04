@@ -1247,7 +1247,6 @@ alshaya,kw.boots.com,False
 alshaya,*.bathandbodyworks.com.kw,False
 alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
-alshaya,kw.hm.com,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
 alshaya,*.starbucks.com.kz,False
@@ -1265,6 +1264,7 @@ alshaya,*.debenhams.ae,False
 alshaya,*.bathandbodyworks.jo,False
 alshaya,*.carrier.alshaya.com,False
 alshaya,customercare.alshaya.com,False
+alshaya,kuwait.kidzania.com,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -7881,8 +7881,8 @@ amazonvrp,chat.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
 amazonvrp,manufacturing.amazon.com,True
 amazonvrp,apay-us.amazon.com,True
-amazonvrp,api.amazon.com,True
 amazonvrp,music.amazon.com,True
+amazonvrp,api.amazon.com,True
 amazonvrp,smile.amazon.*,True
 amazonvrp,flex.amazon.*,True
 amazonvrp,logistics.amazon.*,True
@@ -9541,8 +9541,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gsam.com,True
 goldmansachs,*.gs.com,True
+goldmansachs,*.folioinstitutional.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10013,10 +10013,10 @@ starbucks,secureui.starbucks.com,True
 starbucks,www.starbucks.de,True
 starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
-starbucks,www.starbucks.co.jp,True
 starbucks,www.starbucks.com.cn,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
+starbucks,www.starbucks.co.jp,True
 starbucks,openapi.starbucks.com,True
 starbucks,www.starbucks.ca,True
 starbucks,gift.starbucks.co.jp,True
