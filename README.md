@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 12:35:46 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 13:24:18 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -10,9 +10,9 @@ payments.hostinger.com
 hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-www.hosting24.com
 *.000webhost.com
 www.hostinger.com
+www.hosting24.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -95,11 +95,11 @@ kyc-onboarding.booking.com
 careers.booking.com
 experiences.booking.com
 supplier.auth.toag.booking.com
-flights.booking.com
 admin.booking.com
 supply-xml.booking.com
 booking.com
 *.booking.com
+flights.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2622,8 +2622,8 @@ api.loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
-paypalobjects.com
 *.paypalcorp.com
+paypalobjects.com
 *.braintreegateway.com
 www.paypal-*.com
 *.xoom.com
@@ -2734,10 +2734,10 @@ goldmansachsindices.com
 research.gs.com
 api.foliofn.com
 marquee.gs.com
-*.gsam.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
+*.gsam.com
 *.gs.com
 *.goldmansachs.com
 *.gs.com
@@ -3164,8 +3164,8 @@ www.starbucks.com.sg
 www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
-www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.kr
 openapi.starbucks.com
 www.starbucks.ca
 gift.starbucks.co.jp
