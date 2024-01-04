@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  3 23:21:27 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 01:15:12 UTC 2024)
 ```
 payments.hostinger.com
 cpanel.hosting24.com
@@ -865,8 +865,8 @@ askpam.ai
 pb.deribit.com
 test.deribit.com
 insights.deribit.com
-metrics.deribit.com
 tools.deribit.com
+metrics.deribit.com
 *.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1081,8 +1081,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-www.instacart.com
 *.instacart.tools
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -3160,8 +3160,8 @@ card.starbucks.com.sg
 app.starbucks.com
 secureui.starbucks.com
 www.starbucks.de
-www.starbucks.com
 www.starbucks.com.sg
+www.starbucks.com
 www.starbucks.co.jp
 www.starbucks.com.cn
 www.starbucks.co.kr
@@ -3237,8 +3237,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
