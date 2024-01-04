@@ -3476,8 +3476,8 @@ ispdesign.ui.com
 ca.store.ui.com
 community.ui.com
 careers.ui.com
-account.ui.com
 rma.ui.com
+account.ui.com
 fw-update.ubnt.com
 uisp.com
 *.ubnt.com
@@ -3599,8 +3599,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com

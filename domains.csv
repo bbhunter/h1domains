@@ -10395,8 +10395,8 @@ ui,careers.ui.com,True
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 ui,help.ui.com,False
-ui,account.ui.com,True
 ui,rma.ui.com,True
+ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
 ui,uisp.com,True
 ui,*.ubnt.com,True
@@ -10635,8 +10635,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
