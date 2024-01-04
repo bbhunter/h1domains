@@ -6429,9 +6429,9 @@ downloads.zebra.com
 supportcommunity.zebra.com
 *.zebrasports.com
 reflexisinc.com/
-*.profitect.com
 *.zams.zebra.com
 cmm01.sl.zebra.com
+*.profitect.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
