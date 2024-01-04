@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  4 07:19:54 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan  4 08:25:44 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 payments.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
 www.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -41,8 +41,8 @@ education.23andme.com
 store.23andme.com
 you.23andme.com
 blog.23andme.com
-api.23andme.com
 auth.23andme.com
+api.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1901,8 +1901,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 ca.account.sony.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3485,7 +3485,6 @@ careers.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
