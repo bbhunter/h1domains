@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 07:19:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 08:25:34 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -1081,8 +1081,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -3307,9 +3307,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
+secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com

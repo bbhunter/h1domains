@@ -4966,8 +4966,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 api.instacart.com
-*.instacart.tools
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -10201,9 +10201,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
+secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
-secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
