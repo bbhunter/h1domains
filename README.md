@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 22:21:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 23:21:18 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -1474,8 +1474,8 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -2714,10 +2714,10 @@ apigw.foliofn.com
 *.foliofirst.com
 *.gsselect.com
 *.marcus.co.uk
-*.foliofn.com
 *.unitedcp.com
 *.ayco.com
 *.goldman.com
+*.foliofn.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
