@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 12:36:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 13:23:24 UTC 2024)
 ```
 cpanel.hosting24.com
 hpanel.hostinger.com
@@ -10,15 +10,15 @@ payments.hostinger.com
 www.niagahoster.co.id
 payments.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
 www.hostinger.com
 www.hosting24.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -1771,8 +1771,8 @@ www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.com.tr
 www.marionnaud.fr
-www.watsons.co.id
 www.marionnaud.ro
+www.watsons.co.id
 app.marionnaud.cz
 app.marionnaud.it
 app.marionnaud.ro
@@ -2051,9 +2051,9 @@ www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.aliyun-inc.com
-*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3022,8 +3022,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3745,8 +3745,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
