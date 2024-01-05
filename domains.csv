@@ -3094,8 +3094,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.pl.abb.com,False
-abb,*.abb.com,False
 abb,*.baldor.com,False
+abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.pdc.abb.com,False
@@ -6207,8 +6207,8 @@ usps,id.usps.com,False
 usps,store.usps.com,False
 usps,reg.usps.com,False
 usps,www.liteblue.usps.gov,False
-usps,www.usps.com,False
 usps,pi.usps.com,False
+usps,www.usps.com,False
 usps,retail-pi.usps.com,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
@@ -7921,8 +7921,8 @@ alibaba,*.alimama.com,True
 alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10132,8 +10132,8 @@ github,education.github.com,True
 github,npmjs.org,True
 github,*.github.net,True
 github,gist.github.com,True
-github,*.githubusercontent.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True

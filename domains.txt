@@ -3093,8 +3093,8 @@ abb.com.br
 *.cms.abb
 *.abb.at
 *.pl.abb.com
-*.abb.com
 *.baldor.com
+*.abb.com
 *.fi.abb.com
 *.motors.abb.com.cn
 *.pdc.abb.com
@@ -6206,8 +6206,8 @@ id.usps.com
 store.usps.com
 reg.usps.com
 www.liteblue.usps.gov
-www.usps.com
 pi.usps.com
+www.usps.com
 retail-pi.usps.com
 iv.usps.com
 id.usps.com
@@ -7920,8 +7920,8 @@ www.alibabagroup.com
 *.1688.com
 *.aliyun-inc.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -10131,8 +10131,8 @@ education.github.com
 npmjs.org
 *.github.net
 gist.github.com
-*.githubusercontent.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
