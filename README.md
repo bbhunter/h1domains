@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 03:22:52 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 04:24:04 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -97,9 +97,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
-booking.com
 flights.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1901,8 +1901,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 ca.account.sony.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3762,10 +3762,10 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

@@ -97,9 +97,9 @@ experiences.booking.com
 supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
-booking.com
 flights.booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2855,8 +2855,8 @@ snapfish.co.nz
 preschoolsmiles.com
 tinyprints.com
 blog.spoonflower.com
-www.spoonflower.com
 *.shutterfly.com
+www.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
@@ -7731,8 +7731,8 @@ direct.playstation.com
 store.playstation.com
 my.playstation.com
 ca.account.sony.com
-my.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -10787,10 +10787,10 @@ hackerone-ext-content.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
-b5s.hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
