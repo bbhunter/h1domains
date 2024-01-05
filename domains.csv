@@ -116,9 +116,9 @@ bookingcom,paymentcomponent.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
-bookingcom,secure.booking.com,True
 bookingcom,cars.booking.com,True
 bookingcom,account.booking.com,True
+bookingcom,secure.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1235,7 +1235,6 @@ alshaya,bathandbodyworks.ro,False
 alshaya,*.mothercare.com.eg,False
 alshaya,*.alshayaenterprises.com,False
 alshaya,*.footlocker.com.eg,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.americaneagle.com.bh,False
 alshaya,*.victoriassecret.com.qa,False
@@ -1246,6 +1245,7 @@ alshaya,kw.boots.com,False
 alshaya,*.bathandbodyworks.com.kw,False
 alshaya,*.westelm.com.kw,False
 alshaya,*.muji.qa,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,kw.cosstores.com,False
 alshaya,sa.cosstores.com,False
@@ -3252,9 +3252,9 @@ kiwicom,tequila.kiwi.com,True
 kiwicom,http://www.kiwi.com/stories,True
 kiwicom,jobs.kiwi.com,True
 stanford-university,win.stanford.edu,False
-stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,campusmap.stanford.edu,False
 stanford-university,authority.stanford.edu,False
+stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,iron.stanford.edu,False
 stanford-university,mydevices.stanford.edu,False
 stanford-university,who.stanford.edu,False
@@ -7727,9 +7727,9 @@ playstation,social.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,ca.account.sony.com,True
 playstation,*.playstation.net,True
@@ -8067,8 +8067,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,mgs.marriott.com,True
-marriott,www.marriott.com,True
 marriott,sso.marriott.com,True
+marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -10436,8 +10436,8 @@ adobe,status.adobe.com,False
 adobe,magentolive.com,True
 adobe,applications.frame.io,False
 adobe,*.proofhq.com,False
-adobe,*.marketo.com,False
 adobe,*.tubemogul.com,False
+adobe,*.marketo.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True

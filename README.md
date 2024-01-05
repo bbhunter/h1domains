@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  5 18:27:00 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan  5 19:18:16 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -115,9 +115,9 @@ paymentcomponent.booking.com
 taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1896,9 +1896,9 @@ social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
 *.playstation.net
@@ -2128,8 +2128,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com

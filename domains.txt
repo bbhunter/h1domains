@@ -115,9 +115,9 @@ paymentcomponent.booking.com
 taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1234,7 +1234,6 @@ bathandbodyworks.ro
 *.mothercare.com.eg
 *.alshayaenterprises.com
 *.footlocker.com.eg
-*.starbuckscardtr.com
 *.aloyoga.com.kw
 *.americaneagle.com.bh
 *.victoriassecret.com.qa
@@ -1245,6 +1244,7 @@ kw.boots.com
 *.bathandbodyworks.com.kw
 *.westelm.com.kw
 *.muji.qa
+*.starbuckscardtr.com
 boysweb.shaya.com.tr
 kw.cosstores.com
 sa.cosstores.com
@@ -3251,9 +3251,9 @@ tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
 win.stanford.edu
-cardinalprintcenter.stanford.edu
 campusmap.stanford.edu
 authority.stanford.edu
+cardinalprintcenter.stanford.edu
 iron.stanford.edu
 mydevices.stanford.edu
 who.stanford.edu
@@ -7726,9 +7726,9 @@ social.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
 *.playstation.net
@@ -8066,8 +8066,8 @@ www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -10435,8 +10435,8 @@ status.adobe.com
 magentolive.com
 applications.frame.io
 *.proofhq.com
-*.marketo.com
 *.tubemogul.com
+*.marketo.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
