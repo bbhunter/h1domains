@@ -1,12 +1,12 @@
 cpanel.hosting24.com
-hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
+hpanel.hostinger.com
 payments.hosting24.com
-hpanel.hosting24.com
 www.hosting24.com
-*.000webhost.com
+hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -41,8 +41,8 @@ education.23andme.com
 store.23andme.com
 api.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1223,7 +1223,6 @@ opsassistbrandedsolutions.shaya.com.tr
 pmp.shaya.com.tr
 kw.shopjustice.me
 *.thebodyshop.com.kw
-*.muji.qa
 *.debenhams.sa
 dev.alshaya.com
 devimages.alshaya.com
@@ -1245,6 +1244,7 @@ card.starbucks.com.kz
 kw.boots.com
 *.bathandbodyworks.com.kw
 *.westelm.com.kw
+*.muji.qa
 boysweb.shaya.com.tr
 kw.cosstores.com
 sa.cosstores.com
@@ -7389,8 +7389,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
@@ -7912,8 +7912,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -8064,10 +8064,10 @@ unibet.me
 maria.casino
 www.32red.com
 relaxcdn.unibet.com
-sso.marriott.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
 www.marriott.com
+sso.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -8737,8 +8737,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-stripo.email
 my.stripo.email
+stripo.email
 my.stripo.email
 stripo.email
 wallet.oasis.io
@@ -8955,9 +8955,9 @@ ntcusa.com
 *.datacredito3.com
 *.acertandosuascontas.com.br
 *.healthefx.net
-*equifax.co.uk
 *.employersedge.com
 *.wageverify.com
+*.mercury.com.au
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10294,9 +10294,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10569,9 +10569,9 @@ donations.livestream.com
 api.vimeo.com
 vimeo.magisto.com
 vhx.tv
-api.vhx.tv
 *.magisto.com
 *.livestream.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
@@ -10624,8 +10624,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com
@@ -10769,8 +10769,8 @@ onepush.query.yahoo.com
 proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
