@@ -116,8 +116,8 @@ taxi.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
-account.booking.com
 cars.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2998,8 +2998,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -10201,9 +10201,9 @@ derivws.com
 api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
-secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.com
+secure-dfadmin.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 app.deriv.com
