@@ -2836,8 +2836,8 @@ shutterfly_vdp,snapfish.it,False
 shutterfly_vdp,snapfish.fr,False
 shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,*.photoccino.com,False
-shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,*.lifetouch.com,False
+shutterfly_vdp,photo.walgreens.com,False
 shutterfly_vdp,snapfish.de,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,lifetouch.com,False
@@ -4986,8 +4986,8 @@ alohi,*.sign.plus,False
 alohi,*.sign.plus,False
 alohi,*.fax.plus,False
 alohi,www.alohi.com,False
-anywhererealestate,*.cartus.com,False
 anywhererealestate,*.trgc.com,False
+anywhererealestate,*.cartus.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.century21.*,False
 anywhererealestate,*.bhgre.*,False
@@ -10329,9 +10329,9 @@ snapchat,store.snapchat.com,True
 snapchat,my.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,business.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,www.bitmoji.com,True
+snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,*.sc-corp.net,True
@@ -10539,8 +10539,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
