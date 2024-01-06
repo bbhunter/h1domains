@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 19:17:13 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 20:21:58 UTC 2024)
 ```
 payments.hostinger.com
 www.niagahoster.co.id
@@ -64,10 +64,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.co
-www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2175,8 +2175,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3234,11 +3234,11 @@ api.github.com
 classroom.github.com
 *.githubapp.com
 education.github.com
-npmjs.org
 *.github.net
 gist.github.com
 *.githubusercontent.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3697,8 +3697,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-*.base.org
 coinbase.com
+*.base.org
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
