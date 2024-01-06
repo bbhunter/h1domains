@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 21:17:29 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 22:19:27 UTC 2024)
 ```
 payments.hostinger.com
 www.niagahoster.co.id
@@ -2128,8 +2128,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 mgs.marriott.com
-www.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
