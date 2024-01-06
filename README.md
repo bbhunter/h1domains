@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 10:22:47 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 11:18:27 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -11,8 +11,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1251,8 +1251,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-tria.ge
 id.recordedfuture.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2050,10 +2050,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.aliexpress.com
 *.Daraz.com
 *.aliyun.com
 *.1688.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
