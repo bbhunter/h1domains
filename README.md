@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 13:23:41 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 14:19:02 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -842,10 +842,10 @@ api.zerobounce.in
 zerobounce.net
 *.gravitational.co
 cloud.gravitational.io
-*.teleportinfra.sh
 askpam.ai
 *.teleport.dev
 *.gravitational.com
+*.teleportinfra.sh
 teleport.sh
 *.gravitational.io
 h1-your-domain.teleport.sh
@@ -3485,6 +3485,7 @@ careers.ui.com
 account.ui.com
 rma.ui.com
 fw-update.ubnt.com
+uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
