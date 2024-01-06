@@ -99,8 +99,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -10334,9 +10334,9 @@ snapchat,www.bitmoji.com,True
 snapchat,business.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
-snapchat,*.sc-corp.net,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
+snapchat,*.sc-corp.net,True
 snapchat,developer.playcanvas.com,True
 snapchat,launch.playcanvas.com,True
 snapchat,www.bitstrips.com,True
