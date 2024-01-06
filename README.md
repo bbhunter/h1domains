@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 16:25:44 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 17:18:38 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -40,9 +40,9 @@ research.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-auth.23andme.com
 you.23andme.com
 api.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -2127,9 +2127,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-www.marriott.com
 mgs.marriott.com
 sso.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2138,9 +2138,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
+www.ritzcarlton.com
 *uat.marriott.com
 passwordchallenge.marriott.com
 gatewaydsapdev2.marriott.com
