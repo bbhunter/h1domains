@@ -4967,8 +4967,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,*.instacart.tools,True
+instacart,www.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -10722,8 +10722,8 @@ coinbase,api.coinbase.com,True
 coinbase,cloud.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,institutional.coinbase.com,True
-coinbase,coinbase.com,True
 coinbase,*.base.org,True
+coinbase,coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
