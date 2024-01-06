@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  6 12:32:59 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan  6 13:23:41 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -2623,8 +2623,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3398,9 +3398,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

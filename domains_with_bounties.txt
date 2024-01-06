@@ -2617,8 +2617,8 @@ prequal.swiftfinancial.com
 decision.swiftfinancial.com
 loanbuilder.com
 *.paypalcorp.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3392,9 +3392,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
