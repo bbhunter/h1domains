@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 18:24:52 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 19:16:33 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -41,8 +41,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 auth.23andme.com
-you.23andme.com
 api.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1410,10 +1410,10 @@ www.urbancompany.com
 www.urbanclap.com
 app.spiketrap.io
 *.redditmedia.com
-old.reddit.com
 ads.reddit.com
 gql.reddit.com
 api.reddit.com
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2128,8 +2128,8 @@ maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2138,9 +2138,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
@@ -3591,8 +3591,8 @@ api.greenhouse.io
 support.greenhouse.io
 jss.greenhouse.io
 interseller.io
-app.greenhouse.io
 boards.greenhouse.io
+app.greenhouse.io
 www.greenhouse.io
 app.interseller.io
 app.greenhouse.io
