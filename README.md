@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 01:22:43 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 02:37:52 UTC 2024)
 ```
 payments.hostinger.com
 www.niagahoster.co.id
@@ -248,8 +248,8 @@ api.wisdomtreeprimeapp.com
 fhir.redoxengine.com
 launch.gamma.redoxstage.com
 testapi.redoxengine.com
-www.redoxengine.com
 clientcert.gamma.redoxstage.com
+www.redoxengine.com
 eets-sftp-listener.gamma.redoxstage.com
 blob.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
@@ -525,8 +525,8 @@ api-eu.floqast.app
 hiltonhotels.jp
 hilton.io
 hiltonbusinessonline.com
-hiltonlocalbiz.com
 *.hilton.com.tr
+hiltonlocalbiz.com
 *.hiltonlocalbiz.com
 hilton.com
 hilton.com.tr
@@ -3605,8 +3605,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com

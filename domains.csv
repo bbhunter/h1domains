@@ -1604,8 +1604,8 @@ shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderre
 redox_bbp,fhir.redoxengine.com,True
 redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,testapi.redoxengine.com,True
-redox_bbp,www.redoxengine.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
+redox_bbp,www.redoxengine.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -2912,8 +2912,8 @@ hilton,*.hiltonbusinessonline.com,True
 hilton,hiltonhotels.jp,True
 hilton,hilton.io,True
 hilton,hiltonbusinessonline.com,True
-hilton,hiltonlocalbiz.com,True
 hilton,*.hilton.com.tr,True
+hilton,hiltonlocalbiz.com,True
 hilton,*.hiltonlocalbiz.com,True
 hilton,hilton.com,True
 hilton,hilton.com.tr,True
@@ -9106,8 +9106,8 @@ capital-one,*.paribus.co,False
 capital-one,*.capitalone360.com,False
 capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
-capital-one,*.capitalone.com,False
 capital-one,*.capitaloneshopping.com,False
+capital-one,*.capitalone.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
 capital-one,*.capitalone.ca,False
@@ -10626,8 +10626,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
