@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 13:23:59 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 14:19:36 UTC 2024)
 ```
 www.niagahoster.co.id
 hpanel.hostinger.com
-cpanel.hosting24.com
 payments.hostinger.com
+cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -69,8 +69,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -2044,8 +2044,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -2927,8 +2927,8 @@ falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.com
 verkkopalvelu.tapiola.fi
-yrityspalvelu.tapiola.fi
 sijoitusvakuutus.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 tunnistus.lahitapiola.fi

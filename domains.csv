@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
-hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
+hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -70,8 +70,8 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -3651,10 +3651,10 @@ avalara,*.netleglobal.com,False
 avalara,*.crowdreason.com,False
 avalara,*.impendulo.com,False
 avalara,*.avalara.io,False
-avalara,*.davosalestax.com,False
 avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.avalara.net,False
+avalara,*.davosalestax.com,False
 avalara,*.inposia.com,False
 avalara,*.3ce.com,False
 avalara,*.avalara.com,False
@@ -7905,8 +7905,8 @@ amazonvrp,https://www.amazon.in/wealth/*,True
 amazonvrp,https://amazonpay.amazon.in/*,True
 alibaba,*.tmall.com,True
 alibaba,www.alibabagroup.com,True
-alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.alibabacloud.com,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alimama.com,True
@@ -9740,8 +9740,8 @@ ed,securitytxt.org,False
 ed,edoverflow.com,False
 ed,bugbountyguide.com,False
 localtapiola,verkkopalvelu.tapiola.fi,True
-localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
+localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,tunnistus.lahitapiola.fi,True
