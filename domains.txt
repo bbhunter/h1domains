@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-secure.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1550,8 +1550,8 @@ cdn.nba.com
 content-api-prod.nba.com
 identity.nba.com
 teamportal.nba.com
-gleague.nba.com
 2kleague.nba.com
+gleague.nba.com
 core-api.nba.com
 wnba.com
 nba.com
