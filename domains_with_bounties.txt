@@ -1008,8 +1008,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com

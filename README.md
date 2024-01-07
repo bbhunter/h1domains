@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  7 22:21:13 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan  7 23:20:17 UTC 2024)
 ```
 www.niagahoster.co.id
 payments.hostinger.com
@@ -1014,8 +1014,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 www.etoro.com
+delta.app
 cashier.etoro.com
 cashier-src.etoro.com
 kyc-src.etoro.com
