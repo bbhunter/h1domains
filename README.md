@@ -2,23 +2,23 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 10:24:53 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 11:21:04 UTC 2024)
 ```
 www.niagahoster.co.id
-cpanel.hosting24.com
 payments.hostinger.com
 hpanel.hostinger.com
+cpanel.hosting24.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hostinger.com
 www.hosting24.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -116,8 +116,8 @@ widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
 cars.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1251,8 +1251,8 @@ hatching.io
 www.recordedfuture.com
 geminiadvisory.io
 securitytrails.com
-id.recordedfuture.com
 tria.ge
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1412,8 +1412,8 @@ app.spiketrap.io
 *.redditmedia.com
 ads.reddit.com
 gql.reddit.com
-api.reddit.com
 old.reddit.com
+api.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1727,6 +1727,10 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
+platform.enjin.io
+nft.io
+nft.io
+platform.enjin.io
 api.figma.com
 www.figma.com
 www.figma.com
@@ -2044,16 +2048,16 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
 *.aliexpress.com
 *.Daraz.com
-*.aliyun.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2139,14 +2143,14 @@ lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 all-inclusive.marriott.com
+www.ritzcarlton.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2777,9 +2781,9 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 playartifact.com
-developer.valvesoftware.com
 store.steampowered.com
 help.steampowered.com
+developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
@@ -3599,8 +3603,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
