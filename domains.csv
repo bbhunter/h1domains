@@ -1578,8 +1578,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -7415,11 +7415,11 @@ logitech,outage.logitech.com,False
 logitech,www.logitechstore.com.br,False
 logitech,*.crossclip.com,False
 logitech,*.logi.com,False
-logitech,www.logitechg.com,True
 logitech,www.logitech.com.cn,True
 logitech,*.myharmony.com,False
 logitech,alert.logitech.com,False
 logitech,*.logitech.com,False
+logitech,www.logitechg.com,True
 logitech,*.streamlabscharity.com,False
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
@@ -8070,8 +8070,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
