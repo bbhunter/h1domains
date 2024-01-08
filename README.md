@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 20:25:20 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 21:19:35 UTC 2024)
 ```
 cpanel.hosting24.com
 payments.hostinger.com
@@ -2141,8 +2141,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
@@ -3245,8 +3245,8 @@ education.github.com
 *.github.net
 gist.github.com
 *.githubusercontent.com
-npmjs.org
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3397,8 +3397,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3406,9 +3406,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
