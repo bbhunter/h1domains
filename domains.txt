@@ -3333,10 +3333,10 @@ kkrpec.com
 kinfra.com
 ksam.com
 work.8x8.com
-sso.8x8.com
 connect.8x8.com
 *.8x8.vc
 *.jitsi.net
+sso.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -4560,7 +4560,6 @@ fossil.fnfsale.in
 *.myroyalcanin.ro
 *.shoproyalcanin.com
 *.vetschoice.co.za
-*.eukanubasportingdog.com
 banfield.us
 *.royalcaninfoodfinder.com
 *.myroyalcanin.gr
@@ -4572,6 +4571,7 @@ banfield.us
 *.royalcanin.nl
 *.banfield.com
 practice.securevetsource.com
+*.eukanubasportingdog.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -8083,8 +8083,8 @@ lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
-all-inclusive.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
@@ -8119,8 +8119,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -8313,11 +8313,11 @@ platform.8x8.com
 pay.8x8.com
 *.8x8.id
 *.chalet.8x8.com
-sso.8x8.com
 *.jitsi.org
 www.8x8.com
 *.8x8pilot.com
 *.jitsi.net
+sso.8x8.com
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -10074,8 +10074,8 @@ yelptop100.com
 *.yelpwifi.com
 yelptop100.com
 harvestapp.com
-getharvest.com
 id.getharvest.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -10394,7 +10394,6 @@ help.ui.com
 rma.ui.com
 account.ui.com
 fw-update.ubnt.com
-uisp.com
 *.ubnt.com
 *.ui.com
 community.ui.com
@@ -10676,8 +10675,8 @@ simplenote.com
 gravatar.com
 assets.tumblr.com
 intensedebate.com
-wordpress.com
 api.tumblr.com
+wordpress.com
 safe.tumblr.com
 t.umblr.com
 www.tumblr.com

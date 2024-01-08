@@ -3334,10 +3334,10 @@ kkr_vdp,kkrpec.com,False
 kkr_vdp,kinfra.com,False
 kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
-8x8-bounty,sso.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
 8x8-bounty,*.jitsi.net,True
+8x8-bounty,sso.8x8.com,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -4561,7 +4561,6 @@ mars,*.twix.com,False
 mars,*.myroyalcanin.ro,False
 mars,*.shoproyalcanin.com,False
 mars,*.vetschoice.co.za,False
-mars,*.eukanubasportingdog.com,False
 mars,banfield.us,False
 mars,*.royalcaninfoodfinder.com,False
 mars,*.myroyalcanin.gr,False
@@ -4573,6 +4572,7 @@ mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.nl,False
 mars,*.banfield.com,False
 mars,practice.securevetsource.com,False
+mars,*.eukanubasportingdog.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -8084,8 +8084,8 @@ marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,marriottfranchisetransactions.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.ritzcarlton.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
@@ -8120,8 +8120,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
+roblox,*.guilded.gg,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8314,11 +8314,11 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,pay.8x8.com,False
 8x8,*.8x8.id,False
 8x8,*.chalet.8x8.com,False
-8x8,sso.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,www.8x8.com,False
 8x8,*.8x8pilot.com,False
 8x8,*.jitsi.net,False
+8x8,sso.8x8.com,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10075,8 +10075,8 @@ yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
 yelp,yelptop100.com,True
 harvest,harvestapp.com,True
-harvest,getharvest.com,True
 harvest,id.getharvest.com,True
+harvest,getharvest.com,True
 harvest,forecastapp.com,True
 harvest,harvestapp.com,True
 harvest,forecastapp.com,True
@@ -10395,7 +10395,6 @@ ui,help.ui.com,False
 ui,rma.ui.com,True
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
-ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
@@ -10677,8 +10676,8 @@ automattic,simplenote.com,True
 automattic,gravatar.com,True
 automattic,assets.tumblr.com,True
 automattic,intensedebate.com,True
-automattic,wordpress.com,True
 automattic,api.tumblr.com,True
+automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,www.tumblr.com,True
