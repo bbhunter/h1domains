@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
+hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -4877,8 +4877,8 @@ exness,social-trading.exness.com,True
 exness,https://my.exness.com/pa/socialtrading,True
 exness,exness.com,True
 smtp2go,app.smtp2go.com,True
-smtp2go,smtp2go.com,True
 smtp2go,api.smtp2go.com,True
+smtp2go,smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -10293,8 +10293,8 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
 shopify,*.shopifycloud.com,True
@@ -10303,8 +10303,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10632,8 +10632,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,x.com,True
 x,*.twitter.com,True
+x,x.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
