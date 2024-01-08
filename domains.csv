@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hosting24.com,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -1169,8 +1169,8 @@ brightspeed,gobrightspeed.net,False
 palta,prismalabsteam.com,True
 palta,lensa-ai.com,True
 palta,prisma-ai.com,True
-palta,neuralprisma.com,True
 palta,appapi.neuralprisma.com,True
+palta,neuralprisma.com,True
 palta,neuralprisma.com,True
 palta,prismalabsteam.com,True
 palta,lensa-ai.com,True
@@ -2729,8 +2729,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,app.krisha.kz,True
 kolesagroup,m.kolesa.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.avtoelon.uz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3386,9 +3386,13 @@ kkr_vdp,ksam.com,False
 superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.spinaway.com,True
+superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
+superbet,*.superbet.rs,True
+superbet,*.superbet.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
@@ -7418,8 +7422,8 @@ logitech,*.logi.com,False
 logitech,www.logitech.com.cn,True
 logitech,*.myharmony.com,False
 logitech,alert.logitech.com,False
-logitech,*.logitech.com,False
 logitech,www.logitechg.com,True
+logitech,*.logitech.com,False
 logitech,*.streamlabscharity.com,False
 logitech,logilife.logitech.com,False
 logitech,*.uesmartradio.com,False
@@ -8084,8 +8088,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
+marriott,passwordchallenge.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True

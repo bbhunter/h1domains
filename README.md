@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 12:39:12 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 13:26:37 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -199,8 +199,8 @@ test.nicex.com
 prismalabsteam.com
 lensa-ai.com
 prisma-ai.com
-neuralprisma.com
 appapi.neuralprisma.com
+neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -412,8 +412,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-krisha.kz
 api.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -727,9 +727,13 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.ro
+*.superbet.com
 *.luckydays.ca
 *.spinaway.com
+*.superbet.rs
 *.superbet.ro
+*.superbet.rs
+*.superbet.com
 *.magicjackpot.ro
 *.spinaway.com
 *.luckydays.com
@@ -2149,8 +2153,8 @@ www.ritzcarlton.com
 gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
-passwordchallenge.marriott.com
 marrtool.com
+passwordchallenge.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
