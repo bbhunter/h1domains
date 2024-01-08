@@ -2,23 +2,23 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 06:27:52 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan  8 07:20:52 UTC 2024)
 ```
 www.niagahoster.co.id
 cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
 hpanel.hosting24.com
-*.000webhost.com
 payments.hosting24.com
 www.hostinger.com
 www.hosting24.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
 editor.zyro.com
-www.zyro.com
 backend.zyro.com
+www.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -685,8 +685,8 @@ user-profile-staging.8x8.com
 platform.8x8pilot.com
 *.jit.si
 *.8x8.id
-cloud8.8x8.com
 *.chalet.8x8.com
+cloud8.8x8.com
 platform.8x8.com
 voapi.8x8.com
 *.packet8.net
@@ -1900,9 +1900,9 @@ direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
-ca.account.sony.com
 *.playstation.net
 my.account.sony.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -3759,8 +3759,8 @@ profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
