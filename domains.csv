@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -117,8 +117,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,cars.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,secure.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3336,8 +3336,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,work.8x8.com,True
 8x8-bounty,connect.8x8.com,True
 8x8-bounty,*.8x8.vc,True
-8x8-bounty,*.jitsi.net,True
 8x8-bounty,sso.8x8.com,True
+8x8-bounty,*.jitsi.net,True
 8x8-bounty,work-staging.8x8.com,True
 8x8-bounty,uc.8x8pilot.com,True
 8x8-bounty,user-profile-staging.8x8.com,True
@@ -6118,6 +6118,7 @@ john-deere,ims.tcms.tal.deere.com,False
 john-deere,advance.deere.com,False
 john-deere,devl-app.nprd-exco.deere.com,False
 john-deere,jduetc.deere.com,False
+john-deere,jdfy-cert.deere.com,False
 john-deere,agrisync.com,False
 john-deere,api.agrisync.com,False
 john-deere,app.agrisync.com,False
@@ -6429,8 +6430,8 @@ zebra_vdp,domore.zebra.com,False
 zebra_vdp,mwwprod.zebra.engineering,False
 zebra_vdp,fs.viq.zebra.com,False
 zebra_vdp,zsbportal.zebra.com,False
-zebra_vdp,*.antuit.ai,False
 zebra_vdp,*.zebramwe.com,False
+zebra_vdp,*.antuit.ai,False
 zebra_vdp,global.zebra.com,False
 zebra_vdp,hcm.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
@@ -7394,9 +7395,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8317,8 +8318,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.jitsi.org,False
 8x8,www.8x8.com,False
 8x8,*.8x8pilot.com,False
-8x8,*.jitsi.net,False
 8x8,sso.8x8.com,False
+8x8,*.jitsi.net,False
 8x8,accountmanager.8x8.com,False
 8x8,*.contactnow.8x8.com,False
 8x8,*.mycontactual.com,False
@@ -10292,11 +10293,11 @@ udemy,yourcompany.udemy.com,True
 udemy,www.udemy.com,True
 udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
-shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
+shopify,arrive-server.shopifycloud.com,True
 shopify,linkpop.com,True
-shopify,*.shopifycloud.com,True
 shopify,shop.app,True
+shopify,*.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
@@ -10395,7 +10396,6 @@ ui,help.ui.com,False
 ui,rma.ui.com,True
 ui,account.ui.com,True
 ui,fw-update.ubnt.com,True
-ui,uisp.com,True
 ui,*.ubnt.com,True
 ui,*.ui.com,True
 ui,community.ui.com,True
