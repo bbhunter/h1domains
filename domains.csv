@@ -41,9 +41,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -4572,6 +4572,7 @@ mars,*.individualis.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.royalcanin.nl,False
 mars,*.banfield.com,False
+mars,practice.securevetsource.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -4595,6 +4596,7 @@ mars,*.pedigree.com,False
 mars,*.vcahospitals.com,False
 mars,*.mms.com,False
 mars,*.royalcanin.ca,False
+mars,spsah2.securevetsource.com,False
 mars,*.royal-canin.com,False
 mars,*.bibliotecarc.cl,False
 mars,*.coroapremiada.com.br,False
@@ -4604,9 +4606,6 @@ mars,*.rcpracownik.pl,False
 mars,*.royalcanin.sk,False
 mars,*.tradetermsrc.com,False
 mars,*.wikichien.fr,False
-mars,*.plataformaurinary.com,False
-mars,*.royalcanin.it,False
-mars,*.marschocolate.com,False
 mars,*.mars.com,False
 mars,*.marschocolate.com,False
 mars,*.mms.com,False
@@ -4672,6 +4671,9 @@ mars,banfieldexchange.com,False
 mars,banfieldfoundation.org,False
 mars,marsbettertogetherfund.org,False
 mars,banfield.us,False
+mars,practice.securevetsource.com,False
+mars,spsah2.securevetsource.com,False
+mars,https://portal.securevetsource.com/petowner.html,False
 flexport_vdp,*.flexport.com,False
 flexport_vdp,*.transmissionapp.com,False
 flexport_vdp,*.flexport.com,False
@@ -4875,8 +4877,8 @@ exness,social-trading.exness.com,True
 exness,https://my.exness.com/pa/socialtrading,True
 exness,exness.com,True
 smtp2go,app.smtp2go.com,True
-smtp2go,api.smtp2go.com,True
 smtp2go,smtp2go.com,True
+smtp2go,api.smtp2go.com,True
 smtp2go,smtp2go.com,True
 smtp2go,app.smtp2go.com,True
 smtp2go,api.smtp2go.com,True
@@ -4896,8 +4898,8 @@ etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
-etoro_bbp,www.etoro.com,True
 etoro_bbp,delta.app,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
 etoro_bbp,kyc-src.etoro.com,True
@@ -8088,8 +8090,8 @@ marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,hotel-deals.marriott.com,True
-marriott,passwordchallenge.marriott.com,True
 marriott,marrtool.com,True
+marriott,passwordchallenge.marriott.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
@@ -9545,8 +9547,8 @@ goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,*.folioclient.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
-goldmansachs,*.gs.com,True
 goldmansachs,*.folioinstitutional.com,True
+goldmansachs,*.gsam.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gs.com,True
 goldmansachs,*.goldman.com,True
@@ -10542,9 +10544,9 @@ airbnb,next.airbnb.com,True
 airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
