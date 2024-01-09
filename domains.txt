@@ -1,3 +1,9 @@
+app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
+app.dynamic.xyz
 analytics.wellhive.com
 login.wellhive.com
 app.wellhive.com
@@ -3399,8 +3405,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -5381,7 +5387,6 @@ spar.nyerjakedvenceiddel.hu
 https://www.fundraising.com.au/
 chipsahoy.art
 weihnachten.milka.de
-cadburythisadismystore.com
 shop.cadburydairymilk.com
 phillyksa.com
 snackingright.com.au
@@ -7410,9 +7415,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -8081,8 +8086,8 @@ www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -10310,8 +10315,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

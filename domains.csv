@@ -1,4 +1,10 @@
 handle,domain,eligible_for_bounty
+dynamic_labs,app.dynamic.xyz,True
+dynamic_labs,app.dynamic-preprod.xyz,True
+dynamic_labs,demo.dynamic.xyz,True
+dynamic_labs,app.dynamic-preprod.xyz,True
+dynamic_labs,demo.dynamic.xyz,True
+dynamic_labs,app.dynamic.xyz,True
 wellhive,analytics.wellhive.com,False
 wellhive,login.wellhive.com,False
 wellhive,app.wellhive.com,False
@@ -3400,8 +3406,8 @@ superbet,*.superbet.ro,True
 superbet,*.luckydays.ca,True
 superbet,*.napoleoncasino.be,True
 superbet,*.spinaway.com,True
-superbet,*.napoleonsports.be,True
 superbet,*.superbet.rs,True
+superbet,*.napoleonsports.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -5382,7 +5388,6 @@ mondelez,spar.nyerjakedvenceiddel.hu,False
 mondelez,https://www.fundraising.com.au/,False
 mondelez,chipsahoy.art,False
 mondelez,weihnachten.milka.de,False
-mondelez,cadburythisadismystore.com,False
 mondelez,shop.cadburydairymilk.com,False
 mondelez,phillyksa.com,False
 mondelez,snackingright.com.au,False
@@ -7411,9 +7416,9 @@ tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8082,8 +8087,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,www.marriott.com,True
 marriott,mgs.marriott.com,True
+marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -10311,8 +10316,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
