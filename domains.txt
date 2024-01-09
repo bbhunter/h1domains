@@ -7434,13 +7434,13 @@ logitechgchallenge.com
 circle.logi.com
 www.ultimateears.com
 id.logi.com
-*.logitechmusic.com
 *.melonapp.com
 *.lucra.live
 www.logitechclub.com
 feedback.logitech.com
 external.logitech.com
 sync.logitech.com
+*.logitechmusic.com
 partner.logitech.com
 maintenance.logitech.com
 *vc.logitech.com
@@ -9086,8 +9086,8 @@ chain.link
 admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -10631,8 +10631,8 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com

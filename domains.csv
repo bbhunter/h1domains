@@ -7435,13 +7435,13 @@ logitech,logitechgchallenge.com,False
 logitech,circle.logi.com,True
 logitech,www.ultimateears.com,True
 logitech,id.logi.com,True
-logitech,*.logitechmusic.com,False
 logitech,*.melonapp.com,False
 logitech,*.lucra.live,False
 logitech,www.logitechclub.com,False
 logitech,feedback.logitech.com,False
 logitech,external.logitech.com,False
 logitech,sync.logitech.com,True
+logitech,*.logitechmusic.com,False
 logitech,partner.logitech.com,False
 logitech,maintenance.logitech.com,False
 logitech,*vc.logitech.com,True
@@ -9087,8 +9087,8 @@ chainlink,chain.link,False
 priceline,admin.rezserver.com,True
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
-priceline,www.priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
@@ -10632,8 +10632,8 @@ greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
 x,twitterflightschool.com,False
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,grok.x.ai,True
 x,*.twimg.com,True
