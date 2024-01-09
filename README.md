@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 09:22:18 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 10:24:43 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
-hpanel.hostinger.com
 payments.hostinger.com
+hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -40,9 +40,9 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 auth.23andme.com
-api.23andme.com
 blog.23andme.com
 you.23andme.com
+api.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -728,8 +728,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.superbet.com
 *.superbet.ro
-*.napoleongames.be
 *.napoleondice.be
+*.napoleongames.be
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -1739,12 +1739,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
-nft.io
-nft.io
-platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2067,9 +2063,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliyun-inc.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2159,10 +2155,10 @@ www.ritzcarlton.com
 all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
-homes-and-villas.marriott.com
 hotel-deals.marriott.com
 marrtool.com
 passwordchallenge.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2753,8 +2749,8 @@ marquee.gs.com
 *.gs.de
 *.folioclient.com
 *.advisorsolutions.gs.com
-*.folioinstitutional.com
 *.gsam.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3712,8 +3708,8 @@ api.coinbase.com
 cloud.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
-coinbase.com
 *.base.org
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3933,6 +3929,10 @@ api.remitano.com
 www.remitano.com
 api.remitano.com
 socket.remitano.com
+platform.enjin.io
+nft.io
+nft.io
+platform.enjin.io
 www.aiven.io
 help.aiven.io
 api.aiven.io
