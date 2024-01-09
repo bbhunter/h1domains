@@ -31,8 +31,8 @@ hostinger,www.niagahoster.co.id,True
 hostinger,partner.niagahoster.co.id,True
 eufy_security,https://passport.eufy.com/?app=eufy-us,True
 egress-vdp,switch.vdp-egress.com,False
-egress-vdp,reader.vdp-egress.com,False
 egress-vdp,www.egress.com,False
+egress-vdp,reader.vdp-egress.com,False
 egress-vdp,reader.vdp-egress.com,False
 egress-vdp,switch.vdp-egress.com,False
 egress-vdp,www.egress.com,False
@@ -1578,8 +1578,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -7389,8 +7389,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,live-backstage.tiktok.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -7733,10 +7733,10 @@ playstation,wallets.api.playstation.com,True
 playstation,social.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,transact.playstation.com,True
-playstation,*.api.playstation.com,True
 playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
+playstation,*.api.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
@@ -10795,10 +10795,10 @@ security,hackerone-ext-content.com,True
 security,www.hackerone.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
-security,b5s.hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,cover-photos.hackerone-user-content.com,True
+security,b5s.hackerone-ext-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
