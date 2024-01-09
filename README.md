@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan  8 23:22:26 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 01:17:25 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -2135,8 +2135,8 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-sso.marriott.com
 mgs.marriott.com
+sso.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
