@@ -1,4 +1,12 @@
 handle,domain,eligible_for_bounty
+wellhive,analytics.wellhive.com,False
+wellhive,login.wellhive.com,False
+wellhive,app.wellhive.com,False
+wellhive,wellhivecorporate.okta.com,False
+wellhive,wellhivecorporate.okta.com,False
+wellhive,analytics.wellhive.com,False
+wellhive,app.wellhive.com,False
+wellhive,login.wellhive.com,False
 hostinger,cpanel.hosting24.com,True
 hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
@@ -1578,8 +1586,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -8074,8 +8082,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,gatewaydsaptst2.marriott.com,True
 marriott,sso.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
@@ -10546,8 +10554,8 @@ airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
 airbnb,*.hoteltonight-test.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True

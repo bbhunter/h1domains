@@ -1,3 +1,11 @@
+analytics.wellhive.com
+login.wellhive.com
+app.wellhive.com
+wellhivecorporate.okta.com
+wellhivecorporate.okta.com
+analytics.wellhive.com
+app.wellhive.com
+login.wellhive.com
 cpanel.hosting24.com
 payments.hostinger.com
 www.niagahoster.co.id
@@ -1577,8 +1585,8 @@ aven.com
 aven.com
 my.aven.com
 notary.aven.com
-*.service-now.com
 *.servicenow.com
+*.service-now.com
 *.servicenow.com
 *.service-now.com
 durango.shi.com
@@ -8073,8 +8081,8 @@ www.32red.com
 relaxcdn.unibet.com
 gatewaydsaptst2.marriott.com
 sso.marriott.com
-mgs.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -10545,8 +10553,8 @@ next.airbnb.com
 *.airbnbcitizen.com
 *.muscache.com
 *.hoteltonight-test.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
