@@ -1578,8 +1578,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -3015,8 +3015,8 @@ indrive,ci.indrive.dev,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
-indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
+indrive,watchdocs.indriverapp.com,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
@@ -3387,9 +3387,13 @@ superbet,*.luckydays.com,True
 superbet,*.magicjackpot.ro,True
 superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.napoleongames.be,True
+superbet,*.napoleondice.be,True
 superbet,*.luckydays.ca,True
+superbet,*.napoleoncasino.be,True
 superbet,*.spinaway.com,True
 superbet,*.superbet.rs,True
+superbet,*.napoleonsports.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -3397,6 +3401,10 @@ superbet,*.magicjackpot.ro,True
 superbet,*.spinaway.com,True
 superbet,*.luckydays.com,True
 superbet,*.luckydays.ca,True
+superbet,*.napoleoncasino.be,True
+superbet,*.napoleondice.be,True
+superbet,*.napoleongames.be,True
+superbet,*.napoleonsports.be,True
 moonpay,*.moonpaycloud.com,True
 moonpay,moonpay.com,True
 moonpay,*.moonpay.com,True
@@ -8121,8 +8129,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.rbx.com,True
 roblox,*.ra.roblox.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True

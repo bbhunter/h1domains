@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 08:28:05 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 09:22:18 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -564,8 +564,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-watchdocs.indriverapp.com
 *.indriverapp.com
+watchdocs.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -728,9 +728,13 @@ admin.8x8.com
 *.magicjackpot.ro
 *.superbet.com
 *.superbet.ro
+*.napoleongames.be
+*.napoleondice.be
 *.luckydays.ca
+*.napoleoncasino.be
 *.spinaway.com
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -738,6 +742,10 @@ admin.8x8.com
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
 *.moonpaycloud.com
 moonpay.com
 *.moonpay.com
@@ -2183,8 +2191,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
