@@ -5,8 +5,8 @@ payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 logo.zyro.com
 partner.niagahoster.co.id
@@ -34,9 +34,9 @@ mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
 auth.23andme.com
-you.23andme.com
 api.23andme.com
 blog.23andme.com
+you.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -671,8 +671,8 @@ jobs.kiwi.com
 work.8x8.com
 sso.8x8.com
 *.jitsi.net
-connect.8x8.com
 *.8x8.vc
+connect.8x8.com
 work-staging.8x8.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
@@ -718,10 +718,10 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.magicjackpot.ro
 *.luckydays.com
-*.superbet.ro
+*.magicjackpot.ro
 *.superbet.com
+*.superbet.ro
 *.luckydays.ca
 *.spinaway.com
 *.superbet.rs
@@ -2046,8 +2046,8 @@ https://www.amazon.in/wealth/*
 https://amazonpay.amazon.in/*
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.alibaba-inc.com
 *.aliexpress.ru
 *.alimama.com
@@ -2780,8 +2780,8 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 store.steampowered.com
-help.steampowered.com
 developer.valvesoftware.com
+help.steampowered.com
 www.teamfortress.com
 www.counter-strike.net
 www.valvesoftware.com
@@ -3024,8 +3024,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-www.bumble.com
 badoo.com
+www.bumble.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
@@ -3642,8 +3642,8 @@ embed.tumblr.com
 my.pressable.com
 happy.tools
 simperium.com
-simplenote.com
 gravatar.com
+simplenote.com
 assets.tumblr.com
 intensedebate.com
 api.tumblr.com
