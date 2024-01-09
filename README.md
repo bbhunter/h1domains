@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  9 11:18:13 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan  9 12:36:22 UTC 2024)
 ```
 cpanel.hosting24.com
 www.niagahoster.co.id
@@ -727,14 +727,14 @@ admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
 *.superbet.com
-*.superbet.ro
 *.napoleondice.be
 *.napoleongames.be
+*.superbet.ro
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1697,8 +1697,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 *.tiktok.com
+business.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -1980,7 +1980,7 @@ portal.polygon.technology
 *.skybetservices.com
 *.betfair.se
 *.sbgtest.net
-*.platformservices.io
+*.betfair.ro
 *.betfair.com
 *.paddypower.com
 *.betfair.es
@@ -2139,9 +2139,9 @@ unibet.me
 maria.casino
 www.32red.com
 gatewaydsaptst2.marriott.com
-mgs.marriott.com
 sso.marriott.com
 www.marriott.com
+mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2155,10 +2155,10 @@ www.ritzcarlton.com
 all-inclusive.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
-hotel-deals.marriott.com
 marrtool.com
 passwordchallenge.marriott.com
 homes-and-villas.marriott.com
+hotel-deals.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2728,8 +2728,8 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.unitedcp.com
 *.ayco.com
-*.goldman.com
 *.foliofn.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -2815,8 +2815,8 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
-auth.crypto.com
 www.crypto.com
+auth.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -3450,8 +3450,8 @@ business.snapchat.com
 playcanvas.com
 geofilters.snapchat.com
 spectacles.com
-web.snapchat.com
 *.sc-corp.net
+web.snapchat.com
 developer.playcanvas.com
 launch.playcanvas.com
 www.bitstrips.com
