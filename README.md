@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 13:26:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 14:23:37 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -23,8 +23,8 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
-payments.hostinger.com
 www.niagahoster.co.id
+payments.hostinger.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
@@ -116,8 +116,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -2170,9 +2170,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 marrtool.com
@@ -2393,8 +2393,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3440,8 +3440,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3786,8 +3786,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com

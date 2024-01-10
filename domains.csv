@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
+dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -34,8 +34,8 @@ wellhive,analytics.wellhive.com,False
 wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,cpanel.hosting24.com,True
-hostinger,payments.hostinger.com,True
 hostinger,www.niagahoster.co.id,True
+hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
@@ -133,8 +133,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,admin.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,*.booking.com,True
+bookingcom,booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
@@ -3701,8 +3701,8 @@ avalara,*.track1099.com,False
 avalara,*.ttrus.com,False
 avalara,*.avalara.net,False
 avalara,*.davosalestax.com,False
-avalara,*.inposia.com,False
 avalara,*.3ce.com,False
+avalara,*.inposia.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.com,False
 avalara,*.avalara.net,False
@@ -4613,8 +4613,8 @@ mars,*.individualis.com,False
 mars,*.miroyalcanin.com.ar,False
 mars,*.banfield.com,False
 mars,*.eukanubasportingdog.com,False
-mars,practice.securevetsource.com,False
 mars,*.royalcanin.nl,False
+mars,practice.securevetsource.com,False
 mars,*.extragum.com,False
 mars,*.monespaceeleveur.fr,False
 mars,*.myroyalcanin.hu,False
@@ -8119,9 +8119,9 @@ marriott,jobs.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,giftcards.marriott.com,True
 marriott,cpp.marriott.com,True
-marriott,marriottfranchisetransactions.marriott.com,True
 marriott,www.ritzcarlton.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,marriottfranchisetransactions.marriott.com,True
 marriott,*uat.marriott.com,True
 marriott,gatewaydsapdev2.marriott.com,True
 marriott,marrtool.com,True
@@ -9183,8 +9183,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -10347,8 +10347,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10822,8 +10822,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,hackerone.com,True
 security,api.hackerone.com,True
+security,hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

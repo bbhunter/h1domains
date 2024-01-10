@@ -1,7 +1,7 @@
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -33,8 +33,8 @@ analytics.wellhive.com
 app.wellhive.com
 login.wellhive.com
 cpanel.hosting24.com
-payments.hostinger.com
 www.niagahoster.co.id
+payments.hostinger.com
 hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
@@ -132,8 +132,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -3700,8 +3700,8 @@ www.divvyhomes.com
 *.ttrus.com
 *.avalara.net
 *.davosalestax.com
-*.inposia.com
 *.3ce.com
+*.inposia.com
 *.avalara.com
 *.avalara.com
 *.avalara.net
@@ -4612,8 +4612,8 @@ banfield.us
 *.miroyalcanin.com.ar
 *.banfield.com
 *.eukanubasportingdog.com
-practice.securevetsource.com
 *.royalcanin.nl
+practice.securevetsource.com
 *.extragum.com
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -8118,9 +8118,9 @@ jobs.marriott.com
 lawmanager.marriott.com
 giftcards.marriott.com
 cpp.marriott.com
-marriottfranchisetransactions.marriott.com
 www.ritzcarlton.com
 all-inclusive.marriott.com
+marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
 marrtool.com
@@ -9182,8 +9182,8 @@ www.bookingholdings.com
 *.capitaloneshopping.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -10346,8 +10346,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10821,8 +10821,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
