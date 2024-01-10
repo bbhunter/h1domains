@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 11:19:30 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 12:36:46 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -29,8 +29,8 @@ hpanel.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -116,8 +116,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -430,8 +430,8 @@ id.avtoelon.uz
 kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -745,9 +745,9 @@ admin.8x8.com
 *.luckydays.com
 *.magicjackpot.ro
 *.napoleondice.be
-*.napoleongames.be
 *.superbet.ro
 *.superbet.com
+*.napoleongames.be
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
@@ -828,8 +828,8 @@ www.ebookers.fi
 www.expediacruises.com
 www.expediapartnercentral.com
 www.hotwire.com
-www.stayz.com.au
 www.wotif.com
+www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -1365,6 +1365,7 @@ on-ramp.metaswap-dev.codefi.network
 staking-uat.codefi.network
 consensys.net
 activate.codefi.network
+app.infura.io
 staking.codefi.network
 bridge.codefi.network
 webhooks-api-experimental.codefi.network
@@ -1375,6 +1376,7 @@ canary.activate.codefi.network
 on-ramp.metaswap-dev.codefi.network
 webhooks-api-experimental.codefi.network
 http://portfolio.metamask.io
+app.infura.io
 https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
@@ -2175,8 +2177,8 @@ all-inclusive.marriott.com
 gatewaydsapdev2.marriott.com
 marrtool.com
 passwordchallenge.marriott.com
-homes-and-villas.marriott.com
 hotel-deals.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2638,9 +2640,9 @@ www.swiftfinancial.com
 swiftfinancial.com
 py.pl
 *.braintreepayments.com
-*.xoom.com
 *.braintree-api.com
 *.paylution.com
+*.xoom.com
 www.swiftcapital.com
 my.swiftfinancial.com
 swiftcapital.com
@@ -2777,6 +2779,7 @@ marquee.gs.com
 *.advisorsolutions.gs.com
 *.gsam.com
 *.folioinstitutional.com
+*.gs.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3267,8 +3270,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 education.github.com
@@ -3427,8 +3430,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-your-store.myshopify.com
 arrive-server.shopifycloud.com
+your-store.myshopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3642,8 +3645,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3783,8 +3786,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3799,11 +3802,11 @@ hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackerone.live
 cover-photos.hackerone-user-content.com
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 errors.hackerone.net
+hackerone.live
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
