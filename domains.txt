@@ -34,8 +34,8 @@ app.wellhive.com
 login.wellhive.com
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
@@ -45,8 +45,8 @@ cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -132,8 +132,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 portal.taxi.booking.com
 distribution-xml.booking.com
@@ -1283,7 +1283,6 @@ boysweb.shaya.com.tr
 kw.cosstores.com
 *.starbucks.com.kz
 *.aloyoga.com.qa
-*.americaneagle.com.eg
 *.americaneagle.com.sa
 *.thebodyshop.pl
 *.starbucks.com.tr
@@ -1298,6 +1297,7 @@ kw.cosstores.com
 customercare.alshaya.com
 kuwait.kidzania.com
 *.debenhams.com.kw
+*.victoriassecret.pl
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -5913,7 +5913,6 @@ mail.kreiselelectric.com
 filebox-dev.kreiselelectric.com
 video.kreiselelectric.com
 vpn.kreiselelectric.com
-ghost.harvestprofit.com
 stellarsupport.deere.com
 work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 citratest.deere.com
@@ -5923,6 +5922,7 @@ marksman.surepointag.com
 johndeereinnovation.com
 contest.deere.com
 deere.africa
+core.surepointag.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -6592,10 +6592,10 @@ blog.drugs.com
 www.woolshed.com
 app.spiketrap.io
 *.redditmedia.com
-ads.reddit.com
 old.reddit.com
 api.reddit.com
 gql.reddit.com
+ads.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -10339,8 +10339,8 @@ yourcompany.udemy.com
 www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
-arrive-server.shopifycloud.com
 your-store.myshopify.com
+arrive-server.shopifycloud.com
 linkpop.com
 *.shopifycloud.com
 shop.app
@@ -10348,8 +10348,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
