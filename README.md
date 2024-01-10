@@ -2,8 +2,20 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 08:25:50 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 09:21:13 UTC 2024)
 ```
+*.sprint.apps.dynatracelabs.com
+account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
+sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
+*.sprint.apps.dynatracelabs.com
+account-sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -46,9 +58,9 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
 api.23andme.com
 auth.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2228,8 +2240,8 @@ cloud.nordlocker.com
 *.nordvpn.com
 cloud.nordlocker.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
