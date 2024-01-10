@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 10 07:20:14 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 10 08:25:50 UTC 2024)
 ```
 app.dynamic.xyz
 app.dynamic-preprod.xyz
@@ -46,8 +46,8 @@ mediacenter.23andme.com
 education.23andme.com
 store.23andme.com
 blog.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
@@ -399,8 +399,8 @@ www.practicalmoneyskills.org
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -625,8 +625,8 @@ http://miro.com/blog
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-*.mwbsys.com
 my.malwarebytes.com
+*.mwbsys.com
 *.mbamupdates.com
 *.threatdown.com
 *.mwb-threatintel.com
@@ -739,8 +739,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.superbet.rs
 *.napoleonsports.be
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1113,8 +1113,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1745,8 +1745,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2637,8 +2637,8 @@ scrutiny.swiftfinancial.com
 paypal.me
 *.hyperwallet.com
 my.loanbuilder.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 pigeon.swiftfinancial.com
 *.paydiant.com
 *.braintree.tools
@@ -3669,9 +3669,9 @@ simperium.com
 gravatar.com
 simplenote.com
 assets.tumblr.com
-intensedebate.com
 api.tumblr.com
 wordpress.com
+intensedebate.com
 safe.tumblr.com
 t.umblr.com
 *.tumblr.com

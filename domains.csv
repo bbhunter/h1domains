@@ -63,8 +63,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
-23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
@@ -2732,8 +2732,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -3188,8 +3188,8 @@ abb,abb.com.br,False
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,*.mwbsys.com,True
 malwarebytes,my.malwarebytes.com,True
+malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,forums.malwarebytes.com,False
@@ -3414,8 +3414,8 @@ superbet,*.superbet.com,True
 superbet,*.luckydays.ca,True
 superbet,*.napoleoncasino.be,True
 superbet,*.spinaway.com,True
-superbet,*.superbet.rs,True
 superbet,*.napoleonsports.be,True
+superbet,*.superbet.rs,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -5047,8 +5047,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -6267,8 +6267,8 @@ aig,*.corebridgefinancial.com,False
 aig,*.myretirementmanager.com,False
 aig,www-1008.aig.com,False
 aig,www.travelguard.com,False
-aig,www.aig.co.il,False
 aig,*.aig.com,False
+aig,www.aig.co.il,False
 aig,www.aig.com.br,False
 aig,*.aig.co.jp,False
 aig,www.vfisu.com,False
@@ -7530,8 +7530,8 @@ logitech,logitechgchallenge.com,False
 logitech,www.logitechclub.com,False
 logitech,select.logitech.com,False
 logitech,alert.logitech.com,False
-figma,www.figma.com,True
 figma,api.figma.com,True
+figma,www.figma.com,True
 figma,www.figma.com,True
 figma,api.figma.com,True
 cs_money,wiki.cs.money,True
@@ -8357,8 +8357,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,work-staging.8x8.com,False
 8x8,express.8x8.com,False
 8x8,*.jit.si,False
-8x8,*.wavecell.com,False
 8x8,*.packet8.net,False
+8x8,*.wavecell.com,False
 8x8,*.ucverse.com,False
 8x8,*.8x8.com,False
 8x8,*.packet8.net,False
@@ -9445,8 +9445,8 @@ paypal,scrutiny.swiftfinancial.com,True
 paypal,paypal.me,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.paypal.com,True
 paypal,*.venmo.com,True
+paypal,*.paypal.com,True
 paypal,pigeon.swiftfinancial.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
@@ -10705,9 +10705,9 @@ automattic,simperium.com,True
 automattic,gravatar.com,True
 automattic,simplenote.com,True
 automattic,assets.tumblr.com,True
-automattic,intensedebate.com,True
 automattic,api.tumblr.com,True
 automattic,wordpress.com,True
+automattic,intensedebate.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,*.tumblr.com,True
