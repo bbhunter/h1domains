@@ -11,9 +11,9 @@ dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
-oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
+oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth.co.uk,False
 oaknorth_bank,*.oaknorth.co.uk,False
 oaknorth_bank,*.oaknorth-it.com,False
@@ -25,8 +25,8 @@ dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic-preprod.xyz,True
 dynamic_labs,demo.dynamic.xyz,True
 dynamic_labs,app.dynamic.xyz,True
-wellhive,analytics.wellhive.com,False
 wellhive,login.wellhive.com,False
+wellhive,analytics.wellhive.com,False
 wellhive,app.wellhive.com,False
 wellhive,wellhivecorporate.okta.com,False
 wellhive,wellhivecorporate.okta.com,False
@@ -35,8 +35,8 @@ wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,cpanel.hosting24.com,True
 hostinger,www.niagahoster.co.id,True
-hostinger,hpanel.hostinger.com,True
 hostinger,payments.hostinger.com,True
+hostinger,hpanel.hostinger.com,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
@@ -3128,8 +3128,8 @@ abb,abb.com.br,False
 abb,*.cms.abb,False
 abb,*.abb.at,False
 abb,*.baldor.com,False
-abb,*.abb.com,False
 abb,*.pl.abb.com,False
+abb,*.abb.com,False
 abb,*.fi.abb.com,False
 abb,*.motors.abb.com.cn,False
 abb,*.pdc.abb.com,False
@@ -3472,8 +3472,8 @@ us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
-us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.STATE.GOV,False
+us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.USCONSULATE.GOV,False
 us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.DEVTESTFAN1.GOV,False
@@ -9183,8 +9183,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9665,9 +9665,9 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
-crypto,www.crypto.com,True
 crypto,auth.crypto.com,True
 crypto,*.mona.co,True
+crypto,www.crypto.com,True
 crypto,*.crypto.com,True
 crypto,tax.crypto.com,True
 crypto,merchant.crypto.com,True
