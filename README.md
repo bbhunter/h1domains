@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 05:22:15 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 06:26:02 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,13 +24,13 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
-www.hostinger.com
 www.hosting24.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -751,8 +751,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.spinaway.com
-*.napoleonsports.be
 *.superbet.rs
+*.napoleonsports.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1717,8 +1717,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 business.tiktok.com
-*.tiktok.com
 careers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3732,8 +3732,8 @@ blog.irccloud.com
 *.cbhq.net
 pro.coinbase.com
 prime.coinbase.com
-*.coinbase.com
 custody.coinbase.com
+*.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
