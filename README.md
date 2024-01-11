@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 11 01:17:36 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 11 02:35:29 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -24,8 +24,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 hpanel.hosting24.com
 payments.hosting24.com
 *.000webhost.com
@@ -78,8 +78,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadolivre.com.br
-www.mercadolibre.com.uy
 www.mercadolibre.com.mx
+www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
 api.mercadopago.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
