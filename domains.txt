@@ -28,11 +28,11 @@ www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
 cpanel.hosting24.com
-hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-www.hostinger.com
 *.000webhost.com
+hpanel.hosting24.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -2861,8 +2861,8 @@ snapfish.fr
 snapfish.ie
 *.photoccino.com
 *.lifetouch.com
-photo.walgreens.com
 snapfish.it
+photo.walgreens.com
 snapfish.de
 prestigeportraits.com
 lifetouch.com
@@ -5050,8 +5050,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -8359,8 +8359,8 @@ accountmanager.8x8.com
 work-staging.8x8.com
 express.8x8.com
 *.jit.si
-*.wavecell.com
 *.packet8.net
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
