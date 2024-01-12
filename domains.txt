@@ -30,9 +30,9 @@ cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -3265,8 +3265,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -10650,8 +10650,8 @@ donations.livestream.com
 *.informaticacloud.com
 *.vine.co
 twitterflightschool.com
-*.twitter.com
 x.com
+*.twitter.com
 t.co
 grok.x.ai
 *.twimg.com

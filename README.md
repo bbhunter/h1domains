@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 03:23:17 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 04:32:02 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -28,9 +28,9 @@ cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 hpanel.hosting24.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -681,8 +681,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -3635,8 +3635,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
