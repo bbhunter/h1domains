@@ -4760,9 +4760,9 @@ fidelity,*.advisorchannel.com,False
 fidelity,*.mystreetscape.com,False
 fidelity,*.wealthscape.com,False
 fidelity,*.fidelity.com,False
-planetart,ai.planetart.com,False
 planetart,www.personalcreations.com,False
 planetart,www.mycustomcase.com,False
+planetart,ai.planetart.com,False
 planetart,*.mycustomcase.com,False
 planetart,*.simplytoimpress.com,False
 planetart,www.photoaffections.com,False
@@ -5051,8 +5051,8 @@ anywhererealestate,*.anywhere.re,False
 anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
@@ -6456,8 +6456,8 @@ zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7431,8 +7431,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8029,8 +8029,8 @@ digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hackathon-tracker.digitalocean.com,False
 digitalocean,hacktoberfest.com,False
-digitalocean,www.digitalocean.com,False
 digitalocean,platform.cloudways.com,False
+digitalocean,www.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8114,8 +8114,8 @@ marriott,www.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,reservations.all-inclusive.marriott.com,True
-marriott,activities.marriott.com,True
 marriott,jobs.marriott.com,True
+marriott,activities.marriott.com,True
 marriott,lawmanager.marriott.com,True
 marriott,cpp.marriott.com,True
 marriott,www.ritzcarlton.com,True
@@ -8340,9 +8340,9 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,*.easycontactnow.com,False
 8x8,*.thinkingphones.com,False
 8x8,admin.8x8.com,False
-8x8,*.8x8cloud.net,False
 8x8,*.8x8.com,False
 8x8,connect.8x8.com,False
+8x8,*.8x8cloud.net,False
 8x8,*.thinkingphones.net,False
 8x8,sms.8x8.com,False
 8x8,user-profile.8x8.com,False
@@ -10351,8 +10351,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10593,9 +10593,9 @@ airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
+airbnb,*.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
