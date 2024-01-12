@@ -1119,8 +1119,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -3714,8 +3714,8 @@ blog.irccloud.com
 pro.coinbase.com
 prime.coinbase.com
 custody.coinbase.com
-*.cbhq.net
 *.coinbase.com
+*.cbhq.net
 cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com

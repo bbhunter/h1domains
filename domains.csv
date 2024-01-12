@@ -5051,8 +5051,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,databricks.com,True
 databricks,accounts.cloud.databricks.com,True
+databricks,databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -10741,8 +10741,8 @@ irccloud,blog.irccloud.com,True
 coinbase,pro.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,custody.coinbase.com,True
-coinbase,*.cbhq.net,True
 coinbase,*.coinbase.com,True
+coinbase,*.cbhq.net,True
 coinbase,cloud.coinbase.com,True
 coinbase,international.coinbase.com,True
 coinbase,api.coinbase.com,True
@@ -10843,8 +10843,8 @@ security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone.live,True
 security,*.vpn.hackerone.net,True
 oaknorth_bank,*.oaknorth-prod.com,False
-oaknorth_bank,*.oaknorth.com,False
 oaknorth_bank,*.oaknorth-it.com,False
+oaknorth_bank,*.oaknorth.com,False
 oaknorth_bank,*.oaknorth-it.com,False
 oaknorth_bank,*.oaknorth-prod.com,False
 oaknorth_bank,*.oaknorth.com,False
