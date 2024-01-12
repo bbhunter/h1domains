@@ -70,8 +70,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
+23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -7430,8 +7430,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10350,8 +10350,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10592,9 +10592,9 @@ airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
@@ -11203,8 +11203,8 @@ filezilla_h1c,https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty,T
 magento,magentolive.com,True
 magento,repo.magento.com,True
 magento,magentocommerce.com,True
-magento,account.magento.com,True
 magento,accounts.magento.cloud,True
+magento,account.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
 magento,magento.com,True

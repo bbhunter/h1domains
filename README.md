@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 13:26:35 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 14:21:49 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -61,8 +61,8 @@ blog.23andme.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1717,8 +1717,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 careers.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3448,8 +3448,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3571,9 +3571,9 @@ next.airbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
 *.muscache.com
-www.hoteltonight.com
 *.hoteltonight-test.com
 *.airbnb.com
+www.hoteltonight.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
@@ -3965,8 +3965,8 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 magentolive.com
 repo.magento.com
 magentocommerce.com
-account.magento.com
 accounts.magento.cloud
+account.magento.com
 u.magento.com
 imagine.magento.com
 magento.com
