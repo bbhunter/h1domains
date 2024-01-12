@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 02:34:59 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 03:23:17 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -274,8 +274,8 @@ dashboard.gamma.redoxstage.com
 help.redoxengine.com
 eets.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
-testapp.redoxengine.com
 10x.redoxengine.com
+testapp.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
@@ -2179,10 +2179,10 @@ all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 *uat.marriott.com
 gatewaydsapdev2.marriott.com
-marrtool.com
 passwordchallenge.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
