@@ -26,8 +26,8 @@ app.wellhive.com
 login.wellhive.com
 www.niagahoster.co.id
 cpanel.hosting24.com
-payments.hostinger.com
 hpanel.hostinger.com
+payments.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
@@ -37,8 +37,8 @@ cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
 backend.zyro.com
-logo.zyro.com
 www.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -2985,8 +2985,8 @@ nori.apnic.net
 rsync.apnic.net
 registry-testbed.apnic.net
 rpki.apnic.net
-orbit.apnic.net
 stats.labs.apnic.net
+orbit.apnic.net
 submission.apnic.net
 ftp.apnic.net
 *.apnic.net
@@ -5050,8 +5050,8 @@ new.myzap.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -7421,9 +7421,9 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 *developer.cloud.com
 ads.tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
@@ -10348,8 +10348,8 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -10591,9 +10591,9 @@ next.airbnb.com
 *.byairbnb.com
 *.airbnbcitizen.com
 *.muscache.com
-*.hoteltonight-test.com
 *.airbnb.com
 www.hoteltonight.com
+*.hoteltonight-test.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com

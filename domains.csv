@@ -27,8 +27,8 @@ wellhive,app.wellhive.com,False
 wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,cpanel.hosting24.com,True
-hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,payments.hostinger.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
@@ -38,8 +38,8 @@ hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
 hostinger,backend.zyro.com,True
-hostinger,logo.zyro.com,True
 hostinger,www.zyro.com,True
+hostinger,logo.zyro.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -2986,8 +2986,8 @@ apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
 apnic,registry-testbed.apnic.net,False
 apnic,rpki.apnic.net,False
-apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
+apnic,orbit.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,ftp.apnic.net,False
 apnic,*.apnic.net,False
@@ -5051,8 +5051,8 @@ anywhererealestate,new.myzap.com,False
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
 databricks,academy.databricks.com,True
-databricks,accounts.cloud.databricks.com,True
 databricks,databricks.com,True
+databricks,accounts.cloud.databricks.com,True
 databricks,kb.databricks.com,True
 databricks,support.databricks.com,True
 databricks,marketplace.databricks.com,True
@@ -7422,9 +7422,9 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -10349,8 +10349,8 @@ shopify,shopifyinbox.com,True
 shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
@@ -10592,9 +10592,9 @@ airbnb,*.withairbnb.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.muscache.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
 airbnb,www.hoteltonight.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
 airbnb,callbacks.airbnb.com,True
