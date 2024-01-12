@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 11:20:47 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 12:35:57 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -29,8 +29,8 @@ hpanel.hostinger.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -639,8 +639,8 @@ http://miro.com/blog
 cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
-*.mbamupdates.com
 *.threatdown.com
+*.mbamupdates.com
 *.mwb-threatintel.com
 oneview.malwarebytes.com
 *.malwarebytes.com
@@ -1125,8 +1125,8 @@ shoppers.instacart.com
 demo.cloud.databricks.com
 docs.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
@@ -1716,9 +1716,9 @@ www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 effecthouse.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3447,9 +3447,9 @@ shopifyinbox.com
 *.shopifykloud.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
