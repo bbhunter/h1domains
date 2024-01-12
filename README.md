@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 12 21:16:58 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 12 22:21:28 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -82,9 +82,9 @@ www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadopago.com.pe
 www.mercadopago.com.co
-api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.br
@@ -123,8 +123,8 @@ portal.taxi.booking.com
 distribution-xml.booking.com
 accommodations.booking.com
 phone-validation.taxi.booking.com
-*.rentalcars.com
 taxis.booking.com
+*.rentalcars.com
 secure-supply-xml.booking.com
 paynotifications.booking.com
 autocomplete.booking.com
@@ -133,9 +133,9 @@ taxi.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
+cars.booking.com
 account.booking.com
 secure.booking.com
-cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1122,8 +1122,8 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 docs.databricks.com
 kb.databricks.com
 support.databricks.com
@@ -2167,8 +2167,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
@@ -2758,9 +2758,9 @@ apigw.foliofn.com
 *.marcus.co.uk
 *.unitedcp.com
 *.foliofn.com
-*.goldman.com
 *.gsselect.com
 *.ayco.com
+*.goldman.com
 *.goldmanpfm.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
@@ -3631,8 +3631,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3716,8 +3716,8 @@ blog.irccloud.com
 pro.coinbase.com
 prime.coinbase.com
 custody.coinbase.com
-*.coinbase.com
 *.cbhq.net
+*.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
 api.coinbase.com
