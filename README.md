@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 19:18:25 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 20:20:35 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -3067,8 +3067,8 @@ bma.badoo.com
 badoocdn.com
 heyfiesta.com
 ccardseu1.badoo.com
-badoo.com
 www.bumble.com
+badoo.com
 mus1.badoo.com
 translate.badoo.com
 www.bumble.com
