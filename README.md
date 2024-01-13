@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 05:19:58 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 06:24:13 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -22,10 +22,10 @@ demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-www.niagahoster.co.id
 cpanel.hosting24.com
 hpanel.hostinger.com
 payments.hostinger.com
+www.niagahoster.co.id
 payments.hosting24.com
 *.000webhost.com
 www.hostinger.com
@@ -479,10 +479,10 @@ bugzilla.mozilla.org
 push.services.mozilla.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-addons.allizom.org
 aus5.mozilla.org
 contile.services.mozilla.com
 hg.mozilla.org
+addons.allizom.org
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
@@ -1122,18 +1122,18 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 academy.databricks.com
-databricks.com
 accounts.cloud.databricks.com
 docs.databricks.com
+databricks.com
 kb.databricks.com
 support.databricks.com
 marketplace.databricks.com
 community.databricks.com
 labs.databricks.com
 advocates.databricks.com
-help.databricks.com
 customer-academy.databricks.com
 partners.databricks.com
+help.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -3444,8 +3444,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3772,8 +3772,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
