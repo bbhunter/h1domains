@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 13 14:18:36 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 13 15:21:26 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -29,8 +29,8 @@ cpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
 hpanel.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 partner.niagahoster.co.id
 editor.zyro.com
@@ -1454,8 +1454,8 @@ new.reddit.com
 s.reddit.com
 gateway.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 reddit.secure.force.com
 amp.reddit.com
@@ -1570,8 +1570,8 @@ nvio.mx
 nvio.ar
 caldav.larksuite.com
 passport.larksuite.com
-hackers_chosendomain.larksuite.com
 internal-api-drive-stream.larksuite.com
+hackers_chosendomain.larksuite.com
 internal-api.larksuite.com
 larksuite.com
 api.larksuite.com
@@ -3328,9 +3328,9 @@ api.grofers.com
 *.hyperpure.com
 blinkit.com
 *.zdev.net
-*.zomato.com
 winecellar.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3631,8 +3631,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
