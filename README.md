@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 14 21:20:04 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 14 22:23:05 UTC 2024)
 ```
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -235,8 +235,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1525,8 +1525,8 @@ wp-qa.chime.com
 wp-dev2.chime.com
 wp-dev5.chime.com
 app.chime.com
-*.1debit.com
 *.chimebank.com
+*.1debit.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -3631,8 +3631,8 @@ applause1.magisto.com
 www.livestream.com
 donations.livestream.com
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
