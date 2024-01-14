@@ -784,9 +784,9 @@ share.doppler.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
-dookeydash.com
 hv-mtl.com
 *.wenewmoments.com
+dookeydash.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -2078,10 +2078,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com

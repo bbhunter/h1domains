@@ -3132,8 +3132,8 @@ abb.com.br
 *.busch-jaeger.nl
 *.motors.abb.com
 *.ability.abb
-*.abb
 *.abb-drives.com
+*.abb
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -3495,9 +3495,9 @@ share.doppler.com
 *.cryptopunks.app
 *.boredapeyachtclub.com
 *.yugalabs.io
-dookeydash.com
 hv-mtl.com
 *.wenewmoments.com
+dookeydash.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -4617,8 +4617,8 @@ banfieldexchange.com
 *.royalcanin.pl
 *.jornadasroyalcanin.com.ar
 *.banfieldassets.com
-*.royalcanin.com
 *.royalcanin.co.uk
+*.royalcanin.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
 *.royalcanin.cz
@@ -7960,10 +7960,10 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alimama.com
 *.aliyun-inc.com
-*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
