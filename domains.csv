@@ -3461,8 +3461,8 @@ us-department-of-state,*.SECURITYTESTFAN.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 us-department-of-state,*.USMISSION.GOV,False
-us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.OSAC.GOV,False
+us-department-of-state,*.AMERICA.GOV,False
 us-department-of-state,*.FSGB.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
@@ -6641,8 +6641,8 @@ reddit,app.spiketrap.io,True
 reddit,www.spiketrap.io,True
 coinspot,www.coinspot.com.au,True
 coinspot,www.coinspot.com.au,True
-ridewithvia,remix.com,True
 ridewithvia,platform.remix.com,True
+ridewithvia,remix.com,True
 ridewithvia,eu.remix.com,True
 ridewithvia,global-api.citymapper.com,True
 ridewithvia,global-api.citymapper.com,True
@@ -7431,8 +7431,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9817,8 +9817,8 @@ localtapiola,*.tapiola.fi,True
 localtapiola,www.lahitapiola.fi,True
 localtapiola,www.tapiola.fi,True
 localtapiola,asiointi.lahitapiola.fi,True
-localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
+localtapiola,*.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
