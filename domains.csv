@@ -32,8 +32,8 @@ hostinger,cpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
 hostinger,hpanel.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,partner.niagahoster.co.id,True
 hostinger,editor.zyro.com,True
@@ -10351,8 +10351,8 @@ shopify,*.shopifykloud.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
