@@ -3132,8 +3132,8 @@ abb.com.br
 *.busch-jaeger.nl
 *.motors.abb.com
 *.ability.abb
-*.abb-drives.com
 *.abb
+*.abb-drives.com
 *.stratus.abb.com
 *.cirrus.abb.com
 *.motion.abb.com
@@ -8113,8 +8113,8 @@ www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 lawmanager.marriott.com
 cpp.marriott.com
 www.ritzcarlton.com
@@ -10819,9 +10819,9 @@ reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
+www.hackerone.com
 errors.hackerone.net
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
