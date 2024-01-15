@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 15 15:24:49 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 15 16:26:30 UTC 2024)
 ```
 www.fireblocks.com
 sandbox.fireblocks.io
@@ -138,10 +138,10 @@ secure-supply-xml.booking.com
 paymentcomponent.booking.com
 autocomplete.booking.com
 paynotifications.booking.com
-account.booking.com
 cars.booking.com
 webhooks.booking.com
 paybridge.booking.com
+account.booking.com
 secure.booking.com
 *.booking.com
 *.rentalcars.com
@@ -521,8 +521,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -878,11 +878,11 @@ zerobounce.in
 api.zerobounce.in
 zerobounce.net
 *.gravitational.com
-*.teleport.dev
 *.gravitational.co
 *.teleportinfra.sh
 cloud.gravitational.io
 askpam.ai
+*.teleport.dev
 teleport.sh
 *.gravitational.io
 *.goteleport.com
@@ -1186,8 +1186,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-judge.me
 bigcommerce-adapter.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1273,8 +1273,8 @@ wonderboxdev.com
 capturingreality.com
 *.tinderops.net
 *.tinder.com
-*.gotinder.com
 *.tstaging.com
+*.gotinder.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinder.com
@@ -1429,9 +1429,9 @@ cloud.elastic.co
 *.touchtechpayments.com
 js.stripe.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1720,10 +1720,10 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 live-backstage.tiktok.com
-www.pangleglobal.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
+www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -1812,8 +1812,6 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1821,6 +1819,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2153,10 +2153,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
-*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2183,11 +2183,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
-cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2860,8 +2860,8 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -3398,11 +3398,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
-doorstromen.mijnkombijdepolitie.nl
+devmaximum.com
 qatest.nl
 rudderplatform.com
+doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
