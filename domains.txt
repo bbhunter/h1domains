@@ -6653,8 +6653,8 @@ platform.remix.com
 on-app-backend.on-running.com
 *.on-running.com
 on-app-backend.on-running.com
-*.withbuddies.com
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.io
 *.scopely.com
@@ -10137,9 +10137,9 @@ lookup.nextcloud.com
 logs.nextcloud.com
 stats.nextcloud.com
 help.nextcloud.com
-apps.nextcloud.com
 portal.nextcloud.com
 static.apps.nextcloud.com
+apps.nextcloud.com
 knowledge.nextcloud.com
 updates.nextcloud.com
 support.nextcloud.com
