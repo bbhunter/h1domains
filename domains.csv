@@ -37,8 +37,8 @@ hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hosting24.com,True
 hostinger,payments.hosting24.com,True
 hostinger,www.hosting24.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,backend.zyro.com,True
 hostinger,editor.zyro.com,True
@@ -2849,8 +2849,8 @@ mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,community-tc.services.mozilla.com,True
-mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
+mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -2987,12 +2987,12 @@ apnic,*.seedalliance.net,False
 apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.apidt.org,False
-apnic,orbit.apnic.net,False
 apnic,nori.apnic.net,False
 apnic,rsync.apnic.net,False
 apnic,registry-testbed.apnic.net,False
 apnic,rpki.apnic.net,False
 apnic,stats.labs.apnic.net,False
+apnic,orbit.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,ftp.apnic.net,False
 apnic,*.apnic.net,False
@@ -3631,8 +3631,8 @@ expediagroup,*.expediaagents.com,False
 expediagroup,china.airasiago.com,False
 expediagroup,thailand.airasiago.com,False
 expediagroup,http://www.cruiseshipcenters.com/api/searchcenter,False
-magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.io,False
+magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -3772,7 +3772,7 @@ resmed,onlinestore.resmedchina.cn,False
 resmed,sigmacare.com,False
 resmed,soneto.net,False
 resmed,careanyware.com,False
-resmed,app.citushealth.ca,False
+resmed,brightree.net/,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -4936,11 +4936,11 @@ gymshark,*.gymshark.io,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,delta.app,True
-etoro_bbp,www.etoro.com,True
 etoro_bbp,push-d-hap.cloud.etoro.com,True
 etoro_bbp,push-demo-lightstreamer.cloud.etoro.com,True
 etoro_bbp,sts.etoro.com,True
 etoro_bbp,watchlistapi.etoro.com,True
+etoro_bbp,www.etoro.com,True
 etoro_bbp,aggregator.etoro.com,True
 etoro_bbp,cashier.etoro.com,True
 etoro_bbp,cashier-src.etoro.com,True
@@ -5005,9 +5005,9 @@ etoro_bbp,watchlistapi.etoro.com,True
 etoro_bbp,rankings.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
-instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
 instacart,www.instacart.com,True
+instacart,*.instacart.tools,True
 instacart,shoppers.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,*.instacart.com,True
@@ -5624,11 +5624,11 @@ epicgames,*.audicagame.com,True
 epicgames,fallguys.com,True
 epicgames,fortnite.com,True
 epicgames,harmonixmusic.com,True
-epicgames,capturingreality.com,True
 epicgames,wonderboxdev.com,True
+epicgames,capturingreality.com,True
 epicgames,*.psyonix.com,True
-epicgames,*.3lateral.com,True
 epicgames,*.fortnite.com,True
+epicgames,*.3lateral.com,True
 epicgames,forum.sketchfab.com,False
 epicgames,*.dropmix.com,True
 epicgames,*.harmonixmusic.com,True
@@ -6212,9 +6212,9 @@ stripe,*.touchtechpayments.com,True
 stripe,js.stripe.com,True
 stripe,app.taxjar.com,True
 stripe,www.stripe.partners,False
+stripe,api.taxjar.com,True
 stripe,*.getbouncer.com,True
 stripe,*.reckostaging.com,True
-stripe,api.taxjar.com,True
 stripe,api.stripe.com,True
 stripe,api.stripe.com,True
 stripe,*.stripe.com,True
@@ -6233,8 +6233,8 @@ usps,internationalclaims.usps.com,False
 usps,ncoa.usps.gov,False
 usps,iv.usps.com,False
 usps,id.usps.com,False
-usps,moversguide.usps.com,False
 usps,store.usps.com,False
+usps,moversguide.usps.com,False
 usps,reg.usps.com,False
 usps,pi.usps.com,False
 usps,www.usps.com,False
@@ -6448,12 +6448,12 @@ zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
-zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
-zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,reflexisinc.com/,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -6469,7 +6469,6 @@ zebra_vdp,hcm.zebra.com,False
 zebra_vdp,stage-www.zebra.com,False
 zebra_vdp,test-marketing-api.zebra.com,False
 zebra_vdp,dcs-polarion.zebra.com,False
-zebra_vdp,*.cto-si.zebra.com,False
 zebra_vdp,artifactory-us.zebra.com,False
 zebra_vdp,www.matrox.com,False
 zebra_vdp,zsl.zebra.com,False
@@ -6763,6 +6762,8 @@ who-covid-19-mobile-app,*.whocoronavirus.org,False
 who-covid-19-mobile-app,hack.whocoronavirus.org,False
 who-covid-19-mobile-app,*.whocoronavirus.org,False
 who-covid-19-mobile-app,hack.whocoronavirus.org,False
+gsa_vdp,www.sam.gov,False
+gsa_vdp,oasispet.gsa.gov,False
 gsa_vdp,cio.gov,False
 gsa_vdp,cfo.gov,False
 gsa_vdp,challenge.gov,False
@@ -6774,8 +6775,6 @@ gsa_vdp,*.ecpic.gov,False
 gsa_vdp,*.fai.gov,False
 gsa_vdp,*.fpki.gov,False
 gsa_vdp,*.usagov.gov,False
-gsa_vdp,www.sam.gov,False
-gsa_vdp,oasispet.gsa.gov,False
 gsa_vdp,tams.preprod.gsa.gov,False
 gsa_vdp,etsvendorsales.gsa.gov,False
 gsa_vdp,navigator.gsa.gov,False
@@ -6787,11 +6786,11 @@ gsa_vdp,vehiclestdb.fas.gsa.gov,False
 gsa_vdp,reportsportal.fas.gsa.gov,False
 gsa_vdp,vehicledispatch.fas.gsa.gov,False
 gsa_vdp,cars.fas.gsa.gov,False
+gsa_vdp,eoffer-test.fas.gsa.gov,False
 gsa_vdp,usdaadvantage.gsa.gov,False
 gsa_vdp,8astars.fas.gsa.gov,False
 gsa_vdp,vsc.gsa.gov,False
 gsa_vdp,gsaadvantage-test.fas.gsa.gov,False
-gsa_vdp,eoffer-test.fas.gsa.gov,False
 gsa_vdp,hrlinks.anywhere.gsa.gov,False
 gsa_vdp,downloads.anywhere.gsa.gov,False
 gsa_vdp,vdi.anywhere.gsa.gov,False
@@ -7311,8 +7310,8 @@ exodus,*.a.exodus.io,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,www.yotisign.com,True
 yoti,api.yoti.com,True
+yoti,www.yotisign.com,True
 yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
 yoti,code.yoti.com,True
@@ -7383,11 +7382,11 @@ citrix,launch.cloud.com,True
 citrix,sf-rp.sharefile.com,True
 citrix,api.sharefile.eu,True
 citrix,api.adm.cloud.com,True
+citrix,(yoursubdomain).us.iws.cloud.com,True
+citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,us.cloud.com,True
 citrix,*.citrixworkspacesapi.net,True
-citrix,(yoursubdomain).ap.iws.cloud.com,True
-citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7600,8 +7599,6 @@ affirm,vcn-hackerone.affirm-odin.com,False
 watson_group,www.iciparisxl.lu,True
 watson_group,app.marionnaud.hu,True
 watson_group,www.marionnaud.ro,True
-watson_group,www.marionnaud.fr,True
-watson_group,www.watsons.com.tr,True
 watson_group,mapi-sim.fortress.com.hk,True
 watson_group,www10.watsons.com.tw,True
 watson_group,www10.watsons.com.ph,True
@@ -7609,6 +7606,8 @@ watson_group,www.watsons.com.ph,True
 watson_group,www10.watsons.com.hk,True
 watson_group,www20.watsons.co.th,True
 watson_group,www.watsons.co.id,True
+watson_group,www.marionnaud.fr,True
+watson_group,www.watsons.com.tr,True
 watson_group,www.kruidvat.nl,True
 watson_group,www.kruidvat.be,True
 watson_group,www.theperfumeshop.com,True
@@ -7770,8 +7769,8 @@ playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,*.api.playstation.com,True
 playstation,direct.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,store.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,*.playstation.net,True
 playstation,ca.account.sony.com,True
@@ -7993,8 +7992,8 @@ bmwgroup,configure.bmw.de,True
 bmwgroup,configure.mini.de,True
 bmwgroup,konfigurator.bmw-motorrad.de,True
 magic-bbp,api.magic.link,True
-magic-bbp,api.fortmatic.com,True
 magic-bbp,dashboard.fortmatic.com,True
+magic-bbp,api.fortmatic.com,True
 magic-bbp,fortmatic.com,True
 magic-bbp,auth.magic.link,True
 magic-bbp,dashboard.magic.link,True
@@ -8179,10 +8178,10 @@ investnext,mg3.investnext.com,False
 investnext,app.investnext.com,False
 investnext,altogroup.investnextdemo.co,False
 investnext,app.investnextdemo.co,False
-nutanix,iot.nutanix.com,False
-nutanix,testdrive.nutanix.com,False
 nutanix,bootcamp.nutanix.com,False
 nutanix,gp.nutanix.com,False
+nutanix,iot.nutanix.com,False
+nutanix,testdrive.nutanix.com,False
 nutanix,support.nutanix.com,False
 nutanix,ticket.nutanix.com,False
 nutanix,nutanix.com,False
@@ -8235,8 +8234,8 @@ topcoder,solutions.topcoder.com,False
 topcoder,tco18.topcoder.com,False
 topcoder,zurich.topcoder.com,False
 topcoder,challenges.topcoder.com,False
-topcoder,vanilla.topcoder-dev.com,False
 topcoder,accounts-auth0.topcoder.com,False
+topcoder,vanilla.topcoder-dev.com,False
 topcoder,www.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
@@ -8429,9 +8428,6 @@ palo_alto_software,www.bplans.com,False
 mtn_group,lonestarcell.com,False
 mtn_group,mtn.sd,False
 mtn_group,mtnselfcare.co.zm,False
-mtn_group,eppm.mtn.com,False
-mtn_group,fs-prdfus.mtn.com,False
-mtn_group,ecap.mtn.com,False
 mtn_group,wc.mtn.com,False
 mtn_group,mtnrewards.com,False
 mtn_group,mtncareersonline.com,False
@@ -8464,6 +8460,9 @@ mtn_group,mtn.digital,False
 mtn_group,mtn.wtf,False
 mtn_group,mtngo.net,False
 mtn_group,mtngo.mtn,False
+mtn_group,eppm.mtn.com,False
+mtn_group,fs-prdfus.mtn.com,False
+mtn_group,ecap.mtn.com,False
 mtn_group,mtn.com,False
 mtn_group,mtn.com.af,False
 mtn_group,mtn.bj,False
@@ -9155,12 +9154,12 @@ pyca,*.pyopenssl.org,False
 pyca,*.cryptography.io,False
 pyca,*.cryptography.io,False
 pyca,*.pyopenssl.org,False
-capital-one,*.paribus.co,False
 capital-one,*.theunioncard.com,False
+capital-one,*.paribus.co,False
 capital-one,*.capitalone.com,False
 capital-one,*.capitalone360.com,False
-capital-one,*.bluetarp.com,False
 capital-one,*.capitalone.co.uk,False
+capital-one,*.bluetarp.com,False
 capital-one,*.capitaloneshopping.com,False
 capital-one,*.capitalonecards.com,False
 capital-one,*.capitalonebank.com,False
@@ -9187,8 +9186,8 @@ capital-one,*.teamstercardnow.com,False
 capital-one,*.capitaloneshopping.com,False
 smartsheet,developers.smartsheet.com,True
 smartsheet,help.smartsheet.com,True
-smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
+smartsheet,admin.smartsheet.com,True
 smartsheet,app.smartsheet.com,True
 smartsheet,http://api.smartsheet.com/2.0,True
 smartsheet,admin.smartsheet.com,True
@@ -9570,11 +9569,11 @@ arkadiyt-projects,*.arkadiyt.com,False
 arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
+goldmansachs,*.ayco.com,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.gsselect.com,True
 goldmansachs,*.gs-mosaic.gs.com,True
-goldmansachs,*.ayco.com,True
 goldmansachs,*.unitedcp.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
@@ -9594,8 +9593,8 @@ goldmansachs,*.gs.com,True
 goldmansachs,*.gsam.com,True
 goldmansachs,*.gs-mosaic.qa.gs.com,True
 goldmansachs,*.qaglobal-liquidity.gs.com,True
-goldmansachs,marquee.gs.com,True
 goldmansachs,research.gs.com,True
+goldmansachs,marquee.gs.com,True
 goldmansachs,*.gs.de,True
 goldmansachs,api.foliofn.com,True
 goldmansachs,*.advisorsolutions.gs.com,True
@@ -9801,8 +9800,8 @@ crowdstrike,falcon-sandbox.com,True
 crowdstrike,hybrid-analysis.com,True
 crowdstrike,www.crowdstrike.com,True
 ed,securitytxt.org,False
-ed,bugbountyguide.com,False
 ed,edoverflow.com,False
+ed,bugbountyguide.com,False
 ed,securitytxt.org,False
 ed,edoverflow.com,False
 ed,bugbountyguide.com,False
@@ -9980,7 +9979,6 @@ wordpress,api.wordpress.org,True
 wordpress,irclogs.wordpress.org,True
 wordpress,*.wordpress.net,True
 wordpress,gutenberg.run,True
-wordpress,doaction.org,True
 wordpress,codex.wordpress.org,True
 wordpress,codex.bbpress.org,True
 wordpress,codex.buddypress.org,True
@@ -9989,6 +9987,7 @@ wordpress,*.trac.wordpress.org,True
 wordpress, *.svn.wordpress.org,True
 wordpress, *.git.wordpress.org,True
 wordpress, github.com/WordPress,True
+wordpress,doaction.org,True
 wordpress,*.wordpress.org,True
 wordpress,*.buddypress.org,True
 wordpress,bbpress.org,True
@@ -10190,8 +10189,8 @@ github,*.githubapp.com,True
 github,gist.github.com,True
 github,*.github.net,True
 github,education.github.com,True
-github,npmjs.org,True
 github,*.githubusercontent.com,True
+github,npmjs.org,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -10293,11 +10292,11 @@ radancy,no-reply.cloud,True
 radancy,maximum-status.com,True
 radancy,preprod.nl,True
 radancy,ruddercms.nl,True
-radancy,www.werkenbijbakertilly.nl,True
 radancy,devmaximum.com,True
+radancy,www.werkenbijbakertilly.nl,True
+radancy,doorstromen.mijnkombijdepolitie.nl,True
 radancy,qatest.nl,True
 radancy,rudderplatform.com,True
-radancy,doorstromen.mijnkombijdepolitie.nl,True
 radancy,*.maximum.nl,True
 radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
@@ -10387,11 +10386,11 @@ snapchat,www.bitmoji.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,map.snapchat.com,True
-snapchat,store.snapchat.com,True
 snapchat,business.snapchat.com,True
 snapchat,my.snapchat.com,True
-snapchat,playcanvas.com,True
+snapchat,store.snapchat.com,True
 snapchat,rt.playcanvas.com,True
+snapchat,playcanvas.com,True
 snapchat,geofilters.snapchat.com,True
 snapchat,spectacles.com,True
 snapchat,web.snapchat.com,True
@@ -10833,8 +10832,8 @@ security,www.hackerone.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,errors.hackerone.net,True
-security,app.pullrequest.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
