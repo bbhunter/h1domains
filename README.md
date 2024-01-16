@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 15 23:22:12 UTC 2024)
+## Domains with Bounties (Last Updated Tue Jan 16 01:17:54 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -139,8 +139,8 @@ taxi.booking.com
 cars.booking.com
 webhooks.booking.com
 paybridge.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -240,8 +240,8 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless-staging.io
-www.gocardless.com
 manage-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -423,9 +423,9 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+api.krisha.kz
 api.kolesa.kz
 app.kolesa.kz
-api.krisha.kz
 id.kolesa.kz
 avtoelon.uz
 m.krisha.kz
@@ -519,8 +519,8 @@ monitor.firefox.com
 www.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-api.profiler.firefox.com
 vpn.mozilla.org
+api.profiler.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -697,8 +697,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -708,8 +708,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1045,12 +1045,12 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
+delta.app
 www.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-delta.app
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1115,9 +1115,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 api.instacart.com
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1449,10 +1449,10 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
+gql.reddit.com
 old.reddit.com
 api.reddit.com
 ads.reddit.com
-gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 *.redditinc.com
@@ -1465,8 +1465,8 @@ new.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1611,8 +1611,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1811,8 +1811,6 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
@@ -1820,6 +1818,8 @@ www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -1943,8 +1943,8 @@ transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
 direct.playstation.com
-*.sonyentertainmentnetwork.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 my.playstation.com
 *.playstation.net
 ca.account.sony.com
@@ -2128,8 +2128,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-dashboard.fortmatic.com
 api.fortmatic.com
+dashboard.fortmatic.com
 fortmatic.com
 auth.magic.link
 dashboard.magic.link
@@ -2220,8 +2220,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2313,9 +2313,9 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
+datapod-1-druid-ingest.production.forescoutcloud.net
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
-datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2406,8 +2406,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2711,8 +2711,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-secure.chaturbate.com
 *.highwebmedia.com
+secure.chaturbate.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2859,8 +2859,8 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
-www.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -2999,8 +2999,8 @@ privatetarget-1-www.zigzag
 www.lahitapiola.fi
 www.tapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 asiointi.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3138,6 +3138,7 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
+doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3146,7 +3147,6 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3797,13 +3797,13 @@ a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 profile-photos.hackerone-user-content.com
+hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 b5s.hackerone-ext-content.com
@@ -4071,8 +4071,8 @@ logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
-federalist-docs.18f.gov
-dashboard.fr.cloud.gov
+www.fedramp.gov
+www.usa.gov
 *.login.gov
 *.code.gov
 *.search.gov
