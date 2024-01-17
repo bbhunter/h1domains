@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 17 22:22:01 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 17 23:22:45 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -11,8 +11,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -510,8 +510,8 @@ www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -686,8 +686,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.8x8.vc
 *.jitsi.net
+*.8x8.vc
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -697,8 +697,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-*.8x8.id
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-wonderboxdev.com
 capturingreality.com
+wonderboxdev.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.fortnite.com
 *.3lateral.com
+*.fortnite.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1417,9 +1417,9 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1800,14 +1800,14 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
-www.marionnaud.fr
-www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
+www.marionnaud.fr
+www.watsons.com.tr
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
@@ -2122,8 +2122,8 @@ api.magic.link
 api.fortmatic.com
 dashboard.fortmatic.com
 fortmatic.com
-auth.magic.link
 dashboard.magic.link
+auth.magic.link
 x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
@@ -2173,11 +2173,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
+all-inclusive.marriott.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2304,8 +2304,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2645,10 +2645,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2664,12 +2664,12 @@ my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 paypalobjects.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.paypal-*.com
@@ -2756,10 +2756,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2981,9 +2981,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3574,10 +3574,10 @@ one.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
-api.airbnb.com
 assets.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
+api.airbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
