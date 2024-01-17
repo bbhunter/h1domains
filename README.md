@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 17 08:27:04 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 17 09:22:24 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -28,14 +28,14 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hosting24.com
-www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
+www.niagahoster.co.id
 hpanel.hosting24.com
 payments.hosting24.com
 www.hosting24.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 backend.zyro.com
 editor.zyro.com
@@ -423,8 +423,8 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.krisha.kz
 api.kolesa.kz
+api.krisha.kz
 app.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
@@ -469,9 +469,9 @@ crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 accounts.firefox.com
+merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
-merino.services.mozilla.com
 bugzilla.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
@@ -686,8 +686,8 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.jitsi.net
 *.8x8.vc
+*.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
@@ -697,8 +697,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -1034,11 +1034,11 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
+delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1321,7 +1321,6 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
-idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1396,11 +1395,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-cloud.elastic.co
 *.swiftype.com
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
+cloud.elastic.co
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1601,8 +1600,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1804,12 +1803,12 @@ www.marionnaud.ro
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
-www.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
 www.marionnaud.fr
 www.watsons.com.tr
+www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
 www.theperfumeshop.com
@@ -2144,10 +2143,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
-*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2757,10 +2756,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
-*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2781,8 +2780,8 @@ goldmansachsindices.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
-research.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2872,8 +2871,8 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 rpm.newrelic.com
@@ -2882,8 +2881,8 @@ developer.newrelic.com
 learn.newrelic.com
 *.newrelic.com
 infrastructure.newrelic.com
-insights.newrelic.com
 *.blog.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -3130,6 +3129,7 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
+doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3138,7 +3138,6 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
-doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3286,8 +3285,8 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-*.githubusercontent.com
 npmjs.org
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3481,9 +3480,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 geofilters.snapchat.com
@@ -3639,6 +3638,24 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
+onboarding.greenhouse.io
+api.greenhouse.io
+support.greenhouse.io
+app.greenhouse.io
+boards.greenhouse.io
+jss.greenhouse.io
+interseller.io
+www.greenhouse.io
+app.interseller.io
+app.greenhouse.io
+boards.greenhouse.io
+api.greenhouse.io
+onboarding.greenhouse.io
+support.greenhouse.io
+jss.greenhouse.io
+interseller.io
+app.interseller.io
+www.greenhouse.io
 *.vine.co
 *.twitter.com
 x.com
@@ -3673,10 +3690,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
+happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
-happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -4191,24 +4208,6 @@ login.enter.health
 api.enter.health
 login.enter.health
 provider.enter.health
-onboarding.greenhouse.io
-api.greenhouse.io
-support.greenhouse.io
-app.greenhouse.io
-boards.greenhouse.io
-jss.greenhouse.io
-interseller.io
-www.greenhouse.io
-app.interseller.io
-app.greenhouse.io
-boards.greenhouse.io
-api.greenhouse.io
-onboarding.greenhouse.io
-support.greenhouse.io
-jss.greenhouse.io
-interseller.io
-app.interseller.io
-www.greenhouse.io
 *.urbandictionary.com
 *.ud.wtf
 *.urbandictionary.org
