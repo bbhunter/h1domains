@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 17 19:19:08 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 17 20:24:16 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -183,8 +183,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -416,8 +416,8 @@ www.practicalmoneyskills.org
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -502,9 +502,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-support.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+support.mozilla.org
 monitor.firefox.com
 www.mozilla.org
 developer.mozilla.org
@@ -615,8 +615,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -737,9 +737,9 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.ro
-*.superbet.com
 *.napoleondice.be
 *.napoleongames.be
+*.superbet.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.superbet.pl
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
+www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.travelocity.ca
 www.carrentals.com
+www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.hotwire.com
-www.ebookers.fi
-www.wotif.com
 www.expediacruises.com
+www.ebookers.fi
+www.hotwire.com
+www.wotif.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1034,11 +1034,11 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-delta.app
 push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
+delta.app
 www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
@@ -1104,9 +1104,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+*.instacart.tools
 api.instacart.com
 www.instacart.com
-*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1321,7 +1321,6 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
-idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -2174,11 +2173,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 www.ritzcarlton.com
-all-inclusive.marriott.com
-cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2646,10 +2645,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2665,12 +2664,12 @@ my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 paypalobjects.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.paypal-*.com
@@ -2982,9 +2981,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3389,11 +3388,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
+doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3448,9 +3447,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3657,8 +3656,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3690,10 +3689,10 @@ waf.cumulusfire.net
 *.srvcs.tumblr.com
 akismet.com
 embed.tumblr.com
-happy.tools
 simplenote.com
 simperium.com
 my.pressable.com
+happy.tools
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
@@ -4080,8 +4079,8 @@ logs-platform.fr.cloud.gov
 nessus.fr.cloud.gov
 diagrams.fr.cloud.gov
 prometheus.fr.cloud.gov
-federalist-docs.18f.gov
-dashboard.fr.cloud.gov
+www.fedramp.gov
+www.usa.gov
 *.login.gov
 *.code.gov
 *.search.gov
