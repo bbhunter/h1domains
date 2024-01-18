@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 18 02:36:27 UTC 2024)
+## Domains with Bounties (Last Updated Thu Jan 18 03:22:24 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -121,8 +121,8 @@ supplier.auth.toag.booking.com
 admin.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
+booking.com
 portal.taxi.booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -510,8 +510,8 @@ www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -686,11 +686,11 @@ auth.skypicker.com
 tequila.kiwi.com
 http://www.kiwi.com/stories
 jobs.kiwi.com
-*.8x8.vc
 *.jitsi.net
 connect.8x8.com
 sso.8x8.com
 work.8x8.com
+*.8x8.vc
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1417,9 +1417,9 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1438,12 +1438,12 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 api.reddit.com
 ads.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
+old.reddit.com
 meta-api.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1600,8 +1600,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1671,11 +1671,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
+(yoursubdomain).us.iws.cloud.com
+(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
-(yoursubdomain).ap.iws.cloud.com
-(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1715,8 +1715,8 @@ www.pangleglobal.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1800,14 +1800,14 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
@@ -2119,8 +2119,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 dashboard.magic.link
 auth.magic.link
@@ -2143,10 +2143,10 @@ maria.casino
 *.unibet.com
 *.mariacasino.com
 *.kindredext.net
+*.vladcazino.ro
 *.storspiller.com
 *.casinohuone.com
 *.ottokasino.com
-*.vladcazino.ro
 www.32red.com
 *.kes.kindredext.net
 *.unibet.com
@@ -2173,10 +2173,10 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2304,8 +2304,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2645,10 +2645,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2664,12 +2664,12 @@ my.loanbuilder.com
 *.braintree.tools
 pigeon.swiftfinancial.com
 paypalobjects.com
-prequal.swiftfinancial.com
-decision.swiftfinancial.com
 www.loanbuilder.com
 api.swiftfinancial.com
 api.loanbuilder.com
 loanbuilder.com
+prequal.swiftfinancial.com
+decision.swiftfinancial.com
 *.paypalcorp.com
 *.braintreegateway.com
 www.paypal-*.com
@@ -2756,10 +2756,10 @@ shoppingcart.shipt.com
 www.shipt.com
 *.liberapay.com
 *.liberapay.com
+*.ayco.com
 *.goldman.com
 *.marcus.co.uk
 *.gs-mosaic.gs.com
-*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2981,9 +2981,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3129,7 +3129,6 @@ api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
 gutenberg.run
-doaction.org
 codex.wordpress.org
 codex.bbpress.org
 codex.buddypress.org
@@ -3138,6 +3137,7 @@ mercantile.wordpress.org
  *.svn.wordpress.org
  *.git.wordpress.org
  github.com/WordPress
+doaction.org
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3285,8 +3285,8 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
+npmjs.org
 github.com
 github.com
 api.github.com
@@ -3480,9 +3480,9 @@ www.bitmoji.com
 snappublisher.snapchat.com
 app.snapchat.com
 map.snapchat.com
+store.snapchat.com
 business.snapchat.com
 my.snapchat.com
-store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 geofilters.snapchat.com
