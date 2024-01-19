@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 19 02:36:06 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 19 03:23:59 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -82,9 +82,9 @@ www.mercadopago.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
-www.mercadolibre.cl
 www.mercadolibre.com.uy
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -697,8 +697,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-*.8x8.id
 cloud8.8x8.com
+*.8x8.id
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1321,6 +1321,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1800,14 +1801,14 @@ helpcenter.affirm.com
 www.iciparisxl.lu
 app.marionnaud.hu
 www.marionnaud.ro
+www.marionnaud.fr
+www.watsons.com.tr
 mapi-sim.fortress.com.hk
 www10.watsons.com.tw
 www10.watsons.com.ph
 www10.watsons.com.hk
 www20.watsons.co.th
 www.watsons.co.id
-www.marionnaud.fr
-www.watsons.com.tr
 www.watsons.com.ph
 www.kruidvat.nl
 www.kruidvat.be
@@ -2119,8 +2120,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 dashboard.magic.link
 auth.magic.link
@@ -2173,11 +2174,11 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
+cpp.marriott.com
 homes-and-villas.marriott.com
 marrtool.com
 gatewaydsapdev2.marriott.com
@@ -2304,8 +2305,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
+datapod-1-druid-ingest.production.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2397,8 +2398,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-app.smartsheet.com
 admin.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2471,9 +2472,10 @@ res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 vacations.us.palladiumhotelgroup.com
+ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-ebsext.oft.hyatt.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2485,7 +2487,6 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
-login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2702,8 +2703,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-secure.chaturbate.com
 *.highwebmedia.com
+secure.chaturbate.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2871,8 +2872,8 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 rpm.newrelic.com
@@ -2880,8 +2881,8 @@ infrastructure.eu.newrelic.com
 developer.newrelic.com
 learn.newrelic.com
 infrastructure.newrelic.com
-*.blog.newrelic.com
 insights.newrelic.com
+*.blog.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -2981,9 +2982,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3284,8 +3285,8 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-npmjs.org
 *.githubusercontent.com
+npmjs.org
 education.github.com
 github.com
 github.com
@@ -3388,11 +3389,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
+doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3448,8 +3449,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3463,12 +3464,12 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-ads.snapchat.com
 create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 blog.playcanvas.com
 code.playcanvas.com
