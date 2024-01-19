@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 19 10:25:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri Jan 19 11:21:59 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -423,8 +423,8 @@ yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
-api.kolesa.kz
 api.krisha.kz
+api.kolesa.kz
 app.kolesa.kz
 id.kolesa.kz
 avtoelon.uz
@@ -697,8 +697,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 user-profile-staging.8x8.com
 *.chalet.8x8.com
-cloud8.8x8.com
 *.8x8.id
+cloud8.8x8.com
 *.8x8staging.com
 platform.8x8.com
 voapi.8x8.com
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
+www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
-www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.travelocity.ca
 www.carrentals.com
+www.travelocity.ca
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.hotwire.com
-www.ebookers.fi
-www.wotif.com
 www.expediacruises.com
+www.ebookers.fi
+www.hotwire.com
+www.wotif.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1104,9 +1104,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 api.instacart.com
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1198,12 +1198,12 @@ api.evernote.com
 fallguys.com
 fortnite.com
 harmonixmusic.com
-capturingreality.com
 wonderboxdev.com
+capturingreality.com
 *.mediatonic.co.uk
 *.psyonix.com
-*.3lateral.com
 *.fortnite.com
+*.3lateral.com
 *.dropmix.com
 *.harmonixmusic.com
 *.hmxwebservices.com
@@ -1321,7 +1321,6 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
-idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1439,9 +1438,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
@@ -1672,11 +1671,11 @@ launch.cloud.com
 sf-rp.sharefile.com
 api.sharefile.eu
 api.adm.cloud.com
-(yoursubdomain).us.iws.cloud.com
-(yoursubdomain).ap.iws.cloud.com
 citrix.cloud.com
 us.cloud.com
 *.citrixworkspacesapi.net
+(yoursubdomain).ap.iws.cloud.com
+(yoursubdomain).us.iws.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2120,8 +2119,8 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 api.magic.link
-api.fortmatic.com
 dashboard.fortmatic.com
+api.fortmatic.com
 fortmatic.com
 dashboard.magic.link
 auth.magic.link
@@ -2174,9 +2173,9 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 homes-and-villas.marriott.com
@@ -2472,9 +2471,10 @@ res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 vacations.us.palladiumhotelgroup.com
+ebsext.oft.hyatt.com
 newsroom.images.hyatt.com
 confluence.hyattdev.com
-ebsext.oft.hyatt.com
+login.www.vaxvacationaccess.com
 holidays-au.fijiairways.com
 holidays-sg.fijiairways.com
 vacations.hotelcasavelas.com
@@ -2486,7 +2486,6 @@ holidays-nz.fijiairways.com
 res.en.travelbrandsagent.com
 res.funjet.com
 res.secretsresorts.com
-login.www.vaxvacationaccess.com
 world.hyatt.com
 assets.hyatt.com
 roominglist.hyatt.com
@@ -2703,8 +2702,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-*.highwebmedia.com
 secure.chaturbate.com
+*.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2785,8 +2784,8 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioinstitutional.com
 marquee.gs.com
-*.folioclient.com
 *.gs.com
+*.gsam.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -2872,8 +2871,8 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-docs.newrelic.com
 insights.eu.newrelic.com
+docs.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 rpm.newrelic.com
@@ -2881,8 +2880,8 @@ infrastructure.eu.newrelic.com
 developer.newrelic.com
 learn.newrelic.com
 infrastructure.newrelic.com
-insights.newrelic.com
 *.blog.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.nr-data.net
 *.nr-ops.net
@@ -3389,11 +3388,11 @@ no-reply.cloud
 maximum-status.com
 preprod.nl
 ruddercms.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
+doorstromen.mijnkombijdepolitie.nl
 qatest.nl
 rudderplatform.com
-doorstromen.mijnkombijdepolitie.nl
 *.maximum.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -3480,9 +3479,9 @@ playcanv.as
 www.bitmoji.com
 snappublisher.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 app.snapchat.com
@@ -3605,8 +3604,8 @@ api.vimeo.com
 vimeo.magisto.com
 vhx.tv
 *.livestream.com
-api.vhx.tv
 *.magisto.com
+api.vhx.tv
 *.new.livestream.com
 checkout.vimeo.com
 staging.magisto.com
