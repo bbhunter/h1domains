@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 19 23:21:15 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 20 01:16:22 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -469,9 +469,9 @@ crash-stats.allizom.org
 firefox.settings.services.mozilla.com
 accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
-merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 aus5.mozilla.org
 hg.mozilla.org
@@ -510,8 +510,8 @@ developer.mozilla.org
 monitor.firefox.com
 profiler.firefox.com
 community-tc.services.mozilla.com
-vpn.mozilla.org
 api.profiler.firefox.com
+vpn.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -689,8 +689,8 @@ jobs.kiwi.com
 sso.8x8.com
 work.8x8.com
 *.8x8.vc
-connect.8x8.com
 *.jitsi.net
+connect.8x8.com
 *.jit.si
 platform.8x8pilot.com
 uc.8x8pilot.com
@@ -799,9 +799,9 @@ hv-mtl.com
 dookeydash.com
 hv-mtl.com
 www.hotels.com
-www.expediaagents.com
 www.hotwirepartnercentral.com
 www.expediapartnersolutions.com
+www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.orbitz.com
@@ -813,16 +813,16 @@ www.flights.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
-www.carrentals.com
 www.travelocity.ca
+www.carrentals.com
 www.bookabach.co.nz
 www.fewo-direkt.de
 www.expedia.com
 www.expediapartnercentral.com
-www.expediacruises.com
-www.ebookers.fi
 www.hotwire.com
+www.ebookers.fi
 www.wotif.com
+www.expediacruises.com
 www.stayz.com.au
 www.hotels.com
 www.expedia.com
@@ -1321,6 +1321,7 @@ www.fedramp.gov
 federalist-docs.18f.gov
 *.login.gov
 ci.fr.cloud.gov
+idp.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1417,9 +1418,9 @@ cloud.elastic.co
 js.stripe.com
 *.touchtechpayments.com
 app.taxjar.com
+api.taxjar.com
 *.getbouncer.com
 *.reckostaging.com
-api.taxjar.com
 api.stripe.com
 api.stripe.com
 *.stripe.com
@@ -1438,9 +1439,9 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-gql.reddit.com
 api.reddit.com
 ads.reddit.com
+gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 old.reddit.com
@@ -1600,8 +1601,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-www.yotisign.com
 api.yoti.com
+www.yotisign.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
@@ -1930,8 +1931,8 @@ mkapi.mackeeper.com
 mackeeper.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 api.direct.playstation.com
+transact.playstation.com
 direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
@@ -2173,9 +2174,9 @@ dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 cpp.marriott.com
 homes-and-villas.marriott.com
@@ -2397,8 +2398,8 @@ press.priceline.com
 www.bookingholdings.com
 developers.smartsheet.com
 help.smartsheet.com
-admin.smartsheet.com
 app.smartsheet.com
+admin.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2981,9 +2982,9 @@ sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
 privatetarget-2-secure.zigzag
 secure.lahitapiola.fi
+tunnistus.lahitapiola.fi
 lisasijoitus.lahitapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
-tunnistus.lahitapiola.fi
 api.lahitapiola.fi
 *.tapiola.fi
 privatetarget-1-www.zigzag
@@ -3333,8 +3334,8 @@ api2.grofers.com
 blinkit.com
 *.zdev.net
 *.zomans.com
-*.zomato.com
 winecellar.zomato.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3479,9 +3480,9 @@ playcanv.as
 www.bitmoji.com
 snappublisher.snapchat.com
 map.snapchat.com
-store.snapchat.com
 business.snapchat.com
 my.snapchat.com
+store.snapchat.com
 rt.playcanvas.com
 playcanvas.com
 app.snapchat.com
@@ -3804,10 +3805,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 *.vpn.hackerone.net
 reviewer.pullrequest.com
 profile-photos.hackerone-user-content.com
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 www.hackerone.com
+hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.live
 b5s.hackerone-ext-content.com
