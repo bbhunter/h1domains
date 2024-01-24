@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 24 07:22:31 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 24 08:25:32 UTC 2024)
 ```
 sandbox.fireblocks.io
 sandbox.fireblocks.io
@@ -28,18 +28,13 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-cpanel.hosting24.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-www.hosting24.com
-hpanel.hosting24.com
-payments.hosting24.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
-partner.niagahoster.co.id
 backend.zyro.com
 www.zyro.com
 *.000webhost.com
@@ -51,21 +46,16 @@ www.zyro.com
 backend.zyro.com
 editor.zyro.com
 logo.zyro.com
-www.hosting24.com
-hpanel.hosting24.com
-cpanel.hosting24.com
-payments.hosting24.com
 www.niagahoster.co.id
-partner.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 research.23andme.com
 mediacenter.23andme.com
 store.23andme.com
 education.23andme.com
-api.23andme.com
+auth.23andme.com
 you.23andme.com
 blog.23andme.com
-auth.23andme.com
+api.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -465,8 +455,8 @@ login.tide.co
 app.tide.co
 api.tideplatform.in
 www.tide.co
-accounts.firefox.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 bugzilla.mozilla.org
@@ -474,10 +464,10 @@ merino.services.mozilla.com
 sync.services.mozilla.com
 push.services.mozilla.com
 addons.allizom.org
-lando.services.mozilla.com
 hg.mozilla.org
 contile.services.mozilla.com
 aus5.mozilla.org
+lando.services.mozilla.com
 shavar.services.mozilla.com
 crash-reports.allizom.org
 mozilla-pontoon-staging.herokuapp.com
@@ -784,8 +774,8 @@ share.doppler.com
 *.boredapeyachtclub.com
 *.yugalabs.io
 dookeydash.com
-*.wenewmoments.com
 hv-mtl.com
+*.wenewmoments.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1174,8 +1164,8 @@ admin.wickr.com
 cache.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
-judge.me
 bigcommerce-adapter.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1452,8 +1442,8 @@ meta-api.reddit.com
 *.snooguts.net
 sh.reddit.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 *.reddit.com
 www.spiketrap.io
 *.redditblog.com
@@ -1817,6 +1807,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -1972,9 +1963,9 @@ faucet.polygon.technology
 portal.polygon.technology
 *.xiaomi.com
 *.miui.com
-*.mi.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2048,14 +2039,14 @@ track.amazon.com
 address-photos.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-cscentral.amazon.com
 av-na.amazon.com
+cscentral.amazon.com
 dcape-na.amazon.com
-dna.amazon.com
 mag-na.amazon.com
-merch.amazon.com
+dna.amazon.com
 kca.amazon.com
 paragon-na.amazon.com
+merch.amazon.com
 relay.amazon.com
 chat.amazon.com
 aca-livecards-service.amazon.com
@@ -2375,14 +2366,14 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
+community.forescout.com
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
-community.forescout.com
 us.forescout.cloud
 www.forescout.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
@@ -2445,10 +2436,10 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
 www.bookingholdings.com
+admin.rezserver.com
 www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
@@ -2650,8 +2641,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2709,10 +2700,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
 www.swiftfinancial.com
 swiftfinancial.com
+*.braintreepayments.com
+*.braintree-api.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2822,8 +2813,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.gs-mosaic.gs.com
 *.ayco.com
+*.gs-mosaic.gs.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2831,8 +2822,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-*.global-liquidity.gs.com
 goldmansachsindices.com
+*.global-liquidity.gs.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2841,11 +2832,11 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
+research.gs.com
 *.gsam.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
-research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -3078,8 +3069,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.scatec.io
 *.sellzone.com
+*.scatec.io
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3477,8 +3468,8 @@ ruddercms.nl
 dropr.nl
 devmaximum.com
 developer.zendesk.com
-smooch.io
 h1-your-domain.zendesk.com
+smooch.io
 www.zendesk.com
 apps.zendesk.com
 app.futuresimple.com
@@ -3509,10 +3500,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-admin.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3539,7 +3530,6 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-www.bitmoji.com
 snappublisher.snapchat.com
 store.snapchat.com
 business.snapchat.com
@@ -3548,6 +3538,7 @@ playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
 app.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3756,10 +3747,10 @@ simplenote.com
 simperium.com
 my.pressable.com
 gravatar.com
-api.tumblr.com
 assets.tumblr.com
 wordpress.com
 intensedebate.com
+api.tumblr.com
 safe.tumblr.com
 *.tumblr.com
 www.tumblr.com
@@ -3859,8 +3850,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3939,6 +3930,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3947,7 +3939,6 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
-usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
