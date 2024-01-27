@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 27 12:30:08 UTC 2024)
+## Domains with Bounties (Last Updated Sat Jan 27 13:21:03 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -42,8 +42,8 @@ app.dynamic.xyz
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
@@ -476,9 +476,9 @@ sync.services.mozilla.com
 push.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -786,8 +786,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
-hv-mtl.com
 *.wenewmoments.com
+hv-mtl.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1817,7 +1817,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-app.watsons.com.tr
+api.watsons.com.tw
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2047,8 +2047,8 @@ itv7.itv.com
 affiliate-program.amazon.com
 track.amazon.com
 address-photos.amazon.com
-cscentral.amazon.com
 av-na.amazon.com
+cscentral.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
@@ -2218,8 +2218,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-*.ottokasino.com
 www.32red.com
+*.ottokasino.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2375,8 +2375,8 @@ obs-sensors.iris.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 uk.forescout.cloud
 de.forescout.cloud
-datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-1-druid-ingest.production.forescoutcloud.net
+datapod-2-ingest.acceptance.forescoutcloud.net
 updates.forescout.com
 app.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -2445,9 +2445,9 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
+admin.rezserver.com
 www.priceline.com
 reservations.rezserver.com
-admin.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
 secure.rezserver.com
@@ -2709,10 +2709,10 @@ matomo.cloud
 https://github.com/matomo-org/docker
 *.xoom.com
 py.pl
-www.swiftfinancial.com
-swiftfinancial.com
 *.braintreepayments.com
 *.braintree-api.com
+www.swiftfinancial.com
+swiftfinancial.com
 *.paylution.com
 paypal.me
 www.swiftcapital.com
@@ -2888,8 +2888,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-playartifact.com
 help.steampowered.com
+playartifact.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -2935,25 +2935,25 @@ https://crypto.com/defi/
 https://crypto.com/nft
 tax.crypto.com
 https://crypto.com/price
-insights.eu.newrelic.com
 docs.newrelic.com
+insights.eu.newrelic.com
 *.eu.newrelic.com
 *.infrastructure-data.newrelic.com
 learn.newrelic.com
 rpm.newrelic.com
 infrastructure.eu.newrelic.com
 developer.newrelic.com
-insights.newrelic.com
 infrastructure.newrelic.com
+insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
 *.nr-data.net
 *.newrelic.com
+synthetics.eu.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
-synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
 synthetics.newrelic.com
@@ -3266,10 +3266,10 @@ portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
+cart.starbucks.co.jp
 www.starbucksreserve.com
 www.starbucks.fr
 www.starbucks.co.uk
-cart.starbucks.co.jp
 www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
@@ -3866,10 +3866,10 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
@@ -4111,6 +4111,7 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
+*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4120,7 +4121,6 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
-*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4128,11 +4128,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
-ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
