@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 28 17:19:17 UTC 2024)
+## Domains with Bounties (Last Updated Sun Jan 28 18:22:47 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -476,9 +476,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
+lando.services.mozilla.com
 contile.services.mozilla.com
 aus5.mozilla.org
-lando.services.mozilla.com
 shavar.services.mozilla.com
 hg.mozilla.org
 crash-reports.allizom.org
@@ -808,9 +808,9 @@ www.expediaagents.com
 www.abritel.fr
 www.expediagroup.com
 www.ebookers.com
-www.travelocity.com
 www.flights.com
 www.vrbo.com
+www.travelocity.com
 www.cheaptickets.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -1290,13 +1290,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1304,12 +1304,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1717,8 +1717,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1817,7 +1817,7 @@ app.marionnaud.it
 app.marionnaud.ro
 www.marionnaud.sk
 www.pns.hk
-api.watsons.com.tw
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2047,8 +2047,8 @@ itv7.itv.com
 affiliate-program.amazon.com
 track.amazon.com
 address-photos.amazon.com
-av-na.amazon.com
 cscentral.amazon.com
+av-na.amazon.com
 dcape-na.amazon.com
 mag-na.amazon.com
 kca.amazon.com
@@ -2218,8 +2218,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.vladcazino.ro
-www.32red.com
 *.ottokasino.com
+www.32red.com
 *.kes.kindredext.net
 *.unibet.com
 *.unibet.fr
@@ -2236,19 +2236,19 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
+gatewaydsaptst2.marriott.com
 sso.marriott.com
 mgs.marriott.com
-gatewaydsaptst2.marriott.com
 www.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
 jobs.marriott.com
 activities.marriott.com
-all-inclusive.marriott.com
-cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
+all-inclusive.marriott.com
+cpp.marriott.com
 www.ritzcarlton.com
 homes-and-villas.marriott.com
 marrtool.com
@@ -2822,8 +2822,8 @@ www.shipt.com
 *.liberapay.com
 *.marcus.co.uk
 *.gsselect.com
-*.ayco.com
 *.gs-mosaic.gs.com
+*.ayco.com
 *.unitedcp.com
 apigw.foliofn.com
 *.foliofirst.com
@@ -2831,8 +2831,8 @@ apigw.foliofn.com
 *.goldman.com
 *.honestdollar.com
 *.goldmansachs.com
-goldmansachsindices.com
 *.global-liquidity.gs.com
+goldmansachsindices.com
 *.gspublishing.com
 *.goldmanpfm.com
 *.finlife.com
@@ -2841,10 +2841,10 @@ goldmansachsindices.com
 *.vennhypotheken.nl
 *.nextcapital.com
 *.gs.com
-research.gs.com
 *.gs-mosaic.qa.gs.com
 *.qaglobal-liquidity.gs.com
 marquee.gs.com
+research.gs.com
 *.gs.de
 api.foliofn.com
 *.advisorsolutions.gs.com
@@ -2888,8 +2888,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-playartifact.com
 help.steampowered.com
+playartifact.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3077,8 +3077,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.scatec.io
 *.sellzone.com
+*.scatec.io
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3346,10 +3346,10 @@ classroom.github.com
 *.githubapp.com
 gist.github.com
 *.github.net
-*.githubusercontent.com
 education.github.com
 npmjs.org
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3541,12 +3541,12 @@ blog.playcanvas.com
 snappublisher.snapchat.com
 store.snapchat.com
 my.snapchat.com
-playcanvas.com
 rt.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 business.snapchat.com
+playcanvas.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3866,9 +3866,9 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
-reviewer.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+reviewer.pullrequest.com
 hackerone-ext-content.com
 ctf.hacker101.com
 www.hackerone.com
