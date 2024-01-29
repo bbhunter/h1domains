@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 29 03:21:31 UTC 2024)
+## Domains with Bounties (Last Updated Mon Jan 29 04:24:08 UTC 2024)
 ```
 my.sheer.com
 www.sheer.com
@@ -123,8 +123,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -185,8 +185,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -786,8 +786,8 @@ share.doppler.com
 *.yugalabs.io
 *.boredapeyachtclub.com
 dookeydash.com
-*.wenewmoments.com
 hv-mtl.com
+*.wenewmoments.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1290,13 +1290,13 @@ geminiadvisory.io
 hatching.io
 tria.ge
 therecord.media
+logs.fr.cloud.gov
+www.data.gov
+admin-catalog-bsp.data.gov
 ssh.fr.cloud.gov
 *.code.gov
 *.search.gov
 www.usa.gov
-logs.fr.cloud.gov
-www.data.gov
-admin-catalog-bsp.data.gov
 api.fr.cloud.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
@@ -1304,12 +1304,12 @@ federalist-proxy.app.cloud.gov
 login.fr.cloud.gov
 catalog.data.gov
 grafana.fr.cloud.gov
+api.data.gov
+tock.18f.gov
 account.fr.cloud.gov
 federation.data.gov
 admin.fr.cloud.gov
 nessus.fr.cloud.gov
-api.data.gov
-tock.18f.gov
 opslogin.fr.cloud.gov
 *.login.gov
 www.fedramp.gov
@@ -1453,8 +1453,8 @@ meta-api.reddit.com
 sh.reddit.com
 *.redditinc.com
 gateway.reddit.com
-s.reddit.com
 ads-api.reddit.com
+s.reddit.com
 www.spiketrap.io
 *.reddit.com
 *.redditblog.com
@@ -2445,8 +2445,8 @@ uk.forescout.cloud
 de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
-reservations.rezserver.com
 admin.rezserver.com
+reservations.rezserver.com
 www.bookingholdings.com
 www.priceline.com
 www.getaroom.com
@@ -2522,6 +2522,7 @@ www.omise.co
 www.opn.ooo
 mobileapp.hyatt.com
 public.hyatt.com
+res.vacations.buschgardens.com
 book.booktandl.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
@@ -2532,7 +2533,6 @@ res.vacations.discoverycove.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 www.wynnvacations.com
-res.vacations.buschgardens.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 newsroom.images.hyatt.com
@@ -2555,14 +2555,14 @@ assets.hyatt.com
 roominglist.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
+holidays-hk.fijiairways.com
+vacations.velasvallarta.com
+www.blueskytours.com
 book.extraholidaysvacations.com
 res.vacations.seaworld.com
 www.beachbound.com
 shop.wyndhamvacationownership.trisept.travel
 vacations.united.com
-holidays-hk.fijiairways.com
-vacations.velasvallarta.com
-www.blueskytours.com
 res.hyattinclusivecollection.com
 res.skyteam.com
 www.hyatt.com
@@ -2766,8 +2766,8 @@ swiftcapital.com
 *.paypalcorp.com
 *.hyperwallet.com
 *.paylution.com
-*.highwebmedia.com
 secure.chaturbate.com
+*.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2888,8 +2888,8 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-help.steampowered.com
 playartifact.com
+help.steampowered.com
 store.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
@@ -3077,8 +3077,8 @@ privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.semrush.net
 *.seoquake.com
-*.sellzone.com
 *.scatec.io
+*.sellzone.com
 *.semrush.com
 *.myinsights.io
 *.seoab.io
@@ -3089,8 +3089,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.myinsights.io
 *.sellzone.com
-grab.careers
 *.grabtaxi.com
+grab.careers
 wiki.grab.com
 gifts.grab.com
 *.grabpay.com
@@ -3544,9 +3544,9 @@ store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
@@ -3877,8 +3877,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -3938,6 +3938,7 @@ dlielc.edu
 dodea.edu
 usuhs.edu
 westpoint.edu
+usna.edu
 adlnet.gov
 aftac.gov
 dc3on.gov
@@ -3946,7 +3947,6 @@ jccs.gov
 mypay.gov
 nrojr.gov
 usafa.edu
-usna.edu
 ctoc.gov
 iad.gov
 nationalresourcedirectory.gov
@@ -4111,7 +4111,6 @@ teamhelp.upserve.com
 *.vanillastaging.com
 *.vanilladevelopment.com
 *.vanillacommunity.com
-*.login.gov
 federalist-proxy.app.cloud.gov
 cloud.gov
 account.fr.cloud.gov
@@ -4121,6 +4120,7 @@ admin-catalog-bsp.data.gov
 idp.fr.cloud.gov
 admin.fr.cloud.gov
 opslogin.fr.cloud.gov
+*.login.gov
 dashboard-beta.fr.cloud.gov
 federalist.18f.gov
 login.fr.cloud.gov
@@ -4128,11 +4128,11 @@ alertmanager.fr.cloud.gov
 grafana.fr.cloud.gov
 api.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 ci.fr.cloud.gov
 logs.fr.cloud.gov
 federation.data.gov
 inventory.data.gov
+ssh.fr.cloud.gov
 tock.18f.gov
 *.code.gov
 marketplace.fedramp.gov
