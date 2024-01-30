@@ -1,7 +1,7 @@
-*.iagcargo.com
 www.hangar51.com
 *.iaggbs.com
 *.iairgroup.com
+*.iagcargo.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -116,8 +116,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -2876,9 +2876,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+hg.mozilla.org
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -2912,10 +2912,10 @@ www.borrowlenses.com
 jcpportraits.com
 wgwebservices.snapfish.com
 *.sbs.shutterfly.com
-*.snapfish.com
 snapfish.com
 admin.spoonflower.com
 shutterfly.com
+*.snapfish.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -3303,8 +3303,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -4510,7 +4510,6 @@ practice.securevetsource.com
 *.twix.com
 *.royalcanin.nl
 *.orbitgum.com
-*.royalcanin.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
@@ -4521,6 +4520,7 @@ practice.securevetsource.com
 *.banfieldassets.com
 banfieldexchange.com
 *.extragum.com
+*.royalcanin.com
 *.mms.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com
@@ -5747,8 +5747,8 @@ main.trafficfactory.biz
 *.eops.nl
 *.elstc.co
 cloud.elastic.co
-www.elastic.co
 *.elastic.co
+www.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -7312,8 +7312,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 live-backstage.tiktok.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9091,10 +9091,10 @@ chain.link
 chain.link
 reservations.rezserver.com
 admin.rezserver.com
-www.bookingholdings.com
 www.getaroom.com
 www.priceline.com
 priceline.com
+www.bookingholdings.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -9626,8 +9626,8 @@ auth.crypto.com
 *.mona.co
 www.crypto.com
 *.crypto.com
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
 pay.crypto.com
 js.crypto.com
 app.mona.co
@@ -9969,11 +9969,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-socialclub.rockstargames.com
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
 prod.ros.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
