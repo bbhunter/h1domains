@@ -514,9 +514,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
 relay.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 hg.mozilla.org
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
 developer.mozilla.org
 www.mozilla.org
@@ -686,8 +686,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
