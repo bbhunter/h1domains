@@ -3412,8 +3412,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
-8x8-bounty,*.8x8staging.com,True
 8x8-bounty,voapi.8x8.com,True
+8x8-bounty,*.8x8staging.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
@@ -4532,8 +4532,8 @@ mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,*.royalcanin.ca,False
 mars,banfieldfoundation.org,False
 mars,*.vcahospitals.com,False
-mars,spsah2.securevetsource.com,False
 mars,*.mms.com,False
+mars,spsah2.securevetsource.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
 mars,*.royal-canin.com,False
@@ -6481,8 +6481,8 @@ reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
-reddit,ads-api.reddit.com,True
 reddit,*.reddit.com,True
+reddit,ads-api.reddit.com,True
 reddit,*.redditblog.com,True
 reddit,amp.reddit.com,True
 reddit,reddit.secure.force.com,True
@@ -8310,8 +8310,8 @@ kubernetes,kubernetes-csi.github.io,True
 8x8,sms.8x8.com,False
 8x8,cloud8.8x8.com,False
 8x8,supersite.8x8.com,False
-8x8,*.8x8staging.com,False
 8x8,user-profile.8x8.com,False
+8x8,*.8x8staging.com,False
 8x8,www.8x8.com,False
 8x8,*.jitsi.org,False
 8x8,*.8x8pilot.com,False
@@ -9655,8 +9655,8 @@ newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.nr-ops.net,True
-newrelic,*.nr-data.net,True
 newrelic,*.newrelic.com,True
+newrelic,*.nr-data.net,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
@@ -10418,10 +10418,10 @@ adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
-adobe,app.frame.io,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
+adobe,app.frame.io,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False

@@ -712,8 +712,8 @@ cloud8.8x8.com
 *.8x8.id
 platform.8x8.com
 *.packet8.net
-*.8x8staging.com
 voapi.8x8.com
+*.8x8staging.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -1464,8 +1464,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2961,8 +2961,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com

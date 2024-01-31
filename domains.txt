@@ -3411,8 +3411,8 @@ cloud8.8x8.com
 *.8x8.id
 platform.8x8.com
 *.packet8.net
-*.8x8staging.com
 voapi.8x8.com
+*.8x8staging.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -4531,8 +4531,8 @@ banfieldexchange.com
 *.royalcanin.ca
 banfieldfoundation.org
 *.vcahospitals.com
-spsah2.securevetsource.com
 *.mms.com
+spsah2.securevetsource.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -6480,8 +6480,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -8309,8 +8309,8 @@ connect.8x8.com
 sms.8x8.com
 cloud8.8x8.com
 supersite.8x8.com
-*.8x8staging.com
 user-profile.8x8.com
+*.8x8staging.com
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
@@ -9654,8 +9654,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 one.newrelic.com
 *.nr-ops.net
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10417,10 +10417,10 @@ stream.frame.io
 firefly.adobe.com
 *.adobeaemcloud.com
 community.adobe.com
-app.frame.io
 nicetryapril.na1.echosignsandbox.com
 *.adobe.com
 accounts.frame.io
+app.frame.io
 *.marketo.com
 *.omniture.com
 *.typekit.com
