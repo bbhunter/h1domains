@@ -1,7 +1,7 @@
 www.hangar51.com
-*.iairgroup.com
-*.iaggbs.com
 *.iagcargo.com
+*.iaggbs.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -1690,9 +1690,9 @@ testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
+evening-earth.gamma.redoxstage.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -1725,6 +1725,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
+sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -1761,9 +1763,6 @@ bd.visa.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
-www.visa.com.az
-www.visa.com.kz
-www.visa.com.lk
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1819,6 +1818,10 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+sandbox.secure.checkout.visa.com
+www.visainfinite.ca
+http://myvisainfinite.com/suntrust/en_us/home.html
+http://www.myvisacardportal.com/welcome/enbd/product/#
 *.setra.de
 *omniplus.com
 *.mercedes-benz-trucks.com
@@ -3017,8 +3020,8 @@ standard.paystack.co
 * IPv4 addresses
 aso.apnic.net
 *.apnic.foundation
-*.apnic.net
 *.isif.asia
+*.apnic.net
 *.apidt.org
 orbit.apnic.net
 stats.labs.apnic.net
@@ -3157,8 +3160,8 @@ abb.com.br
 *.pl.abb.com
 *.cms.abb
 *.abb.at
-*.baldor.com
 *.abb.com
+*.baldor.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.cn.abb.com
@@ -4518,9 +4521,9 @@ practice.securevetsource.com
 *.royalcanin-vouchers.com
 *.banfieldassets.com
 banfieldexchange.com
-*.royalcanin.pl
 *.extragum.com
 *.royalcanin.com
+*.royalcanin.pl
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -9901,8 +9904,8 @@ assets.spotify.com
 api.sonantic.io
 app.sonantic.io
 backstage.io
-api.spotify.com
 label-studio-public.sonantic.io
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 api.sonantic.io
@@ -10327,10 +10330,10 @@ my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
 www.bitmoji.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net

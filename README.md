@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 18:22:45 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 19:18:39 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -302,9 +302,9 @@ testapp.redoxengine.com
 docs.redoxengine.com
 explore.redoxengine.com
 api.gamma.redoxstage.com
-evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
+evening-earth.gamma.redoxstage.com
 app.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -337,6 +337,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
+sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -373,9 +375,6 @@ bd.visa.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
-www.visa.com.az
-www.visa.com.kz
-www.visa.com.lk
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -431,6 +430,10 @@ www.tink.com
 www.practicalmoneyskills.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+sandbox.secure.checkout.visa.com
+www.visainfinite.ca
+http://myvisainfinite.com/suntrust/en_us/home.html
+http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -3182,8 +3185,8 @@ assets.spotify.com
 api.sonantic.io
 app.sonantic.io
 backstage.io
-api.spotify.com
 label-studio-public.sonantic.io
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 api.sonantic.io
@@ -3552,10 +3555,10 @@ my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
-app.snapchat.com
 business.snapchat.com
 playcanvas.com
 www.bitmoji.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
