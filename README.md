@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 10:22:39 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 11:18:53 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -352,13 +352,13 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-aw.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 www.cardinalcommerce.com
 usa.visa.com
+aw.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.id
@@ -2179,8 +2179,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliexpress.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
