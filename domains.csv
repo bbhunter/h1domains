@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -5634,7 +5634,6 @@ gsa_bbp,federation.data.gov,True
 gsa_bbp,admin.fr.cloud.gov,True
 gsa_bbp,nessus.fr.cloud.gov,True
 gsa_bbp,opslogin.fr.cloud.gov,True
-gsa_bbp,*.login.gov,True
 gsa_bbp,www.fedramp.gov,True
 gsa_bbp,federalist-docs.18f.gov,True
 gsa_bbp,dashboard.fr.cloud.gov,True
@@ -5643,6 +5642,7 @@ gsa_bbp,labs.data.gov,True
 gsa_bbp,inventory.data.gov,True
 gsa_bbp,diagrams.fr.cloud.gov,True
 gsa_bbp,logs-platform.fr.cloud.gov,True
+gsa_bbp,*.login.gov,True
 gsa_bbp,ci.fr.cloud.gov,True
 gsa_bbp,idp.fr.cloud.gov,True
 gsa_bbp,federalist-proxy.app.cloud.gov,True
@@ -7322,8 +7322,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -9411,9 +9411,9 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.paylution.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.braintree-api.com,True
+paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -9422,8 +9422,8 @@ paypal,partner.swiftfinancial.com,True
 paypal,scrutiny.swiftfinancial.com,True
 paypal,*.hyperwallet.com,True
 paypal,my.loanbuilder.com,True
-paypal,*.venmo.com,True
 paypal,*.paypal.com,True
+paypal,*.venmo.com,True
 paypal,*.paydiant.com,True
 paypal,*.braintree.tools,True
 paypal,pigeon.swiftfinancial.com,True
