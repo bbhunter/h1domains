@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 30 23:21:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 01:12:17 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1732,8 +1732,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -3250,8 +3250,8 @@ circolocorecords.com/
 lifeinvader.com
 support.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3440,9 +3440,9 @@ smarttrader.deriv.com
 *.derivws.com
 secure-dfadmin.deriv.com
 *.deriv.com
-*.deriv.cloud
 oauth.deriv.com
 app.deriv.com
+*.deriv.cloud
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3534,12 +3534,12 @@ admin.shopify.com
 linkpop.com
 shopifyinbox.com
 story.snapchat.com
-create.snapchat.com
 businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 accounts.snapchat.com
 ads.snapchat.com
+create.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -3813,9 +3813,9 @@ custody.coinbase.com
 prime.coinbase.com
 *.cbhq.net
 *.coinbase.com
-api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 api.custody.coinbase.com
 institutional.coinbase.com
 coinbase.com
