@@ -1,6 +1,6 @@
 www.hangar51.com
-*.iagcargo.com
 *.iairgroup.com
+*.iagcargo.com
 *.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -86,8 +86,8 @@ login.wellhive.com
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -3157,8 +3157,8 @@ abb.com.br
 *.pl.abb.com
 *.cms.abb
 *.abb.at
-*.abb.com
 *.baldor.com
+*.abb.com
 *.busch-jaeger.nl
 *.fi.abb.com
 *.cn.abb.com
@@ -4521,7 +4521,6 @@ banfieldexchange.com
 *.royalcanin.pl
 *.extragum.com
 *.royalcanin.com
-*.mms.com
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -4533,6 +4532,7 @@ banfieldexchange.com
 banfieldfoundation.org
 *.vcahospitals.com
 spsah2.securevetsource.com
+*.mms.com
 *.marschocolate.com
 *.dovechocolate.com
 *.royal-canin.com
@@ -5132,7 +5132,6 @@ philadelphiaprofessional.co.uk
 sottilette.it
 sigamoscompartiendo.suchard.es
 suchard.es
-toblerone.co.uk
 xn--90aiakgkqi1l.xn--p1ai
 anevetessport.hu
 barniadventures.com
@@ -6228,9 +6227,9 @@ www.urbanclap.com
 *Hmhrx.com
 *Huntingtonhealth.net
 *SANGABRIELVALLEYHEALTHECONNECT.NET
-*hhcareers.com
 *ourstory.huntingtonhospital.com/
 *pricing.huntingtonhospital.com/
+*hhcareers.com
 *www.marinahospital.com
 *Hhec.org
 *Hmtest.org
@@ -8388,7 +8387,6 @@ app.liveplan.com
 www.paloalto.com
 www.liveplan.com
 www.bplans.com
-mtn.sd
 mtnselfcare.co.zm
 wc.mtn.com
 mtnrewards.com
