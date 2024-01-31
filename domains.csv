@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
+dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -3081,11 +3081,11 @@ indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
 indrive,*.indriverapp.com,True
-indrive,super-services.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
 indrive,volans.tech,True
 indrive,wga.volans.tech,True
 indrive,injob.indriver.com,True
+indrive,super-services.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -3412,8 +3412,8 @@ kkr_vdp,ksam.com,False
 8x8-bounty,*.8x8.id,True
 8x8-bounty,platform.8x8.com,True
 8x8-bounty,*.packet8.net,True
-8x8-bounty,voapi.8x8.com,True
 8x8-bounty,*.8x8staging.com,True
+8x8-bounty,voapi.8x8.com,True
 8x8-bounty,sms.8x8.com,True
 8x8-bounty,sso.8x8pilot.com,True
 8x8-bounty,*.p8t.us,True
@@ -3668,8 +3668,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,*.magiceden.workers.dev,True
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.io,True
-magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.dev,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -4829,8 +4829,8 @@ securityscorecard,*.securityscorecard.com,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.io,False
 securityscorecard,*.securityscorecard.com,False
-gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
+gymshark,*.gymshark.com,False
 gymshark,*.gymshark.com,False
 gymshark,*.gymshark.io,False
 etoro_bbp,push-d-hap.cloud.etoro.com,True
@@ -7320,8 +7320,8 @@ tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True

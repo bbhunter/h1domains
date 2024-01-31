@@ -59,8 +59,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -3080,11 +3080,11 @@ priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
-super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -3411,8 +3411,8 @@ cloud8.8x8.com
 *.8x8.id
 platform.8x8.com
 *.packet8.net
-voapi.8x8.com
 *.8x8staging.com
+voapi.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -3667,8 +3667,8 @@ eng.magiceden.io
 *.magiceden.workers.dev
 eng.magiceden.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -4828,8 +4828,8 @@ api.smtp2go.com
 *.securityscorecard.io
 *.securityscorecard.io
 *.securityscorecard.com
-*.gymshark.com
 *.gymshark.io
+*.gymshark.com
 *.gymshark.com
 *.gymshark.io
 push-d-hap.cloud.etoro.com
@@ -7319,8 +7319,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com

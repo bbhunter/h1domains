@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 31 11:18:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Jan 31 12:33:50 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -595,11 +595,11 @@ priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 *.indriverapp.com
-super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 volans.tech
 wga.volans.tech
 injob.indriver.com
+super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -718,8 +718,8 @@ cloud8.8x8.com
 *.8x8.id
 platform.8x8.com
 *.packet8.net
-voapi.8x8.com
 *.8x8staging.com
+voapi.8x8.com
 sms.8x8.com
 sso.8x8pilot.com
 *.p8t.us
@@ -869,8 +869,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1732,8 +1732,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
