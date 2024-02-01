@@ -1,7 +1,7 @@
-*.iaggbs.com
 *.iairgroup.com
 *.iagcargo.com
 www.hangar51.com
+*.iaggbs.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -118,8 +118,8 @@ blog.23andme.com
 api.23andme.com
 auth.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -8802,9 +8802,9 @@ https://coda.io/signup/email
 codahosted.io
 codacontent.io
 hub.vroid.com
-payment.pixiv.net
 neoket.net
 vroid.com
+payment.pixiv.net
 novel.pixiv.net
 www.pixiv.net
 *.fanbox.cc
@@ -10322,8 +10322,8 @@ rt.playcanvas.com
 map.snapchat.com
 business.snapchat.com
 playcanvas.com
-www.bitmoji.com
 app.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
