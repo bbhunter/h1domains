@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 12:32:24 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 13:22:52 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -138,9 +138,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-booking.com
 *.booking.com
 admin.booking.com
+booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -154,11 +154,11 @@ paynotifications.booking.com
 secure-supply-xml.booking.com
 paymentcomponent.booking.com
 widget.rentalcars.com
-cars.booking.com
 webhooks.booking.com
 paybridge.booking.com
 secure.booking.com
 account.booking.com
+cars.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -474,18 +474,10 @@ app.avtoelon.uz
 id.avtoelon.uz
 prd-ring-web-us.prd.rings.solutions
 prd-ring-web-us.prd.rings.solutions
-login.tide.co
 api.tideplatform.in
-web.tide.co
-www.tide.co
-api.tide.co
-app.tide.co
-web.tide.co
-api.tide.co
-login.tide.co
-app.tide.co
+*.tide.co
+*.tide.co
 api.tideplatform.in
-www.tide.co
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 accounts.firefox.com
@@ -1782,8 +1774,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2336,8 +2328,8 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line-apps.com
 *.line.me
+*.line-apps.com
 *.line.biz
 *.line.naver.jp
 *.line.me
@@ -2468,9 +2460,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.getaroom.com
 www.bookingholdings.com
-priceline.com
 www.priceline.com
 admin.rezserver.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -3870,8 +3862,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3889,8 +3881,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
