@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 15:20:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  1 16:26:12 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -39,8 +39,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -437,8 +437,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1725,10 +1725,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2175,8 +2175,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2665,8 +2665,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3150,7 +3150,6 @@ zodia.studio
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
-heyfiesta.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
@@ -3172,7 +3171,6 @@ translate.badoo.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
-heyfiesta.com
 zodia.studio
 assets.spotify.com
 api.sonantic.io
@@ -3294,8 +3292,8 @@ www.starbucks.com.sg
 www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
-www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -3483,8 +3481,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io

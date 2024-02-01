@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -60,8 +60,8 @@ fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
-dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
+dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
@@ -1825,8 +1825,8 @@ visa,http://myvisainfinite.com/suntrust/en_us/home.html,True
 visa,http://www.myvisacardportal.com/welcome/enbd/product/#,True
 daimler_truck,*.setra.de,False
 daimler_truck,*omniplus.com,False
-daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
@@ -1834,8 +1834,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
 daimler_truck,*evobus.com,False
-daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*fleetboard.com,False
+daimler_truck,*.mitsubishi-fuso.com,False
 daimler_truck,*exceleratorparts.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -2789,8 +2789,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -7312,10 +7312,10 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
-tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
+tiktok,business.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7923,8 +7923,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -8947,7 +8947,6 @@ equifax,*equifax.es,False
 equifax,*equifax.co.uk,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
-equifax,*.wageverify.com,False
 equifax,*.accountscore.co.uk,False
 equifax,*.employersedge.com,False
 equifax,*.healthefx.net,False
@@ -9340,8 +9339,8 @@ hyatt,www.applevacations.com,True
 hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,grammarly.ai,True
 grammarly,*.grammarly.io,True
@@ -9870,7 +9869,6 @@ bumble,zodia.studio,True
 bumble,eu1.badoo.com,True
 bumble,bma.badoo.com,True
 bumble,badoocdn.com,True
-bumble,heyfiesta.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,www.bumble.com,True
 bumble,badoo.com,True
@@ -9892,7 +9890,6 @@ bumble,translate.badoo.com,True
 bumble,ccardseu1.badoo.com,True
 bumble,ccardsus1.badoo.com,True
 bumble,chatdate.app,True
-bumble,heyfiesta.com,True
 bumble,zodia.studio,True
 spotify,assets.spotify.com,True
 spotify,api.sonantic.io,True
@@ -10024,8 +10021,8 @@ starbucks,www.starbucks.com.sg,True
 starbucks,www.starbucks.com,True
 starbucks,login.starbucks.co.jp,True
 starbucks,www.starbucks.co.jp,True
-starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.co.kr,True
+starbucks,www.starbucks.com.cn,True
 starbucks,www.starbucks.ca,True
 starbucks,openapi.starbucks.com,True
 starbucks,gift.starbucks.co.jp,True
@@ -10259,8 +10256,8 @@ coursera,www.coursera.org,False
 zendesk,developer.zendesk.com,True
 zendesk,smooch.io,True
 zendesk,h1-your-domain.zendesk.com,True
-zendesk,www.zendesk.com,True
 zendesk,apps.zendesk.com,True
+zendesk,www.zendesk.com,True
 zendesk,api.smooch.io,True
 zendesk,app.futuresimple.com,True
 zendesk,app.smooch.io,True
@@ -10403,7 +10400,6 @@ ui,training.ui.com,False
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
 adobe,*.mixamo.com,False
-adobe,auth.services.adobe.com,False
 adobe,exchange.adobe.com,False
 adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
@@ -10418,6 +10414,7 @@ adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,app.frame.io,False
+adobe,auth.services.adobe.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False

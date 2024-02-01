@@ -1,7 +1,7 @@
 www.hangar51.com
 *.iaggbs.com
-*.iairgroup.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -59,8 +59,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -1824,8 +1824,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 *.setra.de
 *omniplus.com
-*.mercedes-benz-trucks.com
 *exceleratorparts.com
+*.mercedes-benz-trucks.com
 *detroitconnect.com
 *.daimlertruck.com
 *.westernstar.com
@@ -1833,8 +1833,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.freightliner.com
 *.bharatbenz.com
 *evobus.com
-*.mitsubishi-fuso.com
 *fleetboard.com
+*.mitsubishi-fuso.com
 *exceleratorparts.com
 *.mercedes-benz-trucks.com
 *.mitsubishi-fuso.com
@@ -2788,8 +2788,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -7311,10 +7311,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+business.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7922,8 +7922,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -8946,7 +8946,6 @@ JOBALINE.COM
 *equifax.co.uk
 *.dicom.cl
 *.i2verify.com
-*.wageverify.com
 *.accountscore.co.uk
 *.employersedge.com
 *.healthefx.net
@@ -9339,8 +9338,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -9869,7 +9868,6 @@ zodia.studio
 eu1.badoo.com
 bma.badoo.com
 badoocdn.com
-heyfiesta.com
 ccardseu1.badoo.com
 www.bumble.com
 badoo.com
@@ -9891,7 +9889,6 @@ translate.badoo.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
-heyfiesta.com
 zodia.studio
 assets.spotify.com
 api.sonantic.io
@@ -10023,8 +10020,8 @@ www.starbucks.com.sg
 www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
-www.starbucks.com.cn
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucks.ca
 openapi.starbucks.com
 gift.starbucks.co.jp
@@ -10258,8 +10255,8 @@ www.coursera.org
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 apps.zendesk.com
+www.zendesk.com
 api.smooch.io
 app.futuresimple.com
 app.smooch.io
@@ -10402,7 +10399,6 @@ training.ui.com
 dev-training.ui.com
 wiki.ui.com
 *.mixamo.com
-auth.services.adobe.com
 exchange.adobe.com
 licenses.adobe.com
 mobilemarketing.adobe.com
@@ -10417,6 +10413,7 @@ nicetryapril.na1.echosignsandbox.com
 *.adobe.com
 accounts.frame.io
 app.frame.io
+auth.services.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
