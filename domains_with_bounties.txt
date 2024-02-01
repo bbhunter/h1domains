@@ -3535,15 +3535,15 @@ relay.playcanvas.com
 store.playcanvas.com
 playcanv.as
 blog.playcanvas.com
-snappublisher.snapchat.com
 my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
 business.snapchat.com
-playcanvas.com
 app.snapchat.com
 www.bitmoji.com
+playcanvas.com
+snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
