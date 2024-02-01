@@ -3151,8 +3151,8 @@ http://miro.com/blog
 *.busch-jaeger.nu
 *.xc.abb.com
 *.evcharging.abb.com
-*.tnb.com
 *.gb.abb.com
+*.tnb.com
 *.abb.com.tr
 abb.com.br
 *.busch-jaeger.at
@@ -3162,7 +3162,6 @@ abb.com.br
 *.abb.at
 *.baldor.com
 *.abb.com
-*.busch-jaeger.nl
 *.fi.abb.com
 *.cn.abb.com
 *.de.abb.com
@@ -3174,6 +3173,7 @@ abb.com.br
 *.abb.in
 *.abb
 *.ability.abb
+*.busch-jaeger.nl
 *.busch-jaeger.de
 *.cirrus.abb.com
 *.stratus.abb.com
