@@ -180,9 +180,9 @@ bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
 bookingcom,distribution-xml.booking.com,True
-bookingcom,accommodations.booking.com,True
 bookingcom,portal.taxi.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,accommodations.booking.com,True
 bookingcom,taxi.booking.com,True
 bookingcom,autocomplete.booking.com,True
 bookingcom,paynotifications.booking.com,True
@@ -4928,9 +4928,9 @@ anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.cbcworldwide.*,False
-anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
+anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
@@ -10767,9 +10767,9 @@ yahoo,onepush.query.yahoo.com,True
 yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
-security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
