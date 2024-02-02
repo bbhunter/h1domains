@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 15:23:46 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 16:25:15 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -156,9 +156,9 @@ paymentcomponent.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 account.booking.com
 cars.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -685,6 +685,12 @@ www.prisma.fi
 www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
+jobs.kiwi.com
+auth.skypicker.com
+*.skypicker.com
+*.kiwi.com
+www.kiwi.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -858,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-*.magiceden.dev
 magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1400,11 +1406,11 @@ main.trafficfactory.biz
 www.trafficfactory.com
 main.trafficfactory.biz
 *.found.io
-*.swiftype.com
 *.elasticnet.co
 *.eops.nl
 *.elstc.co
 cloud.elastic.co
+*.swiftype.com
 www.elastic.co
 *.elastic.co
 *.elastic.co
@@ -1780,6 +1786,7 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
+app.faraday.io
 app.faraday.io
 beta-cloud.acronis.com
 *.5nine.com
@@ -2168,8 +2175,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
-*.aliyun.com
 *.aliexpress.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2452,11 +2459,11 @@ de.forescout.cloud
 cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
-www.getaroom.com
 www.bookingholdings.com
 admin.rezserver.com
 priceline.com
 www.priceline.com
+www.getaroom.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -2954,18 +2961,18 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-one.newrelic.com
-*.nr-ops.net
 *.newrelic.com
 *.nr-data.net
+*.nr-ops.net
+one.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
 synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
-synthetics.newrelic.com
 login.newrelic.com
+alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3510,8 +3517,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
