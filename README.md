@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 02:26:34 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 03:22:33 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -3353,16 +3353,6 @@ harvestapp.com
 forecastapp.com
 id.getharvest.com
 getharvest.com
-npmjs.com
-api.github.com
-classroom.github.com
-*.githubapp.com
-gist.github.com
-*.github.net
-npmjs.org
-education.github.com
-*.githubusercontent.com
-github.com
 github.com
 api.github.com
 gist.github.com
@@ -4048,15 +4038,6 @@ ota.helium.com
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-magentolive.com
-magentocommerce.com
-repo.magento.com
-accounts.magento.cloud
-account.magento.com
-u.magento.com
-imagine.magento.com
-magento.com
-marketplace.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
