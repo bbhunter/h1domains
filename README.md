@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 10:21:07 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 11:18:25 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -58,8 +58,8 @@ app.dynamic.xyz
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -139,8 +139,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -2932,8 +2932,8 @@ auth.crypto.com
 *.mona.co
 www.crypto.com
 *.crypto.com
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 app.mona.co
 pay.crypto.com
 js.crypto.com
@@ -3516,9 +3516,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

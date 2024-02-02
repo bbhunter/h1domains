@@ -1,7 +1,7 @@
 www.hangar51.com
-*.iaggbs.com
 *.iairgroup.com
 *.iagcargo.com
+*.iaggbs.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -86,8 +86,8 @@ login.wellhive.com
 payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -173,8 +173,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -4508,7 +4508,6 @@ practice.securevetsource.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
 *.myroyalcanin.hu
-*.royalcanin.co.uk
 *.royalcaninconcorsi.it
 *.royalcanin-vouchers.com
 *.banfieldassets.com
@@ -4516,6 +4515,7 @@ banfieldexchange.com
 *.royalcanin.com
 *.royalcanin.pl
 *.extragum.com
+*.royalcanin.co.uk
 *.pedigree.com
 *.moncse-royalcanin-siege.com
 *.monespaceveto.com
@@ -8935,9 +8935,9 @@ ehxhr.com
 *.konduto.com
 *.redeverdeamarela.com.br
 register.alertxpress.com
-*.efficientforms.com
 *equifax.com
 JOBALINE.COM
+*.efficientforms.com
 *equifax.cl
 *equifax.ec
 *equifax.hn
@@ -9618,8 +9618,8 @@ auth.crypto.com
 *.mona.co
 www.crypto.com
 *.crypto.com
-tax.crypto.com
 merchant.crypto.com
+tax.crypto.com
 app.mona.co
 pay.crypto.com
 js.crypto.com
@@ -10290,9 +10290,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
