@@ -1645,10 +1645,6 @@ greenfly,api.greenfly.com,False
 greenfly,api.greenfly.com,False
 greenfly,portal.greenfly.com,False
 aven_response,*.aven.com,False
-aven_response,my.aven.com,False
-aven_response,notary.aven.com,False
-aven_response,aven.com,False
-aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
@@ -5719,6 +5715,10 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
+xvideos,www.xnxx.com,True
+xvideos,gold.xnxx.com,True
+xvideos,www.xvideos.red,True
+xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xnxx.com,True
@@ -11450,6 +11450,7 @@ kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,api.kiwi.ki,True
 kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,portal.kiwi.ki,True
+codeigniter,www.codeigniter.com,False
 codeigniter,www.codeigniter.com,False
 ok,ok.ru,False
 ok,ok.me,False

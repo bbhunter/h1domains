@@ -1644,10 +1644,6 @@ api.greenfly.com
 api.greenfly.com
 portal.greenfly.com
 *.aven.com
-my.aven.com
-notary.aven.com
-aven.com
-*.aven.com
 aven.com
 my.aven.com
 notary.aven.com
@@ -5718,6 +5714,10 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
+www.xnxx.com
+gold.xnxx.com
+www.xvideos.red
+www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -11449,6 +11449,7 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
+www.codeigniter.com
 www.codeigniter.com
 ok.ru
 ok.me
