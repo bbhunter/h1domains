@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 07:19:44 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 08:25:20 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -201,8 +201,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -770,11 +770,6 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
-moonpay.com
-*.moonpaycloud.com
-*.moonpay.com
-hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -2167,8 +2162,8 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 *.alibabacloud.com
-www.alibabagroup.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.1688.com
@@ -3513,8 +3508,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3874,8 +3869,8 @@ hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 hackerone-ext-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
