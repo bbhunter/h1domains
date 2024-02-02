@@ -1,7 +1,7 @@
-*.iairgroup.com
 www.hangar51.com
 *.iaggbs.com
 *.iagcargo.com
+*.iairgroup.com
 www.avios.com
 www.iairgroup.com
 www.iaggbs.com
@@ -116,8 +116,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -5718,10 +5718,6 @@ cdn.proctorio.com
 getproctorio.com
 proctorio.com
 cdn.proctorio.com
-www.xnxx.com
-gold.xnxx.com
-www.xvideos.red
-www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -11453,7 +11449,6 @@ mobile.kiwi.ki
 api.kiwi.ki
 mobile.kiwi.ki
 portal.kiwi.ki
-www.codeigniter.com
 www.codeigniter.com
 ok.ru
 ok.me

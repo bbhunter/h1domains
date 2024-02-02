@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  1 23:21:39 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 01:11:49 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -82,8 +82,8 @@ education.23andme.com
 store.23andme.com
 blog.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -1390,10 +1390,6 @@ https://metamask-sdk-socket.metafi.codefi.network/
 staking-uat.codefi.network
 consensys.net
 bridge.codefi.network
-www.xnxx.com
-gold.xnxx.com
-www.xvideos.red
-www.xvideos.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com

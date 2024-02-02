@@ -1,8 +1,8 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -117,8 +117,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -5719,10 +5719,6 @@ proctorio,*.proctordata.com,False
 proctorio,getproctorio.com,False
 proctorio,proctorio.com,False
 proctorio,cdn.proctorio.com,False
-xvideos,www.xnxx.com,True
-xvideos,gold.xnxx.com,True
-xvideos,www.xvideos.red,True
-xvideos,www.xvideos.com,True
 xvideos,www.xvideos.com,True
 xvideos,www.xvideos.red,True
 xvideos,www.xnxx.com,True
@@ -11454,7 +11450,6 @@ kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,api.kiwi.ki,True
 kiwi-ki,mobile.kiwi.ki,True
 kiwi-ki,portal.kiwi.ki,True
-codeigniter,www.codeigniter.com,False
 codeigniter,www.codeigniter.com,False
 ok,ok.ru,False
 ok,ok.me,False
