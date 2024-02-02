@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 13:22:12 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 14:21:00 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -337,8 +337,8 @@ www.yellowpepper.com
 www.fraedom.com
 www.practicalmoneyskills.org
 www.practicalmoneyskills.com
-sandbox.secure.checkout.visa.com
 www.visainfinite.ca
+sandbox.secure.checkout.visa.com
 bb.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -3517,8 +3517,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3865,8 +3865,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
