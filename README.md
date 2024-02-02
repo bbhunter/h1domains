@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  2 16:25:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  2 17:22:00 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -133,8 +133,8 @@ www.temu.com
 kyc-onboarding.booking.com
 experiences.booking.com
 indicative-pricing.taxi.booking.com
-chat.booking.com
 careers.booking.com
+chat.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 booking.com
@@ -687,8 +687,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 www.kiwi.com
 tequila.kiwi.com
 *.kiwi.com
@@ -864,8 +864,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2064,11 +2064,11 @@ kca.amazon.com
 merch.amazon.com
 chat.amazon.com
 dna.amazon.com
-advertising.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 paragon-na.amazon.com
+advertising.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2461,9 +2461,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-priceline.com
 www.priceline.com
 www.getaroom.com
+priceline.com
 secure.rezserver.com
 api.rezserver.com
 flyiin.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
