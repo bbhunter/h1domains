@@ -3391,11 +3391,11 @@ advisortimetracker.kkr.com
 kkrpec.com
 kinfra.com
 ksam.com
-*.jitsi.net
 work.8x8.com
 *.8x8.vc
 sso.8x8.com
 connect.8x8.com
+*.jitsi.net
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -8310,7 +8310,6 @@ cloud8.8x8.com
 www.8x8.com
 *.jitsi.org
 *.8x8pilot.com
-*.jitsi.net
 *.8x8.uk
 *.adgjmp.net
 8x8.force.com
@@ -8321,6 +8320,7 @@ pay.8x8.com
 sso.8x8.com
 *.8x8.id
 www.fuzemeeting.com
+*.jitsi.net
 accountmanager.8x8.com
 *.contactnow.8x8.com
 *.mycontactual.com
@@ -9647,8 +9647,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.nr-data.net
 *.newrelic.com
+*.nr-data.net
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
