@@ -4671,8 +4671,8 @@ www.canvasworld.com
 www.gifts.com
 *.iseeme.com
 *.personalcreations.com
-*.canvasworld.com
 *.cafepress.com
+*.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -6333,7 +6333,6 @@ blogs.zebra.com
 brand.zebra.com
 creative.zebra.com
 greece.zebra.com
-supportcommunity.zebra.com
 zsbsupport.zebra.com
 *.zams-eu.zebra.com
 *.zebrasports.com
@@ -6341,6 +6340,7 @@ zsbsupport.zebra.com
 reflexisinc.com/
 *.profitect.com
 cmm01.sl.zebra.com
+supportcommunity.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -10129,8 +10129,8 @@ moneybird.com
 moneybirdstorage.com
 moneybird.com
 moneybirdstorage.com
-npmjs.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.githubapp.com
 gist.github.com

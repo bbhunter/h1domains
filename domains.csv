@@ -4672,8 +4672,8 @@ planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
-planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6334,7 +6334,6 @@ zebra_vdp,blogs.zebra.com,False
 zebra_vdp,brand.zebra.com,False
 zebra_vdp,creative.zebra.com,False
 zebra_vdp,greece.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zsbsupport.zebra.com,False
 zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
@@ -6342,6 +6341,7 @@ zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -10130,8 +10130,8 @@ moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
 moneybird,moneybird.com,True
 moneybird,moneybirdstorage.com,True
-github,npmjs.com,True
 github,api.github.com,True
+github,npmjs.com,True
 github,classroom.github.com,True
 github,*.githubapp.com,True
 github,gist.github.com,True
