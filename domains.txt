@@ -1848,6 +1848,13 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *fleetboard.com
 *.freightliner.com
 *detroitconnect.com
+ztc.nube.53.com
+locations.53.com
+www.53.com
+zta.nube.53.com
+express.53.com
+onlinebanking.53.com
+*53.com
 *53.com
 express.53.com
 https://ablreporter.53.com/
@@ -6231,12 +6238,12 @@ www.urbanclap.com
 *SANGABRIELVALLEYHEALTHECONNECT.COM
 *sgveconnect.com
 *apps.huntingtonhospital.com/
-*cedars-sinai.org
 *cedars-sinai.edu
 *Hmhdr.net
 *Hmhdr.org
 *Huntingtonhealthnetwork.org
 *legacy.huntingtonhospital.org
+*cedars-sinai.org
 *cedars-sinai.org
 *www.cshs.org
 *csmc.edu
@@ -8064,8 +8071,8 @@ mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com

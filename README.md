@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 08:23:52 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 09:20:24 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -2256,8 +2256,8 @@ mgs.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
 reservations.all-inclusive.marriott.com
-jobs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 cpp.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
