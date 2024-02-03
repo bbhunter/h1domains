@@ -1722,12 +1722,12 @@ visa,www.visa.com.lc,True
 visa,www.visa.com.ph,True
 visa,visa.com.ua,True
 visa,www.visa.co.jp,True
-visa,www.yellowpepper.com,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
 visa,sandbox.secure.checkout.visa.com,True
 visa,www.visainfinite.ca,True
+visa,www.yellowpepper.com,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -10290,8 +10290,8 @@ shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
-shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
+shopify,shopify.plus,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
@@ -10779,8 +10779,8 @@ security,*.vpn.hackerone.net,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
-security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,www.hackerone.com,True
+security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,ctf.hacker101.com,True
 security,hackerone-ext-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
