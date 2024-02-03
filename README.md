@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb  3 02:24:16 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb  3 03:23:22 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -1727,10 +1727,10 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktok.com
 *.tiktokv.com
-developers.tiktok.com
+*.tiktok.com
 effecthouse.tiktok.com
+developers.tiktok.com
 shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1942,9 +1942,9 @@ wallets.api.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-store.playstation.com
 *.sonyentertainmentnetwork.com
 direct.playstation.com
+store.playstation.com
 my.playstation.com
 my.account.sony.com
 ca.account.sony.com
@@ -2067,8 +2067,8 @@ relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
 advertising.amazon.com
-av-na.amazon.com
 paragon-na.amazon.com
+av-na.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2961,8 +2961,8 @@ developer.newrelic.com
 infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
-*.newrelic.com
 *.nr-data.net
+*.newrelic.com
 *.nr-ops.net
 one.newrelic.com
 support.newrelic.com
