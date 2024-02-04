@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 13:22:44 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 14:18:34 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -572,8 +572,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev

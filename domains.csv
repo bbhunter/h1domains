@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.avios.com,False
@@ -3058,8 +3058,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True

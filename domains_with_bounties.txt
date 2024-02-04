@@ -566,8 +566,8 @@ hiltonhotels.jp
 *.okx.com
 https://www.okx.com/docs-v5/en/#market-maker-program
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
