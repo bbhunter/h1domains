@@ -1,6 +1,6 @@
 handle,domain,eligible_for_bounty
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
@@ -144,8 +144,8 @@ mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -173,8 +173,8 @@ bookingcom,careers.booking.com,True
 bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
-bookingcom,booking.com,True
 bookingcom,admin.booking.com,True
+bookingcom,booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1296,11 +1296,8 @@ leather_wallet,www.leather.io,True
 alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
 alshaya,pmp.shaya.com.tr,False
-alshaya,sa.hm.com,False
 alshaya,kw.shopjustice.me,False
 alshaya,card.starbucks.com.kz,False
-alshaya,*.aloyoga.com.kw,False
-alshaya,*.westelm.com.kw,False
 alshaya,*.victoriassecret.com.qa,False
 alshaya,*.thebodyshop.com.kw,False
 alshaya,*.muji.qa,False
@@ -1318,8 +1315,11 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.footlocker.com.eg,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
+alshaya,sa.hm.com,False
+alshaya,*.aloyoga.com.kw,False
+alshaya,*.westelm.com.kw,False
 alshaya,boysweb.shaya.com.tr,False
 alshaya,qt.boots.com,False
 alshaya,kw.hm.com,False
@@ -1652,8 +1652,8 @@ aven_response,*.aven.com,False
 aven_response,aven.com,False
 aven_response,my.aven.com,False
 aven_response,notary.aven.com,False
-servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
+servicenow-disclosure,*.service-now.com,False
 servicenow-disclosure,*.servicenow.com,False
 servicenow-disclosure,*.service-now.com,False
 shi_vdp,durango.shi.com,False
@@ -3058,8 +3058,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -3520,9 +3520,9 @@ us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
 one_zero_vdp,*.onezerobank.com,False
 one_zero_vdp,*.onezerobank.com,False
-yuga_labs,*.otherside.xyz,True
 yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.yuga.com,True
+yuga_labs,*.otherside.xyz,True
 yuga_labs,*.meebits.app,True
 yuga_labs,*.10ktf.com,True
 yuga_labs,*.cryptopunks.app,True
@@ -6471,8 +6471,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7311,11 +7311,11 @@ tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
-tiktok,creatormarketplace.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,creatormarketplace.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7809,7 +7809,6 @@ amazonvrp,dcape-na.amazon.com,True
 amazonvrp,mag-na.amazon.com,True
 amazonvrp,kca.amazon.com,True
 amazonvrp,merch.amazon.com,True
-amazonvrp,chat.amazon.com,True
 amazonvrp,dna.amazon.com,True
 amazonvrp,relay.amazon.com,True
 amazonvrp,affiliate-program.amazon.com,True
@@ -7817,6 +7816,7 @@ amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,advertising.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
 amazonvrp,av-na.amazon.com,True
+amazonvrp,chat.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -9836,10 +9836,10 @@ grab,manage.grab.co,True
 grab,api.grabpay.com,True
 grab,xtramile.grabpay.com,True
 grab,*.grab.com,True
-grab,*.myteksi.net,True
 grab,gamma.grab.co,True
 grab,jira.grab.com,True
 grab,kartaview.org,True
+grab,*.myteksi.net,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10534,8 +10534,8 @@ airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,www.hoteltonight.com,True
 airbnb,*.muscache.com,True
-airbnb,*.hoteltonight-test.com,True
 airbnb,*.airbnb.com,True
+airbnb,*.hoteltonight-test.com,True
 airbnb,api.airbnb.com,True
 airbnb,assets.airbnb.com,True
 airbnb,open.airbnb.com,True
@@ -10785,10 +10785,10 @@ security,www.hackerone.com,True
 security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
-security,app.pullrequest.com,True
 security,errors.hackerone.net,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
