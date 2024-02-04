@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  4 20:21:03 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb  4 21:18:08 UTC 2024)
 ```
 demo.arkoselabs.com
 www.arkoselabs.com
@@ -109,8 +109,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -1465,8 +1465,8 @@ sh.reddit.com
 gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-ads-api.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -1624,9 +1624,9 @@ code.yoti.com
 www.yotisign.com
 frankd.yoti.com
 app.netlify.com
-api.netlify.com
 internal.netlify.com
 netlify-rum.netlify.app
+api.netlify.com
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
@@ -1730,8 +1730,8 @@ careers.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3515,10 +3515,10 @@ shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
-accounts.shopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
