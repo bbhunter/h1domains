@@ -145,8 +145,8 @@ mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadolibre.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
-mercadolibre,api.mercadolibre.com,True
 mercadolibre,www.mercadopago.com.br,True
+mercadolibre,api.mercadolibre.com,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -1677,9 +1677,9 @@ shi_vdp,www.shi.com,False
 shi_vdp,https://www.cxmlorderservice.shi.com/cxmlorderreceiptservice/cxmlorderreceiptservice.svc,False
 redox_bbp,testapi.redoxengine.com,True
 redox_bbp,fhir.redoxengine.com,True
-redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,clientcert.gamma.redoxstage.com,True
 redox_bbp,www.redoxengine.com,True
+redox_bbp,launch.gamma.redoxstage.com,True
 redox_bbp,blob.gamma.redoxstage.com,True
 redox_bbp,eets-sftp-listener.gamma.redoxstage.com,True
 redox_bbp,dashboard.gamma.redoxstage.com,True
@@ -1692,8 +1692,8 @@ redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
 redox_bbp,sftp.gamma.redoxstage.com,True
-redox_bbp,explore.redoxengine.com,True
 redox_bbp,evening-earth.gamma.redoxstage.com,True
+redox_bbp,explore.redoxengine.com,True
 redox_bbp,app.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
 redox_bbp,testapp.redoxengine.com,True
@@ -4515,8 +4515,8 @@ mars,*.banfieldassets.com,False
 mars,banfieldexchange.com,False
 mars,*.royalcanin.pl,False
 mars,*.royalcanin.co.uk,False
-mars,*.royalcanin.com,False
 mars,*.extragum.com,False
+mars,*.royalcanin.com,False
 mars,*.pedigree.com,False
 mars,*.moncse-royalcanin-siege.com,False
 mars,*.monespaceveto.com,False
@@ -6339,9 +6339,9 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.profitect.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.profitect.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7317,8 +7317,8 @@ tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,shop.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,shop.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
