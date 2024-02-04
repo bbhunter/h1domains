@@ -45,8 +45,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -4663,8 +4663,8 @@ www.mycustomcase.com
 www.photoaffections.com
 *.mycustomcase.com
 www.simplytoimpress.com
-www.cafepress.com
 iseeme.com
+www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.photoaffections.com
@@ -10310,8 +10310,8 @@ businesshelp.snapchat.com
 forum.playcanvas.com
 msg.playcanvas.com
 create.snapchat.com
-ads.snapchat.com
 accounts.snapchat.com
+ads.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -10323,11 +10323,11 @@ my.snapchat.com
 store.snapchat.com
 rt.playcanvas.com
 map.snapchat.com
-www.bitmoji.com
 snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
+www.bitmoji.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
