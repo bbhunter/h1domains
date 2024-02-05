@@ -3942,8 +3942,8 @@ amazonvrp-devices,a4k.amazon.com,True
 amazonvrp-devices,blueprints.amazon.com,True
 amazonvrp-devices,creator.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
-amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,alexa.amazon.com,True
+amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,skills-store.amazon.com,True
 amazonvrp-devices,read.amazon.com,True
 amazonvrp-devices,alexaanswers.amazon.com,True
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -6496,10 +6496,10 @@ reddit,reddit.secure.force.com,True
 reddit,redditforbusiness.com,True
 reddit,mod.reddit.com,True
 reddit,matrix.redditspace.com,True
-reddit,accounts.reddit.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,www.reddit.com,True
+reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7329,8 +7329,8 @@ tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
-tiktok,developers.tiktok.com,True
 tiktok,shop.tiktok.com,True
+tiktok,developers.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -10179,8 +10179,8 @@ gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,gitlab.com,True
 gitlab,*.gitlab.org,True
+gitlab,gitlab.com,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10303,8 +10303,8 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
