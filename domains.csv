@@ -1725,9 +1725,9 @@ visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,www.practicalmoneyskills.com,True
+visa,www.yellowpepper.com,True
 visa,sandbox.secure.checkout.visa.com,True
 visa,www.visainfinite.ca,True
-visa,www.yellowpepper.com,True
 visa,bb.visa.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -2844,11 +2844,11 @@ mozilla_critical_services,push.services.mozilla.com,True
 mozilla_critical_services,sync.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
-mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,aus5.mozilla.org,True
 mozilla_critical_services,lando.services.mozilla.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
+mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,phabricator.allizom.org,True
@@ -3492,9 +3492,9 @@ us-department-of-state,*.IAWG.GOV,False
 us-department-of-state,*.OSAC.GOV,False
 us-department-of-state,*.PREPRODFAN.GOV,False
 us-department-of-state,*.SECURITYTESTFAN.GOV,False
-us-department-of-state,*.USMISSION.GOV,False
 us-department-of-state,*.ELGUARDIA.NET,False
 us-department-of-state,*.REWARDSFORJUSTICE.NET,False
+us-department-of-state,*.USMISSION.GOV,False
 us-department-of-state,*.PEPFAR.GOV,False
 us-department-of-state,*.USEMBASSY.GOV,False
 us-department-of-state,*.FSGB.GOV,False
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7159,11 +7159,11 @@ lark_technologies,hackers_chosendomain.larksuite.com,True
 mendix,gateway.us-east-1.sws.siemens.com,False
 mendix,slm.store.mendix.com,False
 mendix,contributor.mendixcloud.com,False
-mendix,*.mendix.com,False
 mendix,datalake-sync.apps.mendix.com,False
 mendix,employees.mendix.com,False
 mendix,revenuedatahub.mendixcloud.com,False
 mendix,*.timeseries.com,False
+mendix,*.mendix.com,False
 mendix,mxpeople.mendixcloud.com,False
 mendix,provisioning.servicemanagement.mendix.com,False
 mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,False
