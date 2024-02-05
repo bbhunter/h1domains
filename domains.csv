@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1315,8 +1315,8 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.footlocker.com.eg,False
-alshaya,*.starbuckscardtr.com,False
 alshaya,kw.boots.com,False
+alshaya,*.starbuckscardtr.com,False
 alshaya,sa.hm.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.westelm.com.kw,False
@@ -2851,8 +2851,8 @@ mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,crash-reports.allizom.org,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
-mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -6460,8 +6460,8 @@ lumiradx,https://av.lumiradx.com/era/webconsole/,False
 lumiradx,https://connect.lumiradx.com/factory,False
 lumiradx,www.lumiradx.com,False
 lumiradx,investors.lumiradx.com,False
-drugs_com,www.drugs.com,False
 drugs_com,blog.drugs.com,False
+drugs_com,www.drugs.com,False
 drugs_com,www.medicine.com,False
 drugs_com,www.question.com,False
 drugs_com,newsletters.drugs.com,False
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -9536,8 +9536,8 @@ goldmansachs,*.ayco.com,True
 goldmansachs,apigw.foliofn.com,True
 goldmansachs,*.foliofirst.com,True
 goldmansachs,*.foliofn.com,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.unitedcp.com,True
+goldmansachs,*.goldman.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.global-liquidity.gs.com,True
@@ -10179,8 +10179,8 @@ gitlab,design.gitlab.com,True
 gitlab,advisories.gitlab.com,True
 gitlab,docs.gitlab.com,True
 gitlab,about.gitlab.com,True
-gitlab,*.gitlab.org,True
 gitlab,gitlab.com,True
+gitlab,*.gitlab.org,True
 gitlab,*.gitlab.net,True
 gitlab,*.gitlab.org,True
 gitlab,*.gitlap.com,True
@@ -10754,8 +10754,8 @@ slack,api.slack.com,True
 slack,slackb.com,True
 slack,slackatwork.com,True
 slack,slack-redir.net,True
-slack,*.quip.com,True
 slack,app.slack.com,True
+slack,*.quip.com,True
 slack,edgeapi.slack.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
