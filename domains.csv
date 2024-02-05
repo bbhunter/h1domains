@@ -1172,8 +1172,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
+boozt,*.booztlet.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1315,8 +1315,8 @@ alshaya,*.americaneagle.com.bh,False
 alshaya,bathandbodyworks.ro,False
 alshaya,*.americaneagle.com.kw,False
 alshaya,*.footlocker.com.eg,False
-alshaya,kw.boots.com,False
 alshaya,*.starbuckscardtr.com,False
+alshaya,kw.boots.com,False
 alshaya,sa.hm.com,False
 alshaya,*.aloyoga.com.kw,False
 alshaya,*.westelm.com.kw,False
@@ -6483,8 +6483,8 @@ reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
 reddit,meta-api.reddit.com,True
 reddit,sh.reddit.com,True
-reddit,*.redditinc.com,True
 reddit,*.snooguts.net,True
+reddit,*.redditinc.com,True
 reddit,gateway.reddit.com,True
 reddit,s.reddit.com,True
 reddit,www.spiketrap.io,True
@@ -7935,8 +7935,8 @@ alibaba,*.1688.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliexpress.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -10303,9 +10303,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
