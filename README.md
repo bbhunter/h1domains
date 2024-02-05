@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb  5 20:22:12 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb  5 21:20:45 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -111,8 +111,8 @@ www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -345,10 +345,10 @@ visa.com.ua
 www.visa.co.jp
 www.fraedom.com
 www.practicalmoneyskills.org
-www.practicalmoneyskills.com
 sandbox.secure.checkout.visa.com
-www.yellowpepper.com
 www.visainfinite.ca
+www.yellowpepper.com
+www.practicalmoneyskills.com
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -961,8 +961,8 @@ checksw.com
 royal.checksw.com
 *.cornershop.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.superpal.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1127,8 +1127,8 @@ rankings.etoro.com
 delta.app
 bullsheet.me
 *.instacart.tools
-www.instacart.com
 api.instacart.com
+www.instacart.com
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1735,13 +1735,13 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 business.tiktok.com
-careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 *.tiktokv.com
+careers.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
