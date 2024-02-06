@@ -127,8 +127,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -148,8 +148,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -1737,8 +1737,8 @@ visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,sandbox.secure.checkout.visa.com,True
-visa,www.yellowpepper.com,True
 visa,www.visainfinite.ca,True
+visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -3089,10 +3089,10 @@ indrive,debug.clairvoyance.indrive.tech,True
 indrive,watchdocs.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,file-storage-front.eu-east-1.indriverapp.com,True
-indrive,volans.tech,True
 indrive,wga.volans.tech,True
 indrive,super-services.indriverapp.com,True
 indrive,injob.indriver.com,True
+indrive,volans.tech,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -9425,8 +9425,8 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.paylution.com,True
 paypal,*.braintree-api.com,True
+paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
@@ -9671,10 +9671,10 @@ newrelic,developer.newrelic.com,True
 newrelic,infrastructure.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,*.blog.newrelic.com,True
-newrelic,*.newrelic.com,True
 newrelic,*.nr-data.net,True
 newrelic,*.nr-ops.net,True
 newrelic,one.newrelic.com,True
+newrelic,*.newrelic.com,True
 newrelic,support.newrelic.com,True
 newrelic,blog.newrelic.com,True
 newrelic,alerts.newrelic.com,True
