@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 17:20:56 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 18:23:56 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -90,10 +90,10 @@ mediacenter.23andme.com
 research.23andme.com
 store.23andme.com
 education.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
 blog.23andme.com
+auth.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -488,10 +488,10 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -1470,8 +1470,8 @@ strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
 sh.reddit.com
-*.snooguts.net
 *.redditinc.com
+*.snooguts.net
 s.reddit.com
 www.spiketrap.io
 ads-api.reddit.com
@@ -1734,10 +1734,10 @@ tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
-business.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 careers.tiktok.com
+business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
 shop.tiktok.com
@@ -3211,8 +3211,8 @@ planet.wordpress.org
 bbpress.org
 profiles.wordpress.org
 wordpressfoundation.org
-*.wordcamp.org
 lists.wordpress.org
+*.wordcamp.org
 api.wordpress.org
 irclogs.wordpress.org
 *.wordpress.net
@@ -3252,9 +3252,9 @@ rockstarnorth.com
 circolocorecords.com/
 support.rockstargames.com
 store.rockstargames.com
-prod.ros.rockstargames.com
 socialclub.rockstargames.com
 lifeinvader.com
+prod.ros.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
