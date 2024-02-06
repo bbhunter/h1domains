@@ -11,9 +11,9 @@ tari_labs,textexplore.tari.com,True
 tari_labs,www.tari.com,True
 tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.avios.com,False
@@ -127,8 +127,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -148,8 +148,8 @@ mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
+mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -186,8 +186,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -1737,8 +1737,8 @@ visa,www.visa.co.jp,True
 visa,www.fraedom.com,True
 visa,www.practicalmoneyskills.org,True
 visa,sandbox.secure.checkout.visa.com,True
-visa,www.yellowpepper.com,True
 visa,www.visainfinite.ca,True
+visa,www.yellowpepper.com,True
 visa,www.practicalmoneyskills.com,True
 visa,www.visa.com.mx,True
 visa,visa.com.ru,True
@@ -4682,10 +4682,10 @@ planetart,www.canvasworld.com,False
 planetart,*.gifts.com,False
 planetart,*.photoaffections.com,False
 planetart,www.gifts.com,False
-planetart,*.canvasworld.com,False
 planetart,*.personalcreations.com,False
 planetart,*.iseeme.com,False
 planetart,*.cafepress.com,False
+planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -6355,8 +6355,8 @@ zebra_vdp,reflexisinc.com/,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
 zebra_vdp,*.zams.zebra.com,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.profitect.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
 zebra_vdp,design.zebra.com,False
@@ -7802,11 +7802,11 @@ flutteruki,*.ppbdev.com,True
 flutteruki,super6.skysports.com,True
 flutteruki,itv7.itv.com,True
 insulet_corporation,eu-prod.omnipodcloud.com,False
-insulet_corporation,insuletid.com,False
 insulet_corporation,prod.omnipodcloud.com,False
 insulet_corporation,prod-device.omnipodcloud.com,False
 insulet_corporation,eu-prod-internal.omnipodapps.com,False
 insulet_corporation,eu-prod-device.omnipodcloud.com,False
+insulet_corporation,insuletid.com,False
 insulet_corporation,eu-prod.omnipodapps.com,False
 insulet_corporation,aprms.insulet.com,False
 insulet_corporation,www.omnipod.com,False
