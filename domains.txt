@@ -2,8 +2,8 @@ tlu.tarilabs.com
 explore.tari.com
 www.tari.com
 rfc.tari.com
-textexplore.tari.com
 www.tarilabs.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -14,8 +14,8 @@ www.hangar51.com
 *.iairgroup.com
 *.iaggbs.com
 *.iagcargo.com
-www.avios.com
 www.iairgroup.com
+www.avios.com
 www.iaggbs.com
 www.avios.com
 www.iairgroup.com
@@ -126,8 +126,8 @@ mediacenter.23andme.com
 research.23andme.com
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
+auth.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -3175,9 +3175,9 @@ abb.com.br
 *.abb.nl
 *.abb.in
 *.busch-jaeger.nl
-*.de.abb.com
 *.ability.abb
 *.abb
+*.de.abb.com
 *.cirrus.abb.com
 *.stratus.abb.com
 *.motion.abb.com
@@ -8410,7 +8410,6 @@ app.liveplan.com
 www.paloalto.com
 www.liveplan.com
 www.bplans.com
-mtnselfcare.co.zm
 wc.mtn.com
 mtnrewards.com
 mtncareersonline.com
@@ -9424,8 +9423,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.braintree-api.com
 *.paylution.com
+*.braintree-api.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10437,9 +10436,9 @@ firefly.adobe.com
 community.adobe.com
 accounts.frame.io
 *.adobe.com
-nicetryapril.na1.echosignsandbox.com
 auth.services.adobe.com
 app.frame.io
+nicetryapril.na1.echosignsandbox.com
 *.marketo.com
 *.omniture.com
 *.typekit.com

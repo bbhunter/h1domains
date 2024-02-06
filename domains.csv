@@ -3,8 +3,8 @@ tari_labs,tlu.tarilabs.com,False
 tari_labs,explore.tari.com,True
 tari_labs,www.tari.com,True
 tari_labs,rfc.tari.com,True
-tari_labs,textexplore.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,textexplore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -15,8 +15,8 @@ international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
+international_airlines_group,www.avios.com,False
 international_airlines_group,www.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -127,8 +127,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,research.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,store.23andme.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
@@ -3176,9 +3176,9 @@ abb,*.motors.abb.com.cn,False
 abb,*.abb.nl,False
 abb,*.abb.in,False
 abb,*.busch-jaeger.nl,False
-abb,*.de.abb.com,False
 abb,*.ability.abb,False
 abb,*.abb,False
+abb,*.de.abb.com,False
 abb,*.cirrus.abb.com,False
 abb,*.stratus.abb.com,False
 abb,*.motion.abb.com,False
@@ -8411,7 +8411,6 @@ palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,www.bplans.com,False
-mtn_group,mtnselfcare.co.zm,False
 mtn_group,wc.mtn.com,False
 mtn_group,mtnrewards.com,False
 mtn_group,mtncareersonline.com,False
@@ -9425,8 +9424,8 @@ paypal,*.xoom.com,True
 paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
-paypal,*.braintree-api.com,True
 paypal,*.paylution.com,True
+paypal,*.braintree-api.com,True
 paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
@@ -10438,9 +10437,9 @@ adobe,*.adobeaemcloud.com,False
 adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,auth.services.adobe.com,False
 adobe,app.frame.io,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
