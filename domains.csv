@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,www.hangar51.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -80,8 +80,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -150,9 +150,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
-23andme_bbp,you.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,auth.23andme.com,True
+23andme_bbp,blog.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -166,12 +166,12 @@ egress-vdp,www.egress.com,False
 23andme_bbp,you.23andme.com,True
 23andme_bbp,research.23andme.com,True
 mercadolibre,www.mercadopago.com.uy,True
-mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.pe,True
+mercadolibre,www.mercadopago.cl,True
 mercadolibre,www.mercadolibre.com.mx,True
 mercadolibre,www.mercadolibre.com.uy,True
-mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.cl,True
+mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadopago.com.co,True
 mercadolibre,www.mercadopago.com.pe,True
 mercadolibre,www.mercadopago.com.ar,True
@@ -1720,8 +1720,8 @@ redox_bbp,dashboard.gamma.redoxstage.com,True
 redox_bbp,help.redoxengine.com,True
 redox_bbp,webhooks.gamma.redoxstage.com,True
 redox_bbp,10x.redoxengine.com,True
-redox_bbp,testapp.redoxengine.com,True
 redox_bbp,eets.gamma.redoxstage.com,True
+redox_bbp,testapp.redoxengine.com,True
 redox_bbp,docs.redoxengine.com,True
 redox_bbp,api.gamma.redoxstage.com,True
 redox_bbp,gamma.redoxstage.com,True
@@ -2930,10 +2930,10 @@ mozilla_core_services,community-tc.services.mozilla.com,True
 shutterfly_vdp,snapfish.fr,False
 shutterfly_vdp,snapfish.ie,False
 shutterfly_vdp,snapfish.it,False
-shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,*.lifetouch.com,False
 shutterfly_vdp,photo.walgreens.com,False
+shutterfly_vdp,staging.spoonflower.com,False
 shutterfly_vdp,lifetouch.com,False
 shutterfly_vdp,prestigeportraits.com,False
 shutterfly_vdp,snapfish.de,False
@@ -4482,8 +4482,8 @@ mars,*.royalcanin-pethealthday.com,False
 mars,*.teile-deine-erfahrung-mit-royal-canin.com,False
 mars,banfieldfoundation.org,False
 mars,*.vcahospitals.com,False
-mars,*.mms.com,False
 mars,*.royalcanin.ca,False
+mars,*.mms.com,False
 mars,spsah2.securevetsource.com,False
 mars,*.marschocolate.com,False
 mars,*.dovechocolate.com,False
@@ -4717,8 +4717,8 @@ kayak,www.hotelscombined.com,True
 kayak,business.kayak.com,True
 kayak,www.checkfelix.com,True
 kayak,www.cheapflights.com,True
-kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
+kayak,www.kayak.com,True
 kayak,www.kayak.com,True
 kayak,www.swoodoo.com,True
 kayak,www.checkfelix.com,True
@@ -4887,7 +4887,6 @@ anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.cbcworldwide.*,False
 anywhererealestate,*.coldwellbanker.*,False
-anywhererealestate,new.myzap.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
@@ -4903,7 +4902,6 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.anywhere.re,False
-anywhererealestate,new.myzap.com,False
 databricks,academy.databricks.com,True
 databricks,demo.cloud.databricks.com,True
 databricks,docs.databricks.com,True
@@ -8038,8 +8036,8 @@ kindred_group,www.32red.com,True
 kindred_group,relaxcdn.unibet.com,False
 marriott,sso.marriott.com,True
 marriott,gatewaydsaptst2.marriott.com,True
-marriott,mgs.marriott.com,True
 marriott,www.marriott.com,True
+marriott,mgs.marriott.com,True
 marriott,dcfgatewaytst1.marriott.com,True
 marriott,gatewaydsaptst1.marriott.com,True
 marriott,activities.marriott.com,True
@@ -8164,8 +8162,8 @@ topcoder,zurich.topcoder.com,False
 topcoder,challenges.topcoder.com,False
 topcoder,vanilla.topcoder-dev.com,False
 topcoder,www.topcoder.com,False
-topcoder,accounts-auth0.topcoder.com,False
 topcoder,tco18.topcoder.com,False
+topcoder,accounts-auth0.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
 topcoder,community-app.topcoder.com,False
@@ -9717,8 +9715,8 @@ ed,securitytxt.org,False
 ed,edoverflow.com,False
 ed,bugbountyguide.com,False
 localtapiola,verkkopalvelu.tapiola.fi,True
-localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
+localtapiola,yrityspalvelu.tapiola.fi,True
 localtapiola,ext-gw.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,*.beta.lahitapiola.fi,True
@@ -10254,9 +10252,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,*.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10380,8 +10378,8 @@ adobe,community.adobe.com,False
 adobe,accounts.frame.io,False
 adobe,*.adobe.com,False
 adobe,auth.services.adobe.com,False
-adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,app.frame.io,False
+adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -10584,8 +10582,8 @@ greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
 greenhouse,www.greenhouse.io,True
 x,*.vine.co,True
-x,*.twitter.com,True
 x,x.com,True
+x,*.twitter.com,True
 x,t.co,False
 x,xadsacademy.com,False
 x,grok.x.ai,True
@@ -10635,8 +10633,8 @@ automattic,wordpress.com,True
 automattic,safe.tumblr.com,True
 automattic,t.umblr.com,True
 automattic,mailpoet.com,True
-automattic,*.tumblr.com,True
 automattic,www.tumblr.com,True
+automattic,*.tumblr.com,True
 automattic,secure.tumblr.com,True
 automattic,*.tumblr.com,True
 automattic,*.srvcs.tumblr.com,True
@@ -10748,10 +10746,10 @@ security,www.hackerone.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,errors.hackerone.net,True
-security,app.pullrequest.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
+security,app.pullrequest.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
