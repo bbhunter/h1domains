@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 15:23:20 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 16:30:05 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
 rfc.tari.com
-www.tarilabs.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -710,9 +710,9 @@ http://www.kiwi.com/stories
 jobs.kiwi.com
 work.8x8.com
 *.8x8.vc
-sso.8x8.com
 *.jitsi.net
 connect.8x8.com
+sso.8x8.com
 platform.8x8pilot.com
 uc.8x8pilot.com
 work-staging.8x8.com
@@ -1472,11 +1472,11 @@ meta-api.reddit.com
 sh.reddit.com
 *.snooguts.net
 *.redditinc.com
-gateway.reddit.com
 s.reddit.com
 www.spiketrap.io
-*.reddit.com
 ads-api.reddit.com
+gateway.reddit.com
+*.reddit.com
 *.redditblog.com
 amp.reddit.com
 reddit.secure.force.com
@@ -2075,10 +2075,10 @@ dna.amazon.com
 relay.amazon.com
 affiliate-program.amazon.com
 imdbtv-backend-na.amazon.com
-advertising.amazon.com
 paragon-na.amazon.com
 av-na.amazon.com
 chat.amazon.com
+advertising.amazon.com
 aca-livecards-service.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dss-na.amazon.com
@@ -2089,9 +2089,9 @@ mas-sdk.amazon.com
 pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 dv-manifest-service-na-prod.amazon.com
-na.account.amazon.com
 updates.amazon.com
 read.amazon.com
+na.account.amazon.com
 manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
@@ -2177,16 +2177,16 @@ updates.amazon.com
 amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibabacloud.com
+*.alibaba.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliexpress.com
 *.1688.com
-*.Daraz.com
 *.aliyun.com
+*.Daraz.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3526,8 +3526,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3560,9 +3560,9 @@ rt.playcanvas.com
 map.snapchat.com
 snappublisher.snapchat.com
 playcanvas.com
-app.snapchat.com
 www.bitmoji.com
 business.snapchat.com
+app.snapchat.com
 geofilters.snapchat.com
 spectacles.com
 *.sc-corp.net
