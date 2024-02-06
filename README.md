@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb  6 05:20:16 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb  6 06:25:00 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1740,8 +1740,8 @@ creatormarketplace.tiktok.com
 *.tiktok.com
 careers.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2736,8 +2736,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -2981,7 +2981,6 @@ alerts.newrelic.com
 synthetics.eu.newrelic.com
 discuss.newrelic.com
 *.infrastructure.newrelic.com
-login.newrelic.com
 alerts.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
