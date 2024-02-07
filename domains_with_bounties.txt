@@ -1539,8 +1539,8 @@ wp-qa.chime.com
 *.chmfin.com
 wp-dev5.chime.com
 app.chime.com
-wp-dev2.chime.com
 *.1debit.com
+wp-dev2.chime.com
 wp-ci.chime.com
 *.1debit.com
 *.chimebank.com
@@ -2465,9 +2465,9 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.priceline.com
 priceline.com
 www.getaroom.com
+www.priceline.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com

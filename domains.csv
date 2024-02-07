@@ -6547,8 +6547,8 @@ chime,*.chimebank.com,True
 chime,*.chmfin.com,True
 chime,wp-dev5.chime.com,True
 chime,app.chime.com,True
-chime,wp-dev2.chime.com,True
 chime,*.1debit.com,True
+chime,wp-dev2.chime.com,True
 chime,wp-ci.chime.com,True
 chime,*.1debit.com,True
 chime,*.chimebank.com,True
@@ -9053,9 +9053,9 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,www.priceline.com,True
 priceline,priceline.com,True
 priceline,www.getaroom.com,True
+priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
 priceline,flyiin.com,True
