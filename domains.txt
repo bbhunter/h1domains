@@ -169,8 +169,8 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.ar
@@ -2943,8 +2943,8 @@ wgwebservices.snapfish.com
 *.sbs.shutterfly.com
 snapfish.com
 admin.spoonflower.com
-*.snapfish.com
 shutterfly.com
+*.snapfish.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -3166,10 +3166,10 @@ http://miro.com/blog
 *.abb.com.cn
 *.cylon.com
 *.tnb.com
-*.abb.com
 *.abb.com.tr
 *.baldor.com
 abb.com.br
+*.abb.com
 *.abb.com
 *.tnb.com
 *.abb.com.tr
@@ -6453,9 +6453,9 @@ redditforbusiness.com
 mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
-www.reddit.com
 oauth.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -7274,8 +7274,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9363,8 +9363,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -10581,8 +10581,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai
@@ -10741,8 +10741,8 @@ hackathon-photos.hackerone-user-content.com
 ctf.hacker101.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
 profile-photos.hackerone-user-content.com
+www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
 b5s.hackerone-ext-content.com
