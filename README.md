@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 16:32:47 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 17:20:18 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1225,7 +1225,6 @@ fortnite.com
 *.easy.ac
 *.psyonix.com
 *.3lateral.com
-*.dropmix.com
 *.hmxwebservices.com
 *.rocketleague.com
 *.psynet.gg
@@ -1740,8 +1739,8 @@ careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2184,10 +2183,10 @@ www.alibabagroup.com
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
-*.aliexpress.com
 *.1688.com
 *.Daraz.com
 *.aliyun.com
+*.aliexpress.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -3527,8 +3526,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
