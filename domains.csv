@@ -3092,8 +3092,8 @@ fastly-vdp,manage.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,docs.fastly.com,False
 indrive,ab-platform-api.eu-east-1.indriverapp.com,True
-indrive,*.indrive.com,True
 indrive,cargo.indrive.com,True
+indrive,*.indrive.com,True
 indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,external.indrive.dev,True
@@ -4616,9 +4616,9 @@ fidelity,*.fidelity.com,False
 planetart,ai.planetart.com,False
 planetart,www.mycustomcase.com,False
 planetart,www.personalcreations.com,False
-planetart,*.mycustomcase.com,False
 planetart,www.photoaffections.com,False
 planetart,*.simplytoimpress.com,False
+planetart,*.mycustomcase.com,False
 planetart,www.simplytoimpress.com,False
 planetart,www.cafepress.com,False
 planetart,iseeme.com,False
@@ -8907,7 +8907,6 @@ equifax,*equifax.ec,False
 equifax,*equifax.hn,False
 equifax,*equifax.co.nz,False
 equifax,*equifax.es,False
-equifax,*equifax.co.uk,False
 equifax,*.dicom.cl,False
 equifax,*.i2verify.com,False
 equifax,*.accountscore.co.uk,False
@@ -8927,6 +8926,7 @@ equifax,efficientwotc.com,False
 equifax,ntcusa.com,False
 equifax,*.datacredito2.com,False
 equifax,*.datacredito3.com,False
+equifax,*.mercury.com.au,False
 equifax,*.idwatchdog.com,False
 equifax,*.mercury.com.au,False
 equifax,*.ntcusa.com,False
@@ -10730,8 +10730,8 @@ yahoo,proddata.xobni.yahoo.com,True
 yahoo,apis.mail.yahoo.com,True
 yahoo,yimg.com,True
 security,hackerone-user-content.com,True
-security,api.hackerone.com,True
 security,hackerone.com,True
+security,api.hackerone.com,True
 security,www.wearehackerone.com,True
 security,mta-sts.wearehackerone.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True

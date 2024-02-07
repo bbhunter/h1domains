@@ -3091,8 +3091,8 @@ manage.fastly.com
 api.fastly.com
 docs.fastly.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indrive.com
 cargo.indrive.com
+*.indrive.com
 messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 external.indrive.dev
@@ -4615,9 +4615,9 @@ paetec.net
 ai.planetart.com
 www.mycustomcase.com
 www.personalcreations.com
-*.mycustomcase.com
 www.photoaffections.com
 *.simplytoimpress.com
+*.mycustomcase.com
 www.simplytoimpress.com
 www.cafepress.com
 iseeme.com
@@ -8906,7 +8906,6 @@ JOBALINE.COM
 *equifax.hn
 *equifax.co.nz
 *equifax.es
-*equifax.co.uk
 *.dicom.cl
 *.i2verify.com
 *.accountscore.co.uk
@@ -8926,6 +8925,7 @@ efficientwotc.com
 ntcusa.com
 *.datacredito2.com
 *.datacredito3.com
+*.mercury.com.au
 *.idwatchdog.com
 *.mercury.com.au
 *.ntcusa.com
@@ -10729,8 +10729,8 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-api.hackerone.com
 hackerone.com
+api.hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 hackathon-photos-us-east-2.hackerone-user-content.com
