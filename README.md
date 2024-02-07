@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  7 15:22:56 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb  7 16:32:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -91,9 +91,9 @@ research.23andme.com
 store.23andme.com
 education.23andme.com
 api.23andme.com
-auth.23andme.com
 you.23andme.com
 blog.23andme.com
+auth.23andme.com
 medical.23andme.com
 therapeutics.23andme.com
 api.23andme.com
@@ -373,7 +373,6 @@ aw.visa.com
 usa.visa.com
 bm.visa.com
 visa.com.au
-www.visa.co.id
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
@@ -381,6 +380,7 @@ visa.co.za
 www.cybersource.com
 www.authorize.net
 www.visa.co.ke
+www.visa.co.id
 bd.visa.com
 cw.visa.com
 ht.visa.com
@@ -894,8 +894,8 @@ askpam.ai
 *.teleport.dev
 teleport.sh
 *.gravitational.io
-platform.teleport.sh
 *.goteleport.com
+platform.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1126,9 +1126,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
-*.instacart.tools
 api.instacart.com
 www.instacart.com
+*.instacart.tools
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.com
@@ -1485,8 +1485,8 @@ mod.reddit.com
 matrix.redditspace.com
 *.reddithelp.com
 accounts.reddit.com
-www.reddit.com
 oauth.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3520,15 +3520,15 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-*.shopifycloud.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3546,8 +3546,8 @@ businesshelp.snapchat.com
 msg.playcanvas.com
 create.snapchat.com
 ads.snapchat.com
-accounts.snapchat.com
 forum.playcanvas.com
+accounts.snapchat.com
 scan.snapchat.com
 code.playcanvas.com
 login.playcanvas.com
@@ -3849,8 +3849,8 @@ api.slack.com
 slackb.com
 slackatwork.com
 slack-redir.net
-app.slack.com
 *.quip.com
+app.slack.com
 edgeapi.slack.com
 slack-imgs.com
 slack.com
