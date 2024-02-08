@@ -7287,8 +7287,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7401,8 +7401,8 @@ nft.io
 platform.enjin.io
 api.enjinx.io
 enjinx.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -7896,8 +7896,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.1688.com
 *.Daraz.com
+*.1688.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -9052,8 +9052,8 @@ chain.link
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 04:24:21 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 05:22:01 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1736,8 +1736,8 @@ academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1783,8 +1783,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2184,8 +2184,8 @@ www.alibabagroup.com
 *.aliyun-inc.com
 *.alimama.com
 *.aliyun.com
-*.1688.com
 *.Daraz.com
+*.1688.com
 *.aliexpress.com
 *.taobao.com
 *.alibaba.com
@@ -2471,8 +2471,8 @@ app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
 admin.rezserver.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 api.rezserver.com
 secure.rezserver.com
