@@ -226,8 +226,8 @@ bookingcom,widget.rentalcars.com,True
 bookingcom,webhooks.booking.com,True
 bookingcom,paybridge.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,account.booking.com,True
 bookingcom,cars.booking.com,True
+bookingcom,account.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -3479,8 +3479,8 @@ one_zero_vdp,*.onezerobank.com,False
 yuga_labs,*.mdvmm.xyz,True
 yuga_labs,*.yuga.com,True
 yuga_labs,*.otherside.xyz,True
-yuga_labs,*.meebits.app,True
 yuga_labs,*.10ktf.com,True
+yuga_labs,*.meebits.app,True
 yuga_labs,*.cryptopunks.app,True
 yuga_labs,*.yugalabs.io,True
 yuga_labs,*.boredapeyachtclub.com,True
@@ -7697,8 +7697,8 @@ flutteruki,*.msgsvc.io,True
 flutteruki,*.operationstechnology.io,True
 flutteruki,*.securityservices.io,True
 flutteruki,*.skybettest.net,True
-flutteruki,*.betfair.com,True
 flutteruki,*.sportinglife.com,True
+flutteruki,*.betfair.com,True
 flutteruki,*.betfair.se,True
 flutteruki,*.skygamingcontent.com,True
 flutteruki,*.skypoker.com,True
@@ -7897,8 +7897,8 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.aliyun.com,True
-alibaba,*.Daraz.com,True
 alibaba,*.1688.com,True
+alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
@@ -9053,8 +9053,8 @@ chainlink,chain.link,False
 priceline,reservations.rezserver.com,True
 priceline,www.bookingholdings.com,True
 priceline,admin.rezserver.com,True
-priceline,priceline.com,True
 priceline,www.getaroom.com,True
+priceline,priceline.com,True
 priceline,www.priceline.com,True
 priceline,api.rezserver.com,True
 priceline,secure.rezserver.com,True
@@ -10746,9 +10746,9 @@ security,*.vpn.hackerone.net,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
-security,profile-photos.hackerone-user-content.com,True
 security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
