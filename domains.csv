@@ -3102,9 +3102,9 @@ indrive,ingest.clairvoyance.indrive.tech,True
 indrive,auth.indrive.tech,True
 indrive,new-order.eu-east-1.indriverapp.com,True
 indrive,profile-api.eu-east-1.indriverapp.com,True
-indrive,*.indriver.com,True
 indrive,argocd.indrive.dev,True
 indrive,ci.indrive.dev,True
+indrive,*.indriver.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
@@ -4625,11 +4625,11 @@ planetart,www.cafepress.com,False
 planetart,*.photoaffections.com,False
 planetart,*.gifts.com,False
 planetart,www.canvasworld.com,False
-planetart,www.gifts.com,False
 planetart,*.iseeme.com,False
 planetart,*.personalcreations.com,False
 planetart,*.canvasworld.com,False
 planetart,*.cafepress.com,False
+planetart,www.gifts.com,False
 planetart,*.cafepress.com,False
 planetart,*.canvasworld.com,False
 planetart,*.gifts.com,False
@@ -7774,7 +7774,6 @@ insulet_corporation,eu-aprms.omnipodapps.com,False
 insulet_corporation,www.poddercentral.com,False
 insulet_corporation,www.omnipod.com,False
 insulet_corporation,www.insulet.com,False
-amazonvrp,track.amazon.com,True
 amazonvrp,cscentral.amazon.com,True
 amazonvrp,dcape-na.amazon.com,True
 amazonvrp,mag-na.amazon.com,True
@@ -7787,8 +7786,9 @@ amazonvrp,imdbtv-backend-na.amazon.com,True
 amazonvrp,paragon-na.amazon.com,True
 amazonvrp,av-na.amazon.com,True
 amazonvrp,chat.amazon.com,True
-amazonvrp,advertising.amazon.com,True
 amazonvrp,address-photos.amazon.com,True
+amazonvrp,advertising.amazon.com,True
+amazonvrp,track.amazon.com,True
 amazonvrp,aca-livecards-service.amazon.com,True
 amazonvrp,cloudaccesstelemetry-us-east-1.amazon.com,True
 amazonvrp,dss-na.amazon.com,True
@@ -10257,8 +10257,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10493,8 +10493,8 @@ airbnb,support-api.airbnb.com,True
 airbnb,omgpro.airbnb.com,True
 airbnb,*.atairbnb.com,True
 airbnb,one.airbnb.com,True
-airbnb,*.withairbnb.com,True
 airbnb,next.airbnb.com,True
+airbnb,*.withairbnb.com,True
 airbnb,*.airbnbcitizen.com,True
 airbnb,*.byairbnb.com,True
 airbnb,*.muscache.com,True
@@ -10746,8 +10746,8 @@ security,hackathon-photos.hackerone-user-content.com,True
 security,hackerone-ext-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
-security,ctf.hacker101.com,True
 security,www.hackerone.com,True
+security,ctf.hacker101.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,cover-photos.hackerone-user-content.com,True
