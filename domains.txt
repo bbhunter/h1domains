@@ -4616,8 +4616,8 @@ ai.planetart.com
 www.personalcreations.com
 www.mycustomcase.com
 *.simplytoimpress.com
-*.mycustomcase.com
 www.photoaffections.com
+*.mycustomcase.com
 www.simplytoimpress.com
 iseeme.com
 www.cafepress.com
@@ -7955,8 +7955,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-api.digitalocean.com
 *.digitalocean.com
+api.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
