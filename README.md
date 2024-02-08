@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 12:35:00 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 13:24:31 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -19,8 +19,8 @@ www.arkoselabs.com
 customer-sessions.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
+cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
