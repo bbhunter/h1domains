@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb  8 02:26:36 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb  8 03:23:06 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -68,8 +68,8 @@ app.dynamic.xyz
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -1734,10 +1734,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -1952,8 +1952,8 @@ wallets.api.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 store.playstation.com
 my.playstation.com
 my.account.sony.com

@@ -121,8 +121,8 @@ wellhive,login.wellhive.com,False
 hostinger,www.niagahoster.co.id,True
 hostinger,payments.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
-hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
+hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
 hostinger,editor.zyro.com,True
 hostinger,logo.zyro.com,True
@@ -7286,10 +7286,10 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -7627,8 +7627,8 @@ playstation,wallets.api.playstation.com,True
 playstation,transact.playstation.com,True
 playstation,api.direct.playstation.com,True
 playstation,*.api.playstation.com,True
-playstation,*.sonyentertainmentnetwork.com,True
 playstation,direct.playstation.com,True
+playstation,*.sonyentertainmentnetwork.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,my.account.sony.com,True
@@ -7956,8 +7956,8 @@ digitalocean,cloud.digitalocean.com,False
 digitalocean,marketplace.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,169.254.169.254,False
-digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,*.digitalocean.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,do.co,False
 digitalocean,hacktoberfest.com,False

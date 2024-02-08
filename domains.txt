@@ -120,8 +120,8 @@ login.wellhive.com
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
@@ -7285,10 +7285,10 @@ fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktok.com
+*.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -7626,8 +7626,8 @@ wallets.api.playstation.com
 transact.playstation.com
 api.direct.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
+*.sonyentertainmentnetwork.com
 store.playstation.com
 my.playstation.com
 my.account.sony.com
@@ -7955,8 +7955,8 @@ cloud.digitalocean.com
 marketplace.digitalocean.com
 api.cloudways.com
 169.254.169.254
-*.digitalocean.com
 api.digitalocean.com
+*.digitalocean.com
 www.cloudways.com
 do.co
 hacktoberfest.com
