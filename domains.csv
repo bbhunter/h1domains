@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iagcargo.com,False
-international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
+international_airlines_group,*.iaggbs.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
@@ -208,8 +208,8 @@ bookingcom,supplier.auth.toag.booking.com,True
 bookingcom,supply-xml.booking.com,True
 bookingcom,flights.booking.com,True
 bookingcom,admin.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,metasearch-api.booking.com,True
 bookingcom,taxis.booking.com,True
 bookingcom,phone-validation.taxi.booking.com,True
@@ -3842,10 +3842,10 @@ monarch_money,www.monarchmoney.com,False
 monarch_money,app.monarchmoney.com,False
 monarch_money,www.monarchmoney.com,False
 allegion,www.interflex.de,False
-allegion,www.cisa.com,False
 allegion,www.yonomi.com,False
 allegion,www.gainsboroughhardware.com.au,False
 allegion,www.fireglass.com,False
+allegion,www.cisa.com,False
 allegion,www.trelock.com,False
 allegion,www.simons-voss.com,False
 allegion,www.allegion.co.uk,False
@@ -7279,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -7889,8 +7889,8 @@ amazonvrp,updates.amazon.com,True
 amazonvrp,amazonpayinsurance.in,True
 alibaba,*.tmall.com,True
 alibaba,*.alibabacloud.com,True
-alibaba,*.alibaba.com,True
 alibaba,www.alibabagroup.com,True
+alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.ru,True
 alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
@@ -10258,9 +10258,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
