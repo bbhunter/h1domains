@@ -79,8 +79,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -1273,11 +1273,6 @@ brightspeed.com
 brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
-prismalabsteam.com
-prisma-ai.com
-lensa-ai.com
-appapi.neuralprisma.com
-neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -1324,6 +1319,7 @@ www.coinhako.com
 help.coinhako.com
 api.facemojikeyboard.com
 api.facemojikeyboard.com
+www.leather.io
 www.leather.io
 boyswebtest.shaya.com.tr
 opsassistbrandedsolutions.shaya.com.tr
@@ -6499,8 +6495,6 @@ eu.remix.com
 platform.remix.com
 *.on-running.com
 on-app-backend.on-running.com
-*.on-running.com
-on-app-backend.on-running.com
 *.scopely.com
 *.withbuddies.com
 *.scopely.io
@@ -7894,9 +7888,9 @@ www.alibabagroup.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.aliyun.com
 *.aliyun-inc.com
 *.1688.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9925,11 +9919,11 @@ gutenberg.run
 rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
-support.rockstargames.com
 store.rockstargames.com
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -10256,9 +10250,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

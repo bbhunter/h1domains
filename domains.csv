@@ -80,8 +80,8 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.analvids.com,True
-pornbox,www.pornbox.com,True
 pornbox,www.ddfcontent.com,True
+pornbox,www.pornbox.com,True
 pornbox,www.pornworld.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
@@ -1274,11 +1274,6 @@ brightspeed,brightspeed.com,False
 brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
-palta,prismalabsteam.com,True
-palta,prisma-ai.com,True
-palta,lensa-ai.com,True
-palta,appapi.neuralprisma.com,True
-palta,neuralprisma.com,True
 palta,neuralprisma.com,True
 palta,prismalabsteam.com,True
 palta,lensa-ai.com,True
@@ -1325,6 +1320,7 @@ coinhako,www.coinhako.com,True
 coinhako,help.coinhako.com,False
 baidu,api.facemojikeyboard.com,True
 baidu,api.facemojikeyboard.com,True
+leather_wallet,www.leather.io,True
 leather_wallet,www.leather.io,True
 alshaya,boyswebtest.shaya.com.tr,False
 alshaya,opsassistbrandedsolutions.shaya.com.tr,False
@@ -6500,8 +6496,6 @@ ridewithvia,eu.remix.com,True
 ridewithvia,platform.remix.com,True
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-on,*.on-running.com,False
-on,on-app-backend.on-running.com,False
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
@@ -7895,9 +7889,9 @@ alibaba,*.alibaba-inc.com,True
 alibaba,*.alimama.com,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
-alibaba,*.aliyun.com,True
 alibaba,*.aliyun-inc.com,True
 alibaba,*.1688.com,True
+alibaba,*.aliyun.com,True
 alibaba,*.taobao.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
@@ -9926,11 +9920,11 @@ wordpress, github.com/WordPress,True
 rockstargames,rockstarnorth.com,True
 rockstargames,*.rockstargames.com,True
 rockstargames,circolocorecords.com/,True
-rockstargames,support.rockstargames.com,True
 rockstargames,store.rockstargames.com,True
 rockstargames,lifeinvader.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
+rockstargames,support.rockstargames.com,True
 rockstargames,socialclub.rockstargames.com,True
 rockstargames,prod.ros.rockstargames.com,True
 rockstargames,support.rockstargames.com,True
@@ -10257,9 +10251,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
