@@ -1860,8 +1860,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.mercedes-benz-trucks.com
 *omniplus.com
 *exceleratorparts.com
-*.daimlertruck.com
 *detroitconnect.com
+*.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
 *.freightliner.com
@@ -7279,8 +7279,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com

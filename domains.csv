@@ -1861,8 +1861,8 @@ daimler_truck,*.setra.de,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*omniplus.com,False
 daimler_truck,*exceleratorparts.com,False
-daimler_truck,*.daimlertruck.com,False
 daimler_truck,*detroitconnect.com,False
+daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
 daimler_truck,*.freightliner.com,False
@@ -7280,8 +7280,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
