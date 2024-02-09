@@ -8,8 +8,8 @@ vendasta,*.vendasta-internal.com,False
 vendasta,your-domain.pdqs.mobi,False
 vendasta,task-manager.biz,False
 vendasta,*.vendasta.com,False
-vendasta,*.apigateway.co,False
 vendasta,your-domain.smblogin.com,False
+vendasta,*.apigateway.co,False
 vendasta,*.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
@@ -1274,6 +1274,11 @@ brightspeed,brightspeed.com,False
 brightspeed,brightspeed.service-now.com,False
 brightspeed,brightspeedtsm.service-now.com,False
 brightspeed,gobrightspeed.net,False
+palta,prismalabsteam.com,True
+palta,prisma-ai.com,True
+palta,lensa-ai.com,True
+palta,appapi.neuralprisma.com,True
+palta,neuralprisma.com,True
 palta,neuralprisma.com,True
 palta,prismalabsteam.com,True
 palta,lensa-ai.com,True
@@ -1860,8 +1865,8 @@ daimler_truck,*detroitconnect.com,False
 daimler_truck,*.daimlertruck.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*fleetboard.de,False
-daimler_truck,*.freightliner.com,False
 daimler_truck,*.bharatbenz.com,False
+daimler_truck,*.freightliner.com,False
 daimler_truck,*evobus.com,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.mitsubishi-fuso.com,False
@@ -6496,6 +6501,8 @@ ridewithvia,eu.remix.com,True
 ridewithvia,platform.remix.com,True
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
+on,*.on-running.com,False
+on,on-app-backend.on-running.com,False
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
 scopely,*.scopely.io,True
@@ -7272,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9364,8 +9371,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10251,9 +10258,9 @@ shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
+shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
-shopify,admin.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True

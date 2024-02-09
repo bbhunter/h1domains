@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 20:23:08 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 21:19:38 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -247,6 +247,11 @@ https://test.nicex.com
 https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
+prismalabsteam.com
+prisma-ai.com
+lensa-ai.com
+appapi.neuralprisma.com
+neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -1720,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2730,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3518,9 +3523,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com

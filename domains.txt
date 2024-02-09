@@ -7,8 +7,8 @@ your-domain.snapshotreport.biz
 your-domain.pdqs.mobi
 task-manager.biz
 *.vendasta.com
-*.apigateway.co
 your-domain.smblogin.com
+*.apigateway.co
 *.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -1273,6 +1273,11 @@ brightspeed.com
 brightspeed.service-now.com
 brightspeedtsm.service-now.com
 gobrightspeed.net
+prismalabsteam.com
+prisma-ai.com
+lensa-ai.com
+appapi.neuralprisma.com
+neuralprisma.com
 neuralprisma.com
 prismalabsteam.com
 lensa-ai.com
@@ -1859,8 +1864,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 *.daimlertruck.com
 *.westernstar.com
 *fleetboard.de
-*.freightliner.com
 *.bharatbenz.com
+*.freightliner.com
 *evobus.com
 *fleetboard.com
 *.mitsubishi-fuso.com
@@ -6495,6 +6500,8 @@ eu.remix.com
 platform.remix.com
 *.on-running.com
 on-app-backend.on-running.com
+*.on-running.com
+on-app-backend.on-running.com
 *.scopely.com
 *.withbuddies.com
 *.scopely.io
@@ -7271,8 +7278,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9363,8 +9370,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10250,9 +10257,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
+admin.shopify.com
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
