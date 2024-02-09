@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 12:34:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 13:23:46 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -490,8 +490,8 @@ api.tideplatform.in
 api.tideplatform.in
 crash-stats.allizom.org
 accounts.firefox.com
-firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+firefox.settings.services.mozilla.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -2172,18 +2172,18 @@ paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
 amazonpayinsurance.in
-www.alibabagroup.com
 *.tmall.com
 *.alibabacloud.com
 *.alibaba.com
+www.alibabagroup.com
 *.aliexpress.ru
 *.alibaba-inc.com
 *.aliyun-inc.com
 *.alimama.com
 *.Daraz.com
 *.aliexpress.com
-*.1688.com
 *.aliyun.com
+*.1688.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2734,8 +2734,8 @@ https://github.com/matomo-org/docker
 py.pl
 www.swiftfinancial.com
 swiftfinancial.com
-*.paylution.com
 *.braintree-api.com
+*.paylution.com
 *.braintreepayments.com
 paypal.me
 www.swiftcapital.com
@@ -2745,8 +2745,8 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 my.loanbuilder.com
-*.venmo.com
 *.paypal.com
+*.venmo.com
 *.paydiant.com
 *.braintree.tools
 pigeon.swiftfinancial.com
@@ -2757,8 +2757,8 @@ loanbuilder.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
 paypalobjects.com
-*.paypalcorp.com
 *.braintreegateway.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2971,8 +2971,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.newrelic.com
-*.nr-ops.net
 one.newrelic.com
+*.nr-ops.net
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3524,8 +3524,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 *.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
