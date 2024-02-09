@@ -4459,8 +4459,8 @@ practice.securevetsource.com
 *.royalcanin.nl
 *.royalcanin.be
 *.royalcanin.pt
-*.banfield.com
 *.myroyalcanin.gr
+*.banfield.com
 *.orbitgum.com
 *.jornadasroyalcanin.com.ar
 *.monespaceeleveur.fr
@@ -7407,8 +7407,8 @@ www.figma.com
 api.figma.com
 wiki.cs.money
 3d.cs.money
-cs.money
 support.cs.money
+cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -9618,8 +9618,8 @@ insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
 *.nr-ops.net
-*.newrelic.com
 one.newrelic.com
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -10588,8 +10588,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-x.com
 *.twitter.com
+x.com
 t.co
 xadsacademy.com
 grok.x.ai
@@ -10752,10 +10752,10 @@ ctf.hacker101.com
 www.hackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 errors.hackerone.net
 hackerone.live
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
