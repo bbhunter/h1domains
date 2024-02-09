@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 18:27:10 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 19:19:55 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -292,7 +292,6 @@ www.coinhako.com
 www.coinhako.com
 api.facemojikeyboard.com
 api.facemojikeyboard.com
-www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
@@ -1725,8 +1724,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2735,8 +2734,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

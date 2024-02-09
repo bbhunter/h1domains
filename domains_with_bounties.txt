@@ -287,7 +287,6 @@ www.coinhako.com
 api.facemojikeyboard.com
 api.facemojikeyboard.com
 www.leather.io
-www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 testapi.redoxengine.com
@@ -1719,8 +1718,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2729,8 +2728,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
