@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 22:21:00 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb  9 23:20:51 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -92,8 +92,8 @@ store.23andme.com
 education.23andme.com
 api.23andme.com
 auth.23andme.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 api.23andme.com
@@ -115,10 +115,10 @@ www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadopago.com.pe
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -2735,8 +2735,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3559,8 +3559,8 @@ snappublisher.snapchat.com
 www.bitmoji.com
 app.snapchat.com
 my.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
 web.snapchat.com
