@@ -2823,8 +2823,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -5333,13 +5333,13 @@ help.jetblue.com
 azrest.jetblue.com
 magnolia.jetblue.com
 experience.jetblue.com
-*.tva.com
 tvastem.com
 tvarenewables.com
 *.tva-energyright.com
 *.tvaenergyrightsolutions.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
+*.tva.com
 tvars.com
 *.tva.gov
 tvawcm.com
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-supportcommunity.zebra.com
 *.zebrasports.com
+supportcommunity.zebra.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7629,9 +7629,9 @@ direct.playstation.com
 store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
-my.account.sony.com
 ca.account.sony.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -9371,8 +9371,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

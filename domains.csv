@@ -2824,8 +2824,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshcaller.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshdesk.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshchat.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -5334,13 +5334,13 @@ jetblue,help.jetblue.com,False
 jetblue,azrest.jetblue.com,False
 jetblue,magnolia.jetblue.com,False
 jetblue,experience.jetblue.com,False
-tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvastem.com,False
 tennessee-valley-authority,tvarenewables.com,False
 tennessee-valley-authority,*.tva-energyright.com,False
 tennessee-valley-authority,*.tvaenergyrightsolutions.com,False
 tennessee-valley-authority,myenergyrightadvisor.com,False
 tennessee-valley-authority,energyright.efficientchoice.com,False
+tennessee-valley-authority,*.tva.com,False
 tennessee-valley-authority,tvars.com,False
 tennessee-valley-authority,*.tva.gov,False
 tennessee-valley-authority,tvawcm.com,False
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,*.zebrasports.com,False
+zebra_vdp,supportcommunity.zebra.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -7630,9 +7630,9 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
-playstation,my.account.sony.com,True
 playstation,ca.account.sony.com,True
 playstation,*.playstation.net,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
