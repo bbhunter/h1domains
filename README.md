@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 08:23:10 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 09:19:23 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 super-services.indriverapp.com
@@ -1480,8 +1480,8 @@ redditforbusiness.com
 matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
-www.reddit.com
 mod.reddit.com
+www.reddit.com
 accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -1757,8 +1757,8 @@ www.logitechg.com
 www.logitech.com.cn
 circle.logi.com
 www.ultimateears.com
-sync.logitech.com
 id.logi.com
+sync.logitech.com
 *vc.logitech.com
 *.streamlabs.com
 *.getmeetio.com
@@ -2469,10 +2469,10 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.getaroom.com
 priceline.com
 www.priceline.com
+admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
 flyiin.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3525,8 +3525,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3732,8 +3732,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
