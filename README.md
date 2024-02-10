@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 04:25:02 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 05:18:46 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -117,8 +117,8 @@ www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
 www.mercadolibre.com.co
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
