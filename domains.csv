@@ -1206,8 +1206,8 @@ fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
 fronthq,app.frontapp.com,True
 fronthq,api2.frontapp.com,True
-boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
+boozt,*.boozt.com,True
 boozt,*.boozt.com,True
 boozt,*.booztlet.com,True
 trip_com,*.trip.com,True
@@ -1775,8 +1775,8 @@ visa,www.visa.co.ao,True
 visa,www.visa.co.in,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
-visa,bb.visa.com,True
 visa,www.visa.com.my,True
+visa,bb.visa.com,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -6433,12 +6433,12 @@ drugs_com,www.medicine.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 drugs_com,www.question.com,False
-reddit,old.reddit.com,True
 reddit,gql.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,app.spiketrap.io,True
 reddit,api.reddit.com,True
 reddit,ads.reddit.com,True
+reddit,old.reddit.com,True
 reddit,new.reddit.com,True
 reddit,strapi.reddit.com,True
 reddit,m.reddit.com,True
@@ -7279,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -10152,8 +10152,8 @@ zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
 zomato,winecellar.zomato.com,True
 zomato,*.zdev.net,True
-zomato,*.zomato.com,True
 zomato,*.zomans.com,True
+zomato,*.zomato.com,True
 zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
@@ -10251,9 +10251,9 @@ udemy,www.udemy.com,True
 udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
-shopify,*.shopifycloud.com,True
 shopify,linkpop.com,True
 shopify,shop.app,True
+shopify,*.shopifycloud.com,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10376,7 +10376,6 @@ adobe,licenses.adobe.com,False
 adobe,mobilemarketing.adobe.com,False
 adobe,theblog.adobe.com,False
 adobe,repo.magento.com,True
-adobe,magento.com,True
 adobe,stream.frame.io,False
 adobe,firefly.adobe.com,False
 adobe,*.adobeaemcloud.com,False
@@ -10386,6 +10385,7 @@ adobe,auth.services.adobe.com,False
 adobe,nicetryapril.na1.echosignsandbox.com,False
 adobe,*.adobe.com,False
 adobe,app.frame.io,False
+adobe,magento.com,True
 adobe,*.marketo.com,False
 adobe,*.omniture.com,False
 adobe,*.typekit.com,False
@@ -11137,8 +11137,8 @@ magento,accounts.magento.cloud,True
 magento,account.magento.com,True
 magento,u.magento.com,True
 magento,imagine.magento.com,True
-magento,magento.com,True
 magento,marketplace.magento.com,True
+magento,magento.com,True
 magento,marketplace.magento.com,True
 magento,magentocommerce.com,True
 magento,repo.magento.com,True

@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb  9 23:20:51 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 01:09:47 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -362,8 +362,8 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-bb.visa.com
 www.visa.com.my
+bb.visa.com
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -1455,12 +1455,12 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-old.reddit.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
 api.reddit.com
 ads.reddit.com
+old.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -1725,8 +1725,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-partner.tiktokshop.com
 tiktok.com
+partner.tiktokshop.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -3419,8 +3419,8 @@ api.grofers.com
 blinkit.com
 winecellar.zomato.com
 *.zdev.net
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3516,9 +3516,9 @@ www.udemy.com
 yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopifycloud.com
 linkpop.com
 shop.app
+*.shopifycloud.com
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -4065,8 +4065,8 @@ accounts.magento.cloud
 account.magento.com
 u.magento.com
 imagine.magento.com
-magento.com
 marketplace.magento.com
+magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
