@@ -224,9 +224,9 @@ paymentcomponent.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -6299,8 +6299,8 @@ zsbsupport.zebra.com
 *.zams.zebra.com
 *.profitect.com
 reflexisinc.com/
-*.zebrasports.com
 supportcommunity.zebra.com
+*.zebrasports.com
 cmm01.sl.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
@@ -7897,8 +7897,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -9052,9 +9052,9 @@ chain.link
 chain.link
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 priceline.com
 www.priceline.com
+www.getaroom.com
 admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com

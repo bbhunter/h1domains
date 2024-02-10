@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 10:21:32 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 11:17:57 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -166,9 +166,9 @@ paymentcomponent.booking.com
 widget.rentalcars.com
 webhooks.booking.com
 paybridge.booking.com
-secure.booking.com
 cars.booking.com
 account.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2183,8 +2183,8 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun-inc.com
 *.1688.com
-*.aliyun.com
 *.Daraz.com
+*.aliyun.com
 *.taobao.com
 *.alibaba.com
 *.aliexpress.com
@@ -2469,9 +2469,9 @@ cysiv.com
 app.command.cysiv.com
 reservations.rezserver.com
 www.bookingholdings.com
-www.getaroom.com
 priceline.com
 www.priceline.com
+www.getaroom.com
 admin.rezserver.com
 api.rezserver.com
 secure.rezserver.com
