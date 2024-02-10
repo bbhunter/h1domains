@@ -1,8 +1,8 @@
 explore.tari.com
 www.tari.com
-www.tarilabs.com
 rfc.tari.com
 textexplore.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -1452,9 +1452,9 @@ www.urbanclap.com
 gql.reddit.com
 *.redditmedia.com
 app.spiketrap.io
-api.reddit.com
 old.reddit.com
 ads.reddit.com
+api.reddit.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
@@ -2087,6 +2087,7 @@ manufacturing.amazon.com
 aax-us-iad.amazon.com
 completion.amazon.com
 dolphin.amazon.com
+ftvmps-na.amazon.com
 smile.amazon.*
 flex.amazon.*
 logistics.amazon.*
