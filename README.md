@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 10 18:24:00 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 10 19:17:29 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
-rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
+rfc.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -73,8 +73,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 logo.zyro.com
-backend.zyro.com
 www.zyro.com
+backend.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -3525,8 +3525,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
