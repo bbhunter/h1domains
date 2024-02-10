@@ -3400,9 +3400,9 @@ kkr_vdp,ksam.com,False
 superbet,*.magicjackpot.ro,True
 superbet,*.luckydays.com,True
 superbet,*.napoleondice.be,True
-superbet,*.napoleongames.be,True
 superbet,*.superbet.com,True
 superbet,*.superbet.ro,True
+superbet,*.napoleongames.be,True
 superbet,*.napoleoncasino.be,True
 superbet,*.luckydays.ca,True
 superbet,*.superbet.pl,True
@@ -6160,8 +6160,8 @@ blackrock,*.ishares.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
-urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
+urbancompany,www.urbancompany.com,True
 urbancompany,www.urbancompany.com,True
 urbancompany,www.urbanclap.com,True
 cedars-sinai,*mycslink.org,False
@@ -6300,8 +6300,8 @@ zebra_vdp,*.zams-eu.zebra.com,False
 zebra_vdp,*.zams.zebra.com,False
 zebra_vdp,*.profitect.com,False
 zebra_vdp,reflexisinc.com/,False
-zebra_vdp,*.zebrasports.com,False
 zebra_vdp,supportcommunity.zebra.com,False
+zebra_vdp,*.zebrasports.com,False
 zebra_vdp,cmm01.sl.zebra.com,False
 zebra_vdp,zebratradeinprogram.com,False
 zebra_vdp,docs.zebra.com,False
@@ -6459,8 +6459,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.reddithelp.com,True
 reddit,oauth.reddit.com,True
 reddit,mod.reddit.com,True
-reddit,www.reddit.com,True
 reddit,accounts.reddit.com,True
+reddit,www.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7279,8 +7279,8 @@ citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
-tiktok,tiktok.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
@@ -9372,8 +9372,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.paylution.com,True
 paypal,*.braintreepayments.com,True
+paypal,*.paylution.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
@@ -10253,8 +10253,8 @@ udemy,yourcompany.udemy.com,True
 shopify,arrive-server.shopifycloud.com,True
 shopify,your-store.myshopify.com,True
 shopify,linkpop.com,True
-shopify,shop.app,True
 shopify,*.shopifycloud.com,True
+shopify,shop.app,True
 shopify,*.shopifykloud.com,True
 shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
@@ -10713,8 +10713,8 @@ slack,slack-redir.net,True
 slack,*.quip.com,True
 slack,app.slack.com,True
 slack,edgeapi.slack.com,True
-slack,slack.com,True
 slack,slack-imgs.com,True
+slack,slack.com,True
 slack,www.quip.com,True
 slack,slack.com,True
 slack,api.slack.com,True
