@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 07:20:14 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 08:22:39 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -1060,8 +1060,8 @@ push-d-hap.cloud.etoro.com
 push-demo-lightstreamer.cloud.etoro.com
 sts.etoro.com
 watchlistapi.etoro.com
-www.etoro.com
 delta.app
+www.etoro.com
 aggregator.etoro.com
 cashier.etoro.com
 cashier-src.etoro.com
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1724,8 +1724,8 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
@@ -1733,8 +1733,8 @@ academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
