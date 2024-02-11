@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 02:28:56 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 03:21:40 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -66,15 +66,15 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 www.niagahoster.co.id
-payments.hostinger.com
 hpanel.hostinger.com
-*.000webhost.com
+payments.hostinger.com
 www.hostinger.com
+*.000webhost.com
 cpanel.hostinger.com
 editor.zyro.com
-logo.zyro.com
 www.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -598,8 +598,8 @@ ci.indrive.dev
 priority.eu-east-1.indriverapp.com
 auth2.indrive.tech
 debug.clairvoyance.indrive.tech
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 wga.volans.tech
 volans.tech
@@ -1724,8 +1724,8 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 live-backstage.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
