@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 05:19:36 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 11 06:25:32 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 booking.com
-*.booking.com
 admin.booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -369,8 +369,8 @@ www.visa.com.kh
 www.visa.co.il
 visa.co.ni
 www.cardinalcommerce.com
-aw.visa.com
 usa.visa.com
+aw.visa.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -554,8 +554,8 @@ api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
-*.hiltonhotels.jp
 *.hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -3518,8 +3518,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
