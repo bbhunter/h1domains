@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 09:22:59 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 10:24:53 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -68,8 +68,8 @@ app.dynamic.xyz
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
@@ -107,8 +107,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadolibre.com.pe
-www.mercadopago.com.uy
 www.mercadopago.cl
+www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -306,9 +306,9 @@ eets-sftp-listener.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 help.redoxengine.com
 webhooks.gamma.redoxstage.com
-10x.redoxengine.com
 eets.gamma.redoxstage.com
 testapp.redoxengine.com
+10x.redoxengine.com
 docs.redoxengine.com
 api.gamma.redoxstage.com
 gamma.redoxstage.com
@@ -346,8 +346,8 @@ www.practicalmoneyskills.org
 www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
-www.visainfinite.ca
 www.visa.com.tw
+www.visainfinite.ca
 sandbox.secure.checkout.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -381,10 +381,10 @@ www.cybersource.com
 www.authorize.net
 www.visa.co.ke
 www.visa.co.id
-bd.visa.com
 cw.visa.com
 ht.visa.com
 www.visa.com.br
+www.visa.com.az
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -2971,9 +2971,9 @@ infrastructure.newrelic.com
 insights.newrelic.com
 *.blog.newrelic.com
 *.nr-data.net
-*.newrelic.com
 one.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 support.newrelic.com
 blog.newrelic.com
 alerts.newrelic.com
@@ -3300,8 +3300,8 @@ card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
 www.starbucks.com.sg
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
@@ -3522,8 +3522,8 @@ yourcompany.udemy.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
 linkpop.com
-shop.app
 *.shopifycloud.com
+shop.app
 *.shopifykloud.com
 shopifyinbox.com
 partners.shopify.com
@@ -3736,8 +3736,8 @@ interseller.io
 app.interseller.io
 www.greenhouse.io
 *.vine.co
-*.twitter.com
 x.com
+*.twitter.com
 grok.x.ai
 *.twimg.com
 gnip.com
@@ -3780,9 +3780,9 @@ intensedebate.com
 wordpress.com
 safe.tumblr.com
 t.umblr.com
-mailpoet.com
 www.tumblr.com
 *.tumblr.com
+mailpoet.com
 secure.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -3887,11 +3887,11 @@ a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-ctf.hacker101.com
 reviewer.pullrequest.com
-www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-ext-content.com
+www.hackerone.com
+ctf.hacker101.com
 profile-photos-us-east-2.hackerone-user-content.com
 b5s.hackerone-ext-content.com
 errors.hackerone.net
