@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 08:25:58 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 09:22:59 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -73,8 +73,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -211,8 +211,8 @@ app.frontapp.com
 api2.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -346,8 +346,8 @@ www.practicalmoneyskills.org
 www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
-www.visa.com.tw
 www.visainfinite.ca
+www.visa.com.tw
 sandbox.secure.checkout.visa.com
 www.visa.com.mx
 visa.com.ru
@@ -826,12 +826,12 @@ www.orbitz.com
 www.mrjet.se
 www.expediapartnersolutions.com
 www.expediaagents.com
-www.expediagroup.com
 www.abritel.fr
+www.expediagroup.com
 www.flights.com
 www.travelocity.com
-www.ebookers.com
 www.vrbo.com
+www.ebookers.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.cheaptickets.com
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1954,8 +1954,8 @@ store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
-*.playstation.net
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3299,9 +3299,9 @@ www.starbucks.com.br
 card.starbucks.com.sg
 www.starbucks.de
 secureui.starbucks.com
-app.starbucks.com
 www.starbucks.com.sg
 www.starbucks.com
+app.starbucks.com
 login.starbucks.co.jp
 www.starbucks.co.jp
 www.starbucks.com.cn
