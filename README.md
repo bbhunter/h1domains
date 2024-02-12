@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 19:21:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 20:21:26 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -73,8 +73,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -120,8 +120,8 @@ www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -362,8 +362,8 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-www.visa.com.my
 bb.visa.com
+www.visa.com.my
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -447,8 +447,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1780,8 +1780,8 @@ platform.enjin.io
 nft.io
 nft.io
 platform.enjin.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -2676,8 +2676,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -2704,8 +2704,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3378,9 +3378,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3830,8 +3830,8 @@ cloud.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
 *.base.org
-coinbase.com
 api.custody.coinbase.com
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3856,8 +3856,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com

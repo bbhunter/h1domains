@@ -33,9 +33,9 @@ www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
 www.hangar51.com
-*.iagcargo.com
 *.iaggbs.com
 *.iairgroup.com
+*.iagcargo.com
 *.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -129,8 +129,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -182,8 +182,8 @@ www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 www.mercadopago.com.mx
-www.mercadopago.com.br
 api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1518,8 +1518,8 @@ http://vdp.kahootz.com
 *.abnamro.nl
 *.tikkie.me
 *.abnamrolease.com
-*.abnamro.org
 *neuflizeobc.fr
+*.abnamro.org
 *.abnamro.be
 *.new10.com
 *.abnamro.com
@@ -1590,9 +1590,9 @@ retailelectricity.com.ph
 snaboitizpower.com
 *.visayanelectric.com
 aboitizpower.info
-*.aboitizpower.com
 *.davaolight.com
 *.oilbu.com
+*.aboitizpower.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -1778,8 +1778,8 @@ www.visa.co.ao
 www.visa.co.in
 www.visa.co.nz
 www.currencycloud.com
-www.visa.com.my
 bb.visa.com
+www.visa.com.my
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -2827,8 +2827,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2948,8 +2948,8 @@ wgwebservices.snapfish.com
 snapfish.com
 *.snapfish.com
 admin.spoonflower.com
-shutterfly.com
 *.sbs.shutterfly.com
+shutterfly.com
 tinyprints.com
 preschoolsmiles.com
 snapfish.co.uk
@@ -3296,8 +3296,8 @@ spdb.stanford.edu
 vault.stanford.edu
 workgroup.stanford.edu
 mailman.stanford.edu
-www.stanford.edu
 login.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -4630,10 +4630,10 @@ www.cafepress.com
 www.canvasworld.com
 *.gifts.com
 *.canvasworld.com
-*.iseeme.com
 *.personalcreations.com
 www.gifts.com
 *.cafepress.com
+*.iseeme.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -7410,8 +7410,8 @@ nft.io
 platform.enjin.io
 api.enjinx.io
 enjinx.io
-www.figma.com
 api.figma.com
+www.figma.com
 www.figma.com
 api.figma.com
 wiki.cs.money
@@ -9319,8 +9319,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -9347,8 +9347,8 @@ mobile-prod.tvg.com
 m.4njbets.tvg.com
 promos.tvg.com
 us.tvg.com
-tvg.com
 *.fanduel.com
+tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -9383,8 +9383,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10120,9 +10120,9 @@ classroom.github.com
 gist.github.com
 *.github.net
 education.github.com
-npmjs.org
 *.githubusercontent.com
 github.com
+npmjs.org
 github.com
 api.github.com
 gist.github.com
@@ -10275,8 +10275,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10398,10 +10398,10 @@ firefly.adobe.com
 community.adobe.com
 auth.services.adobe.com
 app.frame.io
-*.adobe.com
 magento.com
 nicetryapril.na1.echosignsandbox.com
 accounts.frame.io
+*.adobe.com
 *.marketo.com
 *.omniture.com
 *.typekit.com
@@ -10702,8 +10702,8 @@ cloud.coinbase.com
 api.coinbase.com
 institutional.coinbase.com
 *.base.org
-coinbase.com
 api.custody.coinbase.com
+coinbase.com
 commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -10728,8 +10728,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack-imgs.com
 slack.com
+slack-imgs.com
 www.quip.com
 slack.com
 api.slack.com
