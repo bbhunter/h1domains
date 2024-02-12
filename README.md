@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 01:12:17 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 02:28:25 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -107,8 +107,8 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadolibre.com.pe
-www.mercadopago.com.uy
 www.mercadopago.cl
+www.mercadopago.com.uy
 www.mercadolibre.com.mx
 www.mercadolibre.com.uy
 www.mercadolibre.cl
@@ -368,9 +368,9 @@ bq.visa.com
 www.visa.com.kh
 www.visa.co.il
 visa.co.ni
-www.cardinalcommerce.com
 usa.visa.com
 aw.visa.com
+www.cardinalcommerce.com
 bm.visa.com
 visa.com.au
 www.visa.co.th
@@ -1481,8 +1481,8 @@ matrix.redditspace.com
 *.reddithelp.com
 oauth.reddit.com
 mod.reddit.com
-accounts.reddit.com
 www.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2736,8 +2736,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3524,9 +3524,9 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 admin.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3564,8 +3564,8 @@ app.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 spectacles.com
+web.snapchat.com
 www.bitstrips.com
 launch.playcanvas.com
 *.sc-core.net
