@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 11:19:56 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 12:35:12 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -73,8 +73,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -148,8 +148,8 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-admin.booking.com
 *.booking.com
+admin.booking.com
 booking.com
 metasearch-api.booking.com
 taxis.booking.com
@@ -2873,7 +2873,7 @@ api.foliofn.com
 *.advisorsolutions.gs.com
 *.folioclient.com
 *.gsam.com
-*.gs.com
+*.folioinstitutional.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
