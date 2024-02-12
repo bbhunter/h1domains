@@ -341,8 +341,8 @@ www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -3491,9 +3491,9 @@ apps.zendesk.com
 www.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 zopim.com
 api.getbase.com
+app.smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com

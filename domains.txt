@@ -1759,8 +1759,8 @@ www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -5335,12 +5335,12 @@ magnolia.jetblue.com
 experience.jetblue.com
 tvastem.com
 tvarenewables.com
-*.tva-energyright.com
 *.tvaenergyrightsolutions.com
 myenergyrightadvisor.com
 energyright.efficientchoice.com
 *.tva.com
 tvars.com
+*.tva-energyright.com
 *.tva.gov
 tvawcm.com
 *.mytva.com
@@ -10232,9 +10232,9 @@ apps.zendesk.com
 www.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 zopim.com
 api.getbase.com
+app.smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com

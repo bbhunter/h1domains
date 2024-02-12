@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 11 23:20:34 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 01:12:17 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -347,8 +347,8 @@ www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.co.jp
 www.visa.com.tw
-www.visainfinite.ca
 sandbox.secure.checkout.visa.com
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -3497,9 +3497,9 @@ apps.zendesk.com
 www.zendesk.com
 api.smooch.io
 app.futuresimple.com
-app.smooch.io
 zopim.com
 api.getbase.com
+app.smooch.io
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
