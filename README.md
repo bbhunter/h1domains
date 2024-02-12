@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 15:24:07 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 16:27:25 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
 textexplore.tari.com
-www.tarilabs.com
 rfc.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -148,9 +148,9 @@ careers.booking.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
-*.booking.com
 admin.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -1792,8 +1792,10 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.io
-app.faraday.io
+app.faraday.ai
+api.faraday.ai
+app.faraday.ai
+api.faraday.ai
 beta-cloud.acronis.com
 *.5nine.com
 account.acronis.com
@@ -2674,8 +2676,8 @@ www.applevacations.com
 res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
-*.grammarlyaws.com
 *.grammarly.com
+*.grammarlyaws.com
 *.grammarly.io
 grammarly.ai
 *.grammarly.io
@@ -3528,8 +3530,8 @@ shop.app
 shopifyinbox.com
 partners.shopify.com
 shopify.plus
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifykloud.com
@@ -3854,8 +3856,8 @@ slack-redir.net
 *.quip.com
 app.slack.com
 edgeapi.slack.com
-slack.com
 slack-imgs.com
+slack.com
 www.quip.com
 slack.com
 api.slack.com
@@ -3877,13 +3879,13 @@ proddata.xobni.yahoo.com
 apis.mail.yahoo.com
 yimg.com
 hackerone-user-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
-a5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 *.vpn.hackerone.net
 hackathon-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
