@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 12 16:27:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 12 17:20:32 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -73,8 +73,8 @@ www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
-logo.zyro.com
 backend.zyro.com
+logo.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -489,9 +489,9 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 crash-stats.allizom.org
-accounts.firefox.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
+accounts.firefox.com
 merino.services.mozilla.com
 push.services.mozilla.com
 sync.services.mozilla.com
@@ -1724,17 +1724,17 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
-tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 business.tiktok.com
+*.tiktok.com
 developers.tiktok.com
 effecthouse.tiktok.com
 shop.tiktok.com
@@ -2535,8 +2535,8 @@ blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
-dashboard.omise.co
 www.opn.ooo
+dashboard.omise.co
 api.omise.co
 offsite.omise.co
 www.omise.co
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.paylution.com
 *.braintreepayments.com
+*.paylution.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3499,8 +3499,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 zopim.com
@@ -3531,8 +3531,8 @@ shopifyinbox.com
 partners.shopify.com
 shopify.plus
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3660,8 +3660,8 @@ www.hoteltonight.com
 api.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-www.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
