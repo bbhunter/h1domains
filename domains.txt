@@ -176,9 +176,9 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.pe
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolibre.com.co
+www.mercadolibre.com.ar
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.br
@@ -1585,12 +1585,12 @@ cleanergy.ph
 veco.com.ph
 adventenergy.com.ph
 retailelectricity.com.ph
-snaboitizpower.com
 *.visayanelectric.com
 aboitizpower.info
 *.davaolight.com
 *.oilbu.com
 *.aboitizpower.com
+snaboitizpower.com
 *.snaboitiz.com
 *.cotabatolight.com
 *.apps.sofa.csg.aboitizpower.org
@@ -2825,8 +2825,8 @@ biologyfinder.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2934,8 +2934,8 @@ snapfish.ie
 snapfish.it
 *.photoccino.com
 staging.spoonflower.com
-*.lifetouch.com
 photo.walgreens.com
+*.lifetouch.com
 lifetouch.com
 prestigeportraits.com
 snapfish.de
@@ -9382,8 +9382,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
