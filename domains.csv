@@ -152,9 +152,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,store.23andme.com,True
 23andme_bbp,education.23andme.com,True
 23andme_bbp,api.23andme.com,True
+23andme_bbp,blog.23andme.com,True
 23andme_bbp,you.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,blog.23andme.com,True
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,api.23andme.com,True
@@ -3047,11 +3047,11 @@ paystack-vdp,dashboard.paystack.com,False
 paystack-vdp,standard.paystack.co,False
 apnic,* IPv6 addresses,False
 apnic,*.seedalliance.net,False
-apnic,* IPv4 addresses,False
 apnic,aso.apnic.net,False
 apnic,*.isif.asia,False
 apnic,*.apnic.foundation,False
 apnic,*.apnic.net,False
+apnic,* IPv4 addresses,False
 apnic,*.apidt.org,False
 apnic,orbit.apnic.net,False
 apnic,stats.labs.apnic.net,False
@@ -5723,8 +5723,6 @@ john-deere,stellarsupport.deere.com,False
 john-deere,machinereports.deere.com,False
 john-deere,registration.deere.com,False
 john-deere,contest.deere.com,False
-john-deere,us-central-1.r4.abc.expertconnect.support,False
-john-deere,us-central-1.r4.xyz.expertconnect.support,False
 john-deere,crm.surefireag.com,False
 john-deere,support.surefireag.com,False
 john-deere,toolbox.surefireag.com,False
@@ -5755,6 +5753,8 @@ john-deere,work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com,False
 john-deere,citratest.deere.com,False
 john-deere,ims.tcms.tal.deere.com,False
 john-deere,marksman.surepointag.com,False
+john-deere,notifications.deere.com,False
+john-deere,jdfy-cert.deere.com,False
 john-deere,partsadvisor.deere.com,False
 john-deere,jdisonline.com,False
 john-deere,myjohndeere.deere.com,False
@@ -7310,17 +7310,17 @@ citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,*developer.cloud.com,False
 tiktok,ads.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,careers.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,*.tiktokv.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktok.com,True
-tiktok,*.tiktokv.com,True
 tiktok,developers.tiktok.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -10300,8 +10300,8 @@ shopify,shopifyinbox.com,True
 shopify,partners.shopify.com,True
 shopify,shopify.plus,True
 shopify,accounts.shopify.com,True
-shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
