@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 02:26:29 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 03:21:53 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -361,9 +361,9 @@ www.visa.com.vn
 www.visa.co.ao
 www.visa.co.nz
 www.currencycloud.com
+www.visa.co.in
 bb.visa.com
 www.visa.com.my
-www.visa.co.in
 bq.visa.com
 www.visa.com.kh
 www.visa.co.il
@@ -466,8 +466,8 @@ id.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 app.krisha.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -2738,8 +2738,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com

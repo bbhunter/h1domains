@@ -35,8 +35,8 @@ tari_labs,www.tarilabs.com,True
 tari_labs,tlu.tarilabs.com,False
 international_airlines_group,www.hangar51.com,False
 international_airlines_group,*.iaggbs.com,False
-international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,*.iairgroup.com,False
 international_airlines_group,*.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.aerlingus.com,False
@@ -1778,9 +1778,9 @@ visa,www.visa.com.vn,True
 visa,www.visa.co.ao,True
 visa,www.visa.co.nz,True
 visa,www.currencycloud.com,True
+visa,www.visa.co.in,True
 visa,bb.visa.com,True
 visa,www.visa.com.my,True
-visa,www.visa.co.in,True
 visa,bq.visa.com,True
 visa,www.visa.com.kh,True
 visa,www.visa.co.il,True
@@ -2847,8 +2847,8 @@ kolesagroup,id.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,app.krisha.kz,True
-kolesagroup,api.avtoelon.uz,True
 kolesagroup,krisha.kz,True
+kolesagroup,api.avtoelon.uz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -2948,9 +2948,9 @@ shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,snapfish.com,False
 shutterfly_vdp,admin.spoonflower.com,False
-shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,shutterfly.com,False
 shutterfly_vdp,*.snapfish.com,False
+shutterfly_vdp,*.sbs.shutterfly.com,False
 shutterfly_vdp,tinyprints.com,False
 shutterfly_vdp,preschoolsmiles.com,False
 shutterfly_vdp,snapfish.co.uk,False
@@ -9385,8 +9385,8 @@ paypal,py.pl,True
 paypal,www.swiftfinancial.com,True
 paypal,swiftfinancial.com,True
 paypal,*.braintree-api.com,True
-paypal,*.braintreepayments.com,True
 paypal,*.paylution.com,True
+paypal,*.braintreepayments.com,True
 paypal,paypal.me,True
 paypal,www.swiftcapital.com,True
 paypal,my.swiftfinancial.com,True
