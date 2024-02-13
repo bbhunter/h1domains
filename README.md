@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 11:21:41 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 12:31:46 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
