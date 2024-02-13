@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 22:21:49 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 23:22:01 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -345,10 +345,10 @@ www.practicalmoneyskills.org
 www.visa.co.jp
 www.visa.com.tw
 sandbox.secure.checkout.visa.com
-www.visainfinite.ca
 www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.com.ph
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -1727,8 +1727,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2750,8 +2750,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -3511,8 +3511,8 @@ devmaximum.com
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 zopim.com

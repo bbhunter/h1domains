@@ -1759,10 +1759,10 @@ www.practicalmoneyskills.org
 www.visa.co.jp
 www.visa.com.tw
 sandbox.secure.checkout.visa.com
-www.visainfinite.ca
 www.yellowpepper.com
 www.practicalmoneyskills.com
 www.visa.com.ph
+www.visainfinite.ca
 www.visa.com.mx
 visa.com.ru
 www.visa.com.cy
@@ -5751,8 +5751,8 @@ work-dispatcher-mobile.cert.us.e01.c01.johndeerecloud.com
 ims.tcms.tal.deere.com
 marksman.surepointag.com
 jdfy-cert.deere.com
-map.deere.com
 rewards.deere.com
+fc-devl-casemanagement-financeconnect.deere.com
 partsadvisor.deere.com
 jdisonline.com
 myjohndeere.deere.com
@@ -6325,12 +6325,12 @@ creative.zebra.com
 greece.zebra.com
 zsbsupport.zebra.com
 *.zams-eu.zebra.com
-*.zams.zebra.com
 *.zebrasports.com
 cmm01.sl.zebra.com
 supportcommunity.zebra.com
 *.profitect.com
 reflexisinc.com/
+*.zams.zebra.com
 zebratradeinprogram.com
 docs.zebra.com
 design.zebra.com
@@ -7311,8 +7311,8 @@ api.adm.cloud.com
 *developer.cloud.com
 ads.tiktok.com
 live-backstage.tiktok.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -9409,8 +9409,8 @@ py.pl
 www.swiftfinancial.com
 swiftfinancial.com
 *.braintree-api.com
-*.braintreepayments.com
 *.paylution.com
+*.braintreepayments.com
 paypal.me
 www.swiftcapital.com
 my.swiftfinancial.com
@@ -10271,8 +10271,8 @@ www.coursera.org
 developer.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-apps.zendesk.com
 www.zendesk.com
+apps.zendesk.com
 api.smooch.io
 app.futuresimple.com
 zopim.com
