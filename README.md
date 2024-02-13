@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 13 08:25:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 13 09:21:03 UTC 2024)
 ```
 explore.tari.com
 www.tari.com
@@ -68,8 +68,8 @@ app.dynamic.xyz
 www.niagahoster.co.id
 payments.hostinger.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 cpanel.hostinger.com
 editor.zyro.com
 www.zyro.com
@@ -149,8 +149,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 flights.booking.com
 admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
 metasearch-api.booking.com
 taxis.booking.com
 phone-validation.taxi.booking.com
@@ -653,8 +653,8 @@ http://miro.com/blog
 *.mwbsys.com
 *.mb-cosmos.com
 *.cloud.malwarebytes.com
-my.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
 oneview.malwarebytes.com
@@ -1459,8 +1459,8 @@ gql.reddit.com
 app.spiketrap.io
 old.reddit.com
 api.reddit.com
-*.redditmedia.com
 ads.reddit.com
+*.redditmedia.com
 new.reddit.com
 strapi.reddit.com
 m.reddit.com
