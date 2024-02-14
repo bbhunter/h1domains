@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 03:23:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 04:25:14 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -16,12 +16,12 @@ www.tari.com
 www.tarilabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-cdn.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
 www.arkoselabs.com
 customer-sessions.arkoselabs.com
+cdn.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -961,8 +961,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.cornershop.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -2928,9 +2928,9 @@ help.steampowered.com
 playartifact.com
 api.steampowered.com
 www.valvesoftware.com
-steamcommunity.com
 store.steampowered.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3535,9 +3535,9 @@ accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 partners.shopify.com
-your-store.myshopify.com
 *.shopifycloud.com
 shop.app
+your-store.myshopify.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3900,8 +3900,8 @@ app.pullrequest.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone-user-content.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
