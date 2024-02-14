@@ -23,10 +23,10 @@ vendasta,your-domain.snapshotreport.biz,False
 vendasta,task-manager.biz,False
 tari_labs,tlu.tarilabs.com,False
 tari_labs,www.tari.com,True
-tari_labs,explore.tari.com,True
 tari_labs,textexplore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,www.tarilabs.com,True
+tari_labs,explore.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -2878,9 +2878,9 @@ mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,location.services.mozilla.com,True
 mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
-mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
 mozilla_critical_services,accounts.firefox.com,True
+mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -2907,9 +2907,9 @@ mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,www.mozilla.org,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
-mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,monitor.firefox.com,True
 mozilla_core_services,relay.firefox.com,True
+mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,developer.mozilla.org,True
 mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
@@ -4887,9 +4887,9 @@ anywhererealestate,*.era.com,False
 anywhererealestate,*.sothebysrealty.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.corcoran.*,False
-anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -6458,7 +6458,6 @@ reddit,oauth.reddit.com,True
 reddit,gateway.reddit.com,True
 reddit,mod.reddit.com,True
 reddit,*.redditinc.com,True
-reddit,redditforbusiness.com,True
 reddit,accounts.reddit.com,True
 reddit,www.reddit.com,True
 reddit,old.reddit.com,True
@@ -6466,6 +6465,7 @@ reddit,api.reddit.com,True
 reddit,*.redditmedia.com,True
 reddit,ads.reddit.com,True
 reddit,*.reddit.com,True
+reddit,redditforbusiness.com,True
 reddit,*.snooguts.net,True
 reddit,*.redditmedia.com,True
 reddit,*.reddit.com,True
@@ -7633,8 +7633,8 @@ playstation,direct.playstation.com,True
 playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
-playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
+playstation,my.account.sony.com,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -7976,10 +7976,10 @@ digitalocean,platform.cloudways.com,False
 digitalocean,unified.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,www.digitalocean.com,False
-digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
+digitalocean,169.254.169.254,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8399,7 +8399,6 @@ mtn_group,mtnsecure.com,False
 mtn_group,mtn.mobi,False
 mtn_group,mtnuktopup.com,False
 mtn_group,mtnfinancialservices.com,False
-mtn_group,mtnzakhele.tel,False
 mtn_group,mtnholdings.com,False
 mtn_group,mtnbusiness.tel,False
 mtn_group,mtnanytimetopup.com,False
@@ -8410,6 +8409,7 @@ mtn_group,mtnpaid.com,False
 mtn_group,mtnmusiconline.com,False
 mtn_group,mtnbusiness.mobi,False
 mtn_group,mtnfreepromo.com,False
+mtn_group,mtntelecom.com,False
 mtn_group,mtn.com,False
 mtn_group,mtn.com.af,False
 mtn_group,mtn.bj,False
@@ -9820,8 +9820,8 @@ grab,*.myteksi.net,True
 grab,grab.careers,True
 grab,kartaview.org,True
 grab,*.taralite.com,True
-grab,*.ovo.id,True
 grab,*.grab.com,True
+grab,*.ovo.id,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10425,6 +10425,7 @@ adobe,*.scene7.com,False
 adobe,*.adobeconnect.com,False
 adobe,adobeid.services.adobe.com,False
 adobe,behance.net,False
+adobe,creative.adobe.com,False
 adobe,marketplace.magento.com,True
 adobe,magentocommerce.com,True
 adobe,repo.magento.com,True
@@ -10737,8 +10738,8 @@ slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
-slack,app.slack.com,True
 slack,api.slack.com,True
+slack,app.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
