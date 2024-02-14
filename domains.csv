@@ -39,6 +39,7 @@ international_airlines_group,*.iairgroup.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.iairgroup.com,False
 international_airlines_group,*.iaggbs.com,False
+international_airlines_group,*.iagcargo.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -64,9 +65,9 @@ arkose_labs,iframe.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,portal.arkoselabs.com,True
 arkose_labs,demo.arkoselabs.com,True
-arkose_labs,www.arkoselabs.com,True
-arkose_labs,customer-sessions.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
+arkose_labs,customer-sessions.arkoselabs.com,True
+arkose_labs,www.arkoselabs.com,True
 arkose_labs,client-api.arkoselabs.com,True
 arkose_labs,cdn.arkoselabs.com,True
 arkose_labs,customer-sessions.arkoselabs.com,True
@@ -80,9 +81,9 @@ sheer_bbp,www.sheer.com,True
 sheer_bbp,www.sheer.com,True
 sheer_bbp,my.sheer.com,True
 pornbox,www.pornworld.com,True
-pornbox,www.ddfcontent.com,True
 pornbox,www.analvids.com,True
 pornbox,www.pornbox.com,True
+pornbox,www.ddfcontent.com,True
 pornbox,www.pornbox.com,True
 pornbox,www.analvids.com,True
 pornbox,www.ddfcontent.com,True
@@ -149,11 +150,11 @@ egress-vdp,www.egress.com,False
 23andme_bbp,therapeutics.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
-23andme_bbp,you.23andme.com,True
 23andme_bbp,medical.23andme.com,True
 23andme_bbp,mediacenter.23andme.com,True
 23andme_bbp,research.23andme.com,True
 23andme_bbp,blog.23andme.com,True
+23andme_bbp,you.23andme.com,True
 23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
@@ -172,7 +173,6 @@ mercadolibre,www.mercadolibre.com.uy,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.mx,True
 mercadolibre,www.mercadolibre.com.pe,True
-mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadolibre.com.co,True
 mercadolibre,www.mercadopago.com.br,True
 mercadolibre,api.mercadolibre.com,True
@@ -181,6 +181,7 @@ mercadolibre,www.mercadopago.com.uy,True
 mercadolibre,www.mercadolibre.cl,True
 mercadolibre,www.mercadolivre.com.br,True
 mercadolibre,www.mercadolibre.com.ar,True
+mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,api.mercadopago.com,True
 mercadolibre,www.mercadopago.com.ar,True
 mercadolibre,www.mercadopago.com.br,True
@@ -226,8 +227,8 @@ bookingcom,admin.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1322,7 +1323,6 @@ alshaya,qa.hm.com,False
 alshaya,ae.cos.com,False
 alshaya,sa.cos.com,False
 alshaya,ae.cosstores.com,False
-alshaya,*.westelm.com.sa,False
 alshaya,*.victoriassecreatbeauty.ro,False
 alshaya,*.potterybarn.com.kw,False
 alshaya,*.muji.com.sa,False
@@ -1365,6 +1365,7 @@ alshaya,*.bathandbodyworks.com.qa,False
 alshaya,*.bathandbodyworks.com.eg,False
 alshaya,*.supplier.alshaya.com,False
 alshaya,gtmsservice.alshaya.com,False
+alshaya,jenkins.alshaya.com,False
 alshaya,*.shaya.com.tr,False
 alshaya,*.starbucks.com.kz,False
 alshaya,*.aloyoga.ae,False
@@ -3103,11 +3104,11 @@ indrive,volans.tech,True
 indrive,injob.indriver.com,True
 indrive,cargo.indrive.com,True
 indrive,watchdocs.indriverapp.com,True
-indrive,*.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,super-services.indriverapp.com,True
 indrive,auth2.indrive.tech,True
 indrive,*.indrive.com,True
+indrive,*.indriverapp.com,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -3285,8 +3286,8 @@ stanford-university,stanfordyou.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,login.stanford.edu,False
-stanford-university,www.stanford.edu,False
 stanford-university,accessories.stanford.edu,False
+stanford-university,www.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -3397,9 +3398,9 @@ superbet,*.napoleonsports.be,True
 superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
-superbet,*.superbet.ro,True
 superbet,*.superbet.pl,True
 superbet,*.magicjackpot.ro,True
+superbet,*.superbet.ro,True
 superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
@@ -3805,8 +3806,8 @@ deribit,pb.deribit.com,True
 deribit,tools.deribit.com,True
 deribit,metrics.deribit.com,True
 deribit,test.deribit.com,True
-deribit,insights.deribit.com,True
 deribit,*.deribit.com,True
+deribit,insights.deribit.com,True
 deribit,*.deribit.com,True
 deribit,test.deribit.com,True
 deribit,insights.deribit.com,True
@@ -6133,7 +6134,6 @@ aig,www.layahealthcare.ie,False
 aig,www.lifeandretirement.aig.com,False
 aig,www.corebridgefinancial.com,False
 aig,www.aig.co.il,False
-aig,www.vfisu.com,False
 aig,www.vfisal.com,False
 aig,www.iafcf.org,False
 aig,www-1008.aig.com,False
@@ -6143,6 +6143,7 @@ aig,*.aig.co.jp,False
 aig,*.aig.com,False
 aig,*.corebridgefinancial.com,False
 aig,services.aig.co.il,False
+aig,www.vfisu.com,False
 aig,*.aig.com,False
 aig,*.myretirementmanager.com,False
 aig,*.corebridgefinancial.com,False
@@ -7291,8 +7292,8 @@ tiktok,ads.tiktok.com,True
 tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7439,10 +7440,10 @@ rebellion-defense,www.rebelliondefense.com,False
 acronis,*-api-*.acronis.com,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
+acronis,account.acronis.com,True
+acronis,*.acronis.com,True
 acronis,*.acronis.work,True
 acronis,beta-cloud.acronis.com,True
-acronis,*.acronis.com,True
-acronis,account.acronis.com,True
 acronis,*-api-*.acronis.com,True
 acronis,*.acronis.com,True
 acronis,*.5nine.com,True
@@ -8105,8 +8106,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.ra.roblox.com,True
 roblox,*.guilded.gg,True
-roblox,*.rbx.com,True
 roblox,*.roblox.com,True
+roblox,*.rbx.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -9351,8 +9352,8 @@ fanduel,mobile-prod.tvg.com,True
 fanduel,fdbox.net,True
 fanduel,www.4njbets.com,True
 fanduel,sportsbook.fanduel.com,True
-fanduel,*.fanduel.com,True
 fanduel,tvg.com,True
+fanduel,*.fanduel.com,True
 fanduel,*.fanduel.com,True
 fanduel,*racing.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9705,6 +9706,8 @@ coalition,coalitioninc.com,False
 coalition,platform.thecoalition.com,False
 coalition,api.thecoalition.com,False
 coalition,coalitioninc.com,False
+toyota,www.dashboard.gatekeepers.co.in,False
+toyota,www.dashboard.gatekeepers.co.in,False
 crowdstrike,www.crowdstrike.org,True
 crowdstrike,hybrid-analysis.com,True
 crowdstrike,*.securecircle.com,True
@@ -9820,8 +9823,8 @@ grab,*.myteksi.net,True
 grab,grab.careers,True
 grab,kartaview.org,True
 grab,*.taralite.com,True
-grab,*.grab.com,True
 grab,*.ovo.id,True
+grab,*.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10277,8 +10280,10 @@ shopify,*.shopify.com,True
 shopify,*.shopifycloud.com,True
 shopify,admin.shopify.com,True
 shopify,shop.app,True
-shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
+shopify,your-store.myshopify.com,True
+shopify,*.shopifycs.com,True
+shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
 shopify,*.shopifycloud.com,True
@@ -10387,6 +10392,8 @@ ui,blog.ui.com,False
 ui,training.ui.com,False
 ui,dev-training.ui.com,False
 ui,wiki.ui.com,False
+ui,https://ui.com/distributors/,False
+ui,https://ui.com/training/partners/,False
 adobe,*.phonegap.com,False
 adobe,adminconsole.adobe.com,False
 adobe,documents.adobe.com,False
@@ -10622,8 +10629,8 @@ x,grok.x.ai,True
 x,xadsacademy.com,False
 x,*.twimg.com,True
 x,*.twitter.com,True
-x,api.x.ai,True
 x,x.com,True
+x,api.x.ai,True
 x,*.twitter.com,True
 x,*.vine.co,True
 x,*.twimg.com,True
@@ -10713,8 +10720,8 @@ coinbase,api.coinbase.com,True
 coinbase,api.custody.coinbase.com,True
 coinbase,coinbase.com,True
 coinbase,*.coinbase.com,True
-coinbase,cloud.coinbase.com,True
 coinbase,pro.coinbase.com,True
+coinbase,cloud.coinbase.com,True
 coinbase,*.coinbase.com,True
 coinbase,*.cbhq.net,True
 coinbase,pro.coinbase.com,True

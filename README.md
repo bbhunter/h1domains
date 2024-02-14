@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 17:22:05 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 18:27:05 UTC 2024)
 ```
 textexplore.tari.com
 rfc.tari.com
@@ -19,9 +19,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
-customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
+customer-sessions.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -35,9 +35,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -90,11 +90,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
-you.23andme.com
 medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
+you.23andme.com
 store.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -113,7 +113,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
-www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -122,6 +121,7 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -167,8 +167,8 @@ admin.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -600,11 +600,11 @@ volans.tech
 injob.indriver.com
 cargo.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 auth2.indrive.tech
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -764,9 +764,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -910,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1735,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1799,10 +1799,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
-account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2317,8 +2317,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2713,8 +2713,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3136,8 +3136,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3536,8 +3536,10 @@ accounts.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
-your-store.myshopify.com
 partners.shopify.com
+your-store.myshopify.com
+*.shopifycs.com
+*.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -3745,8 +3747,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3832,8 +3834,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com

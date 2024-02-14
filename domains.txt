@@ -38,6 +38,7 @@ www.iaggbs.com
 www.aerlingus.com
 www.iairgroup.com
 *.iaggbs.com
+*.iagcargo.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -63,9 +64,9 @@ iframe.arkoselabs.com
 client-api.arkoselabs.com
 portal.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
-customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
+customer-sessions.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -79,9 +80,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -148,11 +149,11 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
-you.23andme.com
 medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
+you.23andme.com
 store.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -171,7 +172,6 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadolibre.com.pe
-www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.br
 api.mercadolibre.com
@@ -180,6 +180,7 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -225,8 +226,8 @@ admin.booking.com
 account.booking.com
 booking.com
 secure.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1321,7 +1322,6 @@ qa.hm.com
 ae.cos.com
 sa.cos.com
 ae.cosstores.com
-*.westelm.com.sa
 *.victoriassecreatbeauty.ro
 *.potterybarn.com.kw
 *.muji.com.sa
@@ -1364,6 +1364,7 @@ ae.shopjustice.me
 *.bathandbodyworks.com.eg
 *.supplier.alshaya.com
 gtmsservice.alshaya.com
+jenkins.alshaya.com
 *.shaya.com.tr
 *.starbucks.com.kz
 *.aloyoga.ae
@@ -3102,11 +3103,11 @@ volans.tech
 injob.indriver.com
 cargo.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 auth2.indrive.tech
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -3284,8 +3285,8 @@ stanfordyou.stanford.edu
 netdb.stanford.edu
 *.sahr.stanford.edu
 login.stanford.edu
-www.stanford.edu
 accessories.stanford.edu
+www.stanford.edu
 *.sahr.stanford.edu
 www.stanford.edu
 bi.stanford.edu
@@ -3396,9 +3397,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
+*.superbet.ro
 *.napoleongames.be
 *.superbet.ro
 *.superbet.rs
@@ -3804,8 +3805,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -6132,7 +6133,6 @@ www.layahealthcare.ie
 www.lifeandretirement.aig.com
 www.corebridgefinancial.com
 www.aig.co.il
-www.vfisu.com
 www.vfisal.com
 www.iafcf.org
 www-1008.aig.com
@@ -6142,6 +6142,7 @@ www.rapidcover.ie
 *.aig.com
 *.corebridgefinancial.com
 services.aig.co.il
+www.vfisu.com
 *.aig.com
 *.myretirementmanager.com
 *.corebridgefinancial.com
@@ -7290,8 +7291,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7438,10 +7439,10 @@ www.rebelliondefense.com
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+account.acronis.com
+*.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
-account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -8104,8 +8105,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -9350,8 +9351,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*.fanduel.com
 tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -9704,6 +9705,8 @@ coalitioninc.com
 platform.thecoalition.com
 api.thecoalition.com
 coalitioninc.com
+www.dashboard.gatekeepers.co.in
+www.dashboard.gatekeepers.co.in
 www.crowdstrike.org
 hybrid-analysis.com
 *.securecircle.com
@@ -9819,8 +9822,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -10276,8 +10279,10 @@ accounts.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
-your-store.myshopify.com
 partners.shopify.com
+your-store.myshopify.com
+*.shopifycs.com
+*.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
 *.shopifycloud.com
@@ -10386,6 +10391,8 @@ blog.ui.com
 training.ui.com
 dev-training.ui.com
 wiki.ui.com
+https://ui.com/distributors/
+https://ui.com/training/partners/
 *.phonegap.com
 adminconsole.adobe.com
 documents.adobe.com
@@ -10621,8 +10628,8 @@ grok.x.ai
 xadsacademy.com
 *.twimg.com
 *.twitter.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -10712,8 +10719,8 @@ api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
 *.coinbase.com
-cloud.coinbase.com
 pro.coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
