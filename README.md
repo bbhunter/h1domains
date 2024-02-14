@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 20:22:09 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 21:19:04 UTC 2024)
 ```
-textexplore.tari.com
 rfc.tari.com
-explore.tari.com
 www.tarilabs.com
+explore.tari.com
 www.tari.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -35,9 +35,9 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
-www.analvids.com
 www.pornbox.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -90,12 +90,12 @@ education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
-medical.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
 store.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -119,9 +119,9 @@ api.mercadolibre.com
 www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
-www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -166,9 +166,9 @@ careers.booking.com
 admin.booking.com
 booking.com
 secure.booking.com
-*.rentalcars.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -380,11 +380,11 @@ www.visa.co.uk
 www.cardinalcommerce.com
 usa.visa.com
 bd.visa.com
-www.tink.com
 www.visa.co.jp
 www.visa.com.tw
 sandbox.secure.checkout.visa.com
 www.yellowpepper.com
+www.practicalmoneyskills.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -463,9 +463,9 @@ id.avtoelon.uz
 api.avtoelon.uz
 api.krisha.kz
 app.kolesa.kz
+krisha.kz
 id.kolesa.kz
 m.avtoelon.uz
-krisha.kz
 kolesa.kz
 avtoelon.uz
 kolesa.kz
@@ -484,6 +484,10 @@ app.avtoelon.uz
 id.avtoelon.uz
 prd-ring-web-us.prd.rings.solutions
 prd-ring-web-us.prd.rings.solutions
+api.tideplatform.in
+*.tide.co
+*.tide.co
+api.tideplatform.in
 addons.allizom.org
 merino.services.mozilla.com
 aus5.mozilla.org
@@ -529,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -560,8 +564,8 @@ hilton.com
 *.hiltonhotels.jp
 *.hilton.com.tr
 *.hilton.io
-hiltonbusinessonline.com
 *.hilton.com
+hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -694,9 +698,9 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
-www.kiwi.com
 *.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -906,8 +910,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1034,8 +1038,8 @@ pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
 pay.ibex.exchange
-exness.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1731,8 +1735,8 @@ ads.tiktok.com
 live-backstage.tiktok.com
 tiktok.com
 *.tiktokv.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3828,9 +3832,9 @@ institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
+cloud.coinbase.com
 *.coinbase.com
 pro.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3855,8 +3859,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
