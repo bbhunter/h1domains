@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 14 06:25:56 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 14 07:21:57 UTC 2024)
 ```
 www.tari.com
 explore.tari.com
@@ -589,7 +589,6 @@ messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 wga.volans.tech
-auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 external.indrive.dev
 aws.indrive.tech
@@ -605,6 +604,7 @@ watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 *.indrive.com
+auth2.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -2317,8 +2317,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3857,8 +3857,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3900,8 +3900,8 @@ b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

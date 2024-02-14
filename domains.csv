@@ -8,8 +8,8 @@ vendasta,task-manager.biz,False
 vendasta,your-domain.snapshotreport.biz,False
 vendasta,your-domain.smblogin.com,False
 vendasta,*.apigateway.co,False
-vendasta,*.yesware.com,False
 vendasta,*.vendasta.com,False
+vendasta,*.yesware.com,False
 vendasta,*.vendasta.com,False
 vendasta,*.apigateway.co,False
 vendasta,*.vendasta-internal.com,False
@@ -1603,8 +1603,8 @@ aboitizpower_corporation,*.visayanelectric.com,False
 aboitizpower_corporation,aboitizpower.info,False
 aboitizpower_corporation,*.davaolight.com,False
 aboitizpower_corporation,*.oilbu.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,snaboitizpower.com,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -3023,9 +3023,9 @@ paystack-vdp,legacy.paystack.co,False
 paystack-vdp,checkout.paystack.com,False
 paystack-vdp,standard.paystack.co,False
 paystack-vdp,dashboard.paystack.com,False
-paystack-vdp,api.paystack.co,False
 paystack-vdp,nigerialogos.com,False
 paystack-vdp,*.paystack.com,False
+paystack-vdp,api.paystack.co,False
 paystack-vdp,*.paystack.com,False
 paystack-vdp,*.paystackintegrations.com,False
 paystack-vdp,nigerialogos.com,False
@@ -3092,7 +3092,6 @@ indrive,messenger.eu-east-1.indriverapp.com,True
 indrive,truck-api.eu-east-1.indriverapp.com,True
 indrive,priority.eu-east-1.indriverapp.com,True
 indrive,wga.volans.tech,True
-indrive,auth2.indrive.tech,True
 indrive,debug.clairvoyance.indrive.tech,True
 indrive,external.indrive.dev,True
 indrive,aws.indrive.tech,True
@@ -3108,6 +3107,7 @@ indrive,*.indriverapp.com,True
 indrive,*.indriver.com,True
 indrive,super-services.indriverapp.com,True
 indrive,*.indrive.com,True
+indrive,auth2.indrive.tech,True
 indrive,*.indriverapp.com,True
 indrive,*.indrive.com,True
 indrive,*.indriver.com,True
@@ -3162,8 +3162,8 @@ abb,*.abb.com.tr,False
 abb,*.baldor.com,False
 abb,abb.com.br,False
 abb,*.cylon.com,False
-abb,*.abb.com,False
 abb,*.abb.com.cn,False
+abb,*.abb.com,False
 abb,*.abb.com,False
 abb,*.tnb.com,False
 abb,*.abb.com.tr,False
@@ -3572,9 +3572,9 @@ expediagroup,*.expediaagents.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.hotwire.com,False
+expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.cheaptickets.com,False
-expediagroup,*.hotels.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -8105,8 +8105,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.ra.roblox.com,True
 roblox,*.guilded.gg,True
-roblox,*.roblox.com,True
 roblox,*.rbx.com,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -10737,8 +10737,8 @@ slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack-imgs.com,True
 slack,slack.com,True
-slack,api.slack.com,True
 slack,app.slack.com,True
+slack,api.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
@@ -10780,8 +10780,8 @@ security,b5s.hackerone-ext-content.com,True
 security,api.hackerone.com,True
 security,hackerone-user-content.com,True
 security,cover-photos.hackerone-user-content.com,True
-security,hackerone.com,True
 security,www.hackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True

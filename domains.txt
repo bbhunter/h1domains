@@ -7,8 +7,8 @@ task-manager.biz
 your-domain.snapshotreport.biz
 your-domain.smblogin.com
 *.apigateway.co
-*.yesware.com
 *.vendasta.com
+*.yesware.com
 *.vendasta.com
 *.apigateway.co
 *.vendasta-internal.com
@@ -1602,8 +1602,8 @@ veco.com.ph
 aboitizpower.info
 *.davaolight.com
 *.oilbu.com
-*.aboitizpower.com
 snaboitizpower.com
+*.aboitizpower.com
 *.aboitizpower.com
 *.snaboitiz.com
 *.enerzone.com.ph
@@ -3022,9 +3022,9 @@ legacy.paystack.co
 checkout.paystack.com
 standard.paystack.co
 dashboard.paystack.com
-api.paystack.co
 nigerialogos.com
 *.paystack.com
+api.paystack.co
 *.paystack.com
 *.paystackintegrations.com
 nigerialogos.com
@@ -3091,7 +3091,6 @@ messenger.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 wga.volans.tech
-auth2.indrive.tech
 debug.clairvoyance.indrive.tech
 external.indrive.dev
 aws.indrive.tech
@@ -3107,6 +3106,7 @@ watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
 *.indrive.com
+auth2.indrive.tech
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -3161,8 +3161,8 @@ http://miro.com/blog
 *.baldor.com
 abb.com.br
 *.cylon.com
-*.abb.com
 *.abb.com.cn
+*.abb.com
 *.abb.com
 *.tnb.com
 *.abb.com.tr
@@ -3571,9 +3571,9 @@ thailand.airasiago.com
 *.fewo-direkt.de
 *.carrentals.com
 *.hotwire.com
+*.hotels.com
 *.expedia.com
 *.cheaptickets.com
-*.hotels.com
 *.expedia.com
 *.hotwire.com
 *.orbitz.com
@@ -8104,8 +8104,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.guilded.gg
-*.roblox.com
 *.rbx.com
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -10736,8 +10736,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -10779,8 +10779,8 @@ b5s.hackerone-ext-content.com
 api.hackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
