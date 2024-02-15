@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 14:21:25 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 15:24:06 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
-textexplore.tari.com
 explore.tari.com
 www.tari.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -18,8 +18,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
+customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 www.arkoselabs.com
 client-api.arkoselabs.com
@@ -72,9 +72,9 @@ www.zyro.com
 backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
+www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
-www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+medical.23andme.com
 store.23andme.com
 blog.23andme.com
 auth.23andme.com
 you.23andme.com
-medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -120,8 +120,8 @@ www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadolibre.com.co
 www.mercadolivre.com.br
+www.mercadolibre.com.co
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-booking.com
 secure.booking.com
+*.booking.com
+booking.com
 account.booking.com
 *.rentalcars.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -466,8 +466,8 @@ avtoelon.uz
 id.kolesa.kz
 api.kolesa.kz
 krisha.kz
-api.krisha.kz
 kolesa.kz
+api.krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -562,9 +562,9 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.com
-*.hilton.com.tr
 *.hilton.io
+*.hilton.com.tr
+*.hilton.com
 hilton.com
 *.hilton.com
 *.hilton.io
@@ -602,9 +602,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
-*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -631,8 +631,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1130,8 +1130,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1433,8 +1433,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 app.taxjar.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1732,10 +1732,10 @@ shop.tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
-*.tiktokv.com
-*.tiktok.com
-partner.tiktokshop.com
 ads.tiktok.com
+*.tiktokv.com
+partner.tiktokshop.com
+*.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2483,7 +2483,6 @@ api.rezserver.com
 secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
-www.priceline.com
 www.getaroom.com
 priceline.com
 www.priceline.com
@@ -2766,8 +2765,8 @@ decision.swiftfinancial.com
 paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3410,8 +3409,8 @@ docs.gitlab.com
 *.gitlab.org
 *.gitlab.net
 customers.gitlab.com
-about.gitlab.com
 gitlab.com
+about.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3529,13 +3528,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 *.shopifycloud.com
-shop.app
-partners.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopify.com
-admin.shopify.com
 *.shopifycs.com
 accounts.shopify.com
+partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3658,10 +3657,10 @@ callbacks.airbnb.com
 www.hoteltonight.com
 next.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 assets.airbnb.com
 www.airbnb.com
 api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3888,20 +3887,20 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone.live
-www.hackerone.com
-hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
-app.pullrequest.com
+api.hackerone.com
 ctf.hacker101.com
 hackerone.com
+hackerone-ext-content.com
+app.pullrequest.com
+hackerone-user-content.com
+hackerone.live
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
