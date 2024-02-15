@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 10:23:22 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 11:20:00 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -18,9 +18,9 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
+cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
 www.arkoselabs.com
-cdn.arkoselabs.com
 portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -48,11 +48,11 @@ http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 account-sprint.dynatracelabs.com
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 university-staging.dynatracelabs.com
+*.sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -92,9 +92,9 @@ api.23andme.com
 auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+blog.23andme.com
 store.23andme.com
 you.23andme.com
-blog.23andme.com
 medical.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -166,9 +166,9 @@ careers.booking.com
 admin.booking.com
 booking.com
 secure.booking.com
-*.booking.com
 account.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -533,8 +533,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -563,9 +563,9 @@ hiltonhotels.jp
 hilton.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.com
 *.hilton.io
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -602,9 +602,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
-*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -766,8 +766,8 @@ admin.8x8.com
 *.superbet.com
 *.superbet.pl
 *.magicjackpot.ro
-*.napoleongames.be
 *.superbet.ro
+*.napoleongames.be
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -955,8 +955,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1176,8 +1176,8 @@ analytics.krisp.ai
 download.krisp.ai
 api.krisp.ai
 teams.krisp.ai
-*.krisp.ai
 krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1205,9 +1205,9 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
-accounts.evernote.com
 api.evernote.com
 www.evernote.com
+accounts.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1448,8 +1448,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -2196,8 +2196,8 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.alibaba.com
 *.taobao.com
-*.alibaba-inc.com
 *.1688.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2918,7 +2918,6 @@ api.foliofn.com
 developer.valvesoftware.com
 partner.steampowered.com
 partner.steamgames.com
-www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 help.steampowered.com
@@ -2927,6 +2926,7 @@ www.valvesoftware.com
 www.teamfortress.com
 store.steampowered.com
 api.steampowered.com
+www.counter-strike.net
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3080,10 +3080,10 @@ asiointi.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
-*.beta.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
 yrityspalvelu.tapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3381,8 +3381,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3529,13 +3529,13 @@ arrive-server.shopifycloud.com
 shopify.plus
 linkpop.com
 *.shopifycloud.com
-your-store.myshopify.com
 shop.app
 partners.shopify.com
+your-store.myshopify.com
 *.shopify.com
-accounts.shopify.com
 *.shopifycs.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3857,8 +3857,8 @@ www.quip.com
 slack-imgs.com
 api.slack.com
 slack.com
-*.quip.com
 app.slack.com
+*.quip.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3890,17 +3890,17 @@ reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 www.hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
 hackerone-user-content.com
+cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 app.pullrequest.com
+ctf.hacker101.com
 hackerone.com
 hackerone.com
 api.hackerone.com
