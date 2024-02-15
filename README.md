@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 21:19:09 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 15 22:20:58 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 demo.arkoselabs.com
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-www.arkoselabs.com
 portal.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -72,9 +72,9 @@ www.zyro.com
 backend.zyro.com
 logo.zyro.com
 payments.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -106,7 +106,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.uy
 api.mercadopago.com
@@ -117,6 +116,7 @@ www.mercadopago.cl
 www.mercadopago.com.uy
 www.mercadolibre.cl
 www.mercadolibre.com.ar
+www.mercadopago.com.co
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.ar
@@ -166,9 +166,9 @@ careers.booking.com
 admin.booking.com
 *.rentalcars.com
 secure.booking.com
-*.booking.com
-account.booking.com
 booking.com
+account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -268,8 +268,8 @@ oauth-sandbox.gocardless.com
 *.gocardless-banking.io
 manage-sandbox.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 api-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -532,8 +532,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-hg.mozilla.org
 relay.firefox.com
+hg.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -561,8 +561,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hiltonbusinessonline.com
-*.hilton.io
 *.hilton.com.tr
+*.hilton.io
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -601,9 +601,9 @@ cargo.indrive.com
 watchdocs.indriverapp.com
 *.indriver.com
 super-services.indriverapp.com
-*.indriverapp.com
 *.indrive.com
 auth2.indrive.tech
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1447,8 +1447,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1476,8 +1476,8 @@ old.reddit.com
 api.reddit.com
 *.redditmedia.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
+*.reddit.com
 redditforbusiness.com
 *.snooguts.net
 *.redditmedia.com
@@ -1689,8 +1689,8 @@ secure.sharefile.eu
 api.sharefile.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
-(youriwssubdomain).cloud.com
 www.cloud.com
+(youriwssubdomain).cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -3525,13 +3525,13 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycs.com
-partners.shopify.com
 linkpop.com
-accounts.shopify.com
-*.shopifycloud.com
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
+accounts.shopify.com
+*.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -3854,9 +3854,9 @@ slack-redir.net
 www.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 *.quip.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3887,15 +3887,15 @@ mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
-ctf.hacker101.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 app.pullrequest.com
+ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
