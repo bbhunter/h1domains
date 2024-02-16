@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 10:23:09 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 11:18:35 UTC 2024)
 ```
 rfc.tari.com
 textexplore.tari.com
@@ -164,11 +164,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 secure.booking.com
 booking.com
 account.booking.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -729,6 +729,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 *.packet8.net
 sso.8x8.com
+voapi.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -764,9 +765,9 @@ admin.8x8.com
 *.superbet.rs
 *.superbet.com
 *.superbet.pl
-*.superbet.ro
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1431,8 +1432,8 @@ api.taxjar.com
 *.recko.io
 *.link.co
 *.stripe.com
-app.taxjar.com
 api.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1731,8 +1732,8 @@ ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
+partner.tiktokshop.com
 business.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
@@ -2314,8 +2315,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2762,9 +2763,9 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-*.paypal.com
 paypalobjects.com
+*.paypal.com
+paypal.me
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3048,10 +3049,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 falcon-sandbox.com
-*.humio.com
 *.preempt.com
 *.crowdstrike.com
 www.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3129,9 +3130,9 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
 *.ovo.id
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3531,8 +3532,8 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
-admin.shopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3888,18 +3889,18 @@ reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
-ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-app.pullrequest.com
 hackerone.com
 www.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
