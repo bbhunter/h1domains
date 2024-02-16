@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 15 23:22:07 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 01:41:19 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
 www.tari.com
-textexplore.tari.com
 www.tarilabs.com
+textexplore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -20,8 +20,8 @@ client-api.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
-portal.arkoselabs.com
 www.arkoselabs.com
+portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-blog.23andme.com
-store.23andme.com
+auth.23andme.com
 medical.23andme.com
 you.23andme.com
-auth.23andme.com
+store.23andme.com
+blog.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -314,8 +314,8 @@ launch.gamma.redoxstage.com
 explore.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
-dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -763,10 +763,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.ro
 *.superbet.pl
 *.magicjackpot.ro
 *.napoleongames.be
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1027,8 +1027,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1149,8 +1149,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1292,8 +1292,8 @@ tria.ge
 securitytrails.com
 www.recordedfuture.com
 therecord.media
-id.recordedfuture.com
 geminiadvisory.io
+id.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1333,7 +1333,6 @@ dashboard.fr.cloud.gov
 catalog.data.gov
 sdg.data.gov
 grafana.fr.cloud.gov
-labs.data.gov
 inventory.data.gov
 diagrams.fr.cloud.gov
 logs-platform.fr.cloud.gov
@@ -1447,8 +1446,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1476,8 +1475,8 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-www.reddit.com
 redditforbusiness.com
+www.reddit.com
 app.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
@@ -1518,8 +1517,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.withbuddies.com
-*.scopely.io
 *.scopely.com
+*.scopely.io
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1729,11 +1728,11 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
-shop.tiktok.com
-tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+shop.tiktok.com
+tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
@@ -1950,9 +1949,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
 my.account.sony.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2193,10 +2192,10 @@ www.alibabagroup.com
 *.aliyun.com
 *.Daraz.com
 *.alibabacloud.com
-*.alibaba.com
-*.alibaba-inc.com
 *.1688.com
 *.taobao.com
+*.alibaba.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2335,10 +2334,10 @@ prow.k8s.io
 kubernetes.io
 k8s.io
 kubernetes-csi.github.io
-docs.datastax.com
 downloads.datastax.com
 astra.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2483,7 +2482,7 @@ secure.rezserver.com
 press.priceline.com
 admin.rezserver.com
 priceline.com
-flyiin.com
+www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2497,8 +2496,8 @@ press.priceline.com
 www.bookingholdings.com
 admin.smartsheet.com
 developers.smartsheet.com
-app.smartsheet.com
 help.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3131,8 +3130,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3309,8 +3308,8 @@ www.starbucks.com.cn
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-openapi.starbucks.com
 www.starbucks.com
+openapi.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3524,15 +3523,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-partners.shopify.com
+*.shopifycs.com
 linkpop.com
-accounts.shopify.com
-*.shopifycloud.com
+partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
+accounts.shopify.com
+*.shopifycloud.com
 *.shopifykloud.com
-*.shopifycs.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3741,9 +3740,9 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
-x.com
 api.x.ai
+x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3828,9 +3827,9 @@ institutional.coinbase.com
 api.coinbase.com
 api.custody.coinbase.com
 coinbase.com
-pro.coinbase.com
 *.coinbase.com
 cloud.coinbase.com
+pro.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3896,10 +3895,10 @@ errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-cover-photos.hackerone-user-content.com
 api.hackerone.com
 ctf.hacker101.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
