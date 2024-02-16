@@ -2833,10 +2833,10 @@ kolesagroup,m.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,api.kolesa.kz,True
-kolesagroup,krisha.kz,True
 kolesagroup,api.krisha.kz,True
 kolesagroup,m.krisha.kz,True
 kolesagroup,kolesa.kz,True
+kolesagroup,krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3248,10 +3248,10 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 kiwicom,auth.skypicker.com,True
 kiwicom,jobs.kiwi.com,True
-kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
+kiwicom,tequila.kiwi.com,True
 kiwicom,*.kiwi.com,True
 kiwicom,*.skypicker.com,True
 kiwicom,www.kiwi.com,True
@@ -3398,9 +3398,9 @@ superbet,*.luckydays.com,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
 superbet,*.superbet.pl,True
-superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
 superbet,*.magicjackpot.ro,True
+superbet,*.napoleongames.be,True
 superbet,*.superbet.ro,True
 superbet,*.superbet.rs,True
 superbet,*.superbet.com,True
@@ -7243,8 +7243,8 @@ citrix,(yoursubdomain).sharefile.com,True
 citrix,api.sharefile.com,True
 citrix,*.citrixworkspacesapi.net,True
 citrix,citrix.cloud.com,True
-citrix,(youriwssubdomain).cloud.com,True
 citrix,www.cloud.com,True
+citrix,(youriwssubdomain).cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7630,8 +7630,8 @@ playstation,store.playstation.com,True
 playstation,my.playstation.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.account.sony.com,True
-playstation,*.playstation.net,True
 playstation,*.api.playstation.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -10202,8 +10202,8 @@ zomato,api.grofers.com,True
 zomato,*.zomans.com,True
 zomato,*.hyperpure.com,True
 zomato,blinkit.com,True
-zomato,*.runnr.in,True
 zomato,*.zomato.com,True
+zomato,*.runnr.in,True
 zomato,*.zomato.com,True
 zomato,*.zdev.net,True
 zomato,*.zomans.com,True
@@ -10817,9 +10817,9 @@ security,hackerone-user-content.com,True
 security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
-security,hackerone.com,True
 security,app.pullrequest.com,True
 security,www.hackerone.com,True
+security,hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
