@@ -161,8 +161,8 @@ admin.booking.com
 *.rentalcars.com
 secure.booking.com
 booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -3885,15 +3885,15 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-api.hackerone.com
 hackerone-ext-content.com
 ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 app.pullrequest.com
+api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
