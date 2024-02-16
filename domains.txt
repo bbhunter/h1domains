@@ -23,9 +23,9 @@ partners.vendasta.com
 tlu.tarilabs.com
 rfc.tari.com
 explore.tari.com
-www.tari.com
 textexplore.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -38,7 +38,7 @@ www.iairgroup.com
 *.iairgroup.com
 www.aerlingus.com
 *.iagcargo.com
-*.aerlingus.com
+www.iaggbs.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -2943,9 +2943,9 @@ shutterfly.com
 *.shutterfly.com
 *.lifetouch.com
 photo.walgreens.com
-admin.spoonflower.com
 www.spoonflower.com
 www.borrowlenses.com
+admin.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
@@ -4613,7 +4613,6 @@ paetec.net
 *.fidelity.com
 www.simplytoimpress.com
 www.photoaffections.com
-www.canvasworld.com
 www.personalcreations.com
 www.mycustomcase.com
 *.gifts.com
@@ -4624,10 +4623,11 @@ iseeme.com
 www.cafepress.com
 *.photoaffections.com
 *.iseeme.com
-www.gifts.com
 *.personalcreations.com
 ai.planetart.com
 *.cafepress.com
+www.gifts.com
+www.canvasworld.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4884,9 +4884,9 @@ www.alohi.com
 *.era.com
 *.sothebysrealty.*
 *.corcoran.*
-*.coldwellbanker.*
 *.mycbdesk.com
 *.anywhere.re
+*.coldwellbanker.*
 *.century21.*
 *.realogy.*
 *.bhgre.*
@@ -7285,11 +7285,11 @@ business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 shop.tiktok.com
 tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -10280,8 +10280,8 @@ apps.zendesk.com
 api.getbase.com
 app.smooch.io
 zopim.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -10302,7 +10302,6 @@ arrive-server.shopifycloud.com
 shopify.plus
 *.shopifycs.com
 linkpop.com
-partners.shopify.com
 *.shopify.com
 admin.shopify.com
 shop.app
@@ -10310,6 +10309,7 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -10815,10 +10815,10 @@ ctf.hacker101.com
 hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
-www.hackerone.com
-app.pullrequest.com
 api.hackerone.com
 hackerone.com
+app.pullrequest.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
