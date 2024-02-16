@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 08:24:07 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 09:20:27 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -106,7 +106,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-www.mercadopago.com.pe
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
@@ -118,10 +117,11 @@ www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.ar
-www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.co
+www.mercadopago.com.pe
+www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -1143,7 +1143,6 @@ demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
 partners.databricks.com
-advocates.databricks.com
 customer-academy.databricks.com
 community.databricks.com
 labs.databricks.com
@@ -1151,6 +1150,7 @@ marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
 databricks.com
+advocates.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1726,7 +1726,6 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
@@ -1735,6 +1734,7 @@ tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2736,7 +2736,6 @@ fanduel.design
 matomo.cloud
 matomo.cloud
 https://github.com/matomo-org/docker
-paypal.me
 py.pl
 *.paydiant.com
 *.braintree.tools
@@ -2763,8 +2762,9 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
+paypal.me
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3378,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3531,8 +3531,8 @@ accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3897,9 +3897,9 @@ hackerone-user-content.com
 hackerone.live
 cover-photos.hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 app.pullrequest.com
 www.hackerone.com
-hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
