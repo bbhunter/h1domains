@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 07:19:39 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 08:24:07 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -446,8 +446,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -697,8 +697,8 @@ cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 www.kiwi.com
+*.skypicker.com
 tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -2760,10 +2760,10 @@ decision.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paylution.com
-paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2921,10 +2921,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3526,13 +3526,13 @@ shopify.plus
 *.shopifycs.com
 linkpop.com
 *.shopify.com
-admin.shopify.com
 shop.app
 accounts.shopify.com
 *.shopifycloud.com
 *.shopifykloud.com
 your-store.myshopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
