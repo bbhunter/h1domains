@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 12:32:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 13:24:25 UTC 2024)
 ```
 rfc.tari.com
 www.tarilabs.com
@@ -118,10 +118,10 @@ www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadolibre.com.mx
-www.mercadopago.com.pe
 www.mercadopago.com.co
 www.mercadolibre.com.pe
+www.mercadopago.com.pe
+www.mercadolibre.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -464,9 +464,9 @@ api.kolesa.kz
 api.krisha.kz
 m.krisha.kz
 kolesa.kz
-krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -563,8 +563,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1150,8 +1150,8 @@ labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
 support.databricks.com
-databricks.com
 advocates.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1517,9 +1517,9 @@ global-api.citymapper.com
 remix.com
 eu.remix.com
 platform.remix.com
-*.withbuddies.com
 *.scopely.io
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2316,8 +2316,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2764,9 +2764,9 @@ decision.swiftfinancial.com
 *.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
-paypal.me
-paypalobjects.com
 *.paypal.com
+paypalobjects.com
+paypal.me
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2923,10 +2923,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-api.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3132,8 +3132,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.grab.com
-*.taralite.com
 *.ovo.id
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3533,8 +3533,8 @@ accounts.shopify.com
 *.shopifykloud.com
 your-store.myshopify.com
 *.shopifycs.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
