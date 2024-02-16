@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 16 01:41:19 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 16 02:26:35 UTC 2024)
 ```
 rfc.tari.com
 explore.tari.com
@@ -91,11 +91,11 @@ therapeutics.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 research.23andme.com
-auth.23andme.com
+blog.23andme.com
+store.23andme.com
 medical.23andme.com
 you.23andme.com
-store.23andme.com
-blog.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -532,8 +532,8 @@ support.mozilla.org
 www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 monitor.firefox.com
-relay.firefox.com
 hg.mozilla.org
+relay.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -560,11 +560,11 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hiltonbusinessonline.com
-*.hilton.io
-*.hilton.com.tr
-hilton.com
 *.hilton.com
+hiltonbusinessonline.com
+*.hilton.com.tr
+*.hilton.io
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1292,8 +1292,8 @@ tria.ge
 securitytrails.com
 www.recordedfuture.com
 therecord.media
-geminiadvisory.io
 id.recordedfuture.com
+geminiadvisory.io
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1446,8 +1446,8 @@ app.taxjar.com
 *.link.co
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-m1rtuq8orz.hbstaging.website
-www.urbancompany.com
 www.urbanclap.com
+www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
 new.reddit.com
@@ -1475,8 +1475,8 @@ api.reddit.com
 *.redditmedia.com
 ads.reddit.com
 *.reddit.com
-redditforbusiness.com
 www.reddit.com
+redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.redditmedia.com
@@ -1686,9 +1686,9 @@ api.sharefile.eu
 secure.sharefile.eu
 (yoursubdomain).sharefile.com
 api.sharefile.com
+(youriwssubdomain).cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
-(youriwssubdomain).cloud.com
 www.cloud.com
 citrix.cloud.com
 www.cloud.com
@@ -1728,13 +1728,13 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
+shop.tiktok.com
+tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-shop.tiktok.com
-tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1797,10 +1797,10 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.com
+account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
-*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1943,7 +1943,6 @@ mackeeper.com
 social.playstation.com
 wallets.api.playstation.com
 transact.playstation.com
-*.api.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 direct.playstation.com
@@ -1952,6 +1951,7 @@ my.playstation.com
 *.sonyentertainmentnetwork.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2192,10 +2192,10 @@ www.alibabagroup.com
 *.aliyun.com
 *.Daraz.com
 *.alibabacloud.com
-*.1688.com
-*.taobao.com
 *.alibaba.com
 *.alibaba-inc.com
+*.1688.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2285,8 +2285,8 @@ marrtool.com
 hotel-deals.marriott.com
 cpp.marriott.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2313,9 +2313,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.roblox.com
 *.rbx.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2762,9 +2762,9 @@ decision.swiftfinancial.com
 *.paylution.com
 paypalobjects.com
 *.braintreegateway.com
-*.paypalcorp.com
 *.xoom.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3130,8 +3130,8 @@ gifts.grab.com
 grab.careers
 kartaview.org
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3257,8 +3257,8 @@ circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3268,8 +3268,8 @@ lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
 www.files.com
-app.files.com
 your-assigned-subdomain.files.com
+app.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3308,8 +3308,8 @@ www.starbucks.com.cn
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com
 openapi.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3378,8 +3378,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 classroom.github.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3575,9 +3575,9 @@ playcanvas.com
 app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
-web.snapchat.com
 www.bitmoji.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3740,8 +3740,8 @@ gnip.com
 ide.x.ai
 grok.x.ai
 *.twimg.com
-api.x.ai
 x.com
+api.x.ai
 *.twitter.com
 *.twitter.com
 *.vine.co
@@ -3852,10 +3852,10 @@ slackatwork.com
 slack-redir.net
 www.quip.com
 slack-imgs.com
-api.slack.com
+slack.com
 *.quip.com
 app.slack.com
-slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3885,20 +3885,20 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-ext-content.com
-app.pullrequest.com
-hackerone-user-content.com
-hackerone.live
-www.hackerone.com
 cover-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+errors.hackerone.net
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 api.hackerone.com
+hackerone-ext-content.com
+app.pullrequest.com
 ctf.hacker101.com
+hackerone-user-content.com
+hackerone.live
 hackerone.com
 cover-photos.hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
