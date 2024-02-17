@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 14:20:29 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 15:20:25 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -10,8 +10,8 @@ toolsforhumanity.com
 *.worldcoin.dev
 *.toolsforhumanity.com
 worldcoin.org
-*.consumer.worldcoin.org
 bioid-management.app
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-www.tarilabs.com
 explore.tari.com
+www.tarilabs.com
 textexplore.tari.com
 www.tari.com
 explore.tari.com
@@ -396,12 +396,12 @@ www.visa.co.jp
 www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
-bb.visa.com
 www.visa.com.my
 www.cybersource.com
 www.visainfinite.ca
 aw.visa.com
 www.visa.co.in
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -481,8 +481,8 @@ api.kolesa.kz
 api.krisha.kz
 kolesa.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1040,8 +1040,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1744,16 +1744,16 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 shop.tiktok.com
-*.tiktok.com
-business.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
-tiktok.com
 creatormarketplace.tiktok.com
+tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1809,8 +1809,8 @@ cs.money
 support.cs.money
 wiki.cs.money
 3d.cs.money
-app.faraday.ai
 api.faraday.ai
+app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
@@ -2333,8 +2333,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2779,9 +2779,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
 paypal.me
 *.paypal.com
 py.pl
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3546,9 +3546,9 @@ linkpop.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-shop.app
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3902,20 +3902,20 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
-b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone-user-content.com
 hackerone.live
 api.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
+b5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
