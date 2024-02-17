@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 06:25:07 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 07:19:23 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -221,8 +221,8 @@ secure-supply-xml.booking.com
 http://secure-iphone-xml.booking.com/json/
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -782,10 +782,10 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.superbet.pl
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.superbet.pl
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 api.taxjar.com
 app.taxjar.com
 api.stripe.com
@@ -1744,16 +1744,16 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
 shop.tiktok.com
+*.tiktokv.com
 *.tiktok.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
+creatormarketplace.tiktok.com
 tiktok.com
 ads.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-*.newrelic.com
+login.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3149,8 +3149,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 *.grab.com
+*.taralite.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3423,8 +3423,8 @@ docs.gitlab.com
 *.gitlab.net
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.org
 gitlab.com
+*.gitlab.org
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3539,8 +3539,6 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 shopify.plus
-*.shopify.com
-accounts.shopify.com
 linkpop.com
 shop.app
 *.shopifycloud.com
@@ -3549,6 +3547,8 @@ admin.shopify.com
 *.shopifycs.com
 your-store.myshopify.com
 partners.shopify.com
+*.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3913,9 +3913,9 @@ api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 app.pullrequest.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
