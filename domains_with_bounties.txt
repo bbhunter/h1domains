@@ -1,5 +1,4 @@
 toolsforhumanity.com
-*.worldcoin.dev
 *.toolsforhumanity.com
 worldcoin.org
 bioid-management.app
@@ -7,6 +6,7 @@ bioid-management.app
 *.worldcoin.org
 *.worldcoin-distributors.com
 getworldcoin.com
+*.worldcoin.dev
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -71,9 +71,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -475,8 +475,8 @@ api.kolesa.kz
 api.krisha.kz
 kolesa.kz
 m.avtoelon.uz
-m.krisha.kz
 m.kolesa.kz
+m.krisha.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -776,9 +776,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -886,8 +886,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1442,8 +1442,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1739,9 +1739,9 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -2773,9 +2773,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3080,7 +3080,6 @@ www.crowdstrike.com
 verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
 www.tapiola.fi
-*.tapiola.fi
 tunnistus.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 ext-gw.lahitapiola.fi
@@ -3095,6 +3094,7 @@ www.lahitapiola.fi
 *.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 *.beta.lahitapiola.fi
+*.tapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3142,8 +3142,8 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.grab.com
 *.taralite.com
+*.grab.com
 *.ovo.id
 *.grabpay.com
 *.myteksi.com
@@ -3540,8 +3540,8 @@ linkpop.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-shop.app
 *.shopify.com
+shop.app
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3667,8 +3667,8 @@ next.airbnb.com
 *.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3896,15 +3896,15 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 b5s.hackerone-ext-content.com
