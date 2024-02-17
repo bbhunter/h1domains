@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 17 15:20:25 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 17 16:23:38 UTC 2024)
 ```
 getworldcoin.com
 *.worldcoin-distributors.com
@@ -182,11 +182,11 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-secure.booking.com
 account.booking.com
 *.rentalcars.com
 booking.com
 *.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -397,11 +397,11 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.yellowpepper.com
+aw.visa.com
+www.tink.com
 www.cybersource.com
 www.visainfinite.ca
-aw.visa.com
-www.visa.co.in
-www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -481,8 +481,8 @@ api.kolesa.kz
 api.krisha.kz
 kolesa.kz
 m.avtoelon.uz
-m.krisha.kz
 m.kolesa.kz
+m.krisha.kz
 krisha.kz
 avtoelon.uz
 kolesa.kz
@@ -782,9 +782,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1495,8 +1495,8 @@ ads.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddit.com
-*.reddithelp.com
 www.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1536,8 +1536,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.scopely.io
-*.scopely.com
 *.withbuddies.com
+*.scopely.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1704,10 +1704,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 citrix.cloud.com
 www.cloud.com
@@ -1744,14 +1744,14 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-shop.tiktok.com
 *.tiktokv.com
+shop.tiktok.com
+business.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
-creatormarketplace.tiktok.com
 tiktok.com
+creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
+*.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3272,9 +3272,9 @@ store.rockstargames.com
 circolocorecords.com/
 lifeinvader.com
 prod.ros.rockstargames.com
-socialclub.rockstargames.com
 support.rockstargames.com
 *.rockstargames.com
+socialclub.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3546,9 +3546,9 @@ linkpop.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopify.com
 admin.shopify.com
-shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3906,7 +3906,6 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
-hackerone-user-content.com
 hackerone.live
 api.hackerone.com
 errors.hackerone.net
@@ -3916,6 +3915,7 @@ cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
 b5s.hackerone-ext-content.com
+hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
