@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 02:26:53 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 03:20:45 UTC 2024)
 ```
 toolsforhumanity.com
 *.toolsforhumanity.com
 worldcoin.org
+*.worldcoin.dev
 *.worldcoin-distributors.com
 getworldcoin.com
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
 bioid-management.app
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
-app.dynamic-preprod.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -129,15 +129,15 @@ api.mercadopago.com
 www.mercadopago.com.mx
 api.mercadolibre.com
 www.mercadopago.com.uy
+www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
-www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
+www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 api.mercadopago.com
@@ -182,8 +182,8 @@ cars.booking.com
 widget.rentalcars.com
 careers.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 secure.booking.com
@@ -354,7 +354,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-ht.visa.com
 www.visa.com.br
 www.visa.com.az
 www.visa.com.kz
@@ -381,7 +380,6 @@ bm.visa.com
 www.visa.co.th
 www.visa.co.ve
 visa.co.za
-www.authorize.net
 www.visa.com.cn
 www.visa.com.hk
 www.visa.com.lc
@@ -397,11 +395,13 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.yellowpepper.com
-aw.visa.com
-www.tink.com
 www.cybersource.com
 www.visainfinite.ca
+aw.visa.com
+www.tink.com
+visa.com.au
+www.cardinalcommerce.com
+visa.co.cr
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -1165,8 +1165,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-support.databricks.com
 advocates.databricks.com
+support.databricks.com
 databricks.com
 customer-academy.databricks.com
 docs.databricks.com
@@ -1448,8 +1448,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-*.stripe.com
 api.stripe.com
+*.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1968,9 +1968,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
-*.api.playstation.com
 my.account.sony.com
 *.playstation.net
+*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2888,13 +2888,13 @@ www.rocaton.com
 *.goldmanpfm.com
 *.finlife.com
 *.finlifepartners.com
-*.folioinvesting.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
 api.foliofn.com
 *.advisorsolutions.gs.com
 apigw.foliofn.com
 *.foliofirst.com
+*.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3000,7 +3000,7 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-*.newrelic.com
+login.newrelic.com
 *.eu.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
@@ -3545,8 +3545,8 @@ linkpop.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 shop.app
+*.shopify.com
 admin.shopify.com
 partners.shopify.com
 *.shopifycs.com
@@ -3902,15 +3902,15 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
 api.hackerone.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 www.hackerone.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
