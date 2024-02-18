@@ -2,10 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 20:20:21 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 21:17:18 UTC 2024)
 ```
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin-distributors.com
 bioid-management.app
 worldcoin.org
@@ -13,6 +12,7 @@ getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.dev
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic.xyz
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
+app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
-*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1164,8 +1164,8 @@ community.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 accounts.cloud.databricks.com
-advocates.databricks.com
 support.databricks.com
+advocates.databricks.com
 customer-academy.databricks.com
 docs.databricks.com
 databricks.com
@@ -1744,15 +1744,15 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 www.pangleglobal.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2496,12 +2496,12 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 flyiin.com
 admin.rezserver.com
 press.priceline.com
 cruises.priceline.com
 priceline.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2777,9 +2777,9 @@ decision.swiftfinancial.com
 *.braintreepayments.com
 *.paylution.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypalcorp.com
 *.xoom.com
-paypalobjects.com
 paypal.me
 py.pl
 *.paypal.com
@@ -3538,7 +3538,6 @@ yourcompany.udemy.com
 shopifyinbox.com
 arrive-server.shopifycloud.com
 linkpop.com
-*.shopifycloud.com
 *.shopifykloud.com
 *.shopifycs.com
 accounts.shopify.com
@@ -3548,6 +3547,7 @@ your-store.myshopify.com
 shopify.plus
 *.shopify.com
 admin.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3901,14 +3901,14 @@ profile-photos.hackerone-user-content.com
 mta-sts.wearehackerone.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+errors.hackerone.net
+ctf.hacker101.com
+app.pullrequest.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 hackerone.live
-errors.hackerone.net
-ctf.hacker101.com
-app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
