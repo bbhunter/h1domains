@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 18 22:19:47 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 18 23:20:29 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -11,8 +11,8 @@ worldcoin.org
 getworldcoin.com
 toolsforhumanity.com
 *.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -781,9 +781,9 @@ admin.8x8.com
 *.luckydays.com
 *.superbet.rs
 *.superbet.com
+*.magicjackpot.ro
 *.napoleongames.be
 *.superbet.ro
-*.magicjackpot.ro
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-*.citrixworkspacesapi.net
-citrix.cloud.com
 (youriwssubdomain).cloud.com
 www.cloud.com
+*.citrixworkspacesapi.net
+citrix.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1750,9 +1750,9 @@ partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 shop.tiktok.com
+*.tiktok.com
 www.pangleglobal.com
 tiktok.com
-*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2496,12 +2496,12 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 reservations.rezserver.com
-www.getaroom.com
 flyiin.com
 admin.rezserver.com
 press.priceline.com
 cruises.priceline.com
 priceline.com
+www.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2999,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
+login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3912,9 +3912,9 @@ app.pullrequest.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.com
 hackerone-user-content.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
