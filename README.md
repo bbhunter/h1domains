@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 19 02:27:26 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 19 03:22:44 UTC 2024)
 ```
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
@@ -77,8 +77,8 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
 app.dynamic-preprod.xyz
+demo.dynamic.xyz
 app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
@@ -128,14 +128,14 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.mx
 www.mercadopago.com.uy
-www.mercadolibre.com.mx
 www.mercadopago.com.br
+www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolivre.com.br
+www.mercadolibre.cl
 www.mercadopago.com.ar
 www.mercadopago.cl
-www.mercadolibre.cl
 www.mercadolibre.com.pe
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
@@ -480,8 +480,8 @@ id.kolesa.kz
 api.kolesa.kz
 api.krisha.kz
 m.avtoelon.uz
-m.kolesa.kz
 m.krisha.kz
+m.kolesa.kz
 krisha.kz
 kolesa.kz
 avtoelon.uz
@@ -1039,8 +1039,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1447,8 +1447,8 @@ js.stripe.com
 *.reckoproduction.com
 *.recko.io
 *.link.co
-api.stripe.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.taxjar.com
 api.stripe.com
@@ -1702,10 +1702,10 @@ secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
-(youriwssubdomain).cloud.com
-www.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+(youriwssubdomain).cloud.com
+www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
 citrix.cloud.com
@@ -1744,8 +1744,8 @@ developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
@@ -1967,9 +1967,9 @@ ca.account.sony.com
 direct.playstation.com
 store.playstation.com
 my.playstation.com
+*.api.playstation.com
 my.account.sony.com
 *.playstation.net
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2940,10 +2940,10 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.counter-strike.net
-steamcommunity.com
 api.steampowered.com
 store.steampowered.com
 www.teamfortress.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -2999,8 +2999,8 @@ synthetics.newrelic.com
 *.nr-data.net
 synthetics.eu.newrelic.com
 *.nr-ops.net
-login.newrelic.com
 *.eu.newrelic.com
+one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
