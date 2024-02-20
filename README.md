@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 20:24:03 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 21:19:57 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 worldcoin.org
+getworldcoin.com
 *.consumer.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.org
@@ -186,8 +186,8 @@ account.booking.com
 *.rentalcars.com
 booking.com
 *.booking.com
-distribution-xml.booking.com
 spark.fareharbor.com
+distribution-xml.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -2504,7 +2504,7 @@ www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-secure.rezserver.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2839,8 +2839,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
-staging.airtable.com
 api-staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3394,9 +3394,9 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 *.githubapp.com
-npmjs.org
 classroom.github.com
 api.github.com
+npmjs.org
 github.com
 github.com
 api.github.com
@@ -3546,11 +3546,11 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
+partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com

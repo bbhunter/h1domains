@@ -1,8 +1,12 @@
+*.inter.co
+*.bancointer.com.br
+*.inter.co
+*.bancointer.com.br
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 worldcoin.org
+getworldcoin.com
 *.consumer.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.org
@@ -55,7 +59,7 @@ www.avios.com
 *.iairgroup.com
 *.iaggbs.com
 *.iagcargo.com
-*.aerlingus.com
+www.iairgroup.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -244,8 +248,8 @@ account.booking.com
 *.rentalcars.com
 booking.com
 *.booking.com
-distribution-xml.booking.com
 spark.fareharbor.com
+distribution-xml.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -2955,7 +2959,6 @@ wgwebservices.snapfish.com
 *.sf-cdn.com
 snapfish.com
 staging.spoonflower.com
-*.snapfish.com
 *.sbs.shutterfly.com
 shutterfly.com
 www.spoonflower.com
@@ -2966,6 +2969,7 @@ jcpportraits.com
 www.borrowlenses.com
 *.shutterfly.com
 *.photoccino.com
+*.snapfish.com
 *.shutterfly.com
 *.snapfish.com
 *.sf-cdn.com
@@ -3698,8 +3702,8 @@ www.divvyhomes.com
 *.avalara.io
 *.inposia.com
 *.davosalestax.com
-*.crowdreason.com
 *.avalara.com
+*.crowdreason.com
 *.avalara.com
 *.avalara.net
 *.avalara.io
@@ -4634,9 +4638,7 @@ paetec.net
 *.mystreetscape.com
 *.wealthscape.com
 *.fidelity.com
-www.photoaffections.com
 www.personalcreations.com
-www.mycustomcase.com
 *.gifts.com
 *.mycustomcase.com
 *.simplytoimpress.com
@@ -4649,8 +4651,10 @@ iseeme.com
 www.canvasworld.com
 ai.planetart.com
 www.simplytoimpress.com
-*.personalcreations.com
 *.cafepress.com
+*.personalcreations.com
+www.photoaffections.com
+www.mycustomcase.com
 *.cafepress.com
 *.canvasworld.com
 *.gifts.com
@@ -4909,8 +4913,8 @@ www.alohi.com
 *.coldwellbanker.*
 *.trgc.com
 *.realogy.*
-*.century21.*
 *.anywhere.re
+*.century21.*
 *.realogy.*
 *.bhgre.*
 *.century21.*
@@ -5217,8 +5221,8 @@ forum.sketchfab.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -6118,8 +6122,8 @@ newsletters.drugs.com
 blog.drugs.com
 www.woolshed.com
 www.medicine.com
-www.drugs.com
 www.question.com
+www.drugs.com
 www.drugs.com
 newsletters.drugs.com
 www.medicine.com
@@ -8759,7 +8763,7 @@ www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-secure.rezserver.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -9150,8 +9154,8 @@ mariadb.org
 mariadb.org
 *.staging-airtableblocks.com
 *.staging.airtable.com
-staging.airtable.com
 api-staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -9838,9 +9842,9 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 *.githubapp.com
-npmjs.org
 classroom.github.com
 api.github.com
+npmjs.org
 github.com
 github.com
 api.github.com
@@ -9992,11 +9996,11 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
+partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
 shopify.plus
 admin.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
