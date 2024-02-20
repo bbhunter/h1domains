@@ -1,11 +1,11 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,getworldcoin.com,True
+toolsforhumanity,worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.worldcoin.org,True
@@ -1240,8 +1240,8 @@ hypr-corp,pentesting3.gethypr.com,True
 hypr-corp,pentesting2.gethypr.com,True
 hypr-corp,hypr74352.gethypr.com,True
 hypr-corp,hypr37448.gethypr.com,True
-modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
+modern_treasury,app.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
 nicehash,test.nicehash.com,True
@@ -3630,8 +3630,8 @@ magic-eden,eng.magiceden.io,False
 magic-eden,eng.magiceden.dev,False
 magic-eden,*.magiceden.dev,True
 magic-eden,*.magiceden.workers.dev,True
-magic-eden,*.magiceden.io,True
 magic-eden,magiceden.io,True
+magic-eden,*.magiceden.io,True
 magic-eden,magiceden.io,True
 magic-eden,*.magiceden.io,True
 magic-eden,*.magiceden.dev,True
@@ -6112,8 +6112,8 @@ drugs_com,newsletters.drugs.com,False
 drugs_com,blog.drugs.com,False
 drugs_com,www.woolshed.com,False
 drugs_com,www.medicine.com,False
-drugs_com,www.question.com,False
 drugs_com,www.drugs.com,False
+drugs_com,www.question.com,False
 drugs_com,www.drugs.com,False
 drugs_com,newsletters.drugs.com,False
 drugs_com,www.medicine.com,False
@@ -9255,10 +9255,10 @@ valve,playartifact.com,True
 valve,www.valvesoftware.com,True
 valve,www.counter-strike.net,True
 valve,store.steampowered.com,True
-valve,www.teamfortress.com,True
 valve,www.dota2.com,True
 valve,steamcommunity.com,True
 valve,api.steampowered.com,True
+valve,www.teamfortress.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True

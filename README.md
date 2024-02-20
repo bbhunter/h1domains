@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 02:23:56 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 03:21:12 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
 getworldcoin.com
+worldcoin.org
 *.worldcoin.org
 *.worldcoin.dev
 *.worldcoin.org
@@ -253,8 +253,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -892,8 +892,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2940,10 +2940,10 @@ playartifact.com
 www.valvesoftware.com
 www.counter-strike.net
 store.steampowered.com
-www.teamfortress.com
 www.dota2.com
 steamcommunity.com
 api.steampowered.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
