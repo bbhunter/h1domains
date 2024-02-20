@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 10:22:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 11:19:42 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
-toolsforhumanity.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
 *.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -91,8 +91,8 @@ cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -183,8 +183,8 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
 booking.com
 spark.fareharbor.com
@@ -287,9 +287,9 @@ oauth-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -482,12 +482,12 @@ m.kolesa.kz
 id.kolesa.kz
 krisha.kz
 api.kolesa.kz
-api.avtoelon.uz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
 kolesa.kz
 avtoelon.uz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -699,10 +699,10 @@ digili.s-cloud.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.s-kaupat.fi
-www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -750,6 +750,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 sso.8x8.com
 voapi.8x8.com
+*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1170,8 +1171,8 @@ support.databricks.com
 advocates.databricks.com
 docs.databricks.com
 labs.databricks.com
-databricks.com
 customer-academy.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1677,8 +1678,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -3395,8 +3396,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 github.com
-classroom.github.com
 api.github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3548,8 +3549,8 @@ shop.app
 accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3587,7 +3588,6 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-playcanvas.com
 app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
@@ -3595,6 +3595,7 @@ www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net

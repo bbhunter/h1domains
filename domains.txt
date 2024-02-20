@@ -1,12 +1,12 @@
 *.worldcoin-distributors.com
 getworldcoin.com
-toolsforhumanity.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
 *.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -50,12 +50,12 @@ textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 tlu.tarilabs.com
-www.iairgroup.com
 www.iaggbs.com
 www.avios.com
 *.iairgroup.com
 www.aerlingus.com
 *.iaggbs.com
+*.iagcargo.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -143,8 +143,8 @@ cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -241,8 +241,8 @@ widget.rentalcars.com
 careers.booking.com
 secure.booking.com
 admin.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.rentalcars.com
 booking.com
 spark.fareharbor.com
@@ -1303,9 +1303,9 @@ manage-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -2850,12 +2850,12 @@ m.kolesa.kz
 id.kolesa.kz
 krisha.kz
 api.kolesa.kz
-api.avtoelon.uz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
 kolesa.kz
 avtoelon.uz
+api.avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -3249,10 +3249,10 @@ digili.s-cloud.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.s-kaupat.fi
-www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+www.sokos.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -3382,6 +3382,7 @@ user-profile.8x8.com
 cloud8.8x8.com
 sso.8x8.com
 voapi.8x8.com
+*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -4934,8 +4935,8 @@ support.databricks.com
 advocates.databricks.com
 docs.databricks.com
 labs.databricks.com
-databricks.com
 customer-academy.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -6895,8 +6896,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -8004,6 +8005,7 @@ user-profile.8x8.com
 *.8x8cloud.net
 *.8x8staging.com
 *.8x8.id
+*.wavecell.com
 *.ucverse.com
 *.8x8.com
 *.packet8.net
@@ -9836,8 +9838,8 @@ npmjs.com
 *.githubapp.com
 npmjs.org
 github.com
-classroom.github.com
 api.github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -9991,8 +9993,8 @@ shop.app
 accounts.shopify.com
 your-store.myshopify.com
 partners.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -10030,7 +10032,6 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
-playcanvas.com
 app.snapchat.com
 business.snapchat.com
 ads.snapchat.com
@@ -10038,6 +10039,7 @@ www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -10710,7 +10712,6 @@ api.remitano.com
 socket.remitano.com
 ns11.jimdo.com
 logo.e.jimdo.com
-cms.jimdo.com
 store.jimdosite.com
 a.jimdo.com
 *.jimdoreseller.com
@@ -10738,6 +10739,7 @@ ns12.jimdo.com
 *.jimdo.com
 *.jimdo.systems
 dash.e.jimdo.com
+cms.jimdo.com
 *.jimdosite.com
 *.jimdoreseller.com
 *.jimdo-platform.net
