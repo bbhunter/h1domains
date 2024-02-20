@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 17:22:39 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 18:26:50 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.dev
 worldcoin.org
+getworldcoin.com
 toolsforhumanity.com
-bioid-management.app
 *.worldcoin.org
+bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.ddfcontent.com
 www.pornbox.com
+www.ddfcontent.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -78,8 +78,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -138,8 +138,8 @@ www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.mx
 api.mercadolibre.com
+www.mercadopago.com.mx
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -676,12 +676,12 @@ oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 my.malwarebytes.com
-*.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 www.malwarebytes.com
 *.threatdown.com
+*.cloud.malwarebytes.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1010,8 +1010,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1755,10 +1755,10 @@ tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-*.tiktok.com
+business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
-business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2360,8 +2360,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 www.datastax.com
-astra.datastax.com
 docs.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2503,9 +2503,8 @@ reservations.rezserver.com
 www.bookingholdings.com
 api.rezserver.com
 flyiin.com
-priceline.com
 admin.rezserver.com
-press.priceline.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3153,8 +3152,8 @@ kartaview.org
 jira.grab.com
 *.ovo.id
 *.grabpay.com
-*.grab.com
 *.taralite.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3547,11 +3546,11 @@ linkpop.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
-your-store.myshopify.com
 partners.shopify.com
 shopify.plus
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3846,9 +3845,9 @@ institutional.coinbase.com
 *.base.org
 api.coinbase.com
 api.custody.coinbase.com
-coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3874,8 +3873,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
