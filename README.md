@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 20 18:26:50 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 20 19:17:55 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -53,8 +53,8 @@ www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
-www.pornbox.com
 www.ddfcontent.com
+www.pornbox.com
 www.pornworld.com
 www.pornbox.com
 www.analvids.com
@@ -91,8 +91,8 @@ cpanel.hostinger.com
 www.zyro.com
 backend.zyro.com
 www.hostinger.com
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -134,12 +134,12 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadopago.com.mx
+api.mercadolibre.com
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -402,9 +402,9 @@ cw.visa.com
 bb.visa.com
 visa.com.au
 www.visa.com.br
-usa.visa.com
 www.fraedom.com
 visa.co.cr
+ht.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -486,8 +486,8 @@ app.krisha.kz
 m.krisha.kz
 kolesa.kz
 api.avtoelon.uz
-avtoelon.uz
 m.kolesa.kz
+avtoelon.uz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -678,9 +678,9 @@ oneview.malwarebytes.com
 my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 www.malwarebytes.com
 *.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1111,8 +1111,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1301,8 +1301,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1755,10 +1755,10 @@ tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
 shop.tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
+business.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2213,13 +2213,13 @@ amazonpayinsurance.in
 *.tmall.com
 www.alibabagroup.com
 *.aliyun-inc.com
-*.aliyun.com
 *.alibabacloud.com
 *.alibaba-inc.com
 *.1688.com
 *.alibaba.com
 *.taobao.com
 *.Daraz.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2504,7 +2504,7 @@ www.bookingholdings.com
 api.rezserver.com
 flyiin.com
 admin.rezserver.com
-secure.rezserver.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2775,7 +2775,6 @@ partner.swiftfinancial.com
 scrutiny.swiftfinancial.com
 prequal.swiftfinancial.com
 decision.swiftfinancial.com
-*.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paylution.com
@@ -2787,6 +2786,7 @@ paypal.me
 py.pl
 *.venmo.com
 *.paypal.com
+*.hyperwallet.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3395,8 +3395,8 @@ education.github.com
 npmjs.com
 *.githubapp.com
 npmjs.org
-api.github.com
 classroom.github.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3547,10 +3547,10 @@ linkpop.com
 shop.app
 accounts.shopify.com
 partners.shopify.com
-shopify.plus
 *.shopify.com
-admin.shopify.com
 your-store.myshopify.com
+shopify.plus
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3873,8 +3873,8 @@ www.quip.com
 *.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3913,10 +3913,10 @@ cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 api.hackerone.com
 www.hackerone.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
-app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
