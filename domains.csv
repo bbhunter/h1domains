@@ -1,10 +1,10 @@
 handle,domain,eligible_for_bounty
 toolsforhumanity,*.worldcoin-distributors.com,True
-toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,worldcoin.org,True
+toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.worldcoin.org,True
@@ -144,8 +144,8 @@ hostinger,cpanel.hostinger.com,True
 hostinger,www.zyro.com,True
 hostinger,backend.zyro.com,True
 hostinger,*.000webhost.com,True
-hostinger,www.hostinger.com,True
 hostinger,hpanel.hostinger.com,True
+hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -2847,7 +2847,6 @@ kolesagroup,app.avtoelon.uz,True
 kolesagroup,id.avtoelon.uz,True
 kolesagroup,app.kolesa.kz,True
 kolesagroup,m.avtoelon.uz,True
-kolesagroup,m.kolesa.kz,True
 kolesagroup,id.kolesa.kz,True
 kolesagroup,krisha.kz,True
 kolesagroup,api.kolesa.kz,True
@@ -2857,6 +2856,7 @@ kolesagroup,m.krisha.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,api.avtoelon.uz,True
 kolesagroup,avtoelon.uz,True
+kolesagroup,m.kolesa.kz,True
 kolesagroup,kolesa.kz,True
 kolesagroup,m.kolesa.kz,True
 kolesagroup,krisha.kz,True
@@ -3198,14 +3198,14 @@ malwarebytes,*.mwb-threatintel.com,True
 malwarebytes,*.mbamupdates.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
-malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,blog.malwarebytes.com,False
 malwarebytes,*.threatdown.com,True
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.malwarebytes.com,True
 malwarebytes,*.cyrus-security.com,True
 malwarebytes,cloud.malwarebytes.com,True
+malwarebytes,www.malwarebytes.com,True
+malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -4841,8 +4841,8 @@ etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
 etoro_bbp,www.etoro.com,True
-etoro_bbp,etoropartners.com,True
 etoro_bbp,bullsheet.me,True
+etoro_bbp,etoropartners.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
 etoro_bbp,partners.etoro.com,True
@@ -6195,9 +6195,9 @@ on,on-app-backend.on-running.com,False
 on,*.on-running.com,False
 on,*.on-running.com,False
 on,on-app-backend.on-running.com,False
-scopely,*.scopely.io,True
 scopely,*.withbuddies.com,True
 scopely,*.scopely.com,True
+scopely,*.scopely.io,True
 scopely,*.scopely.io,True
 scopely,*.scopely.com,True
 scopely,*.withbuddies.com,True
@@ -6899,8 +6899,8 @@ netlify,internal-docs.netlify.com,True
 netlify,supportal.netlify.app,True
 basecamp,world.hey.com,True
 basecamp,launchpad.37signals.com,True
-basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
+basecamp,3.basecamp.com,True
 basecamp,*.hey.com,True
 basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
@@ -7793,8 +7793,8 @@ goodrx,www.goodrx.com,True
 goodrx,www.goodrx.com,True
 roblox,*.ra.roblox.com,True
 roblox,*.rbx.com,True
-roblox,*.roblox.com,True
 roblox,*.guilded.gg,True
+roblox,*.roblox.com,True
 roblox,*.roblox.com,True
 roblox,*.rbx.com,True
 roblox,*.guilded.gg,True
@@ -8482,7 +8482,6 @@ pixiv,sketch.pixiv.net,True
 pixiv,sensei.pixiv.net,True
 pixiv,hub.vroid.com,True
 pixiv,dic.pixiv.net,True
-pixiv,*.fanbox.cc,True
 pixiv,neoket.net,True
 pixiv,vroid.com,True
 pixiv,novel.pixiv.net,True
@@ -8490,6 +8489,7 @@ pixiv,booth.pm,True
 pixiv,payment.pixiv.net,True
 pixiv,accounts.pixiv.net,True
 pixiv,www.pixiv.net,True
+pixiv,*.fanbox.cc,True
 pixiv,*.fanbox.cc,True
 pixiv,booth.pm,True
 pixiv,comic.pixiv.net,True
@@ -8909,7 +8909,6 @@ hyatt,res.vacations.seaworld.com,True
 hyatt,www.beachbound.com,True
 hyatt,book.booktandl.com,True
 hyatt,res.blueskytours.globalbookingsolutions.com,True
-hyatt,res.universalorlandovacations.com,True
 hyatt,reservations.wynnvacations.com,True
 hyatt,book.beachbound.com,True
 hyatt,res.marival.globalbookingsolutions.com,True
@@ -8922,6 +8921,7 @@ hyatt,res.treasureisland.globalbookingsolutions.com,True
 hyatt,res.vacations.sesameplace.com,True
 hyatt,www.triseptsolutions.com,True
 hyatt,blueskytours.globalbookingsolutions.com,True
+hyatt,booking.cheapcaribbean.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9839,8 +9839,8 @@ github,*.githubusercontent.com,True
 github,npmjs.com,True
 github,*.githubapp.com,True
 github,npmjs.org,True
-github,classroom.github.com,True
 github,api.github.com,True
+github,classroom.github.com,True
 github,github.com,True
 github,github.com,True
 github,api.github.com,True
@@ -9994,9 +9994,9 @@ shopify,shop.app,True
 shopify,accounts.shopify.com,True
 shopify,your-store.myshopify.com,True
 shopify,partners.shopify.com,True
-shopify,*.shopify.com,True
 shopify,shopify.plus,True
 shopify,admin.shopify.com,True
+shopify,*.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.com,True
 shopify,*.shopifykloud.com,True
