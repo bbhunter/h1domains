@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 18:27:15 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 19:17:10 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -183,11 +183,11 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
+*.rentalcars.com
 spark.fareharbor.com
-*.booking.com
 booking.com
 account.booking.com
-*.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -516,7 +516,6 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
-contile.services.mozilla.com
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
@@ -526,6 +525,7 @@ mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
+contile.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -676,11 +676,11 @@ oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 my.malwarebytes.com
+*.cloud.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-www.malwarebytes.com
-*.threatdown.com
-*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -696,7 +696,6 @@ cloud.malwarebytes.com
 oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-tunnistus.s-ryhma.fi
 digili.s-cloud.fi
 api.sokos.fi
 cfapi.voikukka.fi
@@ -705,6 +704,7 @@ online.s-pankki.fi
 www.s-pankki.fi
 www.sokos.fi
 www.prisma.fi
+tunnistus.s-ryhma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1696,7 +1696,6 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-eu.cloud.com
 adm.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
@@ -1711,6 +1710,7 @@ citrix.cloud.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 accounts.cloud.com
+eu.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1835,24 +1835,26 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+www.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3538,9 +3540,9 @@ partners.shopify.com
 shopify.plus
 linkpop.com
 your-store.myshopify.com
-admin.shopify.com
-*.shopify.com
 shop.app
+*.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3618,7 +3620,6 @@ spectacles.com
 map.snapchat.com
 story.snapchat.com
 *.sc-corp.net
-community.ui.com
 design.ui.com
 ispdesign.ui.com
 rma.ui.com
@@ -3836,9 +3837,9 @@ institutional.coinbase.com
 api.custody.coinbase.com
 pro.coinbase.com
 coinbase.com
-*.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3899,15 +3900,15 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
+app.pullrequest.com
 ctf.hacker101.com
+cover-photos.hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
