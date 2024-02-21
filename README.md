@@ -2,10 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 22:19:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 23:24:10 UTC 2024)
 ```
 *.worldcoin-distributors.com
-getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 toolsforhumanity.com
@@ -13,6 +12,7 @@ bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -134,11 +134,11 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -520,8 +520,8 @@ location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 bugzilla.mozilla.org
-mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-support.databricks.com
 databricks.com
+support.databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1753,9 +1753,9 @@ business.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
 *.tiktokv.com
-tiktok.com
 ads.tiktok.com
 *.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1835,24 +1835,25 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2774,8 +2775,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
+*.hyperwallet.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2932,11 +2933,11 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.teamfortress.com
-steamcommunity.com
 www.dota2.com
 store.steampowered.com
 www.counter-strike.net
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3534,13 +3535,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 your-store.myshopify.com
-admin.shopify.com
-*.shopify.com
 shop.app
+*.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3898,11 +3899,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
-ctf.hacker101.com
 cover-photos.hackerone-user-content.com
+ctf.hacker101.com
 www.hackerone.com
 hackerone-user-content.com
 api.hackerone.com
