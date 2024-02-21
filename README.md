@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 17:19:10 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 18:27:15 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.worldcoin.org
+worldcoin.org
 bioid-management.app
 *.consumer.worldcoin.org
-worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -183,11 +183,11 @@ careers.booking.com
 secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
-booking.com
 spark.fareharbor.com
-account.booking.com
 *.booking.com
+booking.com
+account.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -484,10 +484,10 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
+krisha.kz
 api.avtoelon.uz
 avtoelon.uz
 kolesa.kz
-krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -676,11 +676,11 @@ oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 my.malwarebytes.com
-*.cloud.malwarebytes.com
-*.threatdown.com
-www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
+*.threatdown.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -742,7 +742,6 @@ work.8x8.com
 *.p8t.us
 pay.8x8.com
 admin.8x8.com
-*.8x8cloud.net
 user-profile.8x8.com
 *.8x8.vc
 *.8x8.id
@@ -753,6 +752,7 @@ cloud8.8x8.com
 sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
+*.packet8.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -866,9 +866,9 @@ www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
 www.expediacruises.com
-www.expediagroup.com
 www.hotels.com
 www.vrbo.com
+www.expediagroup.com
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -978,8 +978,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1008,8 +1008,8 @@ invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
 checkout.razorpay.com
-api.razorpay.com
 dashboard.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1150,9 +1150,9 @@ bullsheet.me
 admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
-www.instacart.com
 *.instacart.com
 *.instacart.tools
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 advocates.databricks.com
-databricks.com
 support.databricks.com
+databricks.com
 kb.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1299,8 +1299,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1658,9 +1658,9 @@ netlify-rum.netlify.app
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
-internal.netlify.com
 api.netlify.com
 app.netlify.com
+internal.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1749,11 +1749,11 @@ careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 tiktok.com
 ads.tiktok.com
 *.tiktok.com
@@ -1818,9 +1818,9 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2372,10 +2372,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
-*.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
+*.line.me
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2506,7 +2506,7 @@ api.rezserver.com
 flyiin.com
 admin.rezserver.com
 cruises.priceline.com
-www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2774,8 +2774,8 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-paypalobjects.com
 *.hyperwallet.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -2823,8 +2823,8 @@ m.chaturbate.com
 blog.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-testnet.bitmex.com
 *.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3384,8 +3384,8 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-classroom.github.com
 github.com
+classroom.github.com
 *.githubapp.com
 api.github.com
 github.com
@@ -3534,13 +3534,13 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
 accounts.shopify.com
-shopify.plus
-admin.shopify.com
 partners.shopify.com
+shopify.plus
 linkpop.com
-shop.app
-*.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+*.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3666,8 +3666,8 @@ next.airbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3859,12 +3859,12 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
-www.quip.com
-*.quip.com
 slack-imgs.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
+www.quip.com
+*.quip.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3899,15 +3899,15 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone.live
 b5s.hackerone-ext-content.com
-hackerone-user-content.com
+app.pullrequest.com
 hackerone-ext-content.com
 errors.hackerone.net
-app.pullrequest.com
-ctf.hacker101.com
 cover-photos.hackerone-user-content.com
-api.hackerone.com
+ctf.hacker101.com
 www.hackerone.com
 hackerone.com
+hackerone-user-content.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
