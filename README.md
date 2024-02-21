@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 21 20:25:04 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 21 21:19:46 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
 *.toolsforhumanity.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 bioid-management.app
 *.consumer.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
+www.pornworld.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -184,10 +184,10 @@ secure.booking.com
 admin.booking.com
 distribution-xml.booking.com
 *.rentalcars.com
+*.booking.com
 spark.fareharbor.com
 booking.com
 account.booking.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -524,8 +524,8 @@ phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
 firefox.settings.services.mozilla.com
-addons.allizom.org
 contile.services.mozilla.com
+addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -550,11 +550,11 @@ vpn.mozilla.org
 community-tc.services.mozilla.com
 developer.mozilla.org
 support.mozilla.org
-www.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -584,8 +584,8 @@ hiltonhotels.jp
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
-*.hilton.com
 hilton.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1753,9 +1753,9 @@ partner.tiktokshop.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1835,26 +1835,24 @@ hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
 www.trekpleister.nl
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-www.watsons.com.tr
-app.watsons.com.tr
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2213,7 +2211,6 @@ updates.amazon.com
 amazonpayinsurance.in
 *.alimama.com
 *.aliexpress.ru
-*.aliexpress.com
 *.tmall.com
 *.aliyun-inc.com
 *.alibabacloud.com
@@ -2224,6 +2221,7 @@ amazonpayinsurance.in
 *.Daraz.com
 *.1688.com
 www.alibabagroup.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3386,10 +3384,10 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-github.com
 classroom.github.com
 *.githubapp.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3627,7 +3625,7 @@ careers.ui.com
 uisp.com
 fw-update.ubnt.com
 unifi.ui.com
-account.ui.com
+store.ui.com
 *.ubnt.com
 *.ui.com
 store.ui.com
