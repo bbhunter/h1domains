@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 12:36:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 13:27:01 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -52,9 +52,9 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
+www.ddfcontent.com
 www.pornbox.com
 www.pornbox.com
 www.analvids.com
@@ -134,10 +134,10 @@ www.mercadopago.com.ar
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.cl
-www.mercadopago.com.mx
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -183,8 +183,8 @@ admin.booking.com
 distribution-xml.booking.com
 *.rentalcars.com
 booking.com
-careers.booking.com
 account.booking.com
+careers.booking.com
 spark.fareharbor.com
 *.booking.com
 cars.booking.com
@@ -231,8 +231,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless-cicd.io
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -721,8 +721,8 @@ tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-auth.skypicker.com
 *.skypicker.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1057,10 +1057,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1752,8 +1752,8 @@ www.pangleglobal.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-tiktok.com
 partner.tiktokshop.com
+tiktok.com
 *.tiktok.com
 ads.tiktok.com
 *.tiktok.com
@@ -1834,20 +1834,26 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2212,11 +2218,11 @@ amazonpayinsurance.in
 *.alibaba-inc.com
 *.alibaba.com
 *.Daraz.com
-*.1688.com
 www.alibabagroup.com
 *.aliexpress.com
 *.taobao.com
 *.aliyun.com
+*.1688.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2400,8 +2406,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-sketch.pixiv.net
 accounts.pixiv.net
+sketch.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2781,10 +2787,10 @@ decision.swiftfinancial.com
 paypal.me
 py.pl
 *.venmo.com
-*.hyperwallet.com
 paypalobjects.com
-*.xoom.com
+*.hyperwallet.com
 *.paypal.com
+*.xoom.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3150,8 +3156,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3669,12 +3675,12 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 next.airbnb.com
-*.withairbnb.com
 assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.airbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3909,8 +3915,8 @@ hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
 ctf.hacker101.com
-api.hackerone.com
 hackerone-user-content.com
+api.hackerone.com
 cover-photos.hackerone-user-content.com
 www.hackerone.com
 hackerone.com
