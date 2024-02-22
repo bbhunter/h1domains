@@ -2,16 +2,16 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 18:28:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 19:19:51 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
 bioid-management.app
 *.toolsforhumanity.com
-worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
+worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -88,11 +88,11 @@ www.niagahoster.co.id
 payments.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
-*.000webhost.com
 www.hostinger.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+*.000webhost.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -180,14 +180,14 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 account.booking.com
 cars.booking.com
 *.booking.com
 spark.fareharbor.com
-secure.booking.com
 careers.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -613,7 +613,6 @@ external.indrive.dev
 aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 auth.indrive.tech
-argocd.indrive.dev
 ci.indrive.dev
 volans.tech
 injob.indriver.com
@@ -625,6 +624,7 @@ cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -720,8 +720,8 @@ cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1109,8 +1109,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1754,8 +1754,8 @@ business.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,20 +1834,24 @@ hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2334,8 +2338,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3392,9 +3396,9 @@ npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
-github.com
 npmjs.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3538,15 +3542,15 @@ yourcompany.udemy.com
 shopifyinbox.com
 *.shopifykloud.com
 *.shopifycloud.com
-accounts.shopify.com
-partners.shopify.com
 shopify.plus
+partners.shopify.com
 linkpop.com
 shop.app
 arrive-server.shopifycloud.com
 *.shopify.com
-admin.shopify.com
 *.shopifycs.com
+admin.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3755,8 +3759,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3793,10 +3797,10 @@ gravatar.com
 api.tumblr.com
 happy.tools
 intensedebate.com
-www.tumblr.com
 *.tumblr.com
 mailpoet.com
 wordpress.com
+www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
