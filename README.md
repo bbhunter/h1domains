@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 22 14:24:14 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 22 15:23:37 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -11,8 +11,8 @@ bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
 *.consumer.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -90,9 +90,9 @@ cpanel.hostinger.com
 backend.zyro.com
 *.000webhost.com
 www.hostinger.com
-hpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -107,13 +107,13 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 api.23andme.com
 research.23andme.com
-store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 you.23andme.com
 auth.23andme.com
 blog.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -186,8 +186,8 @@ booking.com
 account.booking.com
 careers.booking.com
 spark.fareharbor.com
-*.booking.com
 cars.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -467,8 +467,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -484,10 +484,10 @@ m.krisha.kz
 m.kolesa.kz
 id.kolesa.kz
 api.kolesa.kz
-krisha.kz
 api.avtoelon.uz
 avtoelon.uz
 kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -677,9 +677,9 @@ oneview.malwarebytes.com
 *.mb-cosmos.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+www.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -721,8 +721,8 @@ tequila.kiwi.com
 www.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-*.skypicker.com
 auth.skypicker.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1496,9 +1496,9 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 ads.reddit.com
-*.reddit.com
 www.reddit.com
 oauth.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1842,16 +1842,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2404,8 +2406,8 @@ booth.pm
 payment.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-accounts.pixiv.net
 sketch.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3397,8 +3399,8 @@ npmjs.org
 *.githubusercontent.com
 classroom.github.com
 *.githubapp.com
-api.github.com
 npmjs.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3548,11 +3550,11 @@ shopify.plus
 partners.shopify.com
 linkpop.com
 shop.app
+arrive-server.shopifycloud.com
+admin.shopify.com
+your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
-arrive-server.shopifycloud.com
-your-store.myshopify.com
-admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3760,8 +3762,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4057,8 +4059,6 @@ usna.edu
 usnwc.edu
 usuhs.edu
 westpoint.edu
-api.recarga.com
-api.recarga.com
 *.runpanther.io
 *.runpanther.com
 *.panther.com
