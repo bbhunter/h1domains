@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 22:20:52 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 23:20:50 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -10,9 +10,9 @@ toolsforhumanity.com
 worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-*.consumer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -127,7 +127,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,11 +134,12 @@ www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadopago.com.mx
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
+api.mercadolibre.com
 www.mercadopago.cl
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -179,8 +179,8 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-booking.com
 *.rentalcars.com
+booking.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -466,8 +466,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -485,8 +485,8 @@ api.kolesa.kz
 api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-krisha.kz
 kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -568,8 +568,8 @@ community-tc.services.mozilla.com
 www.six-group.com
 www.six-group.com
 api-eu.floqast.app
-*.floqast.app
 *.eu.floqast.app
+*.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -720,8 +720,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 auth.skypicker.com
 www.kiwi.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1108,8 +1108,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1169,8 +1169,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-databricks.com
 kb.databricks.com
+databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1753,8 +1753,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1818,8 +1818,8 @@ api.faraday.ai
 *.5nine.com
 *.acronis.work
 beta-cloud.acronis.com
-*.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1833,19 +1833,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2393,11 +2398,11 @@ novel.pixiv.net
 booth.pm
 payment.pixiv.net
 sketch.pixiv.net
-accounts.pixiv.net
 www.pixiv.net
 *.fanbox.cc
 dic.pixiv.net
 comic.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2498,7 +2503,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-flyiin.com
+admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2696,9 +2701,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2720,11 +2725,11 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-us.tvg.com
 com.fanduel.android.live
 *racing.fanduel.com
 *.fanduel.com
 tvg.com
+us.tvg.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2779,8 +2784,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypalcorp.com
 *.paypal.com
+*.paypalcorp.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3528,8 +3533,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3537,14 +3542,14 @@ shopifyinbox.com
 shopify.plus
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycs.com
-shop.app
+*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
-*.shopify.com
+your-store.myshopify.com
+*.shopifycs.com
+shop.app
 accounts.shopify.com
 partners.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3588,8 +3593,8 @@ login.playcanvas.com
 snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
-app.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3668,9 +3673,9 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-*.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3903,13 +3908,13 @@ b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 cover-photos.hackerone-user-content.com
-ctf.hacker101.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
+ctf.hacker101.com
 api.hackerone.com
-hackerone.com
 hackerone-user-content.com
 hackerone.live
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
