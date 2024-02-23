@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 15:31:22 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 16:29:10 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-*.toolsforhumanity.com
 worldcoin.org
+*.toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
 *.consumer.worldcoin.org
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-demo.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
+demo.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -135,7 +136,6 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadopago.com.mx
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadopago.cl
@@ -179,15 +179,15 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
-spark.fareharbor.com
 *.booking.com
-portal.taxi.booking.com
+spark.fareharbor.com
 account.booking.com
+portal.taxi.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -255,8 +255,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -464,10 +464,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -522,8 +522,8 @@ bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
-phabricator.allizom.org
 mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -679,8 +679,8 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
-*.malwarebytes.com
 *.mwbsys.com
+*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -720,8 +720,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 auth.skypicker.com
 www.kiwi.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1048,8 +1048,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.shein.com
 *.romwe.com
+*.shein.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1108,8 +1108,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1169,8 +1169,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1196,8 +1196,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1311,10 +1311,10 @@ app.recordedfuture.com
 hatching.io
 tria.ge
 securitytrails.com
-www.recordedfuture.com
 therecord.media
 geminiadvisory.io
 id.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1486,7 +1486,6 @@ ads-api.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
-accounts.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
@@ -1498,6 +1497,7 @@ ads.reddit.com
 oauth.reddit.com
 www.reddit.com
 *.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1748,13 +1748,13 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
 ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1833,19 +1833,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2302,8 +2308,8 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 mgs.marriott.com
 all-inclusive.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2704,7 +2710,6 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 fanduel.design
-*racing.fanduel.com
 www.tvg.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
@@ -2725,6 +2730,7 @@ tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
+*racing.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2938,9 +2944,9 @@ www.valvesoftware.com
 www.teamfortress.com
 www.dota2.com
 www.counter-strike.net
-steamcommunity.com
 store.steampowered.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3436,10 +3442,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
-*.hyperpure.com
 *.runnr.in
 blinkit.com
 *.zomato.com
+*.hyperpure.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3449,9 +3455,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.algolianet.com
 www.algolia.com
 *.algolia.net
+*.algolianet.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3537,14 +3543,14 @@ shopifyinbox.com
 *.shopifycloud.com
 shopify.plus
 linkpop.com
-shop.app
 arrive-server.shopifycloud.com
-partners.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 admin.shopify.com
 *.shopify.com
 *.shopifycs.com
+your-store.myshopify.com
+partners.shopify.com
+shop.app
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3586,9 +3592,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3865,8 +3871,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
