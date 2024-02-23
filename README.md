@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 07:22:57 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 08:26:29 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
@@ -11,8 +11,8 @@ worldcoin.org
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
-getworldcoin.com
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -288,8 +288,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 www.gocardless.com
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1744,18 +1744,18 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
 live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
-*.tiktokv.com
 tiktok.com
 ads.tiktok.com
 shop.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
+*.tiktokv.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,20 +1834,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-mapi-sim.fortress.com.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2501,7 +2505,6 @@ admin.rezserver.com
 cruises.priceline.com
 www.bookingholdings.com
 press.priceline.com
-www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3590,9 +3593,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-scan.snapchat.com
-playcanvas.com
 snappublisher.snapchat.com
+playcanvas.com
+scan.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3909,8 +3912,8 @@ ctf.hacker101.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
