@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 10:24:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Feb 23 11:20:18 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
 bioid-management.app
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
 www.tari.com
+explore.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -52,8 +52,8 @@ www.sheer.com
 my.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.pornbox.com
@@ -186,8 +186,8 @@ secure.booking.com
 careers.booking.com
 spark.fareharbor.com
 *.booking.com
-account.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ app.moderntreasury.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -675,11 +675,11 @@ oneview.malwarebytes.com
 *.mbamupdates.com
 *.mwbsys.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
+*.threatdown.com
+www.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.threatdown.com
-*.cloud.malwarebytes.com
-www.malwarebytes.com
 *.malwarebytes.com
 my.malwarebytes.com
 *.mwbsys.com
@@ -719,8 +719,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-auth.skypicker.com
 *.skypicker.com
+auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1170,8 +1170,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1197,8 +1197,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-*.krisp.ai
 api.krisp.ai
+*.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1750,12 +1750,12 @@ creatormarketplace.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 tiktok.com
-ads.tiktok.com
 shop.tiktok.com
 *.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1834,19 +1834,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2396,8 +2403,8 @@ payment.pixiv.net
 sketch.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -3416,10 +3423,10 @@ registry.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
 docs.gitlab.com
-*.gitlab.net
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.org
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3587,9 +3594,9 @@ web.snapchat.com
 accounts.snapchat.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3751,8 +3758,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3767,6 +3774,7 @@ one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
 dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3905,8 +3913,8 @@ errors.hackerone.net
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-app.pullrequest.com
 www.hackerone.com
+app.pullrequest.com
 ctf.hacker101.com
 hackerone.com
 hackerone.com
