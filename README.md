@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 24 19:17:10 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 20:20:25 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
@@ -48,12 +48,12 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
-www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
+www.sheer.com
+my.sheer.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -485,8 +485,8 @@ api.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
 krisha.kz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -673,14 +673,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -976,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1481,7 +1481,6 @@ reddit.secure.force.com
 sh.reddit.com
 www.spiketrap.io
 matrix.redditspace.com
-ads-api.reddit.com
 gateway.reddit.com
 mod.reddit.com
 *.redditinc.com
@@ -1497,6 +1496,7 @@ www.reddit.com
 accounts.reddit.com
 ads.reddit.com
 *.reddit.com
+ads-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1832,19 +1832,24 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+www.superdrug.com
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2696,8 +2701,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3389,8 +3394,8 @@ classroom.github.com
 npmjs.com
 *.githubapp.com
 github.com
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3536,14 +3541,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
-accounts.shopify.com
 partners.shopify.com
+accounts.shopify.com
 shopify.plus
 shop.app
 admin.shopify.com
 *.shopifykloud.com
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
