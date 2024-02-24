@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 23 23:20:50 UTC 2024)
+## Domains with Bounties (Last Updated Sat Feb 24 01:08:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.worldcoin.dev
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
+worldcoin.org
 bioid-management.app
+*.consumer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
-*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -137,8 +137,8 @@ www.mercadopago.com.mx
 www.mercadolivre.com.br
 www.mercadopago.com.br
 www.mercadolibre.com.co
-api.mercadolibre.com
 www.mercadopago.cl
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -179,14 +179,14 @@ chat.booking.com
 widget.rentalcars.com
 admin.booking.com
 distribution-xml.booking.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 cars.booking.com
 secure.booking.com
 careers.booking.com
 spark.fareharbor.com
-account.booking.com
 portal.taxi.booking.com
+account.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -247,8 +247,8 @@ pentesting.gethypr.com
 hypr37448.gethypr.com
 pentesting3.gethypr.com
 pentesting2.gethypr.com
-hypr74352.gethypr.com
 *.hypr.com
+hypr74352.gethypr.com
 *.hypr.com
 pentesting.gethypr.com
 pentesting3.gethypr.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -522,9 +522,9 @@ bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 contile.services.mozilla.com
 addons.allizom.org
-phabricator.allizom.org
-mozilla-pontoon-staging.herokuapp.com
 accounts.firefox.com
+mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -552,8 +552,8 @@ support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-www.mozilla.org
 monitor.firefox.com
+www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -622,8 +622,8 @@ cargo.indrive.com
 *.indriver.com
 *.indrive.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -740,7 +740,6 @@ work.8x8.com
 *.chalet.8x8.com
 *.p8t.us
 pay.8x8.com
-admin.8x8.com
 user-profile.8x8.com
 *.8x8.vc
 *.8x8.id
@@ -896,8 +895,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-*.magiceden.io
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -931,9 +930,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-insights.deribit.com
 test.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -955,8 +954,8 @@ alexaanswers.amazon.com
 alexa.amazon.com
 creator.amazon.com
 a4k.amazon.com
-blueprints.amazon.com
 read.amazon.com
+blueprints.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -977,8 +976,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1753,8 +1752,8 @@ effecthouse.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
 tiktok.com
-ads.tiktok.com
 *.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1833,24 +1832,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2334,10 +2328,10 @@ hotel-deals.marriott.com
 http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
-*.rbx.com
 *.ra.roblox.com
 *.roblox.com
 *.guilded.gg
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2503,7 +2497,7 @@ cruises.priceline.com
 www.bookingholdings.com
 priceline.com
 secure.rezserver.com
-admin.rezserver.com
+flyiin.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2701,9 +2695,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
+*.grammarlyaws.com
 *.grammarly.com
 *.grammarly.io
-*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2725,11 +2719,11 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-com.fanduel.android.live
 *racing.fanduel.com
 *.fanduel.com
 tvg.com
 us.tvg.com
+com.fanduel.android.live
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -2784,8 +2778,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.xoom.com
 *.hyperwallet.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2940,12 +2934,12 @@ support.steampowered.com
 help.steampowered.com
 playartifact.com
 www.valvesoftware.com
-www.teamfortress.com
 www.dota2.com
 www.counter-strike.net
 store.steampowered.com
 api.steampowered.com
 steamcommunity.com
+www.teamfortress.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3547,9 +3541,9 @@ arrive-server.shopifycloud.com
 admin.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
+partners.shopify.com
 shop.app
 accounts.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3673,8 +3667,8 @@ assets.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 next.airbnb.com
