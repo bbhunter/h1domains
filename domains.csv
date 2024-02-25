@@ -7,11 +7,11 @@ toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,toolsforhumanity.com,True
-toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,bioid-management.app,True
+toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -327,8 +327,8 @@ navient_solutions,payments.msbpay.navient.com,False
 navient_solutions,www.navirefi.com,False
 navient_solutions,apply2.navirefi.com,False
 navient_solutions,wsmb2bresv.navient.com,False
-frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
+frontegg,portal.au.frontegg.com,True
 frontegg,api.au.frontegg.com,True
 frontegg,portal.au.frontegg.com,True
 cbre,*.trammellcrow.com,False
@@ -1251,8 +1251,8 @@ modern_treasury,cdn.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,app.moderntreasury.com,True
 modern_treasury,cdn.moderntreasury.com,True
-nicehash,test.nicex.com,True
 nicehash,test.nicehash.com,True
+nicehash,test.nicex.com,True
 nicehash,test.nicehash.com,True
 nicehash,https://test.nicehash.com/shop/,True
 nicehash,https://test.nicex.com,True
@@ -1305,12 +1305,12 @@ gocardless_bbp,xero-sandbox.gocardless.com,True
 gocardless_bbp,oauth-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-staging.io,True
 gocardless_bbp,manage-sandbox.gocardless.com,True
+gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,*.gocardless.com,False
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
 gocardless_bbp,api-sandbox.gocardless.com,True
 gocardless_bbp,*.gocardless-lab.io,True
-gocardless_bbp,*.gocardless-cicd.io,True
 gocardless_bbp,www.gocardless.com,True
 gocardless_bbp,*.gocardless.io,True
 gocardless_bbp,*.gocardless-banking.io,True
@@ -2900,11 +2900,11 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,hg.mozilla.org,True
 mozilla_critical_services,bugzilla.mozilla.org,True
 mozilla_critical_services,firefox.settings.services.mozilla.com,True
-mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,phabricator.allizom.org,True
+mozilla_critical_services,contile.services.mozilla.com,True
 mozilla_critical_services,addons.allizom.org,True
 mozilla_critical_services,accounts.firefox.com,True
 mozilla_critical_services,bugzilla.mozilla.org,True
@@ -2967,8 +2967,8 @@ shutterfly_vdp,jcpportraits.com,False
 shutterfly_vdp,*.photoccino.com,False
 shutterfly_vdp,blog.spoonflower.com,False
 shutterfly_vdp,photo.walgreens.com,False
-shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,lifetouch.com,False
+shutterfly_vdp,admin.spoonflower.com,False
 shutterfly_vdp,*.shutterfly.com,False
 shutterfly_vdp,www.borrowlenses.com,False
 shutterfly_vdp,*.snapfish.com,False
@@ -3208,9 +3208,9 @@ malwarebytes,cloud.malwarebytes.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.threatdown.com,True
-malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.malwarebytes.com,True
+malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -4843,8 +4843,8 @@ etoro_bbp,rankings.etoro.com,True
 etoro_bbp,candle.etoro.com,True
 etoro_bbp,r.etoro.com,True
 etoro_bbp,delta.app,True
-etoro_bbp,bullsheet.me,True
 etoro_bbp,etoropartners.com,True
+etoro_bbp,bullsheet.me,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,www.etoro.com,True
 etoro_bbp,etoropartners.com,True
@@ -4885,8 +4885,8 @@ instacart,admin.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,api.instacart.com,True
 instacart,*.instacart.tools,True
-instacart,www.instacart.com,True
 instacart,*.instacart.com,True
+instacart,www.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -4905,7 +4905,6 @@ anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.nrtllc.*,False
 anywhererealestate,*.cbcworldwide.*,False
-anywhererealestate,*.era.com,False
 anywhererealestate,*.corcoran.*,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.trgc.com,False
@@ -4915,6 +4914,7 @@ anywhererealestate,*.realogy.*,False
 anywhererealestate,*.coldwellbanker.*,False
 anywhererealestate,*.cartus.com,False
 anywhererealestate,*.century21.*,False
+anywhererealestate,*.era.com,False
 anywhererealestate,*.realogy.*,False
 anywhererealestate,*.bhgre.*,False
 anywhererealestate,*.century21.*,False
@@ -4940,8 +4940,8 @@ databricks,docs.databricks.com,True
 databricks,labs.databricks.com,True
 databricks,customer-academy.databricks.com,True
 databricks,support.databricks.com,True
-databricks,databricks.com,True
 databricks,kb.databricks.com,True
+databricks,databricks.com,True
 databricks,advocates.databricks.com,True
 databricks,databricks.com,True
 databricks,academy.databricks.com,True
@@ -7031,8 +7031,8 @@ tiktok,live-backstage.tiktok.com,True
 tiktok,tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,partner.tiktokshop.com,True
-tiktok,*.tiktok.com,True
 tiktok,ads.tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -7721,8 +7721,8 @@ digitalocean,www.digitalocean.com,False
 digitalocean,api.cloudways.com,False
 digitalocean,www.cloudways.com,False
 digitalocean,*.digitalocean.com,False
-digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
+digitalocean,cloud.digitalocean.com,False
 digitalocean,*.digitalocean.com,False
 digitalocean,cloud.digitalocean.com,False
 digitalocean,api.digitalocean.com,False
@@ -8601,8 +8601,8 @@ pixiv,booth.pm,True
 pixiv,payment.pixiv.net,True
 pixiv,sketch.pixiv.net,True
 pixiv,www.pixiv.net,True
-pixiv,*.fanbox.cc,True
 pixiv,dic.pixiv.net,True
+pixiv,*.fanbox.cc,True
 pixiv,comic.pixiv.net,True
 pixiv,accounts.pixiv.net,True
 pixiv,*.fanbox.cc,True
@@ -9122,9 +9122,9 @@ hyatt,res.hyattinclusivecollection.com,True
 hyatt,www.hyattinclusivecollection.com,True
 hyatt,booking.applevacations.com,True
 grammarly,grammarly.ai,True
-grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
 grammarly,*.grammarly.io,True
+grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.io,True
 grammarly,*.grammarlyaws.com,True
 grammarly,*.grammarly.com,True
@@ -9146,8 +9146,8 @@ fanduel,mobile-prod.tvg.com,True
 fanduel,fdbox.net,True
 fanduel,www.4njbets.com,True
 fanduel,sportsbook.fanduel.com,True
-fanduel,tvg.com,True
 fanduel,*racing.fanduel.com,True
+fanduel,tvg.com,True
 fanduel,us.tvg.com,True
 fanduel,com.fanduel.android.live,True
 fanduel,*.fanduel.com,True
@@ -9520,8 +9520,8 @@ toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.toyotaconnected.co.in,False
 toyota,www.toyotafinancial.com,False
 toyota,www.login.gac.toyota.com,False
-toyota,www.lexus.com,False
 toyota,www.toyota.com,False
+toyota,www.lexus.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
 toyota,www.toyotaconnected.co.in,False
 toyota,www.toyota.com,False
@@ -10153,8 +10153,8 @@ snapchat,*.sc-core.net,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,scan.snapchat.com,True
-snapchat,app.snapchat.com,True
 snapchat,ads.snapchat.com,True
+snapchat,app.snapchat.com,True
 snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,accounts.snapchat.com,True
@@ -10574,8 +10574,8 @@ slack,slack-imgs.com,True
 slack,www.quip.com,True
 slack,*.quip.com,True
 slack,slack.com,True
-slack,app.slack.com,True
 slack,api.slack.com,True
+slack,app.slack.com,True
 slack,slack.com,True
 slack,api.slack.com,True
 slack,status.slack.com,True
@@ -10604,8 +10604,6 @@ security,profile-photos.hackerone-user-content.com,True
 security,mta-sts.wearehackerone.com,True
 security,reviewer.pullrequest.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
-security,hackerone-user-content.com,True
-security,hackerone.live,True
 security,cover-photos-us-east-2.hackerone-user-content.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,a5s.hackerone-ext-content.com,True
@@ -10614,6 +10612,8 @@ security,hackerone-ext-content.com,True
 security,errors.hackerone.net,True
 security,app.pullrequest.com,True
 security,ctf.hacker101.com,True
+security,hackerone-user-content.com,True
+security,hackerone.live,True
 security,cover-photos.hackerone-user-content.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
