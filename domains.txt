@@ -58,8 +58,8 @@ www.iaggbs.com
 www.avios.com
 *.iairgroup.com
 www.aerlingus.com
-*.iagcargo.com
 *.iaggbs.com
+www.iairgroup.com
 www.aerlingus.com
 www.avios.com
 www.iairgroup.com
@@ -100,8 +100,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -142,12 +142,12 @@ login.wellhive.com
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -1250,8 +1250,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -2887,7 +2887,6 @@ traum-ferienwohnungen.de
 preprod.oyorooms.ms
 http://patron.oyo.com/blog/in
 merino.services.mozilla.com
-aus5.mozilla.org
 lando.services.mozilla.com
 push.services.mozilla.com
 crash-stats.allizom.org
@@ -2904,6 +2903,7 @@ accounts.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -2966,8 +2966,8 @@ jcpportraits.com
 *.photoccino.com
 blog.spoonflower.com
 photo.walgreens.com
-admin.spoonflower.com
 lifetouch.com
+admin.spoonflower.com
 *.shutterfly.com
 *.snapfish.com
 www.borrowlenses.com
@@ -3388,7 +3388,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -4641,6 +4640,8 @@ paetec.net
 *.fidelity.com
 www.personalcreations.com
 *.gifts.com
+www.gifts.com
+*.iseeme.com
 *.simplytoimpress.com
 *.canvasworld.com
 iseeme.com
@@ -4650,8 +4651,6 @@ ai.planetart.com
 *.mycustomcase.com
 www.cafepress.com
 www.photoaffections.com
-*.iseeme.com
-www.gifts.com
 www.canvasworld.com
 www.simplytoimpress.com
 www.mycustomcase.com
@@ -5032,8 +5031,8 @@ mytva.com
 tvawcma.com
 *.tva-energyright.com
 *.tva.com
-*.mytva.com
 tvars.com
+*.mytva.com
 *.tva.gov
 *.tva.gov
 *.tva.com
@@ -6201,8 +6200,8 @@ accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 www.reddit.com
+gql.reddit.com
 new.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -7021,7 +7020,6 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -7031,6 +7029,7 @@ www.pangleglobal.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -7713,8 +7712,8 @@ www.digitalocean.com
 api.cloudways.com
 www.cloudways.com
 *.digitalocean.com
-api.digitalocean.com
 cloud.digitalocean.com
+api.digitalocean.com
 *.digitalocean.com
 cloud.digitalocean.com
 api.digitalocean.com
@@ -9138,8 +9137,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -10006,9 +10005,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -10098,11 +10097,11 @@ partners.shopify.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
-your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
 *.shopify.com
+your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com

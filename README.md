@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 20:20:04 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 21:18:52 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -508,7 +508,6 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 merino.services.mozilla.com
-aus5.mozilla.org
 lando.services.mozilla.com
 push.services.mozilla.com
 crash-stats.allizom.org
@@ -525,6 +524,7 @@ accounts.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -750,7 +750,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1493,8 +1492,8 @@ accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 www.reddit.com
+gql.reddit.com
 new.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1743,7 +1742,6 @@ fp-sg.tiktokv.com
 developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
-shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -1753,6 +1751,7 @@ www.pangleglobal.com
 *.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2718,8 +2717,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3447,9 +3446,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3537,11 +3536,11 @@ partners.shopify.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
-your-store.myshopify.com
 *.shopifycloud.com
 shop.app
 accounts.shopify.com
 *.shopify.com
+your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.com
