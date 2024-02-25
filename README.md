@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 01:16:20 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 02:27:51 UTC 2024)
 ```
 *.worldcoin-distributors.com
 worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
+toolsforhumanity.com
 *.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -621,8 +621,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-*.indriverapp.com
 argocd.indrive.dev
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1832,26 +1832,25 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.superdrug.com
-app.superdrug.com
-api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
+app.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -3396,8 +3395,8 @@ classroom.github.com
 npmjs.com
 *.githubapp.com
 github.com
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3455,9 +3454,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3546,8 +3545,8 @@ partners.shopify.com
 accounts.shopify.com
 shopify.plus
 shop.app
-admin.shopify.com
 *.shopifykloud.com
+admin.shopify.com
 your-store.myshopify.com
 *.shopify.com
 *.shopifycs.com
