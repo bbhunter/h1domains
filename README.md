@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 18:24:28 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 19:18:44 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -718,10 +718,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 tequila.kiwi.com
 jobs.kiwi.com
-auth.skypicker.com
 www.kiwi.com
 *.skypicker.com
 *.kiwi.com
+auth.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -750,7 +750,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -930,9 +930,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-test.deribit.com
 insights.deribit.com
 *.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1235,7 +1235,6 @@ twinmotion.unrealengine.com
 metahuman.unrealengine.com
 *.oncatapult.com
 *.psyonix.com
-*.3lateral.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
@@ -1748,11 +1747,11 @@ shop.tiktok.com
 effecthouse.tiktok.com
 *.tiktokv.com
 tiktok.com
-business.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
+business.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -1832,19 +1831,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
+app.marionnaud.ch
+www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2299,9 +2305,9 @@ cpp.marriott.com
 gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
-jobs.marriott.com
 mgs.marriott.com
 activities.marriott.com
+jobs.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
@@ -3278,9 +3284,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3539,11 +3545,11 @@ shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
 your-store.myshopify.com
-*.shopify.com
 *.shopifycloud.com
 admin.shopify.com
 shop.app
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3664,10 +3670,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
-www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
+www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3864,8 +3870,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
