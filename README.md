@@ -2,10 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 13:21:00 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 14:19:09 UTC 2024)
 ```
 *.worldcoin-distributors.com
-*.toolsforhumanity.com
 *.consumer.worldcoin.org
 toolsforhumanity.com
 getworldcoin.com
@@ -13,6 +12,7 @@ getworldcoin.com
 worldcoin.org
 bioid-management.app
 *.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -316,7 +316,6 @@ www.leather.io
 www.leather.io
 api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
-help.redoxengine.com
 testapi.redoxengine.com
 fhir.redoxengine.com
 docs.redoxengine.com
@@ -336,6 +335,7 @@ dashboard.gamma.redoxstage.com
 testapp.redoxengine.com
 www.redoxengine.com
 app.gamma.redoxstage.com
+help.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -552,8 +552,8 @@ support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 relay.firefox.com
 hg.mozilla.org
-monitor.firefox.com
 www.mozilla.org
+monitor.firefox.com
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -673,13 +673,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1167,8 +1167,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1471,7 +1471,6 @@ www.urbanclap.com
 new.reddit.com
 *.redditblog.com
 amp.reddit.com
-gql.reddit.com
 strapi.reddit.com
 m.reddit.com
 meta-api.reddit.com
@@ -1496,6 +1495,7 @@ ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
 www.reddit.com
+gql.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1635,8 +1635,8 @@ ccloud.yoti.com
 code.yoti.com
 api.yoti.com
 www.yotisign.com
-hub.yoti.com
 identity.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1831,25 +1831,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www.kruidvat.nl
-app.kruidvat.nl
-www.theperfumeshop.com
-app.theperfumeshop.com
-api.theperfumeshop.com
+www10.watsons.com.vn
+api.watsons.com.vn
 www10.pns.hk
 api.pns.hk
 www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
-app.watsons.com.tr
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
+www.kruidvat.nl
+app.kruidvat.nl
+www.theperfumeshop.com
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2397,8 +2391,8 @@ novel.pixiv.net
 booth.pm
 payment.pixiv.net
 sketch.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
+*.fanbox.cc
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -3539,16 +3533,16 @@ yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 shopify.plus
 shop.app
 *.shopifykloud.com
 *.shopifycs.com
-admin.shopify.com
 *.shopify.com
 your-store.myshopify.com
+admin.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3587,9 +3581,9 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
-playcanvas.com
 scan.snapchat.com
+playcanvas.com
+snappublisher.snapchat.com
 app.snapchat.com
 ads.snapchat.com
 web.snapchat.com
@@ -3789,7 +3783,6 @@ assets.tumblr.com
 simplenote.com
 simperium.com
 my.pressable.com
-akismet.com
 gravatar.com
 api.tumblr.com
 happy.tools
@@ -3798,6 +3791,7 @@ mailpoet.com
 wordpress.com
 www.tumblr.com
 *.tumblr.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
