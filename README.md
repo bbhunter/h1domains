@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 19:18:44 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 20:20:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
@@ -111,9 +111,9 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 medical.23andme.com
 store.23andme.com
-auth.23andme.com
 blog.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -185,9 +185,9 @@ careers.booking.com
 account.booking.com
 *.rentalcars.com
 portal.taxi.booking.com
-*.booking.com
 booking.com
 spark.fareharbor.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1149,8 +1149,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1189,7 +1189,6 @@ labs.databricks.com
 marketplace.databricks.com
 *.payoneer.com
 *.payoneer.com
-account.krisp.ai
 upld.krisp.ai
 analytics.krisp.ai
 download.krisp.ai
@@ -1197,6 +1196,7 @@ teams.krisp.ai
 krisp.ai
 api.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1493,8 +1493,8 @@ accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
-www.reddit.com
 gql.reddit.com
+www.reddit.com
 new.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1751,8 +1751,8 @@ partner.tiktokshop.com
 ads.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
-business.tiktok.com
 live-backstage.tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1831,26 +1831,19 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.fortress.com.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
-api.theperfumeshop.com
-api.watsons.com.my
-www.watsons.com.my
-www10.watsons.com.my
-www.iciparisxl.nl
-www.iciparisxl.be
-www.iciparisxl.lu
-app.iciparisxl.nl
-app.iciparisxl.be
-app.iciparisxl.lu
-www.marionnaud.at
-app.marionnaud.at
-www.marionnaud.ch
-app.marionnaud.ch
-www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2209,7 +2202,6 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.alibabacloud.com
 *.alibaba-inc.com
 *.Daraz.com
 *.aliexpress.com
@@ -2218,6 +2210,7 @@ amazonpayinsurance.in
 *.aliyun.com
 *.taobao.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2390,7 +2383,6 @@ codacontent.io
 https://coda.io/signup/email
 codahosted.io
 codacontent.io
-sensei.pixiv.net
 hub.vroid.com
 neoket.net
 vroid.com
@@ -2403,6 +2395,7 @@ comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
 sketch.pixiv.net
+sensei.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2725,8 +2718,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3546,10 +3539,10 @@ shopify.plus
 *.shopifycs.com
 your-store.myshopify.com
 *.shopifycloud.com
-admin.shopify.com
 shop.app
 accounts.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
