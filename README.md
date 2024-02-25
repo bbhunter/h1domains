@@ -2,10 +2,9 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 25 03:21:29 UTC 2024)
+## Domains with Bounties (Last Updated Sun Feb 25 04:23:32 UTC 2024)
 ```
 *.worldcoin-distributors.com
-worldcoin.org
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 bioid-management.app
@@ -13,6 +12,7 @@ toolsforhumanity.com
 *.worldcoin.org
 getworldcoin.com
 *.worldcoin.dev
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -186,8 +186,8 @@ careers.booking.com
 spark.fareharbor.com
 account.booking.com
 *.rentalcars.com
-*.booking.com
 portal.taxi.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -673,14 +673,14 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 www.malwarebytes.com
 *.mwbsys.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1107,8 +1107,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1168,8 +1168,8 @@ docs.databricks.com
 labs.databricks.com
 customer-academy.databricks.com
 support.databricks.com
-kb.databricks.com
 databricks.com
+kb.databricks.com
 advocates.databricks.com
 databricks.com
 academy.databricks.com
@@ -1492,11 +1492,11 @@ app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
-www.reddit.com
 accounts.reddit.com
 ads.reddit.com
 *.reddit.com
 ads-api.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1745,7 +1745,6 @@ developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 shop.tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
@@ -1754,6 +1753,7 @@ live-backstage.tiktok.com
 ads.tiktok.com
 *.tiktok.com
 tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1840,16 +1840,18 @@ app.kruidvat.nl
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2398,8 +2400,8 @@ booth.pm
 payment.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 *.fanbox.cc
@@ -2700,9 +2702,9 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
+*.grammarlyaws.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2724,8 +2726,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3393,8 +3395,8 @@ npmjs.org
 classroom.github.com
 npmjs.com
 *.githubapp.com
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3669,10 +3671,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3905,7 +3907,6 @@ a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
 ctf.hacker101.com
 api.hackerone.com
@@ -3913,6 +3914,7 @@ hackerone-user-content.com
 hackerone.live
 www.hackerone.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
