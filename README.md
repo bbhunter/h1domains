@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 10:25:15 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 11:18:37 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
-getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
 *.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -83,7 +83,6 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
 cpanel.hostinger.com
@@ -93,6 +92,7 @@ www.zyro.com
 www.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
+editor.zyro.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -109,11 +109,11 @@ api.23andme.com
 research.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-medical.23andme.com
 store.23andme.com
 blog.23andme.com
 you.23andme.com
 auth.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -138,8 +138,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -465,9 +465,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1106,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1307,11 +1307,11 @@ api.recordedfuture.com
 app.recordedfuture.com
 hatching.io
 tria.ge
-securitytrails.com
 therecord.media
 geminiadvisory.io
 id.recordedfuture.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1743,7 +1743,6 @@ developers.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
-tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
 *.tiktok.com
@@ -1752,6 +1751,7 @@ business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1815,8 +1815,8 @@ api.faraday.ai
 *.5nine.com
 beta-cloud.acronis.com
 account.acronis.com
-*.acronis.com
 *.acronis.work
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -1830,19 +1830,23 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
+api.theperfumeshop.com
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www10.watsons.com.sg
+www.watsons.com.sg
+api.watsons.com.sg
+www.watsons.com.hk
+www10.watsons.com.hk
+api.watsons.com.hk
+www10.watsons.co.id
+api.watsons.co.id
+www.watsons.co.id
+blog.watsons.com.tr
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2297,9 +2301,9 @@ gatewaydsaptst1.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
-www.marriott.com
 activities.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2327,8 +2331,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2387,8 +2391,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2694,8 +2698,8 @@ res.hyattinclusivecollection.com
 www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
-*.grammarly.io
 *.grammarlyaws.com
+*.grammarly.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
@@ -2718,8 +2722,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3539,9 +3543,9 @@ shopify.plus
 *.shopifycloud.com
 shop.app
 *.shopifycs.com
+your-store.myshopify.com
 admin.shopify.com
 *.shopify.com
-your-store.myshopify.com
 accounts.shopify.com
 *.shopifycs.com
 *.shopify.com
@@ -3842,8 +3846,8 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3872,21 +3876,21 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-hackerone-user-content.com
-hackerone.live
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 app.pullrequest.com
+hackerone-user-content.com
+hackerone.live
 www.hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
+api.hackerone.com
 cover-photos.hackerone-user-content.com
 hackerone.com
-api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
