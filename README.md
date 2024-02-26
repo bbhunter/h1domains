@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 05:21:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 06:27:18 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -10,8 +10,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.toolsforhumanity.com
 *.worldcoin.org
+*.toolsforhumanity.com
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -86,12 +86,12 @@ app.dynamic.xyz
 editor.zyro.com
 www.niagahoster.co.id
 payments.hostinger.com
-www.hostinger.com
 cpanel.hostinger.com
 backend.zyro.com
 logo.zyro.com
 www.zyro.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 *.000webhost.com
 www.hostinger.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
-*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -599,7 +599,6 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okx.com
-https://www.okx.com/docs-v5/en/#market-maker-program
 profile-api.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
@@ -673,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -750,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1831,19 +1829,26 @@ helpcenter.affirm.ca
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.fortress.com.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
+api.theperfumeshop.com
+api.watsons.com.my
+www.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+www.marionnaud.ch
+app.marionnaud.ch
+www.marionnaud.cz
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2300,8 +2305,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2389,8 +2394,8 @@ vroid.com
 novel.pixiv.net
 booth.pm
 payment.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
+dic.pixiv.net
 comic.pixiv.net
 accounts.pixiv.net
 www.pixiv.net
@@ -2522,7 +2527,6 @@ developers.smartsheet.com
 *authenticate.trustpilot.com
 *signup.business.trustpilot.com
 *emailsignature.trustpilot.com
-*api.trustpilot.com
 *b2b.trustpilot.com
 *widget.trustpilot.com
 *invitations-api.trustpilot.com
@@ -2530,6 +2534,7 @@ developers.smartsheet.com
 *business.trustpilot.com
 *legal.trustpilot.com
 *www.trustpilot.com
+*api.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -2936,11 +2941,11 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.dota2.com
-store.steampowered.com
 api.steampowered.com
 www.teamfortress.com
 steamcommunity.com
 www.counter-strike.net
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3542,9 +3547,9 @@ shopify.plus
 shop.app
 accounts.shopify.com
 *.shopify.com
-your-store.myshopify.com
 *.shopifycs.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3766,7 +3771,6 @@ cloudflareworkers.com
 one.dash.cloudflare.com
 waf.cumulusfire.net
 api.cloudflare.com
-dash.cloudflare.com
 *.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
@@ -3865,8 +3869,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3903,12 +3907,12 @@ app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
 www.hackerone.com
-hackerone.com
 mta-sts.wearehackerone.com
 ctf.hacker101.com
 b5s.hackerone-ext-content.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
