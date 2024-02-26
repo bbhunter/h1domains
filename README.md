@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Feb 26 02:28:54 UTC 2024)
+## Domains with Bounties (Last Updated Mon Feb 26 03:21:42 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -134,12 +134,12 @@ www.mercadopago.com.ar
 www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadopago.com.mx
-www.mercadolivre.com.br
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
 api.mercadolibre.com
 www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -284,11 +284,11 @@ xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 manage-sandbox.gocardless.com
+*.gocardless-cicd.io
 *.gocardless.io
 *.gocardless-banking.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-*.gocardless-cicd.io
 www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -750,7 +750,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1107,8 +1106,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-bullsheet.me
 etoropartners.com
+bullsheet.me
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -2006,8 +2005,8 @@ portal.polygon.technology
 *.miwifi.com
 *.miui.com
 *.xiaomiyoupin.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2303,8 +2302,8 @@ hotel-deals.marriott.com
 all-inclusive.marriott.com
 mgs.marriott.com
 activities.marriott.com
-www.marriott.com
 jobs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2723,8 +2722,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -3148,9 +3147,9 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.grabpay.com
-*.taralite.com
 *.ovo.id
 *.grab.com
+*.taralite.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3452,9 +3451,9 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
+www.algolia.com
 *.algolia.net
 *.algolianet.com
-www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3545,8 +3544,8 @@ shopify.plus
 shop.app
 accounts.shopify.com
 *.shopify.com
-your-store.myshopify.com
 admin.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopifycs.com
 *.shopify.com
@@ -3586,13 +3585,13 @@ business.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
-snappublisher.snapchat.com
 playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3868,8 +3867,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
