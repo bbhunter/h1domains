@@ -2,15 +2,15 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 27 02:24:05 UTC 2024)
+## Domains with Bounties (Last Updated Tue Feb 27 03:24:44 UTC 2024)
 ```
+getworldcoin.com
+*.consumer.worldcoin.org
 *.worldcoin-distributors.com
 toolsforhumanity.com
 *.worldcoin.dev
 bioid-management.app
 *.toolsforhumanity.com
-getworldcoin.com
-*.consumer.worldcoin.org
 worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
+www.tari.com
+explore.tari.com
 textexplore.tari.com
 www.tarilabs.com
-explore.tari.com
-www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -77,9 +77,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -110,9 +110,9 @@ research.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
-you.23andme.com
 auth.23andme.com
 medical.23andme.com
+you.23andme.com
 store.23andme.com
 api.23andme.com
 auth.23andme.com
@@ -476,6 +476,7 @@ yourdomain.myfreshworks.com
 app.avtoelon.uz
 id.avtoelon.uz
 app.kolesa.kz
+kolesa.kz
 api.krisha.kz
 app.krisha.kz
 m.krisha.kz
@@ -486,7 +487,6 @@ id.kolesa.kz
 krisha.kz
 m.kolesa.kz
 m.avtoelon.uz
-kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -516,6 +516,7 @@ sync.services.mozilla.com
 crash-reports.allizom.org
 location.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,7 +524,6 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
@@ -619,8 +619,8 @@ watchdocs.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 new-order.eu-east-1.indriverapp.com
-argocd.indrive.dev
 *.indriverapp.com
+argocd.indrive.dev
 ci.indrive.dev
 *.indrive.com
 *.indriverapp.com
@@ -672,6 +672,7 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
@@ -679,7 +680,6 @@ cloud.malwarebytes.com
 *.mwbsys.com
 *.malwarebytes.com
 www.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -749,7 +749,6 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -857,6 +856,7 @@ www.carrentals.com
 www.cheaptickets.com
 www.abritel.fr
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -865,7 +865,6 @@ www.expedia.com
 www.hotels.com
 www.expediagroup.com
 www.vrbo.com
-www.stayz.com.au
 www.hotels.com
 www.expedia.com
 www.expediapartnercentral.com
@@ -894,8 +893,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -913,9 +912,9 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.goteleport.com
-teleport.sh
 *.gravitational.co
+teleport.sh
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,10 +1002,10 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1069,8 +1068,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1106,8 +1105,8 @@ rankings.etoro.com
 candle.etoro.com
 r.etoro.com
 delta.app
-etoropartners.com
 bullsheet.me
+etoropartners.com
 www.etoro.com
 www.etoro.com
 etoropartners.com
@@ -1193,9 +1192,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
 *.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1633,9 +1632,9 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
+www.yotisign.com
 identity.yoti.com
 hub.yoti.com
-www.yotisign.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1654,9 +1653,9 @@ netlify-rum.netlify.app
 *.services.netlify.com
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
+app.netlify.com
 api.netlify.com
 internal.netlify.com
-app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1825,27 +1824,24 @@ account.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
 helpcenter.affirm.com
-hackerone.affirm-odin.com
 helpcenter.affirm.ca
+hackerone.affirm-odin.com
 hackerone.affirm-odin.com
 helpcenter.affirm.ca
 helpcenter.affirm.com
-app.superdrug.com
-api.superdrug.com
+www10.watsons.com.vn
+api.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+www.marionnaud.fr
+app.marionnaud.fr
+mapi.moneyback.com.hk
+www.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-www.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-api.watsons.com.ph
-www.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2206,12 +2202,12 @@ amazonpayinsurance.in
 *.alibaba-inc.com
 *.Daraz.com
 *.alibabacloud.com
-*.1688.com
 *.alibaba.com
 *.taobao.com
 www.alibabagroup.com
 *.aliyun.com
 *.aliexpress.com
+*.1688.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2287,9 +2283,7 @@ sso.marriott.com
 dcfgatewaytst1.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
-gatewaydsapdev2.marriott.com
 gatewaydsaptst2.marriott.com
-passwordchallenge.marriott.com
 www.ritzcarlton.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2303,6 +2297,8 @@ gatewaydsaptst1.marriott.com
 www.marriott.com
 hotel-deals.marriott.com
 all-inclusive.marriott.com
+passwordchallenge.marriott.com
+gatewaydsapdev2.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2721,8 +2717,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 *.fanduel.com
@@ -2828,8 +2824,8 @@ m.chaturbate.com
 blog.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-testnet.bitmex.com
 *.bitmex.com
+testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3279,9 +3275,9 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
 your-assigned-subdomain.files.com
+www.files.com
 app.files.com
 your-assigned-subdomain.files.com
 www.files.com
@@ -3389,9 +3385,9 @@ npmjs.org
 classroom.github.com
 npmjs.com
 *.githubapp.com
-*.githubusercontent.com
 github.com
 api.github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3436,10 +3432,10 @@ winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
 *.zomans.com
+*.zomato.com
 *.runnr.in
 blinkit.com
 *.hyperpure.com
-*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3528,8 +3524,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
@@ -3537,14 +3533,14 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 linkpop.com
 *.shopifycs.com
+partners.shopify.com
 shop.app
+*.shopifykloud.com
 accounts.shopify.com
 *.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 shopify.plus
-partners.shopify.com
-*.shopifykloud.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3664,11 +3660,11 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
+www.airbnb.com
+*.airbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 www.hoteltonight.com
-www.airbnb.com
-*.airbnb.com
 *.withairbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -3733,8 +3729,8 @@ ide.x.ai
 grok.x.ai
 *.twimg.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3772,8 +3768,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3874,9 +3870,6 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
-b5s.hackerone-ext-content.com
-hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 a5s.hackerone-ext-content.com
@@ -3887,6 +3880,9 @@ mta-sts.wearehackerone.com
 ctf.hacker101.com
 api.hackerone.com
 cover-photos.hackerone-user-content.com
+b5s.hackerone-ext-content.com
+www.hackerone.com
+hackerone-user-content.com
 hackerone.com
 app.pullrequest.com
 hackerone.com
