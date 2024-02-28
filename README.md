@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 18:28:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 19:21:28 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -84,14 +84,14 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 cpanel.hostinger.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 hpanel.hostinger.com
 www.niagahoster.co.id
-*.000webhost.com
 editor.zyro.com
+*.000webhost.com
 www.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -183,10 +183,10 @@ portal.taxi.booking.com
 secure.booking.com
 widget.rentalcars.com
 account.booking.com
-booking.com
-flights.booking.com
-*.rentalcars.com
 spark.fareharbor.com
+booking.com
+*.rentalcars.com
+flights.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -401,9 +401,9 @@ usa.visa.com
 www.visa.co.ve
 www.currencycloud.com
 www.cardinalcommerce.com
-aw.visa.com
 www.authorize.net
 www.visainfinite.ca
+bb.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -620,9 +620,9 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
-*.indriver.com
 auth.indrive.tech
 *.indrive.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -696,13 +696,13 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 api.sokos.fi
-cfapi.voikukka.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
 www.sokos.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
+cfapi.voikukka.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -912,8 +912,8 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
+*.gravitational.co
 cloud.gravitational.io
 *.goteleport.com
 *.goteleport.com
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1295,8 +1295,8 @@ capturingreality.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1734,17 +1734,17 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-partner.tiktokshop.com
-live-backstage.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
+partner.tiktokshop.com
+live-backstage.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
-www.pangleglobal.com
+shop.tiktok.com
 business.tiktok.com
 *.tiktok.com
+www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2274,8 +2274,8 @@ gatewaydsaptst2.marriott.com
 *uat.marriott.com
 reservations.all-inclusive.marriott.com
 cpp.marriott.com
-activities.marriott.com
 jobs.marriott.com
+activities.marriott.com
 gatewaydsapdev2.marriott.com
 hotel-deals.marriott.com
 homes-and-villas.marriott.com
@@ -2314,8 +2314,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2681,8 +2681,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3129,8 +3129,8 @@ kartaview.org
 jira.grab.com
 *.grabpay.com
 *.taralite.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3516,10 +3516,10 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
-*.shopifykloud.com
+linkpop.com
 shop.app
+*.shopifykloud.com
 shopify.plus
 partners.shopify.com
 accounts.shopify.com
@@ -3562,13 +3562,13 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3650,9 +3650,9 @@ api.airbnb.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb.com
-www.airbnb.com
 www.hoteltonight.com
+www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3754,8 +3754,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3797,11 +3797,11 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
-*.base.org
 *.coinbase.com
+*.base.org
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3867,8 +3867,8 @@ hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 www.hackerone.com
-ctf.hacker101.com
 errors.hackerone.net
+ctf.hacker101.com
 hackerone.com
 hackerone-user-content.com
 hackerone.com
