@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 28 12:33:50 UTC 2024)
+## Domains with Bounties (Last Updated Wed Feb 28 13:24:28 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -52,8 +52,8 @@ my.sheer.com
 www.sheer.com
 www.sheer.com
 my.sheer.com
-www.pornworld.com
 www.ddfcontent.com
+www.pornworld.com
 www.analvids.com
 www.pornbox.com
 www.pornbox.com
@@ -183,10 +183,10 @@ careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
 spark.fareharbor.com
-*.rentalcars.com
-*.booking.com
 widget.rentalcars.com
 account.booking.com
+*.booking.com
+*.rentalcars.com
 booking.com
 *.booking.com
 *.rentalcars.com
@@ -283,9 +283,9 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
 *.gocardless-lab.io
+*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless.io
@@ -465,8 +465,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -515,7 +515,6 @@ shavar.services.mozilla.com
 sync.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
@@ -523,6 +522,7 @@ addons.allizom.org
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 accounts.firefox.com
 location.services.mozilla.com
 addons.allizom.org
@@ -580,10 +580,10 @@ hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
 *.hilton.com.tr
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.malwarebytes.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+*.malwarebytes.com
 my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-*.8x8cloud.net
+connect.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.magicjackpot.ro
 *.superbet.rs
+*.magicjackpot.ro
 *.napoleoncasino.be
 *.superbet.com
 *.napoleongames.be
@@ -914,8 +914,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.goteleport.com
-*.gravitational.co
 teleport.sh
+*.gravitational.co
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1428,9 +1428,9 @@ main.trafficfactory.biz
 www.elastic.co
 *.swiftype.com
 *.elstc.co
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1483,15 +1483,15 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.snooguts.net
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.reddit.com
@@ -1704,8 +1704,8 @@ api.sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
-accounts.cloud.com
 citrix.cloud.com
+accounts.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
@@ -1746,12 +1746,12 @@ creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
-tiktok.com
 business.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 ads.tiktok.com
 shop.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -1813,9 +1813,9 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.com
 beta-cloud.acronis.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1824,20 +1824,22 @@ account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
-www10.watsons.com.vn
-api.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www.marionnaud.fr
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
 www10.watsons.com.tw
+www.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+api.watsons.com.ph
+www.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2289,8 +2291,8 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 passwordchallenge.marriott.com
+www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
 www.marriott.com
 mgs.marriott.com
@@ -2355,8 +2357,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.me
-*.line.biz
 *.line-apps.com
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3259,8 +3261,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3309,9 +3311,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
+www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
-www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3523,9 +3525,9 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
 *.shopifycs.com
-*.shopifycloud.com
 shop.app
 shopify.plus
 *.shopifykloud.com
@@ -3533,8 +3535,8 @@ partners.shopify.com
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3569,14 +3571,14 @@ create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
 spectacles.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 *.sc-core.net
 scan.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
-snappublisher.snapchat.com
-ads.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
@@ -3761,8 +3763,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3804,9 +3806,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.coinbase.com
 coinbase.com
 *.base.org
@@ -3863,12 +3865,12 @@ www.wearehackerone.com
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackathon-photos-us-east-2.hackerone-user-content.com
+b5s.hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 cover-photos.hackerone-user-content.com
-b5s.hackerone-ext-content.com
 api.hackerone.com
 errors.hackerone.net
 hackerone-user-content.com
@@ -3876,8 +3878,8 @@ hackerone.live
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 www.hackerone.com
-ctf.hacker101.com
 hackerone.com
+ctf.hacker101.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
