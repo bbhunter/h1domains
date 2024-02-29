@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 29 08:24:37 UTC 2024)
+## Domains with Bounties (Last Updated Thu Feb 29 09:24:07 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -135,11 +135,11 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-api.mercadolibre.com
 www.mercadopago.cl
+api.mercadolibre.com
 www.mercadopago.com.mx
-www.mercadolivre.com.br
 www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -182,11 +182,11 @@ careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
 account.booking.com
+spark.fareharbor.com
 booking.com
 flights.booking.com
-*.rentalcars.com
-spark.fareharbor.com
 widget.rentalcars.com
+*.rentalcars.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -390,9 +390,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
-www.currencycloud.com
-www.visainfinite.ca
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,8 +398,11 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.currencycloud.com
+www.authorize.net
+www.visainfinite.ca
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 aw.visa.com
 bb.visa.com
@@ -672,13 +672,13 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 *.malwarebytes.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -749,7 +749,7 @@ sso.8x8.com
 voapi.8x8.com
 *.jitsi.net
 *.packet8.net
-connect.8x8.com
+*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -855,6 +855,7 @@ www.travelocity.com
 www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -862,9 +863,8 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
-www.abritel.fr
 www.vrbo.com
+www.abritel.fr
 www.flights.com
 www.hotels.com
 www.expedia.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
-*.goteleport.com
+*.gravitational.co
 cloud.gravitational.io
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1627,8 +1627,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1739,13 +1739,13 @@ effecthouse.tiktok.com
 live-backstage.tiktok.com
 careers.tiktok.com
 shop.tiktok.com
-www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
-partner.tiktokshop.com
 tiktok.com
 *.tiktokv.com
 business.tiktok.com
+partner.tiktokshop.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2189,11 +2189,11 @@ amazonpayinsurance.in
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.alibaba-inc.com
-*.Daraz.com
-*.aliexpress.com
 *.aliyun.com
 www.alibabagroup.com
+*.aliexpress.com
+*.alibaba-inc.com
+*.Daraz.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
@@ -2285,11 +2285,11 @@ homes-and-villas.marriott.com
 marrtool.com
 all-inclusive.marriott.com
 marriottfranchisetransactions.marriott.com
-www.ritzcarlton.com
 passwordchallenge.marriott.com
+www.ritzcarlton.com
 gatewaydsaptst1.marriott.com
-www.marriott.com
 mgs.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2684,8 +2684,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2867,7 +2867,6 @@ goldmansachsindices.com
 www.rocaton.com
 *.gs.de
 *.goldmanpfm.com
-*.finlife.com
 *.finlifepartners.com
 *.foliodigitalwealth.com
 *.vennhypotheken.nl
@@ -2923,9 +2922,9 @@ www.valvesoftware.com
 www.dota2.com
 api.steampowered.com
 www.teamfortress.com
-steamcommunity.com
 www.counter-strike.net
 store.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3264,8 +3263,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3374,8 +3373,8 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 npmjs.com
-api.github.com
 *.github.net
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3528,8 +3527,8 @@ shopify.plus
 accounts.shopify.com
 arrive-server.shopifycloud.com
 your-store.myshopify.com
-admin.shopify.com
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3561,20 +3560,20 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-spectacles.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 web.snapchat.com
-snappublisher.snapchat.com
 ads.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
 blog.playcanvas.com
-accounts.snapchat.com
 kit.snapchat.com
+accounts.snapchat.com
+spectacles.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3756,8 +3755,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3864,9 +3863,9 @@ hackerone-ext-content.com
 mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 hackerone.live
-hackerone-user-content.com
 ctf.hacker101.com
 errors.hackerone.net
+hackerone-user-content.com
 www.hackerone.com
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4044,9 +4043,9 @@ magentocommerce.com
 repo.magento.com
 magentolive.com
 marketplace.magento.com
-account.magento.com
 magento.com
 accounts.magento.cloud
+account.magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
