@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 12:34:20 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 13:24:40 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
@@ -127,6 +127,7 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -134,11 +135,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
-www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -781,8 +781,8 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.superbet.com
 *.napoleongames.be
 *.superbet.ro
@@ -854,13 +854,13 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.flights.com
 www.abritel.fr
@@ -975,8 +975,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-checksw.com
 royal.checksw.com
+checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
 account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1486,9 +1486,9 @@ accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
 www.reddit.com
+*.reddit.com
 ads.reddit.com
 *.snooguts.net
-*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1648,8 +1648,8 @@ netlify-rum.netlify.app
 netlify-cdp-loader.netlify.app
 supportal.netlify.app
 internal.netlify.com
-app.netlify.com
 *.infra-prod.nsvcs.net
+app.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -1737,14 +1737,14 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
 shop.tiktok.com
+tiktok.com
+*.tiktokv.com
+www.pangleglobal.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
-www.pangleglobal.com
 business.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2812,8 +2812,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.mmwebc.dev
 *.cb.dev
+*.mmwebc.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3257,8 +3257,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3521,8 +3521,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-linkpop.com
 *.shopifycloud.com
+linkpop.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
@@ -3573,11 +3573,11 @@ playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
-web.snapchat.com
 accounts.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3721,8 +3721,8 @@ onboarding.greenhouse.io
 boards.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
-interseller.io
 api.greenhouse.io
+interseller.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3777,8 +3777,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-akismet.com
 wordpress.com
+akismet.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3820,12 +3820,12 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
 *.base.org
-*.coinbase.com
 coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -3850,8 +3850,8 @@ slack-imgs.com
 www.quip.com
 *.quip.com
 app.slack.com
-api.slack.com
 slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3884,14 +3884,14 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 hackerone.live
-ctf.hacker101.com
 errors.hackerone.net
+ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
-www.hackerone.com
 app.pullrequest.com
+www.hackerone.com
 api.hackerone.com
 hackerone.com
 hackerone.com
