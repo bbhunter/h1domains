@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 08:25:26 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 09:24:23 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
+explore.tari.com
 www.tarilabs.com
 www.tari.com
 explore.tari.com
@@ -84,9 +84,9 @@ app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
 payments.hostinger.com
-backend.zyro.com
 logo.zyro.com
 www.zyro.com
+backend.zyro.com
 www.niagahoster.co.id
 editor.zyro.com
 hpanel.hostinger.com
@@ -136,10 +136,10 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadopago.com.ar
+api.mercadolibre.com
+www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -181,13 +181,13 @@ cars.booking.com
 careers.booking.com
 portal.taxi.booking.com
 secure.booking.com
-account.booking.com
 widget.rentalcars.com
 booking.com
 *.rentalcars.com
 spark.fareharbor.com
 *.booking.com
 flights.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -259,8 +259,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -400,10 +400,10 @@ www.visa.co.id
 www.visa.co.ve
 www.currencycloud.com
 www.authorize.net
-bb.visa.com
 www.visa.com.mx
 cw.visa.com
-www.tink.com
+bb.visa.com
+www.visa.com.br
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -464,10 +464,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -485,8 +485,8 @@ krisha.kz
 m.avtoelon.uz
 avtoelon.uz
 id.kolesa.kz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -521,9 +521,9 @@ phabricator.allizom.org
 contile.services.mozilla.com
 aus5.mozilla.org
 location.services.mozilla.com
+accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-accounts.firefox.com
 merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -678,8 +678,8 @@ oneview.malwarebytes.com
 cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -698,11 +698,11 @@ digili.s-cloud.fi
 api.sokos.fi
 www.s-kaupat.fi
 online.s-pankki.fi
-www.s-pankki.fi
 www.sokos.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 cfapi.voikukka.fi
+www.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -854,6 +854,7 @@ www.fewo-direkt.de
 www.travelocity.com
 www.carrentals.com
 www.ebookers.com
+www.stayz.com.au
 www.orbitz.com
 www.bookabach.co.nz
 www.hotwire.com
@@ -861,7 +862,6 @@ www.expediacruises.com
 www.expedia.com
 www.hotels.com
 www.expediagroup.com
-www.stayz.com.au
 www.vrbo.com
 www.flights.com
 www.cheaptickets.com
@@ -929,9 +929,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-insights.deribit.com
 test.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1029,8 +1029,8 @@ www.swoodoo.com
 www.checkfelix.com
 www.kayak.com
 www.cheapflights.com
-www.hotelscombined.com
 www.mundi.com.br
+www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1420,9 +1420,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
+*.elastic.co
 cloud.elastic.co
 *.found.io
-*.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.elastic.co
@@ -1601,8 +1601,8 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api-lark-api.larksuite.com
+larksuite.com
 app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1649,8 +1649,8 @@ netlify-cdp-loader.netlify.app
 supportal.netlify.app
 api.netlify.com
 internal.netlify.com
-*.infra-prod.nsvcs.net
 app.netlify.com
+*.infra-prod.nsvcs.net
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1737,10 +1737,10 @@ developers.tiktok.com
 creatormarketplace.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
-shop.tiktok.com
 tiktok.com
+partner.tiktokshop.com
 *.tiktokv.com
+shop.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
 *.tiktok.com
@@ -1956,9 +1956,9 @@ store.playstation.com
 my.playstation.com
 my.account.sony.com
 *.api.playstation.com
+transact.playstation.com
 *.sonyentertainmentnetwork.com
 *.playstation.net
-transact.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2192,14 +2192,14 @@ updates.amazon.com
 *.aliyun-inc.com
 *.alibaba-inc.com
 *.Daraz.com
-*.aliexpress.com
-*.aliyun.com
 www.alibabagroup.com
+*.aliyun.com
+*.aliexpress.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
-*.alibabacloud.com
 *.taobao.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2317,8 +2317,8 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.roblox.com
+*.rbx.com
 *.guilded.gg
 *.roblox.com
 *.rbx.com
@@ -2358,6 +2358,14 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
+status.oasis.io
+wallet.oasis.io
+wallet.oasis.io
+status.oasis.io
+http://emerald.oasis.dev
+http://grpc.oasis.dev
+http://rosetta.oasis.dev/api/mainnet
+http://sapphire.oasis.io
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 codahosted.io
 codacontent.io
@@ -2760,9 +2768,9 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paypalcorp.com
-*.paypal.com
 *.braintreegateway.com
 *.braintreepayments.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3247,8 +3255,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 *.rockstargames.com
+rockstarnorth.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3297,9 +3305,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3554,15 +3562,15 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 *.sc-core.net
+business.snapchat.com
 accounts.snapchat.com
 spectacles.com
 kit.snapchat.com
@@ -3766,8 +3774,8 @@ intensedebate.com
 mailpoet.com
 www.tumblr.com
 *.tumblr.com
-wordpress.com
 akismet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3880,9 +3888,9 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+www.hackerone.com
 app.pullrequest.com
 hackerone.com
-www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
