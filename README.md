@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  1 06:27:45 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  1 07:21:34 UTC 2024)
 ```
 *.worldcoin-distributors.com
 toolsforhumanity.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -54,8 +54,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornbox.com
-www.analvids.com
 www.pornworld.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -136,10 +136,10 @@ www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.cl
 www.mercadopago.com.mx
-www.mercadolivre.com.br
-www.mercadopago.com.ar
 api.mercadolibre.com
 www.mercadopago.com.br
+www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -283,8 +283,8 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
 api-sandbox.gocardless.com
+*.gocardless-cicd.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -465,9 +465,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -621,8 +621,8 @@ ci.indrive.dev
 super-services.indriverapp.com
 *.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 *.indrive.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-teleport.sh
 *.gravitational.co
-cloud.gravitational.io
+teleport.sh
 *.goteleport.com
+cloud.gravitational.io
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1003,8 +1003,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-api.razorpay.com
 checkout.razorpay.com
+api.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
@@ -1054,9 +1054,9 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
+my.exness.com
 exness.com
 my.exness.com
 pay.ibex.exchange
@@ -1193,8 +1193,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1477,14 +1477,14 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 www.reddit.com
 *.reddit.com
 ads.reddit.com
@@ -1601,8 +1601,8 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 hackers_chosendomain.larksuite.com
-larksuite.com
 internal-api-lark-api.larksuite.com
+larksuite.com
 app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1740,12 +1740,12 @@ careers.tiktok.com
 tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
-business.tiktok.com
 shop.tiktok.com
-www.pangleglobal.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+www.pangleglobal.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2194,16 +2194,16 @@ updates.amazon.com
 *.aliexpress.ru
 *.tmall.com
 *.aliyun-inc.com
-*.aliyun.com
-www.alibabagroup.com
-*.aliexpress.com
 *.alibaba-inc.com
 *.Daraz.com
+*.aliexpress.com
+*.aliyun.com
+www.alibabagroup.com
 *.alimama.com
 *.1688.com
 *.alibaba.com
-*.taobao.com
 *.alibabacloud.com
+*.taobao.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2505,8 +2505,8 @@ press.priceline.com
 www.bookingholdings.com
 admin.smartsheet.com
 developers.smartsheet.com
-app.smartsheet.com
 www.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -2604,6 +2604,7 @@ blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 shop.wyndhamvacationownership.trisept.travel
 holidays-au.fijiairways.com
+holidays-sg.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3258,8 +3259,8 @@ lifeinvader.com
 prod.ros.rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
-*.rockstargames.com
 rockstarnorth.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3308,9 +3309,9 @@ gift.starbucks.co.jp
 app.starbucks.com
 openapi.starbucks.com
 www.starbucks.com.cn
-www.starbucks.de
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.de
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3331,8 +3332,8 @@ openapi.starbucks.com
 secureui.starbucks.com
 ws.blockchain.info
 www.blockchain.info
-*.blockchain.com
 api.blockchain.info
+*.blockchain.com
 *.blockchain.com
 www.blockchain.info
 api.blockchain.info
@@ -3522,8 +3523,8 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
-*.shopifycloud.com
 linkpop.com
+*.shopifycloud.com
 shopify.plus
 *.shopifykloud.com
 *.shopifycs.com
@@ -3568,17 +3569,17 @@ forum.playcanvas.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-snappublisher.snapchat.com
 ads.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 app.snapchat.com
 business.snapchat.com
 *.sc-core.net
-web.snapchat.com
 accounts.snapchat.com
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3820,11 +3821,11 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
-api.coinbase.com
-*.base.org
 *.coinbase.com
+*.base.org
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -3884,16 +3885,16 @@ a5s.hackerone-ext-content.com
 hackerone-ext-content.com
 mta-sts.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 ctf.hacker101.com
+errors.hackerone.net
 api.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 b5s.hackerone-ext-content.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 hackerone.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 app.pullrequest.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
