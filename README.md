@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  3 02:23:37 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar  3 03:21:49 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -23,8 +23,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-textexplore.tari.com
 explore.tari.com
+textexplore.tari.com
 www.tari.com
 www.tarilabs.com
 explore.tari.com
@@ -36,10 +36,10 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 customer-sessions.arkoselabs.com
 cdn.arkoselabs.com
-portal.arkoselabs.com
 demo.arkoselabs.com
 client-api.arkoselabs.com
 www.arkoselabs.com
+portal.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -186,8 +186,8 @@ flights.booking.com
 *.rentalcars.com
 account.booking.com
 cars.booking.com
-booking.com
 *.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -231,8 +231,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.boozt.com
 *.booztlet.com
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -398,11 +398,11 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
+bb.visa.com
 www.visa.com.mx
 cw.visa.com
-bb.visa.com
-www.visa.com.br
 www.tink.com
+www.visa.com.br
 www.visa.com.ng
 aw.visa.com
 bb.visa.com
@@ -513,18 +513,18 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+merino.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 bugzilla.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 location.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
-merino.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -672,9 +672,9 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
 my.malwarebytes.com
@@ -697,12 +697,12 @@ extranet.s-pankki.fi
 digili.s-cloud.fi
 api.sokos.fi
 online.s-pankki.fi
-www.s-kaupat.fi
-www.s-pankki.fi
 www.sokos.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 cfapi.voikukka.fi
+www.s-kaupat.fi
+www.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -912,10 +912,10 @@ askpam.ai
 *.teleport.dev
 *.gravitational.io
 platform.teleport.sh
-*.gravitational.co
 teleport.sh
-*.goteleport.com
+*.gravitational.co
 cloud.gravitational.io
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1224,8 +1224,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-www.evernote.com
 accounts.evernote.com
+www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1420,9 +1420,9 @@ https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
 *.swiftype.com
-*.elastic.co
 cloud.elastic.co
 *.found.io
+*.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.elastic.co
@@ -1477,14 +1477,14 @@ mod.reddit.com
 old.reddit.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 *.reddit.com
 ads.reddit.com
 *.snooguts.net
@@ -1741,11 +1741,11 @@ partner.tiktokshop.com
 careers.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
-tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2194,8 +2194,8 @@ updates.amazon.com
 *.Daraz.com
 *.aliexpress.com
 *.alimama.com
-*.alibabacloud.com
 www.alibabagroup.com
+*.alibabacloud.com
 *.taobao.com
 *.aliyun.com
 *.1688.com
@@ -2351,9 +2351,9 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.biz
 *.line.me
 *.line-apps.com
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2767,11 +2767,11 @@ py.pl
 paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
-*.paypal.com
 *.paylution.com
-*.braintreepayments.com
 *.paypalcorp.com
+*.braintreepayments.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3031,8 +3031,8 @@ app.quovo.com
 secure.quovo.com
 secure.plaid.com
 api.blockscore.com
-manage.blockscore.com
 plaid.com
+manage.blockscore.com
 dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
@@ -3052,10 +3052,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3131,10 +3131,10 @@ gifts.grab.com
 *.myteksi.net
 grab.careers
 kartaview.org
-*.taralite.com
 jira.grab.com
 *.grabpay.com
 *.ovo.id
+*.taralite.com
 *.grab.com
 *.myteksi.com
 *.myteksi.net
@@ -3263,8 +3263,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3386,8 +3386,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3403,8 +3403,8 @@ docs.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.org
-*.gitlab.net
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3419,10 +3419,10 @@ winecellar.zomato.com
 *.zdev.net
 api2.grofers.com
 api.grofers.com
+blinkit.com
 *.hyperpure.com
 *.zomato.com
 *.zomans.com
-blinkit.com
 *.runnr.in
 *.zomato.com
 *.zdev.net
@@ -3448,8 +3448,8 @@ derivws.com
 secure-dfadmin.deriv.com
 *.deriv.cloud
 app.deriv.com
-*.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3559,11 +3559,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+snappublisher.snapchat.com
+ads.snapchat.com
 playcanvas.com
 business.snapchat.com
 *.sc-core.net
@@ -3612,6 +3612,7 @@ rma.ui.com
 careers.ui.com
 uisp.com
 fw-update.ubnt.com
+*.ui.com
 store.ui.com
 *.ubnt.com
 *.ui.com
@@ -3647,11 +3648,11 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
-*.withairbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
 www.hoteltonight.com
+*.withairbnb.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3844,11 +3845,11 @@ edgeapi.slack.com
 spaces.pm
 slackatwork.com
 slack-redir.net
+app.slack.com
+slack.com
 slack-imgs.com
 www.quip.com
-slack.com
 *.quip.com
-app.slack.com
 api.slack.com
 slack.com
 api.slack.com
