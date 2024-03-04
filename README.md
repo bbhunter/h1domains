@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  4 20:25:44 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar  4 21:21:12 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -134,12 +134,12 @@ www.mercadolibre.com.pe
 www.mercadopago.cl
 www.mercadopago.com.mx
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadopago.com.br
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -186,8 +186,8 @@ spark.fareharbor.com
 cars.booking.com
 booking.com
 flights.booking.com
-*.booking.com
 account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -330,9 +330,9 @@ eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 launch.gamma.redoxstage.com
 explore.redoxengine.com
+testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 app.gamma.redoxstage.com
-testapp.redoxengine.com
 help.redoxengine.com
 10x.redoxengine.com
 www.redoxengine.com
@@ -389,6 +389,8 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
+www.visainfinite.ca
+www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -397,13 +399,11 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-www.authorize.net
-bb.visa.com
-www.visa.com.mx
 cw.visa.com
-www.tink.com
+www.visa.com.mx
+bb.visa.com
 www.visa.com.br
-www.visa.com.ng
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -612,6 +612,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+*.indriver.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -619,7 +620,6 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 *.indrive.com
 *.indriverapp.com
 cargo.indrive.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
@@ -696,11 +696,11 @@ mobile.s-pankki.fi
 extranet.s-pankki.fi
 digili.s-cloud.fi
 api.sokos.fi
+www.s-pankki.fi
 www.sokos.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 cfapi.voikukka.fi
-www.s-pankki.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 online.s-pankki.fi
@@ -1148,8 +1148,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1224,8 +1224,8 @@ woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
 api.evernote.com
-www.evernote.com
 accounts.evernote.com
+www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
@@ -1484,10 +1484,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
-old.reddit.com
+ads.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -2201,8 +2201,8 @@ updates.amazon.com
 *.Daraz.com
 *.alimama.com
 *.taobao.com
-*.aliexpress.ru
 *.aliexpress.com
+*.aliexpress.ru
 *.aliyun.com
 *.1688.com
 *.alibabacloud.com
@@ -2328,8 +2328,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2720,8 +2720,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -3061,10 +3061,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3363,9 +3363,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3377,7 +3377,6 @@ moneybird.com
 moneybirdstorage.com
 gist.github.com
 npmjs.org
-classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 *.github.net
@@ -3385,6 +3384,7 @@ npmjs.com
 api.github.com
 education.github.com
 github.com
+classroom.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3570,11 +3570,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-snappublisher.snapchat.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
+snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
 *.sc-core.net
@@ -3658,10 +3658,10 @@ callbacks.airbnb.com
 *.muscache.com
 next.airbnb.com
 assets.airbnb.com
+*.withairbnb.com
 api.airbnb.com
 *.airbnbcitizen.com
 *.hoteltonight-test.com
-*.withairbnb.com
 www.airbnb.com
 www.hoteltonight.com
 *.airbnb.com
@@ -3745,8 +3745,8 @@ grok.x.ai
 *.twimg.com
 gnip.com
 api.x.ai
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
