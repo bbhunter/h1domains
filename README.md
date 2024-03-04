@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  4 12:42:48 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar  4 13:31:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -68,9 +68,9 @@ http://sandbox-api.fireblocks.io
 *.sprint.apps.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -283,13 +283,13 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
-*.gocardless-cicd.io
-www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
-api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
+*.gocardless-cicd.io
+www.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -398,8 +398,8 @@ www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
 www.authorize.net
-www.visa.com.mx
 bb.visa.com
+www.visa.com.mx
 cw.visa.com
 www.tink.com
 www.visa.com.br
@@ -513,17 +513,17 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-merino.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 location.services.mozilla.com
-accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+accounts.firefox.com
+merino.services.mozilla.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -612,6 +612,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+*.indriver.com
 auth2.indrive.tech
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
@@ -619,7 +620,6 @@ argocd.indrive.dev
 ci.indrive.dev
 super-services.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 cargo.indrive.com
 *.indrive.com
 *.indriverapp.com
@@ -662,8 +662,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -672,12 +672,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
@@ -697,11 +697,11 @@ extranet.s-pankki.fi
 digili.s-cloud.fi
 api.sokos.fi
 online.s-pankki.fi
-www.s-pankki.fi
 www.sokos.fi
 www.prisma.fi
 tunnistus.s-ryhma.fi
 cfapi.voikukka.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -719,8 +719,8 @@ tequila.kiwi.com
 jobs.kiwi.com
 auth.skypicker.com
 www.kiwi.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -894,8 +894,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.workers.dev
 *.magiceden.dev
-magiceden.io
 *.magiceden.io
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1028,9 +1028,9 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.kayak.com
 www.checkfelix.com
 www.hotelscombined.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1054,10 +1054,10 @@ ws.sorare.com
 exnessaffiliates.com
 pwapi.ex2b.com
 api.excalls.mobi
-exness.com
-my.exness.com
 social-trading.exness.com
 pay.ibex.exchange
+my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1148,8 +1148,8 @@ admin.instacart.com
 shoppers.instacart.com
 api.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1484,11 +1484,11 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-*.reddit.com
 ads.reddit.com
+*.reddit.com
 *.snooguts.net
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1601,9 +1601,9 @@ internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2198,7 +2198,6 @@ updates.amazon.com
 *.alibaba-inc.com
 *.Daraz.com
 *.alimama.com
-*.alibabacloud.com
 *.taobao.com
 www.alibabagroup.com
 *.aliexpress.com
@@ -2206,6 +2205,7 @@ www.alibabagroup.com
 *.aliyun.com
 *.alibaba.com
 *.1688.com
+*.alibabacloud.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2774,8 +2774,8 @@ paypalobjects.com
 *.xoom.com
 *.hyperwallet.com
 *.paylution.com
-*.braintreepayments.com
 *.paypalcorp.com
+*.braintreepayments.com
 *.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
@@ -2928,11 +2928,11 @@ support.steampowered.com
 help.steampowered.com
 playartifact.com
 www.valvesoftware.com
+steamcommunity.com
 www.dota2.com
 api.steampowered.com
 store.steampowered.com
 www.teamfortress.com
-steamcommunity.com
 www.counter-strike.net
 www.dota2.com
 support.steampowered.com
@@ -3085,11 +3085,11 @@ privatetarget-1-www.zigzag
 *.lahitapiola.fi
 *.beta.lahitapiola.fi
 *.tapiola.fi
-www.lahitapiola.fi
 ext-gw.lahitapiola.fi
 verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
 yrityspalvelu.tapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3229,8 +3229,8 @@ wordpressfoundation.org
 gutenberg.run
 doaction.org
 *.wordcamp.org
-*.wordpress.net
 *.wordpress.org
+*.wordpress.net
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3359,9 +3359,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3529,11 +3529,11 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycloud.com
 accounts.shopify.com
-your-store.myshopify.com
 partners.shopify.com
 shop.app
-admin.shopify.com
+your-store.myshopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.com
 *.shopifykloud.com
@@ -3564,11 +3564,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
 *.sc-core.net
