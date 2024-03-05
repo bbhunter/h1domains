@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar  5 17:25:26 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar  5 18:24:24 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -23,10 +23,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 rfc.tari.com
-explore.tari.com
 textexplore.tari.com
-www.tarilabs.com
+explore.tari.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -183,10 +183,10 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-careers.booking.com
-www.fareharbor.com
 spark.fareharbor.com
+www.fareharbor.com
 *.rentalcars.com
+careers.booking.com
 account.booking.com
 *.booking.com
 *.booking.com
@@ -391,8 +391,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.visainfinite.ca
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -401,11 +399,13 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
+www.authorize.net
 www.visa.com.mx
+cw.visa.com
 bb.visa.com
 www.visa.com.br
 www.tink.com
+www.visa.com.ng
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -524,9 +524,9 @@ contile.services.mozilla.com
 accounts.firefox.com
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+bugzilla.mozilla.org
 location.services.mozilla.com
 lando.services.mozilla.com
-bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -674,12 +674,12 @@ oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mbamupdates.com
 *.mb-cosmos.com
+my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
-my.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
@@ -915,8 +915,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-cloud.gravitational.io
 *.goteleport.com
+cloud.gravitational.io
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -977,8 +977,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-royal.checksw.com
 checksw.com
+royal.checksw.com
 checksw.com
 royal.checksw.com
 *.superpal.io/*
@@ -1423,8 +1423,8 @@ gold.xnxx.com
 https://www.xvideos.net/app/
 *.eops.nl
 www.elastic.co
-*.elastic.co
 *.found.io
+*.elastic.co
 *.elstc.co
 *.swiftype.com
 *.elasticnet.co
@@ -1480,18 +1480,18 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-accounts.reddit.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 *.reddithelp.com
 oauth.reddit.com
 new.reddit.com
+accounts.reddit.com
 ads-api.reddit.com
+gql.reddit.com
 *.reddit.com
 ads.reddit.com
-old.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.snooguts.net
 *.redditmedia.com
@@ -1631,8 +1631,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1652,9 +1652,9 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
-api.netlify.com
-netlify-rum.netlify.app
 *.onegraph.com
+netlify-rum.netlify.app
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1747,9 +1747,9 @@ live-backstage.tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 partner.tiktokshop.com
-business.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2069,7 +2069,6 @@ api.amazon.com
 manufacturing.amazon.com
 apay-us.amazon.com
 aax-us-iad.amazon.com
-aca-livecards-service.amazon.com
 address-photos.amazon.com
 ads-setu-proxy.amazon.com
 alexa-comms-mobile-service-na.amazon.com
@@ -2094,6 +2093,7 @@ musiccentral.amazon.com
 pitangui.amazon.com
 preview-flex-capacity-na.amazon.com
 prod-dp-discovery-us-east-1.amazon.com
+rabbitinstruction-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2296,8 +2296,8 @@ jobs.marriott.com
 www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
-homes-and-villas.marriott.com
 www.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 sso.marriott.com
 mgs.marriott.com
@@ -2815,8 +2815,8 @@ secure.chaturbate.com
 *.mmcdn.com
 *.highwebmedia.com
 chaturbate.com
-*.cb.dev
 *.mmwebc.dev
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -2988,9 +2988,9 @@ alerts.eu.newrelic.com
 synthetics.newrelic.com
 synthetics.eu.newrelic.com
 *.nr-ops.net
+*.newrelic.com
 login.newrelic.com
 *.eu.newrelic.com
-one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
@@ -3057,10 +3057,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
+www.crowdstrike.com
 *.humio.com
 falcon-sandbox.com
 *.crowdstrike.com
-www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3086,8 +3086,8 @@ privatetarget-1-www.zigzag
 *.beta.lahitapiola.fi
 *.tapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -3268,8 +3268,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3309,8 +3309,8 @@ openapi.starbucks.com
 www.starbucks.co.kr
 www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3359,9 +3359,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3377,10 +3377,10 @@ npmjs.org
 *.githubusercontent.com
 *.github.net
 npmjs.com
-api.github.com
 education.github.com
-classroom.github.com
 github.com
+classroom.github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3391,8 +3391,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3522,19 +3522,19 @@ yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
+*.shopifycloud.com
 linkpop.com
-shopify.plus
 *.shopifykloud.com
+shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
-*.shopifycloud.com
 shop.app
 accounts.shopify.com
-*.shopify.com
 partners.shopify.com
-admin.shopify.com
+*.shopify.com
 your-store.myshopify.com
 *.shopify.io
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3566,11 +3566,11 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
+snappublisher.snapchat.com
+ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
-ads.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
 *.sc-core.net
@@ -3659,8 +3659,8 @@ assets.airbnb.com
 www.airbnb.com
 www.hoteltonight.com
 api.airbnb.com
-*.airbnb.com
 *.withairbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3823,9 +3823,9 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 cloud.coinbase.com
+api.coinbase.com
 *.base.org
 nft.coinbase.com
 coinbase.com
@@ -3898,8 +3898,8 @@ ctf.hacker101.com
 api.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
