@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 13:23:33 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 14:22:54 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -10,9 +10,9 @@ getworldcoin.com
 *.worldcoin.dev
 toolsforhumanity.com
 *.consumer.worldcoin.org
+bioid-management.app
 worldcoin.org
 *.worldcoin.org
-bioid-management.app
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -24,8 +24,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -48,8 +48,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-my.sheer.com
 www.sheer.com
+my.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -182,8 +182,8 @@ widget.rentalcars.com
 cars.booking.com
 booking.com
 flights.booking.com
-spark.fareharbor.com
 www.fareharbor.com
+spark.fareharbor.com
 careers.booking.com
 *.booking.com
 account.booking.com
@@ -285,11 +285,11 @@ connect-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 *.gocardless-staging.io
+www.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-www.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-cicd.io
 *.gocardless.io
@@ -399,10 +399,10 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
-www.tink.com
+bb.visa.com
 www.visa.com.br
+www.tink.com
 www.visa.com.ng
 aw.visa.com
 bb.visa.com
@@ -522,8 +522,8 @@ sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
 lando.services.mozilla.com
-accounts.firefox.com
 merino.services.mozilla.com
+accounts.firefox.com
 bugzilla.mozilla.org
 addons.allizom.org
 accounts.firefox.com
@@ -671,12 +671,12 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.malwarebytes.com
 *.mbamupdates.com
@@ -782,11 +782,11 @@ admin.8x8.com
 *.luckydays.ca
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.pl
-*.superbet.rs
 *.magicjackpot.ro
+*.superbet.rs
 *.napoleongames.be
 *.napoleoncasino.be
+*.superbet.pl
 *.superbet.com
 *.superbet.ro
 *.superbet.ro
@@ -1031,8 +1031,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1481,15 +1481,15 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
 ads-api.reddit.com
-gql.reddit.com
-ads.reddit.com
 *.reddit.com
+ads.reddit.com
 old.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1605,8 +1605,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-app.larksuite.com
 larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1652,8 +1652,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-*.onegraph.com
 netlify-rum.netlify.app
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2724,8 +2724,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2778,8 +2778,8 @@ py.pl
 *.venmo.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
@@ -2939,8 +2939,8 @@ www.dota2.com
 www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
-www.counter-strike.net
 api.steampowered.com
+www.counter-strike.net
 help.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3144,11 +3144,11 @@ grab.careers
 kartaview.org
 jira.grab.com
 *.grabpay.com
-*.grabtaxi.com
+*.grab.com
 *.ovo.id
 *.taralite.com
-*.grab.com
 *.myteksi.net
+*.grabtaxi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3276,8 +3276,8 @@ store.rockstargames.com
 lifeinvader.com
 rockstarnorth.com
 circolocorecords.com/
-app.files.com
 www.files.com
+app.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3367,9 +3367,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3416,8 +3416,8 @@ docs.gitlab.com
 customers.gitlab.com
 about.gitlab.com
 *.gitlab.net
-gitlab.com
 *.gitlab.org
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3540,9 +3540,9 @@ partners.shopify.com
 shop.app
 *.shopify.com
 accounts.shopify.com
-admin.shopify.com
 *.shopify.io
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3578,8 +3578,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3864,8 +3864,8 @@ www.quip.com
 *.quip.com
 api.slack.com
 slack.com
-app.slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3903,8 +3903,8 @@ cover-photos.hackerone-user-content.com
 ctf.hacker101.com
 reviewer.pullrequest.com
 app.pullrequest.com
-hackerone-user-content.com
 hackerone.live
+hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.hackerone.com
 api.hackerone.com
