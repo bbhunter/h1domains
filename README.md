@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar  6 05:20:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar  6 06:28:04 UTC 2024)
 ```
 *.worldcoin-distributors.com
 getworldcoin.com
@@ -25,8 +25,8 @@ worldcoin.org
 rfc.tari.com
 textexplore.tari.com
 explore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -108,10 +108,10 @@ research.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 education.23andme.com
+auth.23andme.com
 api.23andme.com
 mediacenter.23andme.com
 store.23andme.com
-auth.23andme.com
 medical.23andme.com
 you.23andme.com
 api.23andme.com
@@ -186,8 +186,8 @@ flights.booking.com
 spark.fareharbor.com
 www.fareharbor.com
 *.rentalcars.com
-careers.booking.com
 account.booking.com
+careers.booking.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -466,10 +466,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 bugzilla.mozilla.org
@@ -860,8 +860,8 @@ www.expediagroup.com
 www.stayz.com.au
 www.cheaptickets.com
 www.travelocity.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -915,8 +915,8 @@ askpam.ai
 *.gravitational.io
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 teleport.sh
 *.goteleport.com
 *.gravitational.com
@@ -1007,8 +1007,8 @@ snaps.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 payroll.razorpay.com
-checkout.razorpay.com
 api.razorpay.com
+checkout.razorpay.com
 dashboard.razorpay.com
 x.razorpay.com
 dashboard.razorpay.com
@@ -1197,9 +1197,9 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-api.krisp.ai
-account.krisp.ai
 *.krisp.ai
+account.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1487,10 +1487,10 @@ new.reddit.com
 accounts.reddit.com
 ads-api.reddit.com
 gql.reddit.com
-ads.reddit.com
 *.reddit.com
-old.reddit.com
+ads.reddit.com
 www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.snooguts.net
@@ -1604,8 +1604,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 larksuite.com
@@ -1651,8 +1651,8 @@ supportal.netlify.app
 internal.netlify.com
 *.infra-prod.nsvcs.net
 *.services.netlify.com
-netlify-rum.netlify.app
 *.onegraph.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -1699,12 +1699,12 @@ api.sharefile.eu
 secure.sharefile.eu
 api.sharefile.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
 eu.cloud.com
 accounts.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
+www.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1745,10 +1745,10 @@ shop.tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
-tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
 ads.tiktok.com
+tiktok.com
 www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
@@ -1821,13 +1821,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1836,6 +1831,9 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2207,8 +2205,8 @@ updates.amazon.com
 *.aliyun.com
 *.aliyun-inc.com
 www.alibabagroup.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2363,10 +2361,13 @@ app.nordpass.com
 *.line.naver.jp
 *.line.me
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
+*.linecorp.com
+http://recruit.linepluscorp.com
 status.oasis.io
 wallet.oasis.io
 wallet.oasis.io
@@ -2696,8 +2697,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
-*.grammarly.io
 *.grammarly.com
+*.grammarly.io
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2772,12 +2773,12 @@ py.pl
 *.venmo.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 *.braintreepayments.com
+*.paypalcorp.com
 *.braintree-api.com
 paypalobjects.com
-*.braintree.tools
 *.xoom.com
+*.braintree.tools
 *.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
@@ -2931,11 +2932,11 @@ help.steampowered.com
 playartifact.com
 www.valvesoftware.com
 www.dota2.com
-api.steampowered.com
+steamcommunity.com
 www.teamfortress.com
 www.counter-strike.net
-steamcommunity.com
 store.steampowered.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3525,8 +3526,8 @@ www.udemy.com
 yourcompany.udemy.com
 shopifyinbox.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifycloud.com
@@ -3572,8 +3573,8 @@ www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
 ads.snapchat.com
-*.sc-core.net
 business.snapchat.com
+*.sc-core.net
 spectacles.com
 kit.snapchat.com
 blog.playcanvas.com
@@ -3661,8 +3662,8 @@ assets.airbnb.com
 www.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3856,9 +3857,9 @@ slack-redir.net
 slack-imgs.com
 www.quip.com
 *.quip.com
-app.slack.com
 api.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -3897,11 +3898,11 @@ ctf.hacker101.com
 api.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
-hackerone-user-content.com
 hackerone.live
+hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
