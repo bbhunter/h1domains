@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar  8 03:21:19 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar  8 04:24:32 UTC 2024)
 ```
 cards.remitly.io
 app.rewire.to
@@ -34,8 +34,8 @@ bioid-management.app
 worldcoin.org
 rfc.tari.com
 textexplore.tari.com
-www.tarilabs.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 explore.tari.com
 rfc.tari.com
@@ -267,8 +267,8 @@ pentesting3.gethypr.com
 pentesting2.gethypr.com
 hypr74352.gethypr.com
 hypr37448.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicex.com
@@ -681,12 +681,12 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
+*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.malwarebytes.com
@@ -867,21 +867,21 @@ www.expediagroup.com
 www.stayz.com.au
 www.cheaptickets.com
 www.travelocity.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
 www.expedia.com
 www.abritel.fr
 www.expediapartnersolutions.com
-*.lastminute.co.nz
-*.lastminute.com.au
 *.carrentals.com
+*.lastminute.com.au
+*.lastminute.co.nz
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
-*.expediacruises.com
+*.wotif.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -941,8 +941,8 @@ platform.teleport.sh
 *.gravitational.co
 *.goteleport.com
 cloud.gravitational.io
-teleport.sh
 *.gravitational.io
+teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1057,8 +1057,8 @@ www.momondo.com
 www.swoodoo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.checkfelix.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1507,15 +1507,15 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
+accounts.reddit.com
+gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
-accounts.reddit.com
-gql.reddit.com
 ads.reddit.com
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.reddithelp.com
 *.reddit.com
@@ -1658,8 +1658,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-www.yotisign.com
 identity.yoti.com
+www.yotisign.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1680,8 +1680,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1765,15 +1765,15 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 live-backstage.tiktok.com
 business.tiktok.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 tiktok.com
-ads.tiktok.com
 www.pangleglobal.com
+ads.tiktok.com
 *.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
@@ -1835,8 +1835,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-beta-cloud.acronis.com
 *.acronis.work
+beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -1848,13 +1848,8 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
-www10.watsons.com.vn
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-app.marionnaud.fr
-mapi.moneyback.com.hk
-www.moneyback.com.hk
+app.superdrug.com
+api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
@@ -1863,6 +1858,9 @@ www10.watsons.com.tw
 api.watsons.com.tw
 www10.watsons.com.ph
 www.watsons.co.th
+www20.watsons.co.th
+www10.watsons.co.th
+api.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2325,10 +2323,10 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-homes-and-villas.marriott.com
 marrtool.com
-careers.marriott.com
+homes-and-villas.marriott.com
 moments.marriottbonvoy.com
+careers.marriott.com
 help.marriott.com
 www.marriott.com
 homes-and-villas.marriott.com
@@ -2755,8 +2753,8 @@ mobile-prod.tvg.com
 fdbox.net
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2813,8 +2811,8 @@ py.pl
 paypalobjects.com
 *.xoom.com
 *.braintree.tools
-*.braintreegateway.com
 *.braintreepayments.com
+*.braintreegateway.com
 *.paypal.com
 *.hyperwallet.com
 www.paypal-*.com
@@ -3569,8 +3567,8 @@ shopifyinbox.com
 your-store.myshopify.com
 accounts.shopify.com
 partners.shopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3932,8 +3930,8 @@ app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 errors.hackerone.net
 hackerone.live
-ctf.hacker101.com
 www.hackerone.com
+ctf.hacker101.com
 hackerone-user-content.com
 api.hackerone.com
 hackerone.com
