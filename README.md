@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 20:23:03 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 21:17:20 UTC 2024)
 ```
 cards.remitly.io
-api.remitly.io
 app.rewire.to
 remitly.com
 rewire.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -137,6 +137,8 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
+api.mercadolibre.com
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -146,9 +148,7 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -399,8 +399,8 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
+bb.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -486,8 +486,8 @@ api.avtoelon.uz
 m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -514,11 +514,11 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -580,9 +580,9 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hiltonhotels.jp
-hilton.com
 hiltonbusinessonline.com
 *.hilton.io
+hilton.com
 *.hilton.com
 hilton.io
 *.hiltonbusinessonline.com
@@ -752,8 +752,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -1445,10 +1445,10 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.found.io
 *.elasticnet.co
-*.elastic.co
 *.elstc.co
 *.swiftype.com
 cloud.elastic.co
+*.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1500,11 +1500,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -1651,8 +1651,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1758,12 +1758,12 @@ api.adm.cloud.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 developers.tiktok.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-tiktok.com
 shop.tiktok.com
+tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
@@ -1841,23 +1841,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2322,8 +2320,8 @@ www.ritzcarlton.com
 sso.marriott.com
 activities.marriott.com
 all-inclusive.marriott.com
-moments.marriottbonvoy.com
 careers.marriott.com
+moments.marriottbonvoy.com
 marrtool.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
@@ -2759,8 +2757,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2972,8 +2970,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.counter-strike.net
 www.dota2.com
+www.counter-strike.net
 support.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3097,10 +3095,10 @@ hybrid-analysis.com
 *.reposify.com
 *.bionic.ai
 *.preempt.com
-*.humio.com
 falcon-sandbox.com
 www.crowdstrike.com
 *.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3124,8 +3122,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 *.lahitapiola.fi
@@ -3348,8 +3346,8 @@ gift.starbucks.co.jp
 openapi.starbucks.com
 www.starbucks.de
 www.starbucks.com.cn
-app.starbucks.com
 www.starbucks.com
+app.starbucks.com
 www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
@@ -3399,9 +3397,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3606,10 +3604,10 @@ msg.playcanvas.com
 create.snapchat.com
 my.snapchat.com
 forum.playcanvas.com
-ads.snapchat.com
 www.bitmoji.com
 login.playcanvas.com
 scan.snapchat.com
+ads.snapchat.com
 *.sc-core.net
 spectacles.com
 kit.snapchat.com
@@ -3863,8 +3861,8 @@ international.coinbase.com
 *.cbhq.net
 institutional.coinbase.com
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
+api.coinbase.com
 *.base.org
 *.coinbase.com
 commerce.coinbase.com
@@ -3932,9 +3930,9 @@ b5s.hackerone-ext-content.com
 www.wearehackerone.com
 reviewer.pullrequest.com
 errors.hackerone.net
+hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 ctf.hacker101.com
 hackerone.live
-hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
