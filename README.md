@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 02:31:26 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 03:22:17 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -19,8 +19,8 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 bioid-management.app
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.worldcoin.org
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -137,8 +137,6 @@ research.23andme.com
 www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
-api.mercadolibre.com
-www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -148,7 +146,9 @@ www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
 www.mercadopago.com.br
+www.mercadopago.com.ar
 www.mercadolivre.com.br
+api.mercadolibre.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -389,7 +389,6 @@ www.visa.com.tw
 www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.my
-www.authorize.net
 www.cybersource.com
 visa.com.au
 www.fraedom.com
@@ -398,13 +397,14 @@ www.visa.co.in
 www.yellowpepper.com
 www.visa.co.id
 www.visa.co.ve
-cw.visa.com
-www.visa.com.mx
+www.authorize.net
 bb.visa.com
+www.visa.com.mx
+cw.visa.com
 www.tink.com
 www.visa.com.ng
-www.cardinalcommerce.com
 visa.co.cr
+www.cardinalcommerce.com
 www.visa.co.uk
 aw.visa.com
 bb.visa.com
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-id.kolesa.kz
 krisha.kz
+id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -579,7 +579,6 @@ hilton.com.tr
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.hiltonlocalbiz.com
-*.hiltonbusinessonline.com
 *.hiltonhotels.jp
 hilton.com
 hiltonbusinessonline.com
@@ -587,6 +586,7 @@ hiltonbusinessonline.com
 *.hilton.com.tr
 *.hilton.com
 hilton.io
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -611,7 +611,6 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
-profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -623,6 +622,7 @@ cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indriverapp.com
+profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indriverapp.com
@@ -752,7 +752,6 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-cloud8.8x8.com
 *.8x8.vc
 *.8x8.vc
 *.jit.si
@@ -932,8 +931,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1501,11 +1500,11 @@ mod.reddit.com
 *.redditinc.com
 api.reddit.com
 *.redditmedia.com
-gql.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 oauth.reddit.com
 new.reddit.com
+gql.reddit.com
 ads.reddit.com
 www.reddit.com
 *.snooguts.net
@@ -1624,8 +1623,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1674,8 +1673,8 @@ internal.netlify.com
 netlify-rum.netlify.app
 api.netlify.com
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1828,10 +1827,10 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
-*.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
+*.acronis.work
 *.acronis.com
+account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2763,8 +2762,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2977,8 +2976,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3128,8 +3127,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-secure.lahitapiola.fi
 verkkopalvelu.tapiola.fi
+secure.lahitapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3421,8 +3420,8 @@ npmjs.org
 npmjs.com
 education.github.com
 *.githubusercontent.com
-api.github.com
 *.githubapp.com
+api.github.com
 github.com
 classroom.github.com
 github.com
@@ -3566,19 +3565,19 @@ www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 linkpop.com
-*.shopifykloud.com
 shopify.plus
+*.shopifykloud.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopify.io
-partners.shopify.com
 shop.app
+partners.shopify.com
 your-store.myshopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
-*.shopify.com
 accounts.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
