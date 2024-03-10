@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 10 08:25:36 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 10 09:22:16 UTC 2024)
 ```
 cards.remitly.io
 api.remitly.io
@@ -33,8 +33,8 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 explore.tari.com
@@ -120,10 +120,10 @@ blog.23andme.com
 education.23andme.com
 store.23andme.com
 medical.23andme.com
-auth.23andme.com
 you.23andme.com
 mediacenter.23andme.com
 api.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -487,8 +487,8 @@ m.avtoelon.uz
 avtoelon.uz
 m.kolesa.kz
 kolesa.kz
-krisha.kz
 id.kolesa.kz
+krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -514,12 +514,12 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 phabricator.allizom.org
 contile.services.mozilla.com
+aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -673,9 +673,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -858,8 +858,8 @@ www.expediacruises.com
 www.hotels.com
 www.stayz.com.au
 www.cheaptickets.com
-www.orbitz.com
 www.ebookers.com
+www.orbitz.com
 www.hotwire.com
 www.flights.com
 www.carrentals.com
@@ -869,12 +869,12 @@ www.expediapartnersolutions.com
 *.cheaptickets.com
 *.travelocity.ca
 *.expediapartnercentral.com
+*.expediacruises.com
 *.travelocity.com
 www.bookabach.co.nz
 *.vrbo.com
 www.vrbo.com
 *.wotif.com
-*.expediacruises.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1218,8 +1218,8 @@ analytics.krisp.ai
 download.krisp.ai
 teams.krisp.ai
 krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 *.krisp.ai
 krisp.ai
@@ -1624,8 +1624,8 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 file.larksuite.com
 status.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 open.larksuite.com
@@ -1714,7 +1714,6 @@ api.adm.cloud.com
 adm.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
-(yoursubdomain).sharefile.eu
 secure.sharefile.com
 api.sharefile.eu
 secure.sharefile.eu
@@ -1726,6 +1725,7 @@ accounts.cloud.com
 *.citrixworkspacesapi.net
 citrix.cloud.com
 www.cloud.com
+(yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -1763,8 +1763,8 @@ effecthouse.tiktok.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
-shop.tiktok.com
 tiktok.com
+shop.tiktok.com
 www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
@@ -1830,8 +1830,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.acronis.com
+account.acronis.com
 *.5nine.com
 *-api-*.acronis.com
 *.acronis.com
@@ -1842,23 +1842,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2231,10 +2229,10 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.Daraz.com
-*.aliyun.com
-*.tmall.com
 *.alibaba-inc.com
+*.aliyun.com
+*.Daraz.com
+*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
@@ -2329,8 +2327,8 @@ marrtool.com
 www.marriott.com
 homes-and-villas.marriott.com
 reservations.all-inclusive.marriott.com
-travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 traveler.marriott.com
 help.marriott.com
 homes-and-villas.marriott.com
@@ -2398,10 +2396,10 @@ app.nordpass.com
 *.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
+*.line.me
 *.line.biz
 *.line.naver.jp
 *.line-apps.com
-*.line.me
 *.linecorp.com
 *.line.me
 *.line-apps.com
@@ -2760,8 +2758,8 @@ promos.tvg.com
 mobile-prod.tvg.com
 www.4njbets.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 www.tvg.com
@@ -2821,8 +2819,8 @@ paypalobjects.com
 *.braintreepayments.com
 api.loanbuilder.com
 *.braintreegateway.com
-*.paypal.com
 *.paypalcorp.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -2974,8 +2972,8 @@ help.steampowered.com
 api.steampowered.com
 steamcommunity.com
 www.teamfortress.com
-www.dota2.com
 www.counter-strike.net
+www.dota2.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3125,8 +3123,8 @@ privatetarget-1-www.zigzag
 *.lahitapiolarahoitus.fi
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-verkkopalvelu.tapiola.fi
 secure.lahitapiola.fi
+verkkopalvelu.tapiola.fi
 www.lahitapiola.fi
 *.tapiola.fi
 yrityspalvelu.tapiola.fi
@@ -3347,11 +3345,11 @@ www.starbucks.com.br
 www.starbucks.com.sg
 gift.starbucks.co.jp
 openapi.starbucks.com
-www.starbucks.co.kr
 www.starbucks.de
+www.starbucks.co.kr
 www.starbucks.com.cn
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3569,13 +3567,13 @@ arrive-server.shopifycloud.com
 *.shopify.io
 shop.app
 partners.shopify.com
-your-store.myshopify.com
 *.shopifycloud.com
 shopifyinbox.com
 admin.shopify.com
 accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3698,8 +3696,8 @@ assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.airbnb.com
+www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
 www.airbnb.com
@@ -3940,8 +3938,8 @@ app.pullrequest.com
 cover-photos.hackerone-user-content.com
 api.hackerone.com
 hackerone-user-content.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
