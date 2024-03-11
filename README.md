@@ -2,12 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 11 19:21:25 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 11 20:24:27 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
 api.dyson.it
-api.dyson.es
 api.dyson.nl
 api.dyson.be
 api.dyson.de
@@ -362,9 +361,9 @@ my.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
-www.pornworld.com
 www.analvids.com
 www.pornbox.com
+www.pornworld.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -698,8 +697,8 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-bb.visa.com
 cw.visa.com
+bb.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -813,10 +812,10 @@ crash-stats.allizom.org
 shavar.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 phabricator.allizom.org
 contile.services.mozilla.com
-aus5.mozilla.org
 sync.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 location.services.mozilla.com
@@ -922,8 +921,8 @@ file-storage-front.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -972,11 +971,11 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-my.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
 *.cloud.malwarebytes.com
 *.mwbsys.com
+my.malwarebytes.com
 www.malwarebytes.com
 *.mbamupdates.com
 *.threatdown.com
@@ -1050,8 +1049,8 @@ voapi.8x8.com
 admin.8x8.com
 *.jit.si
 connect.8x8.com
-*.8x8.vc
 cloud8.8x8.com
+*.8x8.vc
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1149,8 +1148,8 @@ www.expediaagents.com
 www.fewo-direkt.de
 www.hotels.com
 www.stayz.com.au
-www.ebookers.com
 www.orbitz.com
+www.ebookers.com
 www.flights.com
 www.expediapartnersolutions.com
 *.cheaptickets.com
@@ -1231,9 +1230,9 @@ askpam.ai
 pb.deribit.com
 metrics.deribit.com
 tools.deribit.com
-*.deribit.com
 test.deribit.com
 insights.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1411,8 +1410,8 @@ r.etoro.com
 bullsheet.me
 etoropartners.com
 charts.etoro.com
-delta.app
 www.etoro.com
+delta.app
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1500,8 +1499,8 @@ download.krisp.ai
 teams.krisp.ai
 krisp.ai
 *.krisp.ai
-account.krisp.ai
 api.krisp.ai
+account.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -1953,8 +1952,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 *.onegraph.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2048,9 +2047,9 @@ business.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
 *.tiktokv.com
-tiktok.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2122,23 +2121,21 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www10.watsons.com.vn
+www10.pns.hk
+api.pns.hk
+www.pns.hk
+app.marionnaud.fr
+mapi.moneyback.com.hk
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.pns.hk
-api.pns.hk
-www.pns.hk
-www10.watsons.com.sg
-www.watsons.com.sg
-api.watsons.com.sg
-www.watsons.com.hk
-www10.watsons.com.hk
-api.watsons.com.hk
-www10.watsons.co.id
-api.watsons.co.id
-www.watsons.co.id
-blog.watsons.com.tr
+www10.watsons.com.tw
+api.watsons.com.tw
+www10.watsons.com.ph
+www.watsons.co.th
+www20.watsons.co.th
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2514,8 +2511,8 @@ www.alibabagroup.com
 *.taobao.com
 *.tmall.com
 *.aliyun.com
-*.Daraz.com
 *.aliexpress.com
+*.Daraz.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3039,14 +3036,14 @@ m.4njbets.tvg.com
 promos.tvg.com
 mobile-prod.tvg.com
 sportsbook.fanduel.com
-tvg.com
 *racing.fanduel.com
+tvg.com
 us.tvg.com
 com.fanduel.android.live
 fdbox.net
 *.fanduel.com
-www.4njbets.com
 www.tvg.com
+www.4njbets.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3100,9 +3097,9 @@ paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 my.swiftfinancial.com
+api.loanbuilder.com
 *.paypal.com
 www.loanbuilder.com
-api.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3274,9 +3271,9 @@ auth.crypto.com
 js.crypto.com
 merchant.crypto.com
 *.crypto.com
+tax.crypto.com
 *.mona.co
 www.crypto.com
-tax.crypto.com
 pay.crypto.com
 *.crypto.com
 *.mona.co
@@ -3651,11 +3648,11 @@ npmjs.org
 education.github.com
 *.githubusercontent.com
 *.githubapp.com
-github.com
 api.github.com
+npmjs.com
 classroom.github.com
 *.github.net
-npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3805,8 +3802,8 @@ partners.shopify.com
 shopifyinbox.com
 *.shopifycs.com
 your-store.myshopify.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 accounts.shopify.com
 shop.app
 *.shopify.io
@@ -3931,11 +3928,11 @@ next.airbnb.com
 assets.airbnb.com
 *.airbnbcitizen.com
 api.airbnb.com
-www.airbnb.com
 *.hoteltonight-test.com
 *.withairbnb.com
 *.airbnb.com
 www.hoteltonight.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4104,8 +4101,8 @@ commerce.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 coinbase.com
-*.base.org
 api.coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
