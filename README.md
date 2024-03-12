@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 12 06:27:04 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 12 07:20:20 UTC 2024)
 ```
 www.dyson.no
 api.dyson.se
@@ -306,9 +306,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 api.remitly.io
+app.rewire.to
 rewire.com
 remitly.com
-app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -438,17 +438,17 @@ www.mercadolibre.com.uy
 api.mercadopago.com
 www.mercadopago.com.uy
 www.mercadopago.com.ar
+www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
-www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
+www.mercadopago.com.br
 www.mercadolibre.com.ar
 api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -549,8 +549,8 @@ api2.frontapp.com
 *.booztlet.com
 *.trip.com
 *.trip.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -699,8 +699,8 @@ www.visa.co.id
 www.visa.co.ve
 www.authorize.net
 www.visa.com.mx
-cw.visa.com
 bb.visa.com
+cw.visa.com
 www.tink.com
 www.visa.com.ng
 www.cardinalcommerce.com
@@ -768,8 +768,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -885,8 +885,8 @@ hiltonbusinessonline.com
 hilton.io
 *.hiltonbusinessonline.com
 hilton.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -911,6 +911,7 @@ aws.indrive.tech
 ingest.clairvoyance.indrive.tech
 volans.tech
 injob.indriver.com
+profile-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 new-order.eu-east-1.indriverapp.com
 argocd.indrive.dev
@@ -920,7 +921,6 @@ auth.indrive.tech
 cargo.indrive.com
 *.indriver.com
 file-storage-front.eu-east-1.indriverapp.com
-profile-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 *.indrive.com
@@ -973,9 +973,9 @@ http://miro.com/blog
 oneview.malwarebytes.com
 *.mwb-threatintel.com
 *.mb-cosmos.com
-*.cloud.malwarebytes.com
 *.cyrus-security.com
 cloud.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
 www.malwarebytes.com
@@ -1089,8 +1089,8 @@ admin.8x8.com
 *.napoleoncasino.be
 *.superbet.pl
 *.superbet.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1150,8 +1150,8 @@ www.expediaagents.com
 www.fewo-direkt.de
 www.hotels.com
 www.stayz.com.au
-www.ebookers.com
 www.orbitz.com
+www.ebookers.com
 www.flights.com
 www.expediapartnersolutions.com
 *.cheaptickets.com
@@ -1214,8 +1214,8 @@ zerobounce.net
 *.teleport.dev
 platform.teleport.sh
 *.gravitational.co
-*.goteleport.com
 cloud.gravitational.io
+*.goteleport.com
 *.gravitational.io
 teleport.sh
 askpam.ai
@@ -1232,9 +1232,9 @@ askpam.ai
 pb.deribit.com
 metrics.deribit.com
 tools.deribit.com
+insights.deribit.com
 test.deribit.com
 *.deribit.com
-insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1933,8 +1933,8 @@ core.yoti.com
 ccloud.yoti.com
 code.yoti.com
 api.yoti.com
-identity.yoti.com
 www.yotisign.com
+identity.yoti.com
 hub.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2050,8 +2050,8 @@ live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
 tiktok.com
-*.tiktokv.com
 www.pangleglobal.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2123,19 +2123,27 @@ beta-cloud.acronis.com
 account.acronis.com
 sandbox.affirm.com
 sandbox.affirm.com
+www.watsons.com.tr
 app.superdrug.com
 api.superdrug.com
 www.kruidvat.nl
 app.kruidvat.nl
 app.theperfumeshop.com
 api.theperfumeshop.com
-www10.watsons.com.tw
-api.watsons.com.tw
-www10.watsons.com.ph
-www.watsons.co.th
-www20.watsons.co.th
-www10.watsons.co.th
-api.watsons.co.th
+api.watsons.com.my
+www10.watsons.com.my
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+app.iciparisxl.nl
+app.iciparisxl.be
+app.iciparisxl.lu
+www.marionnaud.at
+app.marionnaud.at
+app.marionnaud.ch
+www.marionnaud.cz
+app.marionnaud.cz
+www.marionnaud.hu
 www.superdrug.com
 www.kruidvat.nl
 www.kruidvat.be
@@ -2506,12 +2514,12 @@ updates.amazon.com
 *.aliyun-inc.com
 www.alibabagroup.com
 *.tmall.com
+*.Daraz.com
 *.alibaba.com
+*.1688.com
 *.alibaba-inc.com
 *.taobao.com
-*.1688.com
 *.aliexpress.com
-*.Daraz.com
 *.aliyun.com
 *.alibaba.com
 *.aliexpress.com
@@ -2543,9 +2551,9 @@ x2.fortmatic.com
 careers.fortmatic.com
 api.fortmatic.com
 dashboard.fortmatic.com
-dashboard.magic.link
 api.magic.link
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2591,9 +2599,9 @@ gatewaydsaptst2.marriott.com
 gatewaydsapdev2.marriott.com
 marriottfranchisetransactions.marriott.com
 passwordchallenge.marriott.com
-cpp.marriott.com
 gatewaydsaptst1.marriott.com
 mgs.marriott.com
+cpp.marriott.com
 hotel-deals.marriott.com
 jobs.marriott.com
 www.ritzcarlton.com
@@ -2603,13 +2611,13 @@ all-inclusive.marriott.com
 careers.marriott.com
 moments.marriottbonvoy.com
 marrtool.com
-mipartnerprivileges.marriott.com
 reservations.all-inclusive.marriott.com
+mipartnerprivileges.marriott.com
 homes-and-villas.marriott.com
 help.marriott.com
 www.marriott.com
-traveler.marriott.com
 travelagents.marriott.com/
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3034,12 +3042,12 @@ m.4njbets.tvg.com
 promos.tvg.com
 mobile-prod.tvg.com
 sportsbook.fanduel.com
-*racing.fanduel.com
 tvg.com
+*racing.fanduel.com
 us.tvg.com
 com.fanduel.android.live
-www.tvg.com
 www.4njbets.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3095,8 +3103,8 @@ paypalobjects.com
 *.braintreegateway.com
 *.paypalcorp.com
 my.swiftfinancial.com
-api.loanbuilder.com
 www.loanbuilder.com
+api.loanbuilder.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3267,9 +3275,9 @@ developer.valvesoftware.com
 auth.crypto.com
 js.crypto.com
 merchant.crypto.com
-tax.crypto.com
 *.mona.co
 www.crypto.com
+tax.crypto.com
 pay.crypto.com
 app.mona.co
 *.crypto.com
@@ -3629,9 +3637,9 @@ yelptop100.com
 *.yelp-support.com
 *.yelpwifi.com
 yelptop100.com
-getharvest.com
 id.getharvest.com
 harvestapp.com
+getharvest.com
 forecastapp.com
 harvestapp.com
 forecastapp.com
@@ -3642,7 +3650,6 @@ moneybird.com
 moneybird.com
 moneybirdstorage.com
 npmjs.org
-education.github.com
 *.githubusercontent.com
 *.githubapp.com
 api.github.com
@@ -3651,6 +3658,7 @@ classroom.github.com
 npmjs.com
 github.com
 gist.github.com
+education.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3798,13 +3806,13 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopifycs.com
+*.shopify.com
+partners.shopify.com
 accounts.shopify.com
 *.shopify.io
 your-store.myshopify.com
 admin.shopify.com
 shop.app
-*.shopify.com
-partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4099,8 +4107,8 @@ commerce.coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 coinbase.com
-*.base.org
 api.coinbase.com
+*.base.org
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4160,7 +4168,6 @@ mta-sts.wearehackerone.com
 b5s.hackerone-ext-content.com
 www.wearehackerone.com
 errors.hackerone.net
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
 hackerone-user-content.com
 api.hackerone.com
@@ -4170,6 +4177,7 @@ reviewer.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.live
 www.hackerone.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
