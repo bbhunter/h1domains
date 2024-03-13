@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 06:26:23 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 07:21:22 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -372,8 +372,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornbox.com
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
+sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
-sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -509,8 +509,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 *.booking.com
 booking.com
 *.booking.com
@@ -783,9 +783,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1176,7 +1176,6 @@ www.expediaagents.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.travelocity.com
-*.expediacruises.com
 *.expediapartnercentral.com
 www.abritel.fr
 www.bookabach.co.nz
@@ -1185,6 +1184,7 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.travelocity.ca
+*.expediacruises.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1341,8 +1341,8 @@ www.linkedin.com
 www.linkedin.com
 api.linkedin.com
 business.linkedin.com
-*.wealthsimple.com
 *.simpletax.ca
+*.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
 www.swoodoo.com
@@ -1396,7 +1396,6 @@ api.smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-www.etoro.com
 etoropartners.com
 partners.etoro.com
 aggregator.etoro.com
@@ -1431,6 +1430,7 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1508,8 +1508,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-*.payoneer.com
 payoneer.com.cn
+*.payoneer.com
 *.payoneer.com
 payoneer.com.cn
 krisp.ai
@@ -1927,6 +1927,7 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 open.larksuite.com
@@ -1937,9 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
-hackers_chosendomain.larksuite.com
 app.larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2069,19 +2069,19 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 careers.tiktok.com
 developers.tiktok.com
-shop.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
-tiktok.com
-*.tiktok.com
+www.pangleglobal.com
 *.tiktokv.com
+*.tiktok.com
+shop.tiktok.com
+tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2550,8 +2550,6 @@ na.account.amazon.com
 paragon-na.amazon.com
 read.amazon.com
 updates.amazon.com
-*.alibaba.com
-*.aliexpress.com
 *.taobao.com
 *.tmall.com
 *.aliyun.com
@@ -2563,6 +2561,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
+*.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2693,8 +2693,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2953,7 +2953,6 @@ www.wynnvacations.com
 www.beachbound.com
 book.applevacations.com
 book.booktandl.com
-login.en.travelbrandsagent.com
 login.fr.travelbrandsagent.com
 login.www.vaxvacationaccess.com
 new.www.vaxvacationaccess.com
@@ -2963,6 +2962,7 @@ res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
 res.vacations.universalstudioshollywood.com
+reservations.wynnvacations.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3322,8 +3322,8 @@ app.mona.co
 tax.crypto.com
 *.mona.co
 merchant.crypto.com
-*.crypto.com
 js.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3632,8 +3632,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3790,11 +3790,10 @@ api.deriv.com
 derivws.com
 secure-dfadmin.deriv.com
 werkenbijdefensie.nl
-werkenbijderet.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3804,6 +3803,7 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3987,8 +3987,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
