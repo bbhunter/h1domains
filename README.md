@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 01:13:44 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 02:27:43 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -436,8 +436,8 @@ mediacenter.23andme.com
 medical.23andme.com
 store.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 research.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1638,7 +1638,6 @@ capturingreality.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-www.recordedfuture.com
 therecord.media
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1647,6 +1646,7 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -2077,11 +2077,11 @@ fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-*.tiktokv.com
 ads.tiktok.com
+*.tiktok.com
+*.tiktokv.com
 www.pangleglobal.com
 partner.tiktokshop.com
-*.tiktok.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2752,7 +2752,6 @@ codahosted.io
 codacontent.io
 sketch.pixiv.net
 sensei.pixiv.net
-accounts.pixiv.net
 www.pixiv.net
 booth.pm
 comic.pixiv.net
@@ -2764,6 +2763,7 @@ payment.pixiv.net
 neoket.net
 novel.pixiv.net
 coban.pixiv.net
+accounts.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2940,7 +2940,6 @@ booking.beachbound.com
 book.beachbound.com
 book.extraholidaysvacations.com
 holidays-nz.fijiairways.com
-res.en.travelbrandsagent.com
 res.funjet.com
 res.marival.globalbookingsolutions.com
 res.secretsresorts.com
@@ -2965,6 +2964,7 @@ res.fr.travelbrandsagent.com
 res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3121,7 +3121,6 @@ decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftcapital.com
-www.loanbuilder.com
 www.swiftfinancial.com
 api.swiftfinancial.com
 my.swiftfinancial.com
@@ -3134,6 +3133,7 @@ swiftcapital.com
 *.paylution.com
 *.braintreegateway.com
 *.paypalcorp.com
+www.loanbuilder.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3293,7 +3293,6 @@ api.foliofn.com
 *.foliofirst.com
 *.folioinvesting.com
 developer.valvesoftware.com
-www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3305,6 +3304,7 @@ www.teamfortress.com
 help.steampowered.com
 steamcommunity.com
 store.steampowered.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3402,7 +3402,6 @@ verkkopalvelu.tapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
 *.lahitapiolarahoitus.fi
-*.lahitapiola.fi
 *.tapiola.fi
 asiointi.lahitapiola.fi
 api.lahitapiola.fi
@@ -3414,6 +3413,7 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3858,8 +3858,8 @@ arrive-server.shopifycloud.com
 accounts.shopify.com
 your-store.myshopify.com
 *.shopify.io
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3898,7 +3898,6 @@ code.playcanvas.com
 developer.playcanvas.com
 forum.playcanvas.com
 launch.playcanvas.com
-login.playcanvas.com
 msg.playcanvas.com
 playcanvas.com
 relay.playcanvas.com
@@ -3907,6 +3906,7 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
+login.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4154,12 +4154,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4191,8 +4191,8 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4235,8 +4235,8 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone.com
 hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
