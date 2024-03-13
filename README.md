@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 22:19:37 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 23:22:28 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -333,10 +333,10 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -459,11 +459,11 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-www.mercadolivre.com.br
 api.mercadolibre.com
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -828,7 +828,6 @@ api.tideplatform.in
 addons.allizom.org
 accounts.firefox.com
 location.services.mozilla.com
-sync.services.mozilla.com
 push.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
@@ -843,6 +842,7 @@ lando.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
+sync.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1180,11 +1180,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-www.expedia.com
-*.expediacruises.com
-*.expediapartnercentral.com
-*.travelocity.com
 *.travelocity.ca
+*.travelocity.com
+www.expedia.com
+*.expediapartnercentral.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1757,8 +1757,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1771,12 +1771,12 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.recko.io
-js.stripe.com
-*.getbouncer.com
-app.taxjar.com
 *.touchtechpayments.com
 api.stripe.com
+*.recko.io
+*.getbouncer.com
+app.taxjar.com
+js.stripe.com
 *.stripe.com
 api.stripe.com
 *.stripe.com
@@ -2032,8 +2032,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2069,17 +2069,17 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
-careers.tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
 business.tiktok.com
 *.tiktokv.com
 tiktok.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
+partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
-partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2144,12 +2144,12 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2345,8 +2345,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -3109,14 +3109,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3125,6 +3117,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3296,12 +3296,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
-steamcommunity.com
-api.steampowered.com
+www.teamfortress.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3319,11 +3319,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-js.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
-*.mona.co
 merchant.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3702,8 +3702,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3883,7 +3883,6 @@ accounts.snapchat.com
 app.snapchat.com
 map.snapchat.com
 story.snapchat.com
-ads.snapchat.com
 businesshelp.snapchat.com
 store.snapchat.com
 *.sc-core.net
@@ -3904,6 +3903,7 @@ playcanv.as
 web.snapchat.com
 login.playcanvas.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4150,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
