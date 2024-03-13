@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 14:24:38 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 16:36:59 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -40,11 +40,11 @@ www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
 www.dyson.hk
-www.dyson.co.th
 www.dyson.my
 shop.dyson.co.za
 www.sa.dyson.com
 www.dyson.cz
+www.dyson.com.ro
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -322,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -393,9 +393,9 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
+myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -450,7 +450,6 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
@@ -462,9 +461,10 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
-api.mercadolibre.com
 www.mercadopago.com.br
+api.mercadolibre.com
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -503,7 +503,6 @@ portal.taxi.booking.com
 flights.booking.com
 secure-supply-xml.booking.com
 taxi.booking.com
-widget.rentalcars.com
 cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
@@ -511,6 +510,7 @@ kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
 secure.booking.com
+widget.rentalcars.com
 booking.com
 *.booking.com
 *.rentalcars.com
@@ -898,12 +898,12 @@ hilton.io
 *.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-*.hiltonbusinessonline.com
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hiltonbusinessonline.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1181,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1347,12 +1347,12 @@ business.linkedin.com
 *.simpletax.ca
 www.swoodoo.com
 www.checkfelix.com
-www.kayak.com
 business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
 www.hotelscombined.com
+www.kayak.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1470,8 +1470,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1644,8 +1644,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1772,7 +1772,6 @@ cloud.elastic.co
 *.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
-app.taxjar.com
 js.stripe.com
 *.recko.io
 *.reckoproduction.com
@@ -1780,6 +1779,7 @@ js.stripe.com
 *.link.co
 *.getbouncer.com
 api.stripe.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1985,8 +1985,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 app.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2072,16 +2072,16 @@ live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
-creatormarketplace.tiktok.com
-tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
-effecthouse.tiktok.com
-ads.tiktok.com
+tiktok.com
 shop.tiktok.com
+effecthouse.tiktok.com
 careers.tiktok.com
 *.tiktokv.com
 *.tiktok.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2561,8 +2561,8 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.alibaba.com
-*.tmall.com
 *.aliyun.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2653,13 +2653,13 @@ passwordchallenge.marriott.com
 marriottfranchisetransactions.marriott.com
 lawmanager.marriott.com
 hotel-deals.marriott.com
-www.marriott.com
 *uat.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
-travelagents.marriott.com/
 mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 traveler.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2954,7 +2954,6 @@ www.beachbound.com
 book.applevacations.com
 book.booktandl.com
 login.fr.travelbrandsagent.com
-login.www.vaxvacationaccess.com
 new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
 res.fr.travelbrandsagent.com
@@ -2964,6 +2963,7 @@ res.vacations.united.com
 res.vacations.universalstudioshollywood.com
 reservations.wynnvacations.com
 rezagent.triseptsolutions.com
+shop.wyndhamvacationownership.trisept.travel
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3074,9 +3074,9 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-www.4njbets.com
-fdbox.net
 *.fanduel.com
+fdbox.net
+www.4njbets.com
 fanduel.design
 *.fanduel.com
 *racing.fanduel.com
@@ -3111,14 +3111,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,6 +3119,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3187,9 +3187,9 @@ testnet.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
-*.staging.airtable.com
 api-staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3297,8 +3297,8 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3321,10 +3321,10 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
-tax.crypto.com
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3523,11 +3523,11 @@ assets.spotify.com
 api.spotify.com
 backstage.io
 ws1.dashlane.com
-www.dashlane.com
 console.dashlane.com
 app.dashlane.com
 logs.dashlane.com
 api.dashlane.com
+www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3612,8 +3612,8 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-portswigger.net
 forum.portswigger.net
+portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
@@ -3703,8 +3703,8 @@ education.github.com
 npmjs.com
 npmjs.org
 api.github.com
-github.com
 *.githubusercontent.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3751,8 +3751,8 @@ winecellar.zomato.com
 api.grofers.com
 api2.grofers.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3793,8 +3793,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3848,17 +3848,17 @@ yourcompany.udemy.com
 *.shopifykloud.com
 *.shopifycloud.com
 linkpop.com
-shopifyinbox.com
 shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-partners.shopify.com
-*.shopify.com
 accounts.shopify.com
-your-store.myshopify.com
-admin.shopify.com
 *.shopify.io
+shopifyinbox.com
+partners.shopify.com
+admin.shopify.com
+*.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3986,9 +3986,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
+www.airbnb.com
 *.airbnbcitizen.com
 *.airbnb.com
-www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4187,9 +4187,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-slack.com
 app.slack.com
 api.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4218,7 +4218,6 @@ hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-hackathon-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
@@ -4230,10 +4229,11 @@ www.wearehackerone.com
 hackerone-user-content.com
 app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone.com
 hackerone-ext-content.com
 www.hackerone.com
 api.hackerone.com
+hackathon-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
