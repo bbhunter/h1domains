@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 09:22:52 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 10:24:00 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -321,8 +321,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-remitly.com
 api.remitly.io
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -412,11 +412,11 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 cpanel.hostinger.com
-hpanel.hostinger.com
 payments.hostinger.com
 www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -783,8 +783,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -861,7 +861,6 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
@@ -870,8 +869,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
+developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1097,7 +1097,6 @@ pay.8x8.com
 admin.8x8.com
 *.superbet.rs
 *.magicjackpot.ro
-*.superbet.ro
 *.spinaway.com
 *.luckydays.com
 *.luckydays.ca
@@ -1106,6 +1105,7 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.superbet.pl
+*.superbet.ro
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1211,9 +1211,9 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-magiceden.io
 *.magiceden.dev
 *.magiceden.io
+magiceden.io
 *.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
@@ -1535,11 +1535,11 @@ admin.wickr.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
-judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+judge.me
 judge.me
 https://judge.me/reviews
 shop.judge.me
@@ -1800,8 +1800,6 @@ meta-api.reddit.com
 amp.reddit.com
 *.snooguts.net
 ads-api.reddit.com
-www.reddit.com
-old.reddit.com
 new.reddit.com
 *.redditinc.com
 *.redditblog.com
@@ -1824,6 +1822,8 @@ matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+www.reddit.com
+old.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2033,8 +2033,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2073,14 +2073,14 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-www.pangleglobal.com
 partner.tiktokshop.com
+effecthouse.tiktok.com
+ads.tiktok.com
 *.tiktokv.com
 shop.tiktok.com
 tiktok.com
-effecthouse.tiktok.com
 *.tiktok.com
-ads.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2692,8 +2692,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2862,9 +2862,9 @@ priceline.com
 press.priceline.com
 www.bookingholdings.com
 admin.smartsheet.com
-app.smartsheet.com
 developers.smartsheet.com
 www.smartsheet.com
+app.smartsheet.com
 app.smartsheet.com
 http://api.smartsheet.com/2.0
 admin.smartsheet.com
@@ -3072,10 +3072,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-*.fanduel.com
 tvg.com
 www.4njbets.com
 fdbox.net
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3296,8 +3296,8 @@ www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
 api.steampowered.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
@@ -3320,9 +3320,9 @@ pay.crypto.com
 app.mona.co
 tax.crypto.com
 *.mona.co
-js.crypto.com
 merchant.crypto.com
 *.crypto.com
+js.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3853,8 +3853,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 *.shopify.com
+partners.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -3976,7 +3976,6 @@ omgpro.airbnb.com
 one.airbnb.com
 open.airbnb.com
 callbacks.airbnb.com
-*.airbnb.com
 *.atairbnb.com
 *.withairbnb.com
 *.byairbnb.com
@@ -3985,8 +3984,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4068,10 +4068,10 @@ www.greenhouse.io
 *.vine.co
 *.twimg.com
 gnip.com
-x.com
 api.x.ai
 grok.x.ai
 ide.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4149,12 +4149,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
@@ -4230,8 +4230,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
 www.hackerone.com
-hackerone.com
 cover-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
