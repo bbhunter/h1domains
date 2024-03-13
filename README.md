@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 19:21:06 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 20:21:59 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -111,7 +111,6 @@ account-onboarding-noneu.truecaller.com
 ads-audience-ingestion-noneu.truecaller.com
 ads-audience-uploader.truecaller.com
 ads-config-engine-noneu.truecaller.com
-ads-partner-noneu.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 ads5-asia-south1.truecaller.com
@@ -154,6 +153,7 @@ enterprise-service-management-noneu.truecaller.com
 enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
+feedback-asia-south1.truecaller.com
 business.truecaller.com
 account-noneu.truecaller.com
 account-onboarding-noneu.truecaller.com
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -412,12 +412,12 @@ www.zyro.com
 backend.zyro.com
 editor.zyro.com
 logo.zyro.com
-cpanel.hostinger.com
 payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
 www.niagahoster.co.id
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -461,10 +461,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadolibre.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,9 +511,9 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
+*.booking.com
 booking.com
 *.rentalcars.com
-*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -600,7 +600,6 @@ https://simple-life-app.com/
 *.gocardless-cicd.io
 www.gocardless.com
 manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
 api-sandbox.gocardless.com
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -609,6 +608,7 @@ oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-staging.io
+pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1213,9 +1213,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-*.magiceden.io
 *.magiceden.workers.dev
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1246,12 +1246,12 @@ teleport.sh
 platform.teleport.sh
 cloud.gravitational.io
 askpam.ai
-test.deribit.com
 pb.deribit.com
 *.deribit.com
 tools.deribit.com
 metrics.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1769,17 +1769,17 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-*.touchtechpayments.com
 api.taxjar.com
-js.stripe.com
-*.recko.io
 *.reckoproduction.com
-*.reckostaging.com
 *.link.co
-api.stripe.com
-app.taxjar.com
+*.reckostaging.com
+*.recko.io
+js.stripe.com
 *.getbouncer.com
+app.taxjar.com
+*.touchtechpayments.com
 *.stripe.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1808,7 +1808,6 @@ new.reddit.com
 api.reddit.com
 mod.reddit.com
 oauth.reddit.com
-ads.reddit.com
 gql.reddit.com
 accounts.reddit.com
 gateway.reddit.com
@@ -1819,12 +1818,13 @@ s.reddit.com
 *.reddit.com
 sh.reddit.com
 *.redditmedia.com
-matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 www.reddit.com
+matrix.redditspace.com
+ads.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2080,8 +2080,8 @@ business.tiktok.com
 *.tiktokv.com
 *.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2125,8 +2125,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2344,11 +2344,11 @@ watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
-*.mi.com
-*.xiaomi.com
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
+*.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2659,8 +2659,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3075,10 +3075,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-fdbox.net
-fanduel.design
 www.4njbets.com
 *.fanduel.com
+fanduel.design
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3321,11 +3321,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-js.crypto.com
-merchant.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
 *.mona.co
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3411,8 +3411,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3703,8 +3703,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
+*.githubusercontent.com
 github.com
 github.com
 api.github.com
@@ -3794,8 +3794,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -4067,7 +4067,6 @@ jss.greenhouse.io
 interseller.io
 app.interseller.io
 www.greenhouse.io
-*.twitter.com
 *.vine.co
 *.twimg.com
 gnip.com
@@ -4075,6 +4074,7 @@ api.x.ai
 grok.x.ai
 ide.x.ai
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4152,17 +4152,17 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-cloud.coinbase.com
 *.coinbase.com
+cloud.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4189,8 +4189,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4228,13 +4228,13 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-hackerone-ext-content.com
+app.pullrequest.com
 www.hackerone.com
+hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 hackathon-photos.hackerone-user-content.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
