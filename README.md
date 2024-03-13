@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 02:27:43 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 03:24:32 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -349,8 +349,8 @@ worldcoin.org
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
-www.tari.com
 www.tarilabs.com
+www.tari.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -389,9 +389,9 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
+sso-sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
-sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -509,10 +509,10 @@ www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
-*.booking.com
 account.booking.com
 *.rentalcars.com
 careers.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -2078,10 +2078,10 @@ effecthouse.tiktok.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
-*.tiktok.com
 *.tiktokv.com
-www.pangleglobal.com
 partner.tiktokshop.com
+*.tiktok.com
+www.pangleglobal.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -3225,7 +3225,6 @@ www.shipt.com
 *.goldman.com
 *.marcus.com
 *.honestdollar.com
-*.goldmansachs.com
 *.gspublishing.com
 research.gs.com
 *.ayco.com
@@ -3412,8 +3411,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -4158,8 +4157,8 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-institutional.coinbase.com
 api.coinbase.com
+institutional.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com

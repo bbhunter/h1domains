@@ -370,9 +370,9 @@ vendasta,partners.vendasta.com,False
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
-tari_labs,www.tari.com,True
 tari_labs,tlu.tarilabs.com,False
 tari_labs,www.tarilabs.com,True
+tari_labs,www.tari.com,True
 tari_labs,explore.tari.com,True
 tari_labs,rfc.tari.com,True
 tari_labs,textexplore.tari.com,True
@@ -438,9 +438,9 @@ fireblocks,sandbox.fireblocks.io,True
 fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
+dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
-dynatrace,sso-sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
@@ -572,10 +572,10 @@ bookingcom,www.fareharbor.com,True
 bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
-bookingcom,*.booking.com,True
 bookingcom,account.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,careers.booking.com,True
+bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
 bookingcom,booking.com,True
@@ -1907,7 +1907,6 @@ fertitta_entertainment,thepostoakhotel.com,False
 fertitta_entertainment,shoppostoak.com,False
 fertitta_entertainment,tilmanfertitta.com,False
 fertitta_entertainment,fertittaentertainmentinc.com,False
-aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
 aboitizpower_corporation,*.cotabatolight.com,False
@@ -1946,6 +1945,7 @@ aboitizpower_corporation,sustainablephilippines.com,False
 aboitizpower_corporation,veco.com.ph,False
 aboitizpower_corporation,visayanelectric.com.ph,False
 aboitizpower_corporation,visayanelectric.ph,False
+aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.aboitizpower.com,False
 aboitizpower_corporation,*.snaboitiz.com,False
 aboitizpower_corporation,*.enerzone.com.ph,False
@@ -3160,8 +3160,8 @@ clarivate,biologyfinder.com,False
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshchat.com,True
 freshworks,yourdomain.freshcaller.com,True
-freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshservice.com,True
+freshworks,yourdomain.myfreshworks.com,True
 freshworks,yourdomain.freshdesk.com,True
 freshworks,yourdomain.freshservice.com,True
 freshworks,yourdomain.freshchat.com,True
@@ -4930,8 +4930,8 @@ trendyol,www.trendyol.com,True
 trendyol,m.trendyol.com,True
 trendyol,www.dolap.com,True
 trendyol,www.trendyol-milla.com,True
-trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
+trellix,*.trellix.com,False
 trellix,*.trellix.com,False
 trellix,*.skyhighsecurity.com,False
 sidefx,*.sidefx.com,True
@@ -7382,10 +7382,10 @@ tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
 tiktok,ads.tiktok.com,True
-tiktok,*.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
+tiktok,*.tiktok.com,True
+tiktok,www.pangleglobal.com,True
 tiktok,tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
@@ -9654,7 +9654,6 @@ goldmansachs,*.marcus.co.uk,True
 goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.com,True
 goldmansachs,*.honestdollar.com,True
-goldmansachs,*.goldmansachs.com,True
 goldmansachs,*.gspublishing.com,True
 goldmansachs,research.gs.com,True
 goldmansachs,*.ayco.com,True
@@ -9897,8 +9896,8 @@ localtapiola,verovelvollisuustiedot.lahitapiola.fi,True
 localtapiola,sijoitusvakuutus.lahitapiola.fi,True
 localtapiola,privatetarget-1-www.zigzag,True
 localtapiola,privatetarget-2-secure.zigzag,True
-localtapiola,*.beta.lahitapiola.fi,True
 localtapiola,*.lahitapiola.fi,True
+localtapiola,*.beta.lahitapiola.fi,True
 localtapiola,*.lahitapiolarahoitus.fi,True
 localtapiola,*.lahitapiola.fi,True
 localtapiola,*.tapiola.fi,True
@@ -10877,8 +10876,8 @@ coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
-coinbase,institutional.coinbase.com,True
 coinbase,api.coinbase.com,True
+coinbase,institutional.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
 coinbase,nft.coinbase.com,True
