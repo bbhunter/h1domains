@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 10:24:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 11:23:36 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -35,15 +35,15 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 api.fi.dyson.com
-www.dyson.pl
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
-www.dyson.co.il
 www.dyson.hk
 www.dyson.co.th
+www.dyson.my
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -320,9 +320,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-app.rewire.to
 api.remitly.io
 remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -507,11 +507,11 @@ cars.booking.com
 www.fareharbor.com
 spark.fareharbor.com
 kyc-onboarding.booking.com
-secure.booking.com
 account.booking.com
 careers.booking.com
 *.booking.com
 booking.com
+secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -838,11 +838,11 @@ hg.mozilla.org
 contile.services.mozilla.com
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -901,8 +901,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com
 *.hilton.com.tr
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -917,7 +917,6 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okx.com
 *.okx.com
-watchdocs.indriverapp.com
 injob.indriver.com
 super-services.indriverapp.com
 priority.eu-east-1.indriverapp.com
@@ -926,7 +925,6 @@ messenger.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indriver.com
 *.indrive.com
 cargo.indrive.com
@@ -941,6 +939,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
+watchdocs.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -980,8 +980,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-miro.com
 api.miro.com
+miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1182,8 +1182,8 @@ www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expedia.com
-*.expediacruises.com
 *.expediapartnercentral.com
+*.expediacruises.com
 *.travelocity.com
 *.vrbo.com
 *.hotwire.com
@@ -1213,8 +1213,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.dev
 *.magiceden.io
-magiceden.io
 *.magiceden.workers.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1478,7 +1478,6 @@ www.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 academy.databricks.com
-accounts.cloud.databricks.com
 demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
@@ -1491,6 +1490,7 @@ customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1571,6 +1571,7 @@ twinmotion.unrealengine.com
 *.superawesome.com
 *.popjam.com
 *.rukkaz.com
+*.jellychat.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1822,8 +1823,8 @@ matrix.redditspace.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-www.reddit.com
 old.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1937,8 +1938,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 hackers_chosendomain.larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2033,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2356,7 +2357,6 @@ portal.polygon.technology
 *.betfair.com
 *.paddypower.com
 *.betfair.es
-*.betfair.it
 *.betfair.ro
 *.betfair.se
 *.paddypower.it
@@ -2559,9 +2559,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.alibaba.com
-*.aliexpress.com
 *.tmall.com
+*.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2692,8 +2692,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.guilded.gg
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3054,7 +3054,6 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-fanduel.design
 com.fanduel.android.live
 sportsbook.fanduel.com
 *racing.fanduel.com
@@ -3074,8 +3073,9 @@ service.tvg.com
 us.tvg.com
 tvg.com
 www.4njbets.com
-fdbox.net
 *.fanduel.com
+fdbox.net
+fanduel.design
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3109,14 +3109,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3125,6 +3117,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3408,8 +3408,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3651,10 +3651,10 @@ www.starbucks.com.sg
 cart.starbucks.co.jp
 openapi.starbucks.com
 secureui.starbucks.com
-*.blockchain.com
 www.blockchain.info
 api.blockchain.info
 ws.blockchain.info
+*.blockchain.com
 *.blockchain.com
 www.blockchain.info
 api.blockchain.info
@@ -3853,8 +3853,8 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 accounts.shopify.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 admin.shopify.com
 *.shopify.io
 *.shopifycs.com
@@ -4149,11 +4149,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4223,7 +4223,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4231,6 +4230,7 @@ www.wearehackerone.com
 hackerone-user-content.com
 www.hackerone.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
