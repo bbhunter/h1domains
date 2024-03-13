@@ -573,8 +573,8 @@ bookingcom,spark.fareharbor.com,True
 bookingcom,kyc-onboarding.booking.com,True
 bookingcom,secure.booking.com,True
 bookingcom,account.booking.com,True
-bookingcom,careers.booking.com,True
 bookingcom,*.rentalcars.com,True
+bookingcom,careers.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.booking.com,True
 bookingcom,*.rentalcars.com,True
@@ -3837,7 +3837,6 @@ yuga_labs,*.wenewmoments.com,True
 yuga_labs,dookeydash.com,True
 yuga_labs,hv-mtl.com,True
 expediagroup_bbp,www.hotels.com,True
-expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.hotwirepartnercentral.com,True
 expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.ebookers.com,True
@@ -3862,6 +3861,7 @@ expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.travelocity.ca,True
+expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
@@ -4075,7 +4075,6 @@ resmed,onlinestore.resmed.com,False
 resmed,account.resmed.com,False
 resmed,u-sleep.umbian.com,False
 resmed,narval-easy.resmed.eu,False
-resmed,careers.resmed.com,False
 resmed,shop.resmed.com,False
 resmed,resmed.co.uk,False
 resmed,resmed.mx,False
@@ -4095,6 +4094,7 @@ resmed,resmed.no,False
 resmed,resmed.pt,False
 resmed,resmed.dk,False
 resmed,resmed.ch,False
+resmed,resmed.la,False
 resmed,resmed.com,False
 resmed,resupply.resmed.com,False
 resmed,myair.resmed.com,False
@@ -5011,11 +5011,11 @@ oanda,*.oanda.jp,False
 oanda,*.tms.pl,False
 oanda,*.tmsbrokers.com,False
 razorpay,dashboard.razorpay.com,True
-razorpay,api.razorpay.com,True
 razorpay,checkout.razorpay.com,True
 razorpay,invoices.razorpay.com,True
 razorpay,payroll.razorpay.com,True
 razorpay,x.razorpay.com,True
+razorpay,api.razorpay.com,True
 razorpay,dashboard.razorpay.com,True
 razorpay,api.razorpay.com,True
 razorpay,checkout.razorpay.com,True
@@ -5205,10 +5205,10 @@ etoro_bbp,delta.app,True
 etoro_bbp,bullsheet.me,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
-instacart,www.instacart.com,True
 instacart,admin.instacart.com,True
 instacart,shoppers.instacart.com,True
 instacart,*.instacart.com,True
+instacart,www.instacart.com,True
 instacart,*.instacart.com,True
 instacart,*.instacart.tools,True
 instacart,api.instacart.com,True
@@ -7183,7 +7183,6 @@ bitso,api.bitso.com,True
 bitso,http://bitso.com/alpha,True
 bitso,nvio.mx,True
 bitso,nvio.ar,True
-lark_technologies,larksuite.com,True
 lark_technologies,lark-frontier.byteoversea.com,True
 lark_technologies,file.larksuite.com,True
 lark_technologies,open.larksuite.com,True
@@ -7194,6 +7193,7 @@ lark_technologies,passport.larksuite.com,True
 lark_technologies,internal-api.larksuite.com,True
 lark_technologies,internal-api-lark-api.larksuite.com,True
 lark_technologies,internal-api-drive-stream.larksuite.com,True
+lark_technologies,larksuite.com,True
 lark_technologies,hackers_chosendomain.larksuite.com,True
 lark_technologies,app.larksuite.com,True
 lark_technologies,larksuite.com,True
@@ -7275,7 +7275,6 @@ yoti,code.yoti.com,True
 yoti,www.yotisign.com,True
 yoti,hub.yoti.com,True
 yoti,identity.yoti.com,True
-netlify,api.netlify.com,True
 netlify,supportal.netlify.app,True
 netlify,netlify-cdp-loader.netlify.app,True
 netlify,screenshot-proxy.netlify.app,True
@@ -7289,6 +7288,7 @@ netlify,internal.netlify.com,True
 netlify,*.infra-prod.nsvcs.net,True
 netlify,*.ops.netlify.com,True
 netlify,app.netlify.com,True
+netlify,api.netlify.com,True
 netlify,*.services.netlify.com,True
 netlify,*.services-prod.nsvcs.net,True
 netlify,*.infra-prod.nsvcs.net,True
@@ -7312,7 +7312,6 @@ basecamp,3.basecamp.com,True
 basecamp,launchpad.37signals.com,True
 basecamp,world.hey.com,True
 citrix,citrix.cloud.com,True
-citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
 citrix,eu.cloud.com,True
 citrix,us.cloud.com,True
@@ -7340,6 +7339,7 @@ citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
 citrix,(yoursubdomain).sharefile.com,True
+citrix,www.cloud.com,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7380,12 +7380,12 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
+tiktok,tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktokv.com,True
-tiktok,www.pangleglobal.com,True
 tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
-tiktok,tiktok.com,True
+tiktok,www.pangleglobal.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -10359,8 +10359,8 @@ radancy,werkenbijdefensie.nl,True
 radancy,werkenbijderet.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
-radancy,www.werkenbijbakertilly.nl,True
 radancy,devmaximum.com,True
+radancy,www.werkenbijbakertilly.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,no-reply.cloud,True
@@ -10695,8 +10695,8 @@ airbnb,*.airbnb-aws.com,True
 airbnb,*.luxuryretreats.com,True
 airbnb,*.hoteltonight-test.com,True
 airbnb,www.hoteltonight.com,True
-airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
+airbnb,*.airbnbcitizen.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
 airbnb,api.airbnb.com,True
@@ -10869,12 +10869,12 @@ irccloud,team-irc.irccloud.com,True
 irccloud,blog.irccloud.com,True
 coinbase,*.cbhq.net,True
 coinbase,api.custody.coinbase.com,True
-coinbase,api.coinbase.com,True
 coinbase,pro.coinbase.com,True
 coinbase,custody.coinbase.com,True
 coinbase,commerce.coinbase.com,True
 coinbase,prime.coinbase.com,True
 coinbase,institutional.coinbase.com,True
+coinbase,api.coinbase.com,True
 coinbase,*.base.org,True
 coinbase,international.coinbase.com,True
 coinbase,nft.coinbase.com,True
