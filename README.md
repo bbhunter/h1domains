@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 13:23:35 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 14:24:38 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -322,8 +322,8 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
 app.rewire.to
-api.remitly.io
 remitly.com
+api.remitly.io
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.consumer.worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -390,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-*.sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
+*.sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -414,10 +414,10 @@ editor.zyro.com
 logo.zyro.com
 cpanel.hostinger.com
 payments.hostinger.com
-www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
 hpanel.hostinger.com
+www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -510,9 +510,9 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
+secure.booking.com
 booking.com
 *.booking.com
-secure.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -784,8 +784,8 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -870,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1181,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.travelocity.ca
+*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
-*.travelocity.com
-*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1470,8 +1470,8 @@ bullsheet.me
 api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1769,7 +1769,6 @@ cloud.elastic.co
 *.eops.nl
 www.elastic.co
 cloud.elastic.co
-api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
 api.taxjar.com
@@ -1780,6 +1779,7 @@ js.stripe.com
 *.reckostaging.com
 *.link.co
 *.getbouncer.com
+api.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1927,9 +1927,9 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
+larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
-open.larksuite.com
 api.larksuite.com
 caldav.larksuite.com
 status.larksuite.com
@@ -1937,9 +1937,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-larksuite.com
 app.larksuite.com
 hackers_chosendomain.larksuite.com
+open.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2034,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2067,21 +2067,21 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-careers.tiktok.com
 developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
-www.pangleglobal.com
 tiktok.com
-*.tiktokv.com
+www.pangleglobal.com
+partner.tiktokshop.com
+effecthouse.tiktok.com
 ads.tiktok.com
 shop.tiktok.com
+careers.tiktok.com
+*.tiktokv.com
 *.tiktok.com
-effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2147,11 +2147,11 @@ app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
 *.acronis.com
-account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2449,6 +2449,7 @@ msh.amazon.com
 music-api.amazon.com
 music-hints-na.amazon.com
 musicapp.amazon.com
+musiccentral.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2587,7 +2588,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-dashboard.magic.link
 api.magic.link
 fortmatic.com
 api.fortmatic.com
@@ -2595,6 +2595,7 @@ x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -3296,12 +3297,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-api.steampowered.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3320,10 +3321,10 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
+tax.crypto.com
 merchant.crypto.com
 *.crypto.com
 js.crypto.com
-tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3409,8 +3410,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.lahitapiola.fi
 *.beta.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3632,8 +3633,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-www.starbucks.com
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3747,11 +3748,11 @@ winecellar.zomato.com
 *.zomans.com
 *.hyperpure.com
 *.zdev.net
-*.runnr.in
 api.grofers.com
 api2.grofers.com
 blinkit.com
 *.zomato.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3840,8 +3841,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3854,10 +3855,10 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 partners.shopify.com
 *.shopify.com
-*.shopify.io
+accounts.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-accounts.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3985,9 +3986,9 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4150,11 +4151,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4177,7 +4178,6 @@ nft.coinbase.com
 http://coinbase.com
 international.coinbase.com
 *.base.org
-api.slack.com
 status.slack.com
 slackb.com
 edgeapi.slack.com
@@ -4189,6 +4189,7 @@ www.quip.com
 *.quip.com
 slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4213,12 +4214,10 @@ apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
 errors.hackerone.net
-api.hackerone.com
 hackerone.live
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
-hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -4229,10 +4228,12 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone.com
+hackerone-ext-content.com
 www.hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
