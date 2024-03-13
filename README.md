@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 18:27:47 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 19:21:06 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -23,7 +23,6 @@ api.dysoncanada.ca
 api.dyson.dk
 api.dyson.it
 api.dyson.es
-api.dyson.co.uk
 api.dyson.at
 api.dyson.nl
 api.dyson.be
@@ -40,11 +39,12 @@ www.dyson.co.kr
 www.dyson.co.nz
 www.dyson.ae
 www.dyson.hk
-www.dyson.my
 shop.dyson.co.za
 www.sa.dyson.com
 www.dyson.cz
 www.dyson.com.ro
+*.cp.dyson.com
+www.dyson.cn
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -336,8 +336,8 @@ bioid-management.app
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -403,8 +403,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -461,10 +461,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,8 +511,8 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
-*.rentalcars.com
 booking.com
+*.rentalcars.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -902,8 +902,8 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hilton.com
 *.hiltonbusinessonline.com
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1035,11 +1035,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.kiwi.com
-*.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1181,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 www.expedia.com
-*.expediapartnercentral.com
 *.expediacruises.com
+*.expediapartnercentral.com
 *.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1490,8 +1490,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1514,12 +1514,12 @@ payoneer.com.cn
 payoneer.com.cn
 krisp.ai
 account.krisp.ai
-api.krisp.ai
 teams.krisp.ai
 download.krisp.ai
 analytics.krisp.ai
 upld.krisp.ai
 *.krisp.ai
+api.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2002,9 +2002,9 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
-*.hey.com
 world.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2034,8 +2034,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2423,7 +2423,6 @@ portal.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-music.amazon.com
 chat.amazon.com
 track.amazon.com
 api.amazon.com
@@ -2451,6 +2450,7 @@ music-hints-na.amazon.com
 musicapp.amazon.com
 musiccentral.amazon.com
 pitangui.amazon.com
+preview-flex-capacity-na.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2694,8 +2694,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3111,14 +3111,6 @@ https://github.com/matomo-org/docker
 *.venmo.com
 paypal.me
 py.pl
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.braintreepayments.com
 *.braintree-api.com
 *.braintree.tools
@@ -3127,6 +3119,14 @@ partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+my.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3298,12 +3298,12 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 steamcommunity.com
-api.steampowered.com
 store.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3321,11 +3321,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.mona.co
+js.crypto.com
 merchant.crypto.com
 *.crypto.com
-js.crypto.com
 tax.crypto.com
+*.mona.co
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3582,9 +3582,9 @@ lifeinvader.com
 rockstarnorth.com
 prod.ros.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 circolocorecords.com/
 store.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3703,8 +3703,8 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
 *.githubusercontent.com
+api.github.com
 github.com
 github.com
 api.github.com
@@ -3794,8 +3794,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3857,9 +3857,9 @@ accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
-*.shopify.com
 partners.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3898,7 +3898,6 @@ developer.playcanvas.com
 forum.playcanvas.com
 launch.playcanvas.com
 msg.playcanvas.com
-playcanvas.com
 relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
@@ -3906,6 +3905,7 @@ playcanv.as
 *.sc-corp.net
 web.snapchat.com
 login.playcanvas.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4156,13 +4156,13 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 nft.coinbase.com
-*.coinbase.com
 cloud.coinbase.com
+*.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4189,8 +4189,8 @@ spaces.pm
 www.quip.com
 *.quip.com
 api.slack.com
-app.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4228,13 +4228,13 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-cover-photos.hackerone-user-content.com
 app.pullrequest.com
-www.hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
+www.hackerone.com
 api.hackerone.com
-hackathon-photos.hackerone-user-content.com
 hackerone.com
+hackathon-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
