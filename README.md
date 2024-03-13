@@ -2,11 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 12:35:48 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 13:23:35 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
-www.dyson.it
 www.dyson.ie
 www.dyson.ch
 www.dyson.se
@@ -44,6 +43,8 @@ www.dyson.hk
 www.dyson.co.th
 www.dyson.my
 shop.dyson.co.za
+www.sa.dyson.com
+www.dyson.cz
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -320,8 +321,8 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 rewire.com
-api.remitly.io
 app.rewire.to
+api.remitly.io
 remitly.com
 remitly.com
 api.remitly.io
@@ -389,8 +390,8 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-sso-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
+sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
@@ -509,8 +510,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 account.booking.com
 careers.booking.com
-*.booking.com
 booking.com
+*.booking.com
 secure.booking.com
 *.rentalcars.com
 *.booking.com
@@ -783,9 +784,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -869,8 +870,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 monitor.mozilla.org
+www.mozilla.org
 developer.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -901,8 +902,8 @@ hiltonhotels.jp
 hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hilton.com.tr
 *.hilton.com
+*.hilton.com.tr
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1180,11 +1181,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
-*.travelocity.com
 www.expedia.com
 *.expediacruises.com
 *.expediapartnercentral.com
+*.travelocity.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1489,8 +1490,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2074,13 +2075,13 @@ fp-sg.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
-*.tiktokv.com
-tiktok.com
 www.pangleglobal.com
-*.tiktok.com
-effecthouse.tiktok.com
+tiktok.com
+*.tiktokv.com
 ads.tiktok.com
 shop.tiktok.com
+*.tiktok.com
+effecthouse.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2586,7 +2587,6 @@ www.bmw-motorrad.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-auth.magic.link
 dashboard.magic.link
 api.magic.link
 fortmatic.com
@@ -2594,6 +2594,7 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
+auth.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2845,11 +2846,11 @@ cysiv.com
 app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
-www.priceline.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
 www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3109,14 +3110,6 @@ https://github.com/matomo-org/docker
 paypalobjects.com
 paypal.me
 py.pl
-*.braintreepayments.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3125,6 +3118,14 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintreepayments.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
@@ -3408,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3631,8 +3632,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-gift.starbucks.co.jp
 www.starbucks.com
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3839,8 +3840,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3851,12 +3852,12 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
-accounts.shopify.com
-your-store.myshopify.com
 partners.shopify.com
 *.shopify.com
-admin.shopify.com
 *.shopify.io
+your-store.myshopify.com
+admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3984,8 +3985,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.airbnbcitizen.com
 www.airbnb.com
+*.airbnbcitizen.com
 *.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4149,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4228,10 +4229,10 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
 hackerone-user-content.com
-www.hackerone.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
