@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 16:36:59 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 17:27:33 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -454,7 +454,6 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadolibre.com.pe
@@ -463,8 +462,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
-www.mercadolivre.com.br
 www.mercadopago.com.ar
+www.mercadolibre.com.ar
+www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -511,8 +511,8 @@ account.booking.com
 careers.booking.com
 secure.booking.com
 widget.rentalcars.com
-booking.com
 *.booking.com
+booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -902,8 +902,8 @@ hilton.com.tr
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 *.hilton.com.tr
-*.hiltonbusinessonline.com
 *.hilton.com
+*.hiltonbusinessonline.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -1351,8 +1351,8 @@ business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.kayak.com
+www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1490,8 +1490,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2071,16 +2071,16 @@ developers.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-business.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-*.tiktokv.com
-*.tiktok.com
 creatormarketplace.tiktok.com
 www.pangleglobal.com
+*.tiktok.com
+business.tiktok.com
+*.tiktokv.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2559,8 +2559,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.Daraz.com
-*.aliexpress.com
 *.alibaba.com
+*.aliexpress.com
 *.aliyun.com
 *.tmall.com
 *.alibaba.com
@@ -2693,8 +2693,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -3074,10 +3074,10 @@ promos.tvg.com
 service.tvg.com
 us.tvg.com
 tvg.com
-*.fanduel.com
-fdbox.net
-www.4njbets.com
 fanduel.design
+*.fanduel.com
+www.4njbets.com
+fdbox.net
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3130,9 +3130,9 @@ swiftcapital.com
 *.hyperwallet.com
 *.paylution.com
 *.braintreegateway.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3321,9 +3321,9 @@ auth.crypto.com
 pay.crypto.com
 app.mona.co
 *.mona.co
-js.crypto.com
 merchant.crypto.com
 *.crypto.com
+js.crypto.com
 tax.crypto.com
 *.crypto.com
 *.mona.co
@@ -3726,13 +3726,13 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 customers.gitlab.com
 registry.gitlab.com
-*.gitlab.net
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
 advisories.gitlab.com
+*.gitlab.net
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3793,8 +3793,8 @@ secure-dfadmin.deriv.com
 werkenbijdefensie.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-www.werkenbijbakertilly.nl
 devmaximum.com
+www.werkenbijbakertilly.nl
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3852,13 +3852,13 @@ shop.app
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
+partners.shopify.com
 accounts.shopify.com
 *.shopify.io
 shopifyinbox.com
-partners.shopify.com
 admin.shopify.com
-*.shopify.com
 your-store.myshopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4151,11 +4151,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4187,9 +4187,9 @@ slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-app.slack.com
 api.slack.com
 slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4402,12 +4402,12 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 marketplace.magento.com
 magentocommerce.com
 magento.com
-accounts.magento.cloud
 u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
