@@ -384,8 +384,8 @@ international_airlines_group,www.iairgroup.com,False
 international_airlines_group,www.iaggbs.com,False
 international_airlines_group,*.iaggbs.com,False
 international_airlines_group,*.iairgroup.com,False
-international_airlines_group,*.aerlingus.com,False
 international_airlines_group,*.iagcargo.com,False
+international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.aerlingus.com,False
 international_airlines_group,www.avios.com,False
 international_airlines_group,www.iairgroup.com,False
@@ -439,11 +439,11 @@ fireblocks,http://sb-mobile-api.fireblocks.io,True
 fireblocks,http://sb-console-api.fireblocks.io,True
 fireblocks,http://sandbox-api.fireblocks.io,True
 dynatrace,sso-sprint.dynatracelabs.com,True
-dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,university-staging.dynatracelabs.com,True
 dynatrace,myaccount-hardening.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
+dynatrace,account-sprint.dynatracelabs.com,True
 dynatrace,*.sprint.dynatracelabs.com,True
 dynatrace,*.sprint.apps.dynatracelabs.com,True
 dynatrace,account-sprint.dynatracelabs.com,True
@@ -3418,8 +3418,8 @@ city_of_los_angeles_vdp,*.lacity.gov,False
 fastly-vdp,docs.fastly.com,False
 fastly-vdp,api.fastly.com,False
 fastly-vdp,*.signalsciences.com,False
-fastly-vdp,manage.fastly.com,False
 fastly-vdp,*.fanout.io,False
+fastly-vdp,manage.fastly.com,False
 fastly-vdp,*.signalsciences.com,False
 fastly-vdp,*.fanout.io,False
 fastly-vdp,manage.fastly.com,False
@@ -3566,7 +3566,6 @@ svb-financial,api.svb.com,False
 svb-financial,https://openbanking.svb.com/open-banking/v3.1/,False
 svb-financial,developer.svb.com,False
 svb-financial,www.cipherbio.com,False
-s-pankki,www.s-pankki.fi,True
 s-pankki,mobile.s-pankki.fi,True
 s-pankki,www.s-kaupat.fi,True
 s-pankki,extranet.s-pankki.fi,True
@@ -3577,6 +3576,7 @@ s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,digili.s-cloud.fi,True
 s-pankki,online.s-pankki.fi,True
+s-pankki,www.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,https://crosskey.io/stores/s-pankki/apis,True
@@ -3603,7 +3603,6 @@ kiwicom,tequila.kiwi.com,True
 kiwicom,http://www.kiwi.com/stories,True
 kiwicom,jobs.kiwi.com,True
 stanford-university,bi.stanford.edu,False
-stanford-university,accessories.stanford.edu,False
 stanford-university,win.stanford.edu,False
 stanford-university,cardinalprintcenter.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
@@ -3630,6 +3629,7 @@ stanford-university,workgroup.stanford.edu,False
 stanford-university,netdb.stanford.edu,False
 stanford-university,mailman.stanford.edu,False
 stanford-university,www.stanford.edu,False
+stanford-university,accessories.stanford.edu,False
 stanford-university,*.sahr.stanford.edu,False
 stanford-university,www.stanford.edu,False
 stanford-university,bi.stanford.edu,False
@@ -3852,7 +3852,6 @@ expediagroup_bbp,*.cheaptickets.com,True
 expediagroup_bbp,*.lastminute.co.nz,True
 expediagroup_bbp,*.lastminute.com.au,True
 expediagroup_bbp,*.travelocity.com,True
-expediagroup_bbp,*.expediapartnercentral.com,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.bookabach.co.nz,True
 expediagroup_bbp,www.fewo-direkt.de,True
@@ -3860,8 +3859,9 @@ expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.travelocity.ca,True
-expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,*.expediacruises.com,True
+expediagroup_bbp,*.expediapartnercentral.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
@@ -3888,7 +3888,6 @@ expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,www.flights.com,True
-expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
 expediagroup,*.hotels.com,False
@@ -3898,7 +3897,6 @@ expediagroup,*.travelocity.com,False
 expediagroup,*.wotif.com,False
 expediagroup,*.cruiseshipcenters.com,False
 expediagroup,*.lastminute.com.au,False
-expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.abritel.fr,False
 expediagroup,*.bookabach.co.nz,False
 expediagroup,*.fewo-direkt.de,False
@@ -3921,6 +3919,8 @@ expediagroup,thailand.airasiago.com,False
 expediagroup,*.travelocity.ca,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.expediacruises.com,False
+expediagroup,*.expedia.com,False
+expediagroup,*.expediapartnercentral.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -4035,11 +4035,11 @@ avalara,*.3ce.com,False
 avalara,*.davosalestax.com,False
 avalara,*.ttrus.com,False
 avalara,*.impendulo.com,False
-intuit_rdp,*.turbotax.com,False
 intuit_rdp,*.mint.com,False
 intuit_rdp,*.quickbooks.com,False
 intuit_rdp,*.mailchimp.com,False
 intuit_rdp,*.intuit.com,False
+intuit_rdp,*.turbotax.com,False
 intuit_rdp,*.intuit.com,False
 intuit_rdp,*.turbotax.com,False
 intuit_rdp,*.mint.com,False
@@ -5227,7 +5227,6 @@ anywhererealestate,*.trgc.com,False
 anywhererealestate,*.leadrouter.com,False
 anywhererealestate,*.mycbdesk.com,False
 anywhererealestate,*.cartus.com,False
-anywhererealestate,*.century21.com,False
 anywhererealestate,*.realogy.com,False
 anywhererealestate,*.bhgre.com,False
 anywhererealestate,*.sothebysrealty.com,False
@@ -5237,6 +5236,7 @@ anywhererealestate,*.nrtllc.com,False
 anywhererealestate,*.coldwellbanker.com,False
 anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.era.com,False
+anywhererealestate,*.century21.com,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.trgc.com,False
 anywhererealestate,*.leadrouter.com,False
@@ -5559,13 +5559,13 @@ tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
 recorded-future,therecord.media,True
 recorded-future,api.recordedfuture.com,True
-recorded-future,app.recordedfuture.com,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,securitytrails.com,True
 recorded-future,geminiadvisory.io,True
 recorded-future,hatching.io,True
 recorded-future,tria.ge,True
 recorded-future,www.recordedfuture.com,True
+recorded-future,app.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -7325,7 +7325,6 @@ citrix,*developer.cloud.com,False
 citrix,(yoursubdomain).sf-api.com,True
 citrix,(yoursubdomain).sf-api.eu,True
 citrix,sf-rp-eu.sharefile.com,True
-citrix,(yoursubdomain).sharefile.eu,True
 citrix,sf-rp-us.sharefile.com,True
 citrix,secure.sharefile.com,True
 citrix,sf-rp.sharefile.com,True
@@ -7338,8 +7337,9 @@ citrix,(yoursubdomain).us.iws.cloud.com,True
 citrix,(yoursubdomain).ap.iws.cloud.com,True
 citrix,(yoursubdomain).eu.iws.cloud.com,True
 citrix,(youriwssubdomain).cloud.com,True
-citrix,(yoursubdomain).sharefile.com,True
 citrix,www.cloud.com,True
+citrix,(yoursubdomain).sharefile.com,True
+citrix,(yoursubdomain).sharefile.eu,True
 citrix,citrix.cloud.com,True
 citrix,www.cloud.com,True
 citrix,ap-s.cloud.com,True
@@ -7379,8 +7379,8 @@ tiktok,fp-sg.tiktokv.com,True
 tiktok,effecthouse.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,creatormarketplace.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,www.pangleglobal.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktokv.com,True
 tiktok,*.tiktok.com,True
 tiktok,shop.tiktok.com,True
@@ -8013,7 +8013,6 @@ amazonvrp,paragon-na.amazon.com,True
 amazonvrp,read.amazon.com,True
 amazonvrp,updates.amazon.com,True
 alibaba,*.taobao.com,True
-alibaba,*.tmall.com,True
 alibaba,*.aliyun.com,True
 alibaba,*.alibabacloud.com,True
 alibaba,*.1688.com,True
@@ -8025,6 +8024,7 @@ alibaba,*.aliexpress.ru,True
 alibaba,*.Daraz.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.alibaba.com,True
+alibaba,*.tmall.com,True
 alibaba,*.alibaba.com,True
 alibaba,*.aliexpress.com,True
 alibaba,*.taobao.com,True
@@ -8494,7 +8494,6 @@ palo_alto_software,app.liveplan.com,False
 palo_alto_software,www.paloalto.com,False
 palo_alto_software,www.liveplan.com,False
 palo_alto_software,www.bplans.com,False
-mtn_group,mtn.com,False
 mtn_group,mtn.co.za,False
 mtn_group,mtn.com.af,False
 mtn_group,mtn.bj,False
@@ -9367,7 +9366,6 @@ hyatt,res.vacations.seaworld.com,True
 hyatt,vacations.universalstudioshollywood.com,True
 hyatt,vacations.us.palladiumhotelgroup.com,True
 hyatt,vacations.vallarta.grandvelas.com,True
-hyatt,www.funjet.com,True
 hyatt,www.universalorlandovacations.com,True
 hyatt,www.wynnvacations.com,True
 hyatt,www.beachbound.com,True
@@ -9383,6 +9381,7 @@ hyatt,res.universalorlandovacations.com,True
 hyatt,res.vacations.united.com,True
 hyatt,res.vacations.universalstudioshollywood.com,True
 hyatt,reservations.wynnvacations.com,True
+hyatt,rezagent.triseptsolutions.com,True
 hyatt,hyatt.com,True
 hyatt,www.hyatt.com,True
 hyatt,world.hyatt.com,True
@@ -9755,8 +9754,8 @@ crypto,pay.crypto.com,True
 crypto,app.mona.co,True
 crypto,tax.crypto.com,True
 crypto,*.mona.co,True
-crypto,merchant.crypto.com,True
 crypto,js.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
@@ -9964,8 +9963,8 @@ grab,gifts.grab.com,True
 grab,*.ovo.id,True
 grab,*.taralite.com,True
 grab,kartaview.org,True
-grab,wiki.grab.com,True
 grab,*.grab.com,True
+grab,wiki.grab.com,True
 grab,*.myteksi.com,True
 grab,*.myteksi.net,True
 grab,*.grab.com,True
@@ -10150,8 +10149,8 @@ starbucks,card.starbucks.com.sg,True
 starbucks,www.starbucks.com.sg,True
 starbucks,cart.starbucks.co.jp,True
 starbucks,www.starbucks.co.kr,True
-starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucks.com,True
+starbucks,gift.starbucks.co.jp,True
 starbucks,www.starbucksreserve.com,True
 starbucks,gift.starbucks.co.jp,True
 starbucks,login.starbucks.co.jp,True
@@ -10265,11 +10264,11 @@ github,classroom.github.com,True
 github,*.githubapp.com,True
 github,*.github.net,True
 github,education.github.com,True
-github,*.githubusercontent.com,True
 github,npmjs.com,True
 github,npmjs.org,True
 github,api.github.com,True
 github,github.com,True
+github,*.githubusercontent.com,True
 github,github.com,True
 github,api.github.com,True
 github,gist.github.com,True
@@ -10358,8 +10357,8 @@ deriv,secure-dfadmin.deriv.com,True
 radancy,werkenbijdefensie.nl,True
 radancy,mijnkombijdepolitie.nl,True
 radancy,doorstromen.mijnkombijdepolitie.nl,True
-radancy,www.werkenbijbakertilly.nl,True
 radancy,devmaximum.com,True
+radancy,www.werkenbijbakertilly.nl,True
 radancy,acme-challenge.nl,True
 radancy,nossl.nl,True
 radancy,no-reply.cloud,True
@@ -10760,7 +10759,6 @@ informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
 informatica,*.informatica.com,False
 informatica,*.informaticacloud.com,False
-greenhouse,app.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
@@ -10769,6 +10767,7 @@ greenhouse,support.greenhouse.io,True
 greenhouse,jss.greenhouse.io,True
 greenhouse,interseller.io,True
 greenhouse,app.interseller.io,True
+greenhouse,app.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
@@ -10933,14 +10932,12 @@ yahoo,yimg.com,True
 security,*.vpn.hackerone.net,True
 security,errors.hackerone.net,True
 security,api.hackerone.com,True
-security,www.hackerone.com,True
 security,hackerone.live,True
 security,mta-sts.wearehackerone.com,True
 security,a5s.hackerone-ext-content.com,True
 security,b5s.hackerone-ext-content.com,True
 security,hackerone-ext-content.com,True
 security,hackathon-photos.hackerone-user-content.com,True
-security,cover-photos.hackerone-user-content.com,True
 security,hackathon-photos-us-east-2.hackerone-user-content.com,True
 security,profile-photos.hackerone-user-content.com,True
 security,profile-photos-us-east-2.hackerone-user-content.com,True
@@ -10951,7 +10948,9 @@ security,ctf.hacker101.com,True
 security,hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com,True
 security,www.wearehackerone.com,True
 security,hackerone-user-content.com,True
+security,www.hackerone.com,True
 security,hackerone.com,True
+security,cover-photos.hackerone-user-content.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
