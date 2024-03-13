@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 13 03:24:32 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 13 04:23:13 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -510,8 +510,8 @@ spark.fareharbor.com
 kyc-onboarding.booking.com
 secure.booking.com
 account.booking.com
-*.rentalcars.com
 careers.booking.com
+*.rentalcars.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -721,7 +721,7 @@ www.authorize.net
 www.cardinalcommerce.com
 www.yellowpepper.com
 www.fraedom.com
-usa.visa.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -784,8 +784,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1060,7 +1060,6 @@ cloud8.8x8.com
 *.p8t.us
 *.wavecell.com
 pay.8x8.com
-sso.8x8.com
 platform.8x8.com
 *.chalet.8x8.com
 work.8x8.com
@@ -1133,8 +1132,8 @@ moonpay.com
 hypermint.com
 doppler.team
 api.doppler.com
-dashboard.doppler.com
 share.doppler.com
+dashboard.doppler.com
 doppler.team
 api.doppler.com
 dashboard.doppler.com
@@ -1215,8 +1214,8 @@ www.expediagroup.com
 www.flights.com
 magiceden.io
 *.magiceden.dev
-*.magiceden.workers.dev
 *.magiceden.io
+*.magiceden.workers.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -2024,7 +2023,6 @@ launch.cloud.com
 (yoursubdomain).sf-api.com
 (yoursubdomain).sf-api.eu
 sf-rp-eu.sharefile.com
-(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 sf-rp-us.sharefile.com
 secure.sharefile.com
@@ -2038,6 +2036,7 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+(yoursubdomain).sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2079,9 +2078,9 @@ business.tiktok.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+www.pangleglobal.com
 partner.tiktokshop.com
 *.tiktok.com
-www.pangleglobal.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2168,7 +2167,6 @@ www.kruidvat.be
 www.iciparisxl.nl
 www.iciparisxl.be
 www.iciparisxl.lu
-www.theperfumeshop.com
 app.kruidvat.nl
 app.kruidvat.be
 app.iciparisxl.nl
@@ -3431,13 +3429,13 @@ asiointi.lahitapiola.fi
 api.lahitapiola.fi
 privatetarget-2-secure.zigzag
 privatetarget-1-www.zigzag
-*.semrush.com
 *.semrush.net
 *.seoquake.com
 *.seoab.io
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3634,8 +3632,8 @@ card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
 www.starbucks.co.kr
-gift.starbucks.co.jp
 www.starbucks.com
+gift.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3795,8 +3793,8 @@ werkenbijdefensie.nl
 werkenbijderet.nl
 mijnkombijdepolitie.nl
 doorstromen.mijnkombijdepolitie.nl
-devmaximum.com
 www.werkenbijbakertilly.nl
+devmaximum.com
 acme-challenge.nl
 nossl.nl
 no-reply.cloud
@@ -3989,8 +3987,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnbcitizen.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4011,7 +4009,6 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 *.hoteltonight-test.com
 www.hoteltonight.com
-*.vimeo.com
 checkout.vimeo.com
 player.vimeo.com
 api.vimeo.com
@@ -4026,6 +4023,7 @@ www.magisto.com
 *.magisto.com
 staging.magisto.com
 applause1.magisto.com
+*.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4153,11 +4151,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
