@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 02:23:15 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 03:23:01 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -334,8 +334,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
-worldcoin.org
 *.worldcoin.org
+worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -414,9 +414,9 @@ logo.zyro.com
 payments.hostinger.com
 *.000webhost.com
 www.hostinger.com
-hpanel.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -461,8 +461,8 @@ www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
 www.mercadopago.com.br
-www.mercadopago.com.ar
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -510,9 +510,9 @@ account.booking.com
 careers.booking.com
 widget.rentalcars.com
 booking.com
-*.booking.com
 secure.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1180,11 +1180,11 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
+*.expediacruises.com
 www.expedia.com
 *.expediapartnercentral.com
 *.travelocity.com
 *.travelocity.ca
-*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1345,13 +1345,13 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.swoodoo.com
-www.checkfelix.com
 business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
-www.kayak.com
 www.hotelscombined.com
+www.kayak.com
+www.checkfelix.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1566,7 +1566,6 @@ twinmotion.unrealengine.com
 *.easy.ac
 *.quixel.com
 *.superawesome.tv
-*.superawesome.com
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
@@ -1642,8 +1641,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-app.recordedfuture.com
 www.recordedfuture.com
+app.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1757,8 +1756,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1982,9 +1981,9 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
+api.netlify.com
 app.netlify.com
 *.infra-prod.nsvcs.net
-api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2001,8 +2000,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2032,8 +2031,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2123,8 +2122,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2345,8 +2344,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2657,9 +2656,9 @@ hotel-deals.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
+travelagents.marriott.com/
 www.marriott.com
 traveler.marriott.com
-travelagents.marriott.com/
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2850,8 +2849,8 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 press.priceline.com
-flyiin.com
-www.priceline.com
+www.bookingholdings.com
+secure.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2876,13 +2875,13 @@ www.smartsheet.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
 *b2b.trustpilot.com
-*www.trustpilot.com
 *widget.trustpilot.com
 *business.trustpilot.com
 *signup.business.trustpilot.com
 *emailsignature.trustpilot.com
 *share.trustpilot.com
 *legal.trustpilot.com
+*www.trustpilot.com
 *api.trustpilot.com
 *authenticate.trustpilot.com
 *invitations-api.trustpilot.com
@@ -3128,12 +3127,12 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
-paypalobjects.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypal.com
+*.paypalcorp.com
+paypalobjects.com
 *.braintreegateway.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3188,8 +3187,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3299,10 +3298,10 @@ partner.steamgames.com
 playartifact.com
 www.teamfortress.com
 help.steampowered.com
-store.steampowered.com
-www.counter-strike.net
 api.steampowered.com
+www.counter-strike.net
 steamcommunity.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3410,8 +3409,8 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-*.beta.lahitapiola.fi
 *.lahitapiola.fi
+*.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3632,9 +3631,9 @@ secureui.starbucks.com
 card.starbucks.com.sg
 www.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com
 www.starbucks.co.kr
 gift.starbucks.co.jp
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3702,9 +3701,9 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-*.githubusercontent.com
-github.com
 api.github.com
+github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3902,9 +3901,9 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
-ads.snapchat.com
 playcanvas.com
+ads.snapchat.com
+login.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4072,8 +4071,8 @@ gnip.com
 api.x.ai
 grok.x.ai
 ide.x.ai
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4183,13 +4182,13 @@ slackb.com
 edgeapi.slack.com
 slackatwork.com
 slack-redir.net
-slack-imgs.com
 spaces.pm
 www.quip.com
 *.quip.com
-api.slack.com
-slack.com
 app.slack.com
+slack.com
+api.slack.com
+slack-imgs.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4226,13 +4225,13 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 www.hackerone.com
 hackerone-ext-content.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
+hackerone-user-content.com
 hackerone.com
 hackerone.com
 api.hackerone.com
@@ -4405,8 +4404,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
