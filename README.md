@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 09:22:04 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 10:23:20 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -401,8 +401,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -460,9 +460,9 @@ www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadolivre.com.br
 www.mercadopago.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -510,8 +510,8 @@ careers.booking.com
 widget.rentalcars.com
 booking.com
 secure.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -548,8 +548,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -781,9 +781,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -839,9 +839,9 @@ mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -868,9 +868,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-monitor.mozilla.org
-www.mozilla.org
 developer.mozilla.org
+www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1035,9 +1035,9 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-*.skypicker.com
-*.kiwi.com
 tequila.kiwi.com
+*.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1179,9 +1179,9 @@ www.fewo-direkt.de
 www.stayz.com.au
 www.expediagroup.com
 www.flights.com
-*.travelocity.ca
 www.expedia.com
 *.expediapartnercentral.com
+*.travelocity.ca
 *.travelocity.com
 *.expediacruises.com
 *.vrbo.com
@@ -1212,8 +1212,8 @@ www.expediagroup.com
 www.flights.com
 magiceden.io
 *.magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1755,8 +1755,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1980,9 +1980,9 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
+api.netlify.com
 app.netlify.com
 *.infra-prod.nsvcs.net
-api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1999,8 +1999,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2066,18 +2066,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
-developers.tiktok.com
-effecthouse.tiktok.com
-shop.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
+creatormarketplace.tiktok.com
 business.tiktok.com
+developers.tiktok.com
 tiktok.com
 ads.tiktok.com
-partner.tiktokshop.com
 *.tiktokv.com
-*.tiktok.com
 www.pangleglobal.com
+shop.tiktok.com
+*.tiktok.com
+partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2558,9 +2558,9 @@ www.alibabagroup.com
 *.Daraz.com
 *.aliexpress.com
 *.aliyun.com
-*.alibaba.com
-*.taobao.com
 *.tmall.com
+*.taobao.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3071,10 +3071,10 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 us.tvg.com
-fanduel.design
 tvg.com
-www.4njbets.com
+fanduel.design
 *.fanduel.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *racing.fanduel.com
@@ -3126,12 +3126,12 @@ scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 *.paypalcorp.com
-paypalobjects.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.braintreegateway.com
-*.venmo.com
 *.paypal.com
+paypalobjects.com
+*.venmo.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3169,8 +3169,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-chaturbate.com
 *.cb.dev
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3295,11 +3295,11 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
+steamcommunity.com
 www.teamfortress.com
 help.steampowered.com
-api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
+api.steampowered.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3318,10 +3318,10 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.crypto.com
-js.crypto.com
-tax.crypto.com
 *.mona.co
+js.crypto.com
+*.crypto.com
+tax.crypto.com
 merchant.crypto.com
 *.crypto.com
 *.mona.co
@@ -3458,8 +3458,8 @@ gifts.grab.com
 *.ovo.id
 *.taralite.com
 kartaview.org
-wiki.grab.com
 *.grab.com
+wiki.grab.com
 *.myteksi.com
 *.myteksi.com
 *.myteksi.net
@@ -3700,9 +3700,9 @@ classroom.github.com
 education.github.com
 npmjs.com
 npmjs.org
-api.github.com
-github.com
 *.githubusercontent.com
+github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3768,7 +3768,6 @@ www.algolia.com
 www.algolia.com
 *.binary.com
 *.deriv.com
-app.deriv.com
 smarttrader.deriv.com
 cashier.deriv.com
 *.deriv.cloud
@@ -3777,6 +3776,7 @@ api.deriv.com
 secure-dfadmin.deriv.com
 derivws.com
 *.derivws.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3967,7 +3967,6 @@ magentolive.com
 account.magento.com
 accounts.magento.cloud
 next.airbnb.com
-api.airbnb.com
 support-api.airbnb.com
 assets.airbnb.com
 m.airbnb.com
@@ -3983,9 +3982,10 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.airbnb.com
 www.airbnb.com
 *.withairbnb.com
+api.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4182,10 +4182,10 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-slack.com
 api.slack.com
-slack-imgs.com
+slack.com
 app.slack.com
+slack-imgs.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4221,15 +4221,15 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 app.pullrequest.com
 hackerone-ext-content.com
 api.hackerone.com
 hackathon-photos.hackerone-user-content.com
+hackerone-user-content.com
+hackerone.live
 www.hackerone.com
 hackerone.com
-hackerone.live
 hackerone.com
 api.hackerone.com
 www.hackerone.com
