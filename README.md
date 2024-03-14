@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 03:23:01 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 14 04:23:29 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -335,8 +335,8 @@ bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
 *.worldcoin.org
-worldcoin.org
 *.consumer.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -460,10 +460,10 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadolibre.com
-www.mercadopago.com.br
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadolivre.com.br
+www.mercadopago.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -549,8 +549,8 @@ spark.fareharbor.com
 www.fareharbor.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -672,7 +672,6 @@ fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
-aw.visa.com
 bb.visa.com
 bd.visa.com
 bm.visa.com
@@ -722,6 +721,7 @@ www.yellowpepper.com
 www.fraedom.com
 www.tink.com
 www.practicalmoneyskills.com
+www.practicalbusinessskills.org
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -783,9 +783,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshdesk.com
 yourdomain.freshcaller.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -869,8 +869,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 www.mozilla.org
+developer.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -1098,7 +1098,6 @@ admin.8x8.com
 *.superbet.rs
 *.magicjackpot.ro
 *.spinaway.com
-*.luckydays.com
 *.luckydays.ca
 *.napoleoncasino.be
 *.napoleondice.be
@@ -1107,6 +1106,7 @@ admin.8x8.com
 *.superbet.pl
 *.superbet.ro
 *.superbet.com
+*.luckydays.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1212,9 +1212,9 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.magiceden.dev
-*.magiceden.io
 *.magiceden.workers.dev
 magiceden.io
+*.magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1349,8 +1349,8 @@ business.kayak.com
 www.momondo.com
 www.cheapflights.com
 www.mundi.com.br
-www.hotelscombined.com
 www.kayak.com
+www.hotelscombined.com
 www.checkfelix.com
 www.kayak.com
 www.swoodoo.com
@@ -1641,8 +1641,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1756,8 +1756,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-*.swiftype.com
 cloud.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1817,11 +1817,11 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
+*.reddit.com
 old.reddit.com
 www.reddit.com
 ads.reddit.com
 matrix.redditspace.com
-*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1981,9 +1981,9 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 app.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2000,8 +2000,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2031,8 +2031,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2067,17 +2067,17 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
+business.tiktok.com
+*.tiktokv.com
+creatormarketplace.tiktok.com
+www.pangleglobal.com
 shop.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-creatormarketplace.tiktok.com
-www.pangleglobal.com
-business.tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
 *.tiktok.com
-tiktok.com
 developers.tiktok.com
+tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2122,8 +2122,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2723,10 +2723,10 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
-*.line-apps.com
 *.line.naver.jp
 *.line.biz
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3127,10 +3127,10 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-www.loanbuilder.com
-my.swiftfinancial.com
 *.paypalcorp.com
 paypalobjects.com
+www.loanbuilder.com
+my.swiftfinancial.com
 *.braintreegateway.com
 *.paypal.com
 www.paypal-*.com
@@ -3187,8 +3187,8 @@ testnet.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-staging.airtable.com
 *.staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3296,10 +3296,10 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
-api.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
+api.steampowered.com
 steamcommunity.com
 store.steampowered.com
 www.dota2.com
@@ -3460,8 +3460,8 @@ gifts.grab.com
 *.ovo.id
 *.taralite.com
 kartaview.org
-wiki.grab.com
 *.grab.com
+wiki.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3901,9 +3901,9 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
+login.playcanvas.com
 playcanvas.com
 ads.snapchat.com
-login.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4150,11 +4150,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4185,10 +4185,10 @@ slack-redir.net
 spaces.pm
 www.quip.com
 *.quip.com
-app.slack.com
-slack.com
 api.slack.com
+slack.com
 slack-imgs.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4404,9 +4404,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+magento.com
 repo.magento.com
 accounts.magento.cloud
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
