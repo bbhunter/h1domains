@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 14 23:22:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 01:12:23 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -318,9 +318,9 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rewire.com
 api.remitly.io
 remitly.com
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -332,9 +332,9 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
+*.worldcoin.org
 worldcoin.org
 *.consumer.worldcoin.org
-*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -389,8 +389,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+*.sprint.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -400,8 +400,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -410,9 +410,9 @@ backend.zyro.com
 editor.zyro.com
 logo.zyro.com
 payments.hostinger.com
-www.niagahoster.co.id
 *.000webhost.com
 www.hostinger.com
+www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
 *.000webhost.com
@@ -457,11 +457,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadopago.com.ar
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadolivre.com.br
 api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -780,10 +780,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -971,8 +971,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1487,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1753,8 +1753,8 @@ www.elastic.co
 *.elstc.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1766,12 +1766,12 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-api.stripe.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
 *.stripe.com
+api.stripe.com
 app.taxjar.com
 api.stripe.com
 *.stripe.com
@@ -1813,10 +1813,10 @@ app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
 matrix.redditspace.com
+*.reddithelp.com
+*.reddit.com
 www.reddit.com
 ads.reddit.com
-*.reddit.com
-*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2062,18 +2062,18 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
-effecthouse.tiktok.com
 careers.tiktok.com
+effecthouse.tiktok.com
 creatormarketplace.tiktok.com
-business.tiktok.com
 developers.tiktok.com
-*.tiktokv.com
-shop.tiktok.com
 tiktok.com
 ads.tiktok.com
-*.tiktok.com
 partner.tiktokshop.com
 www.pangleglobal.com
+shop.tiktok.com
+business.tiktok.com
+*.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2553,9 +2553,9 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.alibaba.com
-*.taobao.com
 *.alibabacloud.com
+*.taobao.com
+*.alibaba.com
 *.aliexpress.com
 *.tmall.com
 *.alibaba.com
@@ -2652,9 +2652,9 @@ hotel-deals.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
+www.marriott.com
 travelagents.marriott.com/
 traveler.marriott.com
-www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3063,6 +3063,7 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+*.fanduel.com
 us.tvg.com
 ia.tvg.com
 www.4njbets.com
@@ -3072,7 +3073,6 @@ login.tvg.com
 *racing.fanduel.com
 www.tvg.com
 fdbox.net
-*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3121,9 +3121,9 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
 paypalobjects.com
 *.venmo.com
 *.braintreegateway.com
@@ -3166,8 +3166,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 *.mmcdn.com
 *.mmwebc.dev
-*.cb.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3315,11 +3315,11 @@ www.crypto.com
 auth.crypto.com
 pay.crypto.com
 app.mona.co
-*.crypto.com
 js.crypto.com
 tax.crypto.com
 *.mona.co
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3697,9 +3697,9 @@ education.github.com
 npmjs.com
 npmjs.org
 *.githubusercontent.com
-github.com
-gist.github.com
 api.github.com
+gist.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3875,8 +3875,6 @@ kit.snapchat.com
 snappublisher.snapchat.com
 geofilters.snapchat.com
 spectacles.com
-accounts.snapchat.com
-app.snapchat.com
 map.snapchat.com
 story.snapchat.com
 businesshelp.snapchat.com
@@ -3897,9 +3895,11 @@ store.playcanvas.com
 playcanv.as
 *.sc-corp.net
 web.snapchat.com
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 playcanvas.com
+app.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4144,11 +4144,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4215,11 +4215,9 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
-app.pullrequest.com
 cover-photos.hackerone-user-content.com
-api.hackerone.com
-www.hackerone.com
+app.pullrequest.com
+hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
@@ -4227,6 +4225,8 @@ hackerone.com
 hackerone-user-content.com
 hackerone.live
 reviewer.pullrequest.com
+api.hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4398,9 +4398,9 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
+magento.com
 repo.magento.com
 accounts.magento.cloud
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
