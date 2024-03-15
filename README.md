@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 15 08:26:37 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 15 09:21:58 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -35,8 +35,6 @@ api.dyson.ie
 www.dyson.com.mx
 www.dyson.com.sg
 www.dyson.co.kr
-www.dyson.co.nz
-www.dyson.hk
 www.sa.dyson.com
 www.dyson.com.ro
 *.cp.dyson.com
@@ -335,8 +333,8 @@ bioid-management.app
 *.worldcoin.dev
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -459,11 +457,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
-www.mercadopago.com.br
+www.mercadopago.com.ar
 api.mercadolibre.com
+www.mercadopago.com.br
 www.mercadolivre.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -783,9 +781,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -974,8 +972,8 @@ web.grindr.com
 *.grindr.mobi
 web.grindr.com
 api.skinport.com
-skinport.com
 app.skinport.com
+skinport.com
 skinport.com
 app.skinport.com
 api.skinport.com
@@ -1010,7 +1008,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-mobile.s-pankki.fi
 www.s-kaupat.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
@@ -1021,6 +1018,7 @@ cfapi.voikukka.fi
 digili.s-cloud.fi
 www.s-pankki.fi
 online.s-pankki.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1120,10 +1118,10 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 moonpay.com
-*.moonpaycloud.com
 hypermint.com
 *.moonpay.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1181,10 +1179,10 @@ www.flights.com
 *.expediapartnercentral.com
 *.travelocity.ca
 www.expedia.com
+*.travelocity.com
 *.vrbo.com
 *.carrentals.com
 *.expediacruises.com
-*.travelocity.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1317,8 +1315,8 @@ www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
 portfolio.metamask.io
-snaps.metamask.io
 metamask.io
+snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1489,8 +1487,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1755,8 +1753,8 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 cloud.elastic.co
-*.swiftype.com
 *.elastic.co
+*.swiftype.com
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1921,7 +1919,6 @@ api.bitso.com
 http://bitso.com/alpha
 nvio.mx
 nvio.ar
-larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
 api.larksuite.com
@@ -1931,8 +1928,9 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
+larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
@@ -1978,8 +1976,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2062,11 +2060,10 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
-academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
+developers.tiktok.com
 effecthouse.tiktok.com
 careers.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
 tiktok.com
 partner.tiktokshop.com
@@ -2075,6 +2072,7 @@ business.tiktok.com
 ads.tiktok.com
 fp-sg.tiktokv.com
 *.tiktokv.com
+academy-outbound-ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2141,8 +2139,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
+*.acronis.com
 beta-cloud.acronis.com
 *.5nine.com
 *-api-*.acronis.com
@@ -2340,8 +2338,8 @@ portal.polygon.technology
 *.miui.com
 *.xiaomiyoupin.com
 *.miwifi.com
-*.xiaomi.com
 *.mi.com
+*.xiaomi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2555,9 +2553,9 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.aliexpress.com
-*.alibaba.com
 *.taobao.com
+*.alibaba.com
+*.aliexpress.com
 *.alibabacloud.com
 *.tmall.com
 *.alibaba.com
@@ -2591,8 +2589,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2614,8 +2612,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.unibet.com
 *.bingo.com
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2655,8 +2653,8 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2690,8 +2688,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2847,8 +2845,8 @@ admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
 flyiin.com
-www.getaroom.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2944,7 +2942,6 @@ res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 vacations.vallarta.grandvelas.com
-www.universalorlandovacations.com
 www.beachbound.com
 book.booktandl.com
 login.fr.travelbrandsagent.com
@@ -2960,6 +2957,7 @@ vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
 www.applevacations.com
+book.cheapcaribbean.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3122,13 +3120,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
 *.braintreegateway.com
 *.braintreepayments.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3295,10 +3293,10 @@ playartifact.com
 www.teamfortress.com
 help.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 api.steampowered.com
 www.dota2.com
 store.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3313,9 +3311,9 @@ playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
 www.crypto.com
-auth.crypto.com
 *.mona.co
 tax.crypto.com
+auth.crypto.com
 app.mona.co
 js.crypto.com
 merchant.crypto.com
@@ -3898,8 +3896,8 @@ playcanv.as
 web.snapchat.com
 login.playcanvas.com
 ads.snapchat.com
-playcanvas.com
 app.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3979,11 +3977,11 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
 www.airbnb.com
-next.airbnb.com
+*.withairbnb.com
 *.airbnb.com
+next.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4149,14 +4147,14 @@ pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
 coinbase.com
-*.coinbase.com
 nft.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4399,8 +4397,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
