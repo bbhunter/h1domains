@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 15:19:56 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 16:23:29 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -314,11 +314,11 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-remitly.com
 app.rewire.to
 api.remitly.io
 rates.rewire.com
 rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -331,8 +331,8 @@ getworldcoin.com
 bioid-management.app
 *.worldcoin.dev
 worldcoin.org
-*.consumer.worldcoin.org
 *.toolsforhumanity.com
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -781,8 +781,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -800,8 +800,8 @@ api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
-kolesa.kz
 api.krisha.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -833,11 +833,11 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1172,15 +1172,15 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
-www.expedia.com
 *.travelocity.com
 *.carrentals.com
-*.expediacruises.com
+www.expedia.com
 *.travelocity.ca
 www.expediapartnersolutions.com
-www.fewo-direkt.de
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
+www.fewo-direkt.de
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1209,8 +1209,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1335,8 +1335,8 @@ business.kayak.com
 www.cheapflights.com
 www.mundi.com.br
 www.kayak.com
-www.checkfelix.com
 www.momondo.com
+www.checkfelix.com
 www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1608,11 +1608,11 @@ wonderboxapi.com
 wonderboxdev.com
 capturingreality.com
 *.tinder.com
-*.gotinder.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinderops.net
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2013,9 +2013,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2054,12 +2054,12 @@ fp-sg.tiktokv.com
 *.tiktokv.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 careers.tiktok.com
+tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-creatormarketplace.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
+account.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2539,9 +2539,9 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
+*.alibabacloud.com
 *.taobao.com
 *.aliexpress.com
-*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.Daraz.com
@@ -2599,8 +2599,8 @@ maria.casino
 www.32red.com
 *.kes.kindredext.net
 *.highrolling.nu
-*.bingo.com
 *.unibet.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2831,6 +2831,7 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
+secure.rezserver.com
 priceline.com
 www.getaroom.com
 www.priceline.com
@@ -3048,14 +3049,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3106,13 +3107,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
-paypalobjects.com
+*.paypalcorp.com
 *.venmo.com
 *.braintreepayments.com
+*.braintreegateway.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3279,8 +3280,8 @@ www.teamfortress.com
 help.steampowered.com
 www.counter-strike.net
 api.steampowered.com
-www.dota2.com
 store.steampowered.com
+www.dota2.com
 steamcommunity.com
 www.dota2.com
 support.steampowered.com
@@ -3295,7 +3296,6 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-merchant.crypto.com
 pay.crypto.com
 *.mona.co
 tax.crypto.com
@@ -3304,6 +3304,7 @@ app.mona.co
 js.crypto.com
 www.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3754,9 +3755,9 @@ oauth.deriv.com
 app.deriv.com
 derivws.com
 *.deriv.cloud
+smarttrader.deriv.com
 *.deriv.com
 *.binary.com
-smarttrader.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3820,8 +3821,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3879,9 +3880,9 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
+app.snapchat.com
 playcanvas.com
 accounts.snapchat.com
-app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4050,8 +4051,8 @@ api.x.ai
 ide.x.ai
 *.twimg.com
 *.twitter.com
-x.com
 grok.x.ai
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
