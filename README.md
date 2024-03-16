@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 16 02:25:21 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 16 03:22:54 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -331,8 +331,8 @@ getworldcoin.com
 *.worldcoin-distributors.com
 bioid-management.app
 *.worldcoin.dev
-worldcoin.org
 *.consumer.worldcoin.org
+worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
 *.worldcoin.org
@@ -433,9 +433,9 @@ education.23andme.com
 mediacenter.23andme.com
 medical.23andme.com
 research.23andme.com
-store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -457,11 +457,11 @@ www.mercadolibre.com.uy
 www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolibre.com.ar
+www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
-www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -501,12 +501,12 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-booking.com
 careers.booking.com
 widget.rentalcars.com
+booking.com
+*.rentalcars.com
 secure.booking.com
 admin.booking.com
-*.rentalcars.com
 account.booking.com
 spark.fareharbor.com
 *.booking.com
@@ -801,8 +801,8 @@ api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
-api.krisha.kz
 kolesa.kz
+api.krisha.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -834,13 +834,13 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
-phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -898,9 +898,9 @@ hiltonlocalbiz.com
 hilton.io
 hilton.com
 *.hiltonbusinessonline.com
-*.hilton.com
 hiltonhotels.jp
 *.hilton.io
+*.hilton.com
 *.hilton.com
 *.hilton.io
 *.hilton.com.tr
@@ -937,8 +937,8 @@ ingest.clairvoyance.indrive.tech
 new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 watchdocs.indriverapp.com
-*.indrive.com
 injob.indriver.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1034,8 +1034,8 @@ cfapi.voikukka.fi
 www.kiwi.com
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
+tequila.kiwi.com
 *.kiwi.com
 *.kiwi.com
 *.skypicker.com
@@ -1119,8 +1119,8 @@ admin.8x8.com
 moonpay.com
 hypermint.com
 *.moonpay.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1174,12 +1174,12 @@ www.stayz.com.au
 www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
+www.expedia.com
+www.expediapartnersolutions.com
 *.travelocity.com
 *.carrentals.com
 *.travelocity.ca
 *.vrbo.com
-www.expedia.com
-www.expediapartnersolutions.com
 *.expediacruises.com
 www.fewo-direkt.de
 *.vrbo.com
@@ -1755,9 +1755,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 *.stripe.com
 api.stripe.com
 app.taxjar.com
@@ -1800,11 +1800,11 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddithelp.com
-*.reddit.com
-www.reddit.com
 matrix.redditspace.com
+www.reddit.com
+*.reddit.com
 ads.reddit.com
+*.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1964,8 +1964,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2057,8 +2057,8 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 tiktok.com
 careers.tiktok.com
-partner.tiktokshop.com
 www.pangleglobal.com
+partner.tiktokshop.com
 ads.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
@@ -2541,9 +2541,9 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.Daraz.com
 *.aliyun.com
-*.alibabacloud.com
 *.taobao.com
 *.aliexpress.com
+*.alibabacloud.com
 *.tmall.com
 *.alibaba.com
 *.alibaba.com
@@ -2676,8 +2676,8 @@ www.goodrx.com
 www.goodrx.com
 *.rbx.com
 *.ra.roblox.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2832,8 +2832,9 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-www.getaroom.com
+secure.rezserver.com
 priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3050,13 +3051,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
+us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3107,13 +3108,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+*.braintreepayments.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.venmo.com
-*.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3276,13 +3277,13 @@ partner.steampowered.com
 www.valvesoftware.com
 partner.steamgames.com
 playartifact.com
-www.teamfortress.com
 help.steampowered.com
+www.teamfortress.com
 www.counter-strike.net
-api.steampowered.com
 store.steampowered.com
 www.dota2.com
 steamcommunity.com
+api.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3303,8 +3304,8 @@ app.mona.co
 js.crypto.com
 merchant.crypto.com
 pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3683,8 +3684,8 @@ npmjs.org
 *.githubusercontent.com
 api.github.com
 gist.github.com
-npmjs.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3754,9 +3755,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.derivws.com
 oauth.deriv.com
+api.deriv.com
 app.deriv.com
 derivws.com
-api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.deriv.com
@@ -3880,9 +3881,9 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-app.snapchat.com
-accounts.snapchat.com
 playcanvas.com
+accounts.snapchat.com
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4067,6 +4068,7 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4200,9 +4202,9 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 www.wearehackerone.com
-cover-photos.hackerone-user-content.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
+app.pullrequest.com
+cover-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone.live
 reviewer.pullrequest.com
