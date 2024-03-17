@@ -2,9 +2,8 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 19:18:09 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 20:20:44 UTC 2024)
 ```
-www.dyson.co.uk
 www.dysoncanada.ca
 www.dyson.ie
 www.dyson.ch
@@ -411,8 +410,8 @@ logo.zyro.com
 payments.hostinger.com
 www.niagahoster.co.id
 cpanel.hostinger.com
-*.000webhost.com
 www.hostinger.com
+*.000webhost.com
 hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
@@ -964,8 +963,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1032,10 +1031,10 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-tequila.kiwi.com
 *.skypicker.com
 www.kiwi.com
 *.kiwi.com
+tequila.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1454,8 +1453,8 @@ bullsheet.me
 *.instacart.tools
 api.instacart.com
 shoppers.instacart.com
-admin.instacart.com
 *.instacart.com
+admin.instacart.com
 www.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1626,8 +1625,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1799,8 +1798,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-matrix.redditspace.com
 *.reddit.com
+matrix.redditspace.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -1963,8 +1962,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-api.netlify.com
 *.infra-prod.nsvcs.net
+api.netlify.com
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2306,12 +2305,12 @@ portal.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
 bridge-api.matic.network
-burn.polygon.technology
 mapper.polygon.technology
 watchgod.polygon.technology
 open-api.polygon.technology
 faucet.polygon.technology
 wallet.polygon.technology
+burn.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2539,8 +2538,8 @@ www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.aliyun.com
-*.aliexpress.com
 *.alibabacloud.com
+*.aliexpress.com
 *.tmall.com
 *.Daraz.com
 *.taobao.com
@@ -2701,8 +2700,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3050,12 +3049,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3112,8 +3111,8 @@ my.swiftfinancial.com
 *.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.braintreepayments.com
 *.paypal.com
+*.braintreepayments.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3295,9 +3294,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 js.crypto.com
 pay.crypto.com
@@ -3440,8 +3439,8 @@ grab.careers
 jira.grab.com
 *.ovo.id
 gifts.grab.com
-kartaview.org
 api.grabpay.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3835,9 +3834,9 @@ accounts.shopify.com
 partners.shopify.com
 shop.app
 *.shopify.io
-your-store.myshopify.com
-*.shopify.com
 admin.shopify.com
+*.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3876,8 +3875,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
@@ -4127,12 +4126,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4391,8 +4390,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
