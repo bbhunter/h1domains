@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 11:19:03 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 12:32:24 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -314,8 +314,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 api.remitly.io
+rewire.com
 rates.rewire.com
 app.rewire.to
 remitly.com
@@ -331,9 +331,9 @@ getworldcoin.com
 *.worldcoin.dev
 worldcoin.org
 *.toolsforhumanity.com
-*.worldcoin.org
 bioid-management.app
 *.consumer.worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -412,8 +412,8 @@ payments.hostinger.com
 www.niagahoster.co.id
 hpanel.hostinger.com
 cpanel.hostinger.com
-www.hostinger.com
 *.000webhost.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -508,8 +508,8 @@ spark.fareharbor.com
 www.fareharbor.com
 admin.booking.com
 careers.booking.com
-*.booking.com
 *.rentalcars.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -836,8 +836,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -964,8 +964,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1244,9 +1244,9 @@ askpam.ai
 pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
-insights.deribit.com
 *.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1454,8 +1454,8 @@ bullsheet.me
 *.instacart.tools
 api.instacart.com
 shoppers.instacart.com
-*.instacart.com
 admin.instacart.com
+*.instacart.com
 www.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1626,8 +1626,8 @@ securitytrails.com
 geminiadvisory.io
 hatching.io
 tria.ge
-www.recordedfuture.com
 app.recordedfuture.com
+www.recordedfuture.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1739,9 +1739,9 @@ www.elastic.co
 *.elasticnet.co
 *.eops.nl
 *.swiftype.com
-cloud.elastic.co
 *.elstc.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1799,8 +1799,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -1939,12 +1939,12 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-api.yoti.com
 ccloud.yoti.com
 code.yoti.com
 identity.yoti.com
 www.yotisign.com
 hub.yoti.com
+api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 *.services-prod.nsvcs.net
 internal.netlify.com
 *.ops.netlify.com
-*.infra-prod.nsvcs.net
 api.netlify.com
+*.infra-prod.nsvcs.net
 app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2640,8 +2640,8 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-traveler.marriott.com
 www.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3048,14 +3048,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3106,13 +3106,13 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
+*.paypalcorp.com
+*.braintreepayments.com
+*.venmo.com
 *.braintreegateway.com
 paypalobjects.com
-*.venmo.com
-*.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3295,12 +3295,12 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
-pay.crypto.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 app.mona.co
 js.crypto.com
+pay.crypto.com
 www.crypto.com
 *.crypto.com
 merchant.crypto.com
@@ -3436,8 +3436,8 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-jira.grab.com
 *.grab.com
+jira.grab.com
 *.ovo.id
 gifts.grab.com
 kartaview.org
@@ -3749,15 +3749,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-oauth.deriv.com
 *.deriv.cloud
 *.binary.com
 *.derivws.com
 *.deriv.com
 api.deriv.com
-derivws.com
 app.deriv.com
 smarttrader.deriv.com
+derivws.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3782,8 +3782,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-www.werkenbijbakertilly.nl
 werkenbijderet.nl
+www.werkenbijbakertilly.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -4191,14 +4191,12 @@ apis.mail.yahoo.com
 yimg.com
 *.vpn.hackerone.net
 mta-sts.wearehackerone.com
-a5s.hackerone-ext-content.com
 b5s.hackerone-ext-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-app.pullrequest.com
 hackathon-photos.hackerone-user-content.com
 hackerone-ext-content.com
 hackerone.live
@@ -4206,10 +4204,12 @@ reviewer.pullrequest.com
 api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
-www.hackerone.com
 www.wearehackerone.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
+www.hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 hackerone.com
 api.hackerone.com
