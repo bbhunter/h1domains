@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 17 05:21:45 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 17 06:23:50 UTC 2024)
 ```
 www.dyson.co.uk
 www.dysoncanada.ca
@@ -314,9 +314,9 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
+rewire.com
 api.remitly.io
 remitly.com
-rewire.com
 app.rewire.to
 rates.rewire.com
 remitly.com
@@ -388,8 +388,8 @@ http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+*.sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 account-sprint.dynatracelabs.com
 *.sprint.dynatracelabs.com
@@ -836,8 +836,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-firefox.settings.services.mozilla.com
 addons.allizom.org
+firefox.settings.services.mozilla.com
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -897,8 +897,8 @@ hiltonlocalbiz.com
 hilton.io
 hilton.com
 *.hiltonbusinessonline.com
-*.hilton.io
 hiltonhotels.jp
+*.hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1221,7 +1221,6 @@ api.zerobounce.in
 zerobounce.in
 api.zerobounce.in
 zerobounce.net
-*.goteleport.com
 *.gravitational.com
 *.teleport.dev
 *.gravitational.co
@@ -1231,6 +1230,7 @@ teleport.sh
 cloud.gravitational.io
 platform.teleport.sh
 askpam.ai
+*.goteleport.com
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1475,8 +1475,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-databricks.com
 accounts.cloud.databricks.com
+databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1799,8 +1799,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 ads.reddit.com
 *.reddithelp.com
 www.reddit.com
@@ -1915,8 +1915,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -2010,8 +2010,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2057,8 +2057,8 @@ developers.tiktok.com
 careers.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
-*.tiktok.com
 creatormarketplace.tiktok.com
+*.tiktok.com
 partner.tiktokshop.com
 tiktok.com
 *.tiktok.com
@@ -2126,8 +2126,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-beta-cloud.acronis.com
 account.acronis.com
+beta-cloud.acronis.com
 *.5nine.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2561,8 +2561,8 @@ www.alibabagroup.com
 configure.bmw.de
 konfigurator.bmw-motorrad.de
 www.mini.de
-configure.mini.de
 www.bmw-motorrad.de
+configure.mini.de
 www.bmw.de
 www.bmw.de
 www.mini.de
@@ -2639,9 +2639,9 @@ moments.marriottbonvoy.com
 help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
-traveler.marriott.com
 www.marriott.com
 activities.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2701,15 +2701,15 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
-*.line.naver.jp
 *.line.biz
 *.line-apps.com
 *.linecorp.com
+*.line.naver.jp
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3048,14 +3048,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3089,13 +3089,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3104,15 +3097,22 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
-*.venmo.com
 *.braintreepayments.com
-paypalobjects.com
+*.venmo.com
 *.braintreegateway.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3438,8 +3438,8 @@ kartaview.org
 wiki.grab.com
 grab.careers
 *.myteksi.com
-jira.grab.com
 *.grab.com
+jira.grab.com
 *.ovo.id
 gifts.grab.com
 *.myteksi.com
@@ -3679,11 +3679,11 @@ classroom.github.com
 *.github.net
 education.github.com
 npmjs.org
-*.githubusercontent.com
 api.github.com
 gist.github.com
 npmjs.com
 github.com
+*.githubusercontent.com
 github.com
 api.github.com
 gist.github.com
@@ -3782,8 +3782,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-werkenbijderet.nl
 www.werkenbijbakertilly.nl
+werkenbijderet.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3820,8 +3820,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3876,8 +3876,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-ads.snapchat.com
 login.playcanvas.com
+ads.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
@@ -4128,11 +4128,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4392,8 +4392,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
