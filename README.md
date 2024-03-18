@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 18 04:24:36 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 18 05:22:41 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -457,9 +457,9 @@ www.mercadopago.cl
 www.mercadopago.com.br
 api.mercadolibre.com
 www.mercadopago.com.ar
-api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadolivre.com.br
+www.mercadolibre.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,8 +506,8 @@ www.fareharbor.com
 admin.booking.com
 careers.booking.com
 account.booking.com
-flights.booking.com
 *.booking.com
+flights.booking.com
 *.rentalcars.com
 *.booking.com
 *.rentalcars.com
@@ -698,7 +698,6 @@ visa.com.ua
 www.visa.com.vn
 www.visa.co.ao
 visa.co.cr
-www.visa.co.id
 www.visa.co.il
 www.visa.co.in
 www.visa.co.jp
@@ -780,8 +779,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -835,8 +834,8 @@ lando.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
-addons.allizom.org
 firefox.settings.services.mozilla.com
+addons.allizom.org
 phabricator.allizom.org
 accounts.firefox.com
 addons.allizom.org
@@ -865,9 +864,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
-monitor.mozilla.org
 support.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -895,8 +894,8 @@ hiltonlocalbiz.com
 *.hilton.com.tr
 hilton.io
 *.hiltonbusinessonline.com
-hiltonhotels.jp
 *.hilton.io
+hiltonhotels.jp
 hilton.com
 *.hilton.com
 *.hilton.com
@@ -1013,9 +1012,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1172,7 +1171,6 @@ www.expediagroup.com
 www.flights.com
 *.expediapartnercentral.com
 *.carrentals.com
-*.travelocity.ca
 www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.vrbo.com
@@ -1180,6 +1178,7 @@ www.fewo-direkt.de
 *.travelocity.com
 www.expedia.com
 *.expediacruises.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1208,8 +1207,8 @@ www.expediagroup.com
 www.flights.com
 *.magiceden.io
 magiceden.io
-*.magiceden.dev
 *.magiceden.workers.dev
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1914,8 +1913,8 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-open.larksuite.com
 app.larksuite.com
+open.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 larksuite.com
@@ -2008,12 +2007,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2700,8 +2699,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3049,12 +3048,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 *.fanduel.com
 fdbox.net
 *.fanduel.com
@@ -3088,13 +3087,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3103,14 +3095,21 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
 *.paypalcorp.com
 *.venmo.com
-paypalobjects.com
 *.braintreegateway.com
+paypalobjects.com
 *.braintreepayments.com
 *.paypal.com
 www.paypal-*.com
@@ -3273,12 +3272,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3294,13 +3293,13 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+pay.crypto.com
 *.mona.co
 tax.crypto.com
 auth.crypto.com
 js.crypto.com
-pay.crypto.com
-*.crypto.com
 www.crypto.com
+*.crypto.com
 merchant.crypto.com
 app.mona.co
 *.crypto.com
@@ -3435,10 +3434,10 @@ xtramile.grabpay.com
 wiki.grab.com
 grab.careers
 *.myteksi.com
-*.grab.com
 jira.grab.com
-gifts.grab.com
 *.ovo.id
+gifts.grab.com
+*.grab.com
 kartaview.org
 api.grabpay.com
 *.myteksi.com
@@ -3754,9 +3753,9 @@ app.deriv.com
 smarttrader.deriv.com
 derivws.com
 oauth.deriv.com
-*.deriv.com
 api.deriv.com
 *.deriv.cloud
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3781,8 +3780,8 @@ preprod.nl
 qatest.nl
 rudderplatform.com
 werkenbijdnb.nl
-www.werkenbijbakertilly.nl
 werkenbijderet.nl
+www.werkenbijbakertilly.nl
 werkenbijdefensie.nl
 werkenbijderet.nl
 www.werkenbijbakertilly.nl
@@ -3829,14 +3828,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 shopifyinbox.com
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 partners.shopify.com
 shop.app
 *.shopify.io
+*.shopify.com
 your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3877,8 +3876,8 @@ playcanv.as
 *.sc-corp.net
 login.playcanvas.com
 ads.snapchat.com
-app.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
 web.snapchat.com
 business.snapchat.com
 geofilters.snapchat.com
@@ -4126,12 +4125,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
