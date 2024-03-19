@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 05:21:14 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 06:24:57 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -314,9 +314,9 @@ webonboarding-eu.truecaller.com
 cards.remitly.io
 rates.rewire.com
 app.rewire.to
-app3.rewire.to
 api.remitly.io
 rewire.com
+app3.rewire.to
 remitly.com
 remitly.com
 api.remitly.io
@@ -508,8 +508,8 @@ account.booking.com
 flights.booking.com
 www.fareharbor.com
 *.rentalcars.com
-widget.rentalcars.com
 *.booking.com
+widget.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -779,8 +779,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -798,8 +798,8 @@ app.avtoelon.uz
 id.avtoelon.uz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 avtoelon.uz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -931,8 +931,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1471,8 +1471,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1736,8 +1736,8 @@ www.elastic.co
 *.eops.nl
 *.swiftype.com
 *.elstc.co
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1937,10 +1937,10 @@ hackers_chosendomain.larksuite.com
 core.yoti.com
 ccloud.yoti.com
 code.yoti.com
-api.yoti.com
 identity.yoti.com
 www.yotisign.com
 hub.yoti.com
+api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2005,12 +2005,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
+secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
-secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2044,18 +2044,18 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 business.tiktok.com
+creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-creatormarketplace.tiktok.com
 partner.tiktokshop.com
-ads.tiktok.com
 *.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2103,8 +2103,8 @@ nft.io
 platform.enjin.io
 nft.io
 platform.enjin.io
-api.figma.com
 www.figma.com
+api.figma.com
 www.figma.com
 api.figma.com
 cs.money
@@ -2123,9 +2123,9 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
 *.acronis.com
+account.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2526,12 +2526,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibabacloud.com
 *.1688.com
-*.tmall.com
 *.aliexpress.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
 *.Daraz.com
+*.tmall.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2688,8 +2688,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3036,13 +3036,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 login.tvg.com
 www.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
-www.4njbets.com
-us.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3092,11 +3092,11 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
@@ -3260,12 +3260,12 @@ support.steampowered.com
 partner.steampowered.com
 partner.steamgames.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
+help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.dota2.com
@@ -3423,10 +3423,10 @@ grab.careers
 *.myteksi.com
 kartaview.org
 api.grabpay.com
-*.myteksi.net
-*.grab.com
 gifts.grab.com
 jira.grab.com
+*.myteksi.net
+*.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3737,10 +3737,10 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+*.derivws.com
 oauth.deriv.com
 derivws.com
 api.deriv.com
-*.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
@@ -4035,8 +4035,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4386,8 +4386,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4425,7 +4425,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-one.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
