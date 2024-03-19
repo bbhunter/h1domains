@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 08:25:00 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 09:22:57 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,12 +312,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rates.rewire.com
 app.rewire.to
 api.remitly.io
 rewire.com
 remitly.com
 app3.rewire.to
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -566,16 +566,16 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -777,10 +777,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -830,9 +830,9 @@ merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 lando.services.mozilla.com
-firefox-ci-tc.services.mozilla.com
 aus5.mozilla.org
 sync.services.mozilla.com
+firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
 accounts.firefox.com
@@ -932,8 +932,8 @@ injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
-*.indriver.com
 *.indriverapp.com
+*.indriver.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
+mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1060,7 +1060,6 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
-*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1113,8 +1112,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1171,12 +1170,12 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-*.travelocity.com
-*.expediacruises.com
+*.hotwire.com
 www.fewo-direkt.de
 *.vrbo.com
 www.expedia.com
-*.hotwire.com
+*.travelocity.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -2005,8 +2004,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2044,14 +2043,14 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-shop.tiktok.com
 developers.tiktok.com
+shop.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
+creatormarketplace.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 tiktok.com
@@ -2123,8 +2122,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-*.5nine.com
 account.acronis.com
+*.5nine.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2527,11 +2526,11 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.aliexpress.com
-*.aliyun.com
 *.Daraz.com
 *.tmall.com
 *.alibaba.com
 *.taobao.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2688,8 +2687,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3035,14 +3034,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
+www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
-us.tvg.com
-www.4njbets.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3424,9 +3423,9 @@ grab.careers
 kartaview.org
 api.grabpay.com
 gifts.grab.com
-jira.grab.com
 *.myteksi.net
 *.grab.com
+jira.grab.com
 *.ovo.id
 *.myteksi.com
 *.myteksi.net
@@ -3741,9 +3740,9 @@ derivws.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
-*.deriv.com
 api.deriv.com
 oauth.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3816,14 +3815,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.shopifycs.com
 *.shopifycloud.com
-partners.shopify.com
 shopifyinbox.com
 *.shopify.io
 accounts.shopify.com
 *.shopify.com
 shop.app
-your-store.myshopify.com
 admin.shopify.com
+your-store.myshopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4113,11 +4112,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4386,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
