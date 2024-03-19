@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 07:23:30 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 08:25:00 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -777,10 +777,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -835,8 +835,8 @@ aus5.mozilla.org
 sync.services.mozilla.com
 firefox.settings.services.mozilla.com
 addons.allizom.org
-phabricator.allizom.org
 accounts.firefox.com
+phabricator.allizom.org
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -931,9 +931,9 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-*.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indriver.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1060,6 +1060,7 @@ work-staging.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
+*.jitsi.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1170,11 +1171,11 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-www.expedia.com
-*.vrbo.com
-www.fewo-direkt.de
 *.travelocity.com
 *.expediacruises.com
+www.fewo-direkt.de
+*.vrbo.com
+www.expedia.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1329,10 +1330,10 @@ business.kayak.com
 www.cheapflights.com
 www.kayak.com
 www.mundi.com.br
-www.momondo.com
 www.checkfelix.com
 www.swoodoo.com
 www.hotelscombined.com
+www.momondo.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1342,8 +1343,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1470,8 +1471,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1792,13 +1793,13 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.reddit.com
 *.reddithelp.com
 ads.reddit.com
 www.reddit.com
 matrix.redditspace.com
 new.reddit.com
 api.reddit.com
+*.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1910,10 +1911,10 @@ passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 open.larksuite.com
-app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
+app.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2562,8 +2563,8 @@ api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
 dashboard.fortmatic.com
-dashboard.magic.link
 auth.magic.link
+dashboard.magic.link
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2687,8 +2688,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.me
@@ -3036,12 +3037,12 @@ service.tvg.com
 fanduel.design
 ia.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
-www.4njbets.com
+www.tvg.com
 us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3091,11 +3092,11 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
-*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.braintreegateway.com
+*.paypalcorp.com
 *.venmo.com
+*.braintreegateway.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
@@ -3148,8 +3149,8 @@ chaturbate.com
 m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
-*.bitmex.com
 testnet.bitmex.com
+*.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 *.staging-airtableblocks.com
@@ -3280,9 +3281,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3736,13 +3737,13 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-oauth.deriv.com
 derivws.com
-api.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
 *.deriv.com
+api.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3791,9 +3792,9 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 www.zendesk.com
-apps.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
+apps.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3945,8 +3946,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -3985,7 +3986,7 @@ www.magisto.com
 *.magisto.com
 staging.magisto.com
 applause1.magisto.com
-*.livestream.com
+www.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4424,7 +4425,7 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
-one.newrelic.com
+rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
