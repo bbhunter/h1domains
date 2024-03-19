@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 12:38:16 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 13:27:10 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -458,9 +458,9 @@ www.mercadopago.cl
 www.mercadolivre.com.br
 www.mercadopago.com.br
 api.mercadopago.com
-www.mercadopago.com.ar
-api.mercadolibre.com
 www.mercadolibre.com.ar
+api.mercadolibre.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -508,8 +508,8 @@ account.booking.com
 flights.booking.com
 www.fareharbor.com
 widget.rentalcars.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -777,9 +777,9 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -862,9 +862,9 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 hg.mozilla.org
 developer.mozilla.org
-support.mozilla.org
-monitor.mozilla.org
 www.mozilla.org
+monitor.mozilla.org
+support.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
 vpn.mozilla.org
@@ -1010,9 +1010,9 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
+mobile.s-pankki.fi
 www.s-pankki.fi
 www.prisma.fi
-mobile.s-pankki.fi
 online.s-pankki.fi
 online.s-pankki.fi
 www.s-pankki.fi
@@ -1113,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1171,12 +1171,12 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
+*.travelocity.com
 www.fewo-direkt.de
 *.vrbo.com
-*.hotwire.com
 www.expedia.com
-*.travelocity.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -2055,8 +2055,8 @@ academy-outbound-ads.tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
 tiktok.com
-*.tiktok.com
 *.tiktokv.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2526,12 +2526,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.alibabacloud.com
 *.1688.com
-*.aliexpress.com
 *.tmall.com
 *.alibaba.com
 *.aliyun.com
 *.taobao.com
 *.Daraz.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2879,8 +2879,8 @@ vault.omise.co
 api.omise.co
 offsite.omise.co
 www.opn.ooo
-dashboard.omise.co
 www.omise.co
+dashboard.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3025,7 +3025,6 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 com.fanduel.android.live
-sportsbook.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 login-4ngbets.us.betfair.com
@@ -3046,6 +3045,7 @@ mobile-prod.tvg.com
 *racing.fanduel.com
 fdbox.net
 *.fanduel.com
+sportsbook.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3093,11 +3093,11 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
@@ -3483,8 +3483,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-api.spotify.com
 assets.spotify.com
+api.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3738,12 +3738,12 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 api.deriv.com
-oauth.deriv.com
 *.deriv.com
+oauth.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3794,8 +3794,8 @@ app.futuresimple.com
 api.getbase.com
 www.zendesk.com
 smooch.io
-h1-your-domain.zendesk.com
 apps.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3819,11 +3819,11 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 *.shopify.io
-accounts.shopify.com
 partners.shopify.com
 admin.shopify.com
-your-store.myshopify.com
 shop.app
+your-store.myshopify.com
+accounts.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
