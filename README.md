@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 19 01:12:54 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 19 02:27:07 UTC 2024)
 ```
 www.dysoncanada.ca
 www.dyson.ie
@@ -312,12 +312,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
-api.remitly.io
 rates.rewire.com
 app.rewire.to
 remitly.com
 app3.rewire.to
+api.remitly.io
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -459,8 +459,8 @@ www.mercadolivre.com.br
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -574,8 +574,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicehash.com
 test.nicex.com
+test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -931,8 +931,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 *.indrive.com
 watchdocs.indriverapp.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indriverapp.com
 *.indrive.com
@@ -1172,11 +1172,11 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
 www.expedia.com
-www.fewo-direkt.de
 *.vrbo.com
-*.hotwire.com
+www.fewo-direkt.de
 *.travelocity.com
 *.expediacruises.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1241,8 +1241,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 insights.deribit.com
-test.deribit.com
 *.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1253,9 +1253,9 @@ read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
 creator.amazon.com
-a4k.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
+a4k.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1329,11 +1329,11 @@ business.linkedin.com
 business.kayak.com
 www.cheapflights.com
 www.kayak.com
-www.hotelscombined.com
 www.mundi.com.br
 www.momondo.com
 www.checkfelix.com
 www.swoodoo.com
+www.hotelscombined.com
 www.kayak.com
 www.swoodoo.com
 www.checkfelix.com
@@ -1910,8 +1910,8 @@ status.larksuite.com
 passport.larksuite.com
 internal-api.larksuite.com
 internal-api-drive-stream.larksuite.com
-app.larksuite.com
 open.larksuite.com
+app.larksuite.com
 hackers_chosendomain.larksuite.com
 larksuite.com
 internal-api-lark-api.larksuite.com
@@ -2005,12 +2005,12 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 citrix.cloud.com
 www.cloud.com
@@ -2049,7 +2049,6 @@ developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
-*.tiktokv.com
 business.tiktok.com
 creatormarketplace.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -2057,6 +2056,7 @@ tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2123,8 +2123,8 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 beta-cloud.acronis.com
-account.acronis.com
 *.5nine.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -3035,14 +3035,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 *.fanduel.com
@@ -3092,11 +3092,11 @@ pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 *.hyperwallet.com
 *.paylution.com
+*.paypalcorp.com
 www.loanbuilder.com
 my.swiftfinancial.com
-*.paypalcorp.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 *.xoom.com
 *.braintreepayments.com
 paypalobjects.com
@@ -3482,8 +3482,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3737,9 +3737,9 @@ cashier.deriv.com
 secure-dfadmin.deriv.com
 *.binary.com
 *.deriv.cloud
+oauth.deriv.com
 derivws.com
 api.deriv.com
-oauth.deriv.com
 *.derivws.com
 smarttrader.deriv.com
 app.deriv.com
@@ -3862,8 +3862,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-login.playcanvas.com
 ads.snapchat.com
+login.playcanvas.com
 accounts.snapchat.com
 web.snapchat.com
 geofilters.snapchat.com
@@ -3946,8 +3946,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -4113,12 +4113,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
