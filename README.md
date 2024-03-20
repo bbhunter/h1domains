@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 07:24:17 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 08:24:44 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,8 +311,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 app.rewire.to
+rewire.com
 app3.rewire.to
 api.remitly.io
 rates.rewire.com
@@ -453,13 +453,13 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
-api.mercadolibre.com
 api.mercadopago.com
-www.mercadopago.com.ar
 www.mercadopago.com.br
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadolibre.cl
 www.mercadolibre.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,9 +506,9 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
-careers.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -779,9 +779,9 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -967,8 +967,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1179,13 +1179,13 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
+*.travelocity.com
 www.fewo-direkt.de
 www.expedia.com
-*.travelocity.com
-*.expediacruises.com
-www.flights.com
 *.hotwire.com
+www.flights.com
 *.vrbo.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1805,8 +1805,8 @@ old.reddit.com
 ads.reddit.com
 new.reddit.com
 api.reddit.com
-*.reddit.com
 matrix.redditspace.com
+*.reddit.com
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1947,8 +1947,8 @@ ccloud.yoti.com
 www.yotisign.com
 api.yoti.com
 identity.yoti.com
-hub.yoti.com
 code.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2015,9 +2015,9 @@ api.adm.cloud.com
 (yoursubdomain).sharefile.com
 www.cloud.com
 (yoursubdomain).sharefile.eu
-secure.sharefile.com
 adm.cloud.com
 citrix.cloud.com
+secure.sharefile.com
 secure.sharefile.eu
 accounts.cloud.com
 citrix.cloud.com
@@ -2129,8 +2129,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.acronis.work
-*.5nine.com
 account.acronis.com
+*.5nine.com
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2534,11 +2534,11 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.1688.com
 *.tmall.com
-*.aliyun.com
 *.aliexpress.com
 *.Daraz.com
 *.taobao.com
 *.alibaba.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2633,9 +2633,9 @@ mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
 traveler.marriott.com
-homes-and-villas.marriott.com
 www.marriott.com
 all-inclusive.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2825,8 +2825,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-secure.rezserver.com
 www.bookingholdings.com
+secure.rezserver.com
 flyiin.com
 www.priceline.com
 secure.rezserver.com
@@ -3042,14 +3042,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
 www.4njbets.com
+us.tvg.com
 tvg.com
-mobile-prod.tvg.com
 login.tvg.com
-*racing.fanduel.com
 www.tvg.com
+mobile-prod.tvg.com
+*racing.fanduel.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3083,6 +3083,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3091,13 +3098,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3105,10 +3105,10 @@ my.swiftfinancial.com
 *.braintreegateway.com
 *.xoom.com
 *.paypalcorp.com
-*.paypal.com
 *.hyperwallet.com
-paypalobjects.com
 *.braintreepayments.com
+*.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3433,9 +3433,9 @@ kartaview.org
 gifts.grab.com
 *.myteksi.net
 *.grab.com
-*.ovo.id
 api.grabpay.com
 jira.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3749,9 +3749,9 @@ smarttrader.deriv.com
 *.deriv.cloud
 *.binary.com
 *.deriv.com
-app.deriv.com
 oauth.deriv.com
 api.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3953,8 +3953,8 @@ callbacks.airbnb.com
 *.luxuryretreats.com
 www.hoteltonight.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
 www.airbnb.com
@@ -3981,7 +3981,6 @@ callbacks.airbnb.com
 www.hoteltonight.com
 checkout.vimeo.com
 player.vimeo.com
-api.vimeo.com
 *.cloud.vimeo.com
 vimeopro.com
 vimeo.magisto.com
@@ -3994,6 +3993,7 @@ www.magisto.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4081,8 +4081,8 @@ simperium.com
 akismet.com
 gravatar.com
 *.tumblr.com
-wordpress.com
 mailpoet.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -4190,8 +4190,8 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
-www.wearehackerone.com
 hackerone-ext-content.com
+www.wearehackerone.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
@@ -4392,8 +4392,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
