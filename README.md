@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 12:34:36 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 13:28:40 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -452,12 +452,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
-api.mercadopago.com
 www.mercadolivre.com.br
-www.mercadopago.com.br
 www.mercadopago.com.ar
+www.mercadopago.com.br
 www.mercadolibre.cl
 api.mercadolibre.com
+api.mercadopago.com
 www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -821,9 +821,9 @@ api.tideplatform.in
 *.tide.co
 api.tideplatform.in
 firefox-ci-tc.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -833,8 +833,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 bugzilla.mozilla.org
 accounts.firefox.com
 addons.allizom.org
@@ -1178,8 +1178,8 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.expedia.com
 www.flights.com
 *.hotwire.com
@@ -1941,8 +1941,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-code.yoti.com
 identity.yoti.com
+code.yoti.com
 ccloud.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2051,8 +2051,8 @@ api.adm.cloud.com
 (youriwssubdomain).cloud.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-developers.tiktok.com
 shop.tiktok.com
+developers.tiktok.com
 fp-sg.tiktokv.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
@@ -2534,8 +2534,8 @@ www.alibabagroup.com
 *.1688.com
 *.tmall.com
 *.aliexpress.com
-*.taobao.com
 *.aliyun.com
+*.taobao.com
 *.Daraz.com
 *.alibaba.com
 *.alibaba.com
@@ -2551,12 +2551,12 @@ www.alibabagroup.com
 *.aliexpress.ru
 *.1688.com
 www.alibabagroup.com
-configure.bmw.de
 konfigurator.bmw-motorrad.de
-www.mini.de
 configure.mini.de
 www.bmw-motorrad.de
+www.mini.de
 www.bmw.de
+configure.bmw.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3041,14 +3041,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-ia.tvg.com
-tvg.com
-login.tvg.com
-www.tvg.com
-mobile-prod.tvg.com
-*racing.fanduel.com
-www.4njbets.com
 us.tvg.com
+ia.tvg.com
+www.4njbets.com
+tvg.com
+mobile-prod.tvg.com
+login.tvg.com
+*racing.fanduel.com
+www.tvg.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3105,9 +3105,9 @@ my.swiftfinancial.com
 *.xoom.com
 *.paypalcorp.com
 *.hyperwallet.com
-paypalobjects.com
 *.braintreepayments.com
 *.paypal.com
+paypalobjects.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3269,9 +3269,9 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
+api.steampowered.com
 www.dota2.com
 steamcommunity.com
-api.steampowered.com
 www.valvesoftware.com
 store.steampowered.com
 www.teamfortress.com
@@ -3489,8 +3489,8 @@ ccardsus1.badoo.com
 chatdate.app
 getofficial.co
 backstage.io
-assets.spotify.com
 api.spotify.com
+assets.spotify.com
 assets.spotify.com
 api.spotify.com
 backstage.io
@@ -3584,8 +3584,8 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-forum.portswigger.net
 portswigger.net
+forum.portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
@@ -3605,8 +3605,8 @@ cart.starbucks.co.jp
 www.starbucks.co.kr
 gift.starbucks.co.jp
 app.starbucks.com
-www.starbucks.com
 www.starbucks.com.cn
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3723,8 +3723,8 @@ api.grofers.com
 api2.grofers.com
 *.zomans.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3742,15 +3742,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-*.derivws.com
 derivws.com
+*.derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 *.binary.com
 api.deriv.com
+oauth.deriv.com
 *.deriv.com
 app.deriv.com
-oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3827,8 +3827,8 @@ shopifyinbox.com
 *.shopify.io
 partners.shopify.com
 accounts.shopify.com
-admin.shopify.com
 shop.app
+admin.shopify.com
 *.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
@@ -4038,6 +4038,7 @@ cloudflareworkers.com
 api.cloudflare.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
+*.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4100,12 +4101,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 *.base.org
 international.coinbase.com
 cloud.coinbase.com
@@ -4136,9 +4137,9 @@ spaces.pm
 www.quip.com
 slack-imgs.com
 *.quip.com
+api.slack.com
 slack.com
 app.slack.com
-api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4172,7 +4173,6 @@ reviewer.pullrequest.com
 a5s.hackerone-ext-content.com
 www.wearehackerone.com
 hackerone-ext-content.com
-app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
 errors.hackerone.net
@@ -4180,6 +4180,7 @@ ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 api.hackerone.com
 cover-photos.hackerone-user-content.com
+app.pullrequest.com
 hackerone.com
 www.hackerone.com
 hackerone.com
@@ -4410,9 +4411,9 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 *.nr-ops.net
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
 *.infrastructure-data.newrelic.com
