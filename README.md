@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 20 09:24:00 UTC 2024)
+## Domains with Bounties (Last Updated Wed Mar 20 10:23:40 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -311,12 +311,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
 app3.rewire.to
 api.remitly.io
 rates.rewire.com
 remitly.com
+app.rewire.to
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -330,9 +330,9 @@ getworldcoin.com
 *.worldcoin.dev
 *.consumer.worldcoin.org
 bioid-management.app
-*.worldcoin.org
 worldcoin.org
 *.toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -454,12 +454,12 @@ www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.co
 api.mercadopago.com
-www.mercadopago.com.ar
-www.mercadopago.com.br
 www.mercadolivre.com.br
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 api.mercadolibre.com
+www.mercadopago.com.br
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -506,9 +506,9 @@ www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 booking.com
+careers.booking.com
 *.booking.com
 *.rentalcars.com
-careers.booking.com
 account.booking.com
 *.booking.com
 *.rentalcars.com
@@ -648,8 +648,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
-testapp.redoxengine.com
 www.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -821,16 +821,16 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox-ci-tc.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 phabricator.allizom.org
+firefox-ci-tc.services.mozilla.com
 addons.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -939,8 +939,8 @@ new-order.eu-east-1.indriverapp.com
 *.indriver.com
 *.indrive.com
 truck-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 auth.indrive.tech
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -967,8 +967,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.io
 *.grindr.mobi
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1122,8 +1122,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1182,10 +1182,10 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 www.expedia.com
 *.travelocity.com
-*.vrbo.com
-*.expediacruises.com
-*.hotwire.com
 www.flights.com
+*.hotwire.com
+*.expediacruises.com
+*.vrbo.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1943,10 +1943,10 @@ hackers_chosendomain.larksuite.com
 *.a.exodus.io
 *.exodus.com
 core.yoti.com
-ccloud.yoti.com
 www.yotisign.com
 api.yoti.com
 identity.yoti.com
+ccloud.yoti.com
 hub.yoti.com
 code.yoti.com
 core.yoti.com
@@ -2012,8 +2012,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-www.cloud.com
 (yoursubdomain).sharefile.com
+www.cloud.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2062,8 +2062,8 @@ business.tiktok.com
 careers.tiktok.com
 tiktok.com
 partner.tiktokshop.com
-*.tiktok.com
 ads.tiktok.com
+*.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2131,8 +2131,8 @@ api.faraday.ai
 *.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
-*.acronis.com
 *.5nine.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2632,10 +2632,10 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-traveler.marriott.com
 www.marriott.com
-all-inclusive.marriott.com
 homes-and-villas.marriott.com
+all-inclusive.marriott.com
+traveler.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3025,8 +3025,8 @@ www.hyattinclusivecollection.com
 booking.applevacations.com
 grammarly.ai
 *.grammarly.io
-*.grammarly.com
 *.grammarlyaws.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3042,14 +3042,14 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
 tvg.com
 mobile-prod.tvg.com
 login.tvg.com
 *racing.fanduel.com
 www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 *.fanduel.com
 sportsbook.fanduel.com
@@ -3083,6 +3083,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3091,13 +3098,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 www.loanbuilder.com
 my.swiftfinancial.com
@@ -3106,8 +3106,8 @@ my.swiftfinancial.com
 *.xoom.com
 *.paypalcorp.com
 *.hyperwallet.com
-paypalobjects.com
 *.braintreepayments.com
+paypalobjects.com
 *.paypal.com
 www.paypal-*.com
 *.xoom.com
@@ -3289,9 +3289,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 pay.crypto.com
 www.crypto.com
@@ -3433,9 +3433,9 @@ gifts.grab.com
 *.myteksi.net
 *.grab.com
 api.grabpay.com
+*.myteksi.com
 *.ovo.id
 jira.grab.com
-*.myteksi.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3585,8 +3585,8 @@ try.discourse.org
 try.discourse.org
 *.quora.com
 *.quora.com
-portswigger.net
 forum.portswigger.net
+portswigger.net
 portswigger.net
 forum.portswigger.net
 https://enterprise-demo.portswigger.net/
@@ -3724,8 +3724,8 @@ api.grofers.com
 api2.grofers.com
 *.zomans.com
 blinkit.com
-*.zomato.com
 *.runnr.in
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3814,8 +3814,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3829,8 +3829,8 @@ shopifyinbox.com
 partners.shopify.com
 accounts.shopify.com
 your-store.myshopify.com
-admin.shopify.com
 shop.app
+admin.shopify.com
 *.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4024,8 +4024,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4170,7 +4170,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
-cover-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
 www.wearehackerone.com
 hackerone-ext-content.com
@@ -4183,6 +4182,7 @@ www.hackerone.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 api.hackerone.com
 hackerone.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
