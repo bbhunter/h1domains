@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 21 09:20:59 UTC 2024)
+## Domains with Bounties (Last Updated Thu Mar 21 10:22:03 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -396,8 +396,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -502,8 +502,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 account.booking.com
 flights.booking.com
 *.booking.com
@@ -573,8 +573,8 @@ cdn.moderntreasury.com
 app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
-test.nicex.com
 test.nicehash.com
+test.nicex.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://test.nicex.com
@@ -776,8 +776,8 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
@@ -819,15 +819,15 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -853,12 +853,12 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 www.mozilla.org
-profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -934,11 +934,11 @@ watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 *.indrive.com
 auth.indrive.tech
-ci.indrive.dev
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
-cargo.indrive.com
+*.indriver.com
+ci.indrive.dev
 *.indriverapp.com
+cargo.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1035,8 +1035,8 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 www.kiwi.com
-*.skypicker.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1065,6 +1065,7 @@ user-profile-staging.8x8.com
 *.8x8staging.com
 connect.8x8.com
 *.jitsi.net
+sso.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1173,8 +1174,8 @@ www.expediagroup.com
 www.expediapartnersolutions.com
 *.travelocity.ca
 www.fewo-direkt.de
-*.travelocity.com
 www.expedia.com
+*.travelocity.com
 *.vrbo.com
 www.flights.com
 *.wotif.com
@@ -1302,9 +1303,9 @@ www.dolap.com
 www.trendyol-milla.com
 *.sidefx.com
 *.sidefx.com
+snaps.metamask.io
 portfolio.metamask.io
 metamask.io
-snaps.metamask.io
 metamask.io
 snaps.metamask.io
 portfolio.metamask.io
@@ -1353,8 +1354,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1940,9 +1941,9 @@ ccloud.yoti.com
 core.yoti.com
 code.yoti.com
 identity.yoti.com
-hub.yoti.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1960,9 +1961,9 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 app.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
@@ -1980,8 +1981,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 launchpad.37signals.com
 world.hey.com
-3.basecamp.com
 *.hey.com
+3.basecamp.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2005,8 +2006,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 adm.cloud.com
 citrix.cloud.com
@@ -2049,12 +2050,12 @@ developers.tiktok.com
 www.pangleglobal.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-fp-sg.tiktokv.com
 shop.tiktok.com
+fp-sg.tiktokv.com
 effecthouse.tiktok.com
-creatormarketplace.tiktok.com
 business.tiktok.com
 *.tiktok.com
+creatormarketplace.tiktok.com
 careers.tiktok.com
 ads.tiktok.com
 partner.tiktokshop.com
@@ -2074,7 +2075,6 @@ live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 fp-sg.tiktokv.com
-sync.logitech.com
 circle.logi.com
 accounts.logi.com
 www.logitech.com
@@ -2251,8 +2251,8 @@ kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
 mackeeper.com
-clario.co
 account.mackeeper.com
+clario.co
 account.mackeeper.com
 clario.co
 api.account.clario.co
@@ -2521,7 +2521,6 @@ read.amazon.com
 updates.amazon.com
 *.alibaba-inc.com
 *.aliyun-inc.com
-www.alibabagroup.com
 *.alimama.com
 *.aliexpress.ru
 *.alibabacloud.com
@@ -2529,8 +2528,9 @@ www.alibabagroup.com
 *.aliexpress.com
 *.aliyun.com
 *.taobao.com
-*.alibaba.com
 *.Daraz.com
+*.alibaba.com
+www.alibabagroup.com
 *.1688.com
 *.alibaba.com
 *.aliexpress.com
@@ -2917,10 +2917,10 @@ vacations.grandclass.grandvelas.com
 vacations.rivieramaya.grandvelas.com
 www.triseptapi.com
 www.triseptdemo.com
-www.applevacations.com
 book.cheapcaribbean.com
 holidays-au.fijiairways.com
 holidays-fj.fijiairways.com
+holidays-hk.fijiairways.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3025,13 +3025,13 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 tvg.com
-login.tvg.com
-www.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+www.tvg.com
+us.tvg.com
+www.4njbets.com
 fdbox.net
 sportsbook.fanduel.com
 *.fanduel.com
@@ -3252,11 +3252,11 @@ partner.steamgames.com
 playartifact.com
 help.steampowered.com
 www.counter-strike.net
-api.steampowered.com
 www.dota2.com
+api.steampowered.com
 www.teamfortress.com
-steamcommunity.com
 www.valvesoftware.com
+steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3415,8 +3415,8 @@ gifts.grab.com
 jira.grab.com
 api.grabpay.com
 *.ovo.id
-*.grab.com
 *.myteksi.com
+*.grab.com
 kartaview.org
 *.myteksi.com
 *.myteksi.net
@@ -3808,10 +3808,10 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 partners.shopify.com
+shop.app
 *.shopify.com
 your-store.myshopify.com
 shopifyinbox.com
-shop.app
 accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3855,10 +3855,10 @@ login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-web.snapchat.com
 business.snapchat.com
-www.bitmoji.com
+web.snapchat.com
 ads.snapchat.com
+www.bitmoji.com
 accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3939,8 +3939,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.hoteltonight-test.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4005,8 +4005,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4020,7 +4020,6 @@ cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
 *.cloudflare.com
-dash.cloudflare.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4083,11 +4082,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4160,10 +4159,10 @@ errors.hackerone.net
 ctf.hacker101.com
 api.hackerone.com
 app.pullrequest.com
-cover-photos.hackerone-user-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-profile-photos.hackerone-user-content.com
 www.hackerone.com
+profile-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 hackerone.com
 hackerone.com
 api.hackerone.com
