@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 02:27:36 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 03:22:53 UTC 2024)
 ```
 www.dyson.ie
 www.dyson.ch
@@ -309,8 +309,8 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-app.rewire.to
 rewire.com
+app.rewire.to
 api.remitly.io
 rates.rewire.com
 remitly.com
@@ -593,7 +593,6 @@ prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
 *.gocardless-cicd.io
-www.gocardless.com
 manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
 connect-sandbox.gocardless.com
@@ -604,6 +603,7 @@ xero-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-staging.io
 pay-sandbox.gocardless.com
+www.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -776,10 +776,10 @@ www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -819,15 +819,15 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-aus5.mozilla.org
-shavar.services.mozilla.com
-push.services.mozilla.com
 firefox.settings.services.mozilla.com
+push.services.mozilla.com
+phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
-phabricator.allizom.org
-lando.services.mozilla.com
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -853,11 +853,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
-profiler.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 api.profiler.firefox.com
 vpn.mozilla.org
+profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
@@ -1066,6 +1066,7 @@ user-profile-staging.8x8.com
 connect.8x8.com
 *.jitsi.net
 sso.8x8.com
+admin.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1118,8 +1119,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1937,8 +1938,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 code.yoti.com
 identity.yoti.com
@@ -2049,7 +2050,6 @@ live-backstage.tiktok.com
 developers.tiktok.com
 academy-outbound-ads.tiktok.com
 tiktok.com
-shop.tiktok.com
 fp-sg.tiktokv.com
 effecthouse.tiktok.com
 business.tiktok.com
@@ -2057,9 +2057,10 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
-www.pangleglobal.com
 *.tiktokv.com
+www.pangleglobal.com
 ads.tiktok.com
+shop.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3025,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 www.tvg.com
@@ -3065,6 +3066,13 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree-api.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3073,13 +3081,6 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree-api.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3414,10 +3415,10 @@ gifts.grab.com
 *.myteksi.net
 api.grabpay.com
 *.ovo.id
-*.myteksi.com
 *.grab.com
-kartaview.org
+*.myteksi.com
 jira.grab.com
+kartaview.org
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3806,9 +3807,9 @@ shopify.plus
 *.shopifycs.com
 *.shopifycloud.com
 *.shopify.io
-admin.shopify.com
 partners.shopify.com
 shop.app
+admin.shopify.com
 arrive-server.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
@@ -4100,11 +4101,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 institutional.coinbase.com
 *.base.org
 international.coinbase.com
@@ -4385,8 +4386,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4422,8 +4423,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
