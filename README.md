@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 22 21:21:15 UTC 2024)
+## Domains with Bounties (Last Updated Fri Mar 22 22:19:38 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -307,12 +307,12 @@ video-callerid-eu.truecaller.com
 webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
-rewire.com
 app.rewire.to
+rewire.com
 app3.rewire.to
 api.remitly.io
-remitly.com
 rates.rewire.com
+remitly.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -563,8 +563,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -591,7 +591,6 @@ prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
 connect-sandbox.gocardless.com
 *.gocardless.io
@@ -602,6 +601,7 @@ xero-sandbox.gocardless.com
 *.gocardless-staging.io
 pay-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -817,20 +817,20 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
 crash-stats.allizom.org
+phabricator.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
+contile.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -859,8 +859,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -890,8 +890,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1940,8 +1940,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 core.yoti.com
+ccloud.yoti.com
 api.yoti.com
 identity.yoti.com
 code.yoti.com
@@ -2009,8 +2009,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
-(yoursubdomain).sharefile.com
 www.cloud.com
+(yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.com
 secure.sharefile.eu
@@ -2051,7 +2051,6 @@ api.adm.cloud.com
 live-backstage.tiktok.com
 developers.tiktok.com
 academy-outbound-ads.tiktok.com
-fp-sg.tiktokv.com
 effecthouse.tiktok.com
 creatormarketplace.tiktok.com
 careers.tiktok.com
@@ -2063,6 +2062,7 @@ tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
 business.tiktok.com
+fp-sg.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -3026,12 +3026,12 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
-us.tvg.com
 ia.tvg.com
-www.4njbets.com
-mobile-prod.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3413,8 +3413,8 @@ wiki.grab.com
 grab.careers
 gifts.grab.com
 *.myteksi.net
-api.grabpay.com
 *.ovo.id
+api.grabpay.com
 kartaview.org
 *.myteksi.com
 jira.grab.com
@@ -3633,8 +3633,8 @@ rubygems.org
 rubygems.org
 *.yelpwifi.com
 yelptop100.com
-*.yelp.com
 *.yelp-support.com
+*.yelp.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
@@ -3658,8 +3658,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3719,20 +3719,20 @@ api.grofers.com
 api2.grofers.com
 blinkit.com
 *.algolia.net
-*.algolianet.com
 www.algolia.com
+*.algolianet.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
-*.binary.com
 oauth.deriv.com
+*.binary.com
 app.deriv.com
 *.deriv.com
 *.deriv.com
@@ -3938,9 +3938,9 @@ www.hoteltonight.com
 api.airbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
-www.airbnb.com
-*.airbnb.com
 *.muscache.com
+*.airbnb.com
+www.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4101,12 +4101,12 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
+api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 *.coinbase.com
@@ -4385,8 +4385,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
