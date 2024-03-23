@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 18:23:31 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 19:18:13 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -448,12 +448,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.br
-www.mercadolibre.com.ar
+www.mercadopago.cl
 api.mercadolibre.com
-api.mercadopago.com
 www.mercadolivre.com.br
+api.mercadopago.com
+www.mercadolibre.com.ar
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -562,8 +562,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -816,22 +816,22 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 contile.services.mozilla.com
 crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-bugzilla.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 addons.allizom.org
 accounts.firefox.com
@@ -850,16 +850,16 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -889,8 +889,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -930,8 +930,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-*.indriver.com
 truck-api.eu-east-1.indriverapp.com
+*.indriver.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1012,8 +1012,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1177,9 +1177,9 @@ www.flights.com
 *.wotif.com
 *.hotwire.com
 *.carrentals.com
-*.expediacruises.com
-www.expedia.com
 www.hotels.com
+www.expedia.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1548,10 +1548,10 @@ twinmotion.unrealengine.com
 *.oncatapult.com
 *.fallguys.com
 *.quixel.com
-*.superawesome.tv
 *.popjam.com
 *.rukkaz.com
 *.jellychat.com
+fallguys.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -1754,9 +1754,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 *.stripe.com
 app.taxjar.com
@@ -1943,8 +1943,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 identity.yoti.com
-hub.yoti.com
 code.yoti.com
+hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -2058,9 +2058,9 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
 tiktok.com
-developers.tiktok.com
 ads.tiktok.com
 *.tiktok.com
+developers.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2529,10 +2529,10 @@ updates.amazon.com
 *.taobao.com
 *.aliyun.com
 *.Daraz.com
-*.alibaba.com
 *.aliexpress.com
 *.alibabacloud.com
 www.alibabagroup.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3026,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
+us.tvg.com
+www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3271,9 +3271,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3336,8 +3336,8 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3657,8 +3657,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3725,8 +3725,8 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 smarttrader.deriv.com
 *.deriv.cloud
 *.binary.com
@@ -4170,8 +4170,8 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
@@ -4419,9 +4419,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
