@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 20:22:34 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 21:18:01 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -309,8 +309,8 @@ cards.remitly.io
 rewire.com
 app3.rewire.to
 api.remitly.io
-remitly.com
 rates.rewire.com
+remitly.com
 app.rewire.to
 remitly.com
 api.remitly.io
@@ -325,9 +325,9 @@ getworldcoin.com
 worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
+*.worldcoin.org
 *.worldcoin.dev
 *.consumer.worldcoin.org
-*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -406,8 +406,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
 backend.zyro.com
-cpanel.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -451,9 +451,9 @@ www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+api.mercadopago.com
 api.mercadolibre.com
 www.mercadolibre.com.ar
-api.mercadopago.com
 www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -498,8 +498,8 @@ admin.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-careers.booking.com
 *.rentalcars.com
+careers.booking.com
 flights.booking.com
 booking.com
 account.booking.com
@@ -857,8 +857,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-developer.mozilla.org
 relay.firefox.com
+developer.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -889,8 +889,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1012,8 +1012,8 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 digili.s-cloud.fi
-www.prisma.fi
 mobile.s-pankki.fi
+www.prisma.fi
 online.s-pankki.fi
 www.s-pankki.fi
 online.s-pankki.fi
@@ -1116,8 +1116,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1177,9 +1177,9 @@ www.flights.com
 *.wotif.com
 *.hotwire.com
 *.carrentals.com
-*.expediacruises.com
-www.expedia.com
 www.hotels.com
+www.expedia.com
+*.expediacruises.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1962,8 +1962,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2052,8 +2052,8 @@ careers.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
@@ -2529,9 +2529,9 @@ updates.amazon.com
 *.taobao.com
 *.aliyun.com
 *.Daraz.com
-www.alibabagroup.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
+www.alibabagroup.com
 *.alibaba.com
 *.alibaba.com
 *.aliexpress.com
@@ -3025,11 +3025,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3066,12 +3066,6 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3080,6 +3074,12 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 *.paylution.com
 my.swiftfinancial.com
 *.venmo.com
@@ -3090,8 +3090,8 @@ www.loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 paypalobjects.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3251,13 +3251,13 @@ partner.steampowered.com
 partner.steamgames.com
 playartifact.com
 help.steampowered.com
-www.counter-strike.net
 www.dota2.com
 www.teamfortress.com
 steamcommunity.com
 www.valvesoftware.com
 store.steampowered.com
 api.steampowered.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3657,8 +3657,8 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-npmjs.com
 api.github.com
+npmjs.com
 github.com
 github.com
 api.github.com
@@ -3858,8 +3858,8 @@ app.snapchat.com
 business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4099,18 +4099,18 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
-commerce.coinbase.com
 prime.coinbase.com
 institutional.coinbase.com
-api.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
 coinbase.com
 *.base.org
 nft.coinbase.com
 *.coinbase.com
+commerce.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4136,8 +4136,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4170,16 +4170,16 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 www.wearehackerone.com
-hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
+hackathon-photos.hackerone-user-content.com
 www.hackerone.com
 app.pullrequest.com
 hackerone-user-content.com
 hackerone.live
 api.hackerone.com
-hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4383,8 +4383,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4419,8 +4419,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
