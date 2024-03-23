@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 23 06:28:18 UTC 2024)
+## Domains with Bounties (Last Updated Sat Mar 23 07:20:54 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -338,10 +338,10 @@ getworldcoin.com
 bioid-management.app
 worldcoin.org
 textexplore.tari.com
-www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 www.tari.com
+www.tarilabs.com
 explore.tari.com
 rfc.tari.com
 textexplore.tari.com
@@ -449,9 +449,9 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 api.mercadopago.com
+www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadolibre.com
@@ -816,23 +816,23 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-addons.allizom.org
-crash-stats.allizom.org
-phabricator.allizom.org
-aus5.mozilla.org
-shavar.services.mozilla.com
 firefox.settings.services.mozilla.com
 push.services.mozilla.com
-lando.services.mozilla.com
+phabricator.allizom.org
+addons.allizom.org
+crash-stats.allizom.org
+aus5.mozilla.org
+shavar.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
-crash-reports.allizom.org
 contile.services.mozilla.com
+crash-reports.allizom.org
 firefox-ci-tc.services.mozilla.com
-accounts.firefox.com
 bugzilla.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -858,8 +858,8 @@ profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 monitor.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 developer.mozilla.org
 profiler.firefox.com
@@ -930,8 +930,8 @@ injob.indriver.com
 watchdocs.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
 *.indriver.com
+truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 cargo.indrive.com
 *.indriverapp.com
@@ -1939,8 +1939,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-core.yoti.com
 ccloud.yoti.com
+core.yoti.com
 api.yoti.com
 code.yoti.com
 hub.yoti.com
@@ -1963,8 +1963,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2056,8 +2056,8 @@ shop.tiktok.com
 *.tiktokv.com
 tiktok.com
 www.pangleglobal.com
-business.tiktok.com
 partner.tiktokshop.com
+business.tiktok.com
 ads.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktok.com
@@ -3026,11 +3026,11 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-www.4njbets.com
-us.tvg.com
 login.tvg.com
 mobile-prod.tvg.com
 *racing.fanduel.com
+www.4njbets.com
+us.tvg.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
@@ -3416,8 +3416,8 @@ api.grabpay.com
 kartaview.org
 *.myteksi.com
 jira.grab.com
-*.ovo.id
 *.grab.com
+*.ovo.id
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3731,9 +3731,9 @@ smarttrader.deriv.com
 *.deriv.cloud
 api.deriv.com
 *.binary.com
-oauth.deriv.com
 app.deriv.com
 *.deriv.com
+oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -4099,11 +4099,11 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
+api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 commerce.coinbase.com
 prime.coinbase.com
-api.coinbase.com
 institutional.coinbase.com
 international.coinbase.com
 cloud.coinbase.com
@@ -4136,8 +4136,8 @@ www.quip.com
 slack-imgs.com
 *.quip.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4167,11 +4167,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-profile-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+profile-photos.hackerone-user-content.com
 www.wearehackerone.com
-a5s.hackerone-ext-content.com
 hackathon-photos.hackerone-user-content.com
+a5s.hackerone-ext-content.com
 errors.hackerone.net
 ctf.hacker101.com
 www.hackerone.com
@@ -4420,8 +4420,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-insights.newrelic.com
 rpm.newrelic.com
+insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
