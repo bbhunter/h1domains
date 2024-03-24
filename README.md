@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 24 06:26:00 UTC 2024)
+## Domains with Bounties (Last Updated Sun Mar 24 07:19:24 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -308,9 +308,9 @@ cards.remitly.io
 rewire.com
 app3.rewire.to
 remitly.com
-rates.rewire.com
 app.rewire.to
 api.remitly.io
+rates.rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -324,9 +324,9 @@ worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin-distributors.com
+*.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.dev
-*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -450,10 +450,10 @@ www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
+api.mercadopago.com
 api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -502,8 +502,8 @@ careers.booking.com
 flights.booking.com
 booking.com
 paymentcomponent.booking.com
-account.booking.com
 *.booking.com
+account.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -774,8 +774,8 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -856,8 +856,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -888,8 +888,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1169,15 +1169,15 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
 *.carrentals.com
 www.hotels.com
-www.expedia.com
 *.expediacruises.com
+www.expedia.com
 *.hotwire.com
 *.vrbo.com
 *.hotwire.com
@@ -1361,8 +1361,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 my.exness.com
-exnessaffiliates.com
 exness.com
+exnessaffiliates.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1961,8 +1961,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2056,10 +2056,10 @@ academy-outbound-ads.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
 tiktok.com
-ads.tiktok.com
 *.tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2528,10 +2528,10 @@ updates.amazon.com
 *.taobao.com
 *.aliyun.com
 *.Daraz.com
+*.alibaba.com
 *.aliexpress.com
 *.alibabacloud.com
 www.alibabagroup.com
-*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3269,9 +3269,9 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 pay.crypto.com
@@ -3334,8 +3334,8 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3930,8 +3930,8 @@ callbacks.airbnb.com
 *.airbnb-aws.com
 *.luxuryretreats.com
 *.airbnbcitizen.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 *.hoteltonight-test.com
 next.airbnb.com
 *.muscache.com
@@ -4165,8 +4165,8 @@ cover-photos-us-east-2.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-cover-photos.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+cover-photos.hackerone-user-content.com
 www.wearehackerone.com
 hackathon-photos.hackerone-user-content.com
 a5s.hackerone-ext-content.com
@@ -4176,8 +4176,8 @@ api.hackerone.com
 errors.hackerone.net
 ctf.hacker101.com
 hackerone-user-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4418,8 +4418,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
