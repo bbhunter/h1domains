@@ -471,8 +471,8 @@ hostinger,www.niagahoster.co.id,True
 hostinger,hpanel.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,backend.zyro.com,True
-hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
+hostinger,www.hostinger.com,True
 hostinger,*.000webhost.com,True
 hostinger,www.hostinger.com,True
 hostinger,cpanel.hostinger.com,True
@@ -2029,9 +2029,9 @@ shi_vdp,assetinsights.shi.com,False
 shi_vdp,renewalreminder.shi.com,False
 shi_vdp,servicepro.shi.com,False
 shi_vdp,www.content.shi.com,False
+shi_vdp,www.shi.com,False
 shi_vdp,api.shi.com,False
 shi_vdp,durango.shi.com,False
-shi_vdp,www.shi.com,False
 shi_vdp,accounts.shi.com,False
 shi_vdp,accounts.shi.com,False
 shi_vdp,api.shi.com,False
@@ -2195,8 +2195,8 @@ daimler_truck,*fleetboard.de,False
 daimler_truck,*fleetboard.com,False
 daimler_truck,*.westernstar.com,False
 daimler_truck,*.setra.de,False
-daimler_truck,*detroitconnect.com,False
 daimler_truck,*exceleratorparts.com,False
+daimler_truck,*detroitconnect.com,False
 daimler_truck,*.freightliner.com,False
 daimler_truck,*.mercedes-benz-trucks.com,False
 daimler_truck,*omniplus.com,False
@@ -3241,11 +3241,11 @@ mozilla_critical_services,firefox-ci-tc.services.mozilla.com,True
 mozilla_critical_services,mozilla-pontoon-staging.herokuapp.com,True
 mozilla_critical_services,shavar.services.mozilla.com,True
 mozilla_critical_services,phabricator.allizom.org,True
-mozilla_core_services,community-tc.services.mozilla.com,True
 mozilla_core_services,stage.taskcluster.nonprod.cloudops.mozgcp.net,True
+mozilla_core_services,community-tc.services.mozilla.com,True
+mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,api.profiler.firefox.com,True
 mozilla_core_services,vpn.mozilla.org,True
-mozilla_core_services,profiler.firefox.com,True
 mozilla_core_services,support.mozilla.org,True
 mozilla_core_services,hg.mozilla.org,True
 mozilla_core_services,relay.firefox.com,True
@@ -3318,8 +3318,8 @@ shutterfly_vdp,wgwebservices.snapfish.com,False
 shutterfly_vdp,https://www.cvs.com/photo/,False
 six-group,www.six-group.com,True
 six-group,www.six-group.com,True
-msd,*.msd.com,False
 msd,*.merck.com,False
+msd,*.msd.com,False
 msd,*.merck.com,False
 msd,*.msd.com,False
 prolinx-vdp,www.prolinx.co.uk,False
@@ -3410,8 +3410,8 @@ apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
 okg,*.okg.com,True
 okg,*.okcoin.com,True
-okg,*.oklink.com,True
 okg,*.okx.com,True
+okg,*.oklink.com,True
 okg,*.okx.com,True
 okg,*.okcoin.com,True
 okg,*.oklink.com,True
@@ -3578,8 +3578,8 @@ s-pankki,www.sokos.fi,True
 s-pankki,api.sokos.fi,True
 s-pankki,cfapi.voikukka.fi,True
 s-pankki,digili.s-cloud.fi,True
-s-pankki,mobile.s-pankki.fi,True
 s-pankki,www.prisma.fi,True
+s-pankki,mobile.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
 s-pankki,www.s-pankki.fi,True
 s-pankki,online.s-pankki.fi,True
@@ -3764,8 +3764,8 @@ superbet,*.napoleonsports.be,True
 superbet,*.superbet.pl,True
 moonpay,moonpay.com,True
 moonpay,hypermint.com,True
-moonpay,*.hypermint.com,True
 moonpay,*.moonpaycloud.com,True
+moonpay,*.hypermint.com,True
 moonpay,*.moonpay.com,True
 moonpay,*.moonpaycloud.com,True
 moonpay,*.hypermint.com,True
@@ -3861,11 +3861,11 @@ expediagroup_bbp,www.fewo-direkt.de,True
 expediagroup_bbp,www.flights.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.wotif.com,True
-expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
 expediagroup_bbp,www.hotels.com,True
 expediagroup_bbp,*.expediacruises.com,True
 expediagroup_bbp,www.expedia.com,True
+expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.hotwire.com,True
 expediagroup_bbp,*.carrentals.com,True
@@ -3923,8 +3923,8 @@ expediagroup,*.hotels.com,False
 expediagroup,*.fewo-direkt.de,False
 expediagroup,*.carrentals.com,False
 expediagroup,*.expedia.com,False
-expediagroup,*.hotwire.com,False
 expediagroup,*.expediacruises.com,False
+expediagroup,*.hotwire.com,False
 expediagroup,*.expedia.com,False
 expediagroup,*.hotwire.com,False
 expediagroup,*.orbitz.com,False
@@ -7271,8 +7271,8 @@ exodus,*.exodus.com,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
-yoti,core.yoti.com,True
 yoti,ccloud.yoti.com,True
+yoti,core.yoti.com,True
 yoti,api.yoti.com,True
 yoti,www.yotisign.com,True
 yoti,identity.yoti.com,True
@@ -7295,8 +7295,8 @@ netlify,*.services-prod.nsvcs.net,True
 netlify,internal.netlify.com,True
 netlify,*.ops.netlify.com,True
 netlify,*.infra-prod.nsvcs.net,True
-netlify,netlify-rum.netlify.app,True
 netlify,*.services.netlify.com,True
+netlify,netlify-rum.netlify.app,True
 netlify,api.netlify.com,True
 netlify,app.netlify.com,True
 netlify,*.services.netlify.com,True
@@ -7388,7 +7388,6 @@ tiktok,shop.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,www.pangleglobal.com,True
 tiktok,business.tiktok.com,True
-tiktok,partner.tiktokshop.com,True
 tiktok,academy-outbound-ads.tiktok.com,True
 tiktok,fp-sg.tiktokv.com,True
 tiktok,creatormarketplace.tiktok.com,True
@@ -7396,6 +7395,7 @@ tiktok,tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,developers.tiktok.com,True
+tiktok,partner.tiktokshop.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -8261,12 +8261,10 @@ topcoder,challenges.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
-topcoder,blockchain.topcoder.com,False
 topcoder,bugzilla.topcoder.com,False
 topcoder,cmap.topcoder.com,False
 topcoder,cognitive.topcoder.com,False
 topcoder,community.topcoder.com,False
-topcoder,community-app.topcoder.com,False
 topcoder,connect.topcoder.com,False
 topcoder,crowdsourcing.topcoder.com,False
 topcoder,dashboards.topcoder.com,False
@@ -8302,11 +8300,13 @@ topcoder,studio.topcoder.com,False
 topcoder,submission-review-api.topcoder.com,False
 topcoder,success.topcoder.com,False
 topcoder,tco12.topcoder.com,False
-topcoder,tco15.topcoder.com,False
-topcoder,tco16.topcoder.com,False
 topcoder,tco17.topcoder.com,False
-topcoder,tco18.topcoder.com,False
 topcoder,tco19.topcoder.com,False
+topcoder,textsummarization.topcoder.com,False
+topcoder,vpn.topcoder.com,False
+topcoder,webhooks.topcoder.com,False
+topcoder,wordpress.topcoder.com,False
+topcoder,wordpress-move.topcoder.com,False
 topcoder,www.topcoder.com,False
 topcoder,api.topcoder.com,False
 topcoder,arena.topcoder.com,False
@@ -9438,11 +9438,11 @@ fanduel,promos.tvg.com,True
 fanduel,service.tvg.com,True
 fanduel,fanduel.design,True
 fanduel,ia.tvg.com,True
+fanduel,www.4njbets.com,True
+fanduel,us.tvg.com,True
 fanduel,login.tvg.com,True
 fanduel,mobile-prod.tvg.com,True
 fanduel,*racing.fanduel.com,True
-fanduel,www.4njbets.com,True
-fanduel,us.tvg.com,True
 fanduel,tvg.com,True
 fanduel,sportsbook.fanduel.com,True
 fanduel,fdbox.net,True
@@ -9480,12 +9480,6 @@ matomo,https://github.com/matomo-org/docker,True
 paypal,*.paydiant.com,True
 paypal,paypal.me,True
 paypal,py.pl,True
-paypal,*.braintree.tools,True
-paypal,prequal.swiftfinancial.com,True
-paypal,partner.swiftfinancial.com,True
-paypal,decision.swiftfinancial.com,True
-paypal,pigeon.swiftfinancial.com,True
-paypal,scrutiny.swiftfinancial.com,True
 paypal,www.swiftcapital.com,True
 paypal,www.swiftfinancial.com,True
 paypal,api.swiftfinancial.com,True
@@ -9494,6 +9488,12 @@ paypal,my.loanbuilder.com,True
 paypal,loanbuilder.com,True
 paypal,swiftfinancial.com,True
 paypal,swiftcapital.com,True
+paypal,*.braintree.tools,True
+paypal,prequal.swiftfinancial.com,True
+paypal,partner.swiftfinancial.com,True
+paypal,decision.swiftfinancial.com,True
+paypal,pigeon.swiftfinancial.com,True
+paypal,scrutiny.swiftfinancial.com,True
 paypal,*.paylution.com,True
 paypal,my.swiftfinancial.com,True
 paypal,*.venmo.com,True
@@ -9599,7 +9599,6 @@ arkadiyt-projects,*.arkadiyt.com,False
 liberapay,*.liberapay.com,True
 liberapay,*.liberapay.com,True
 goldmansachs,*.marcus.co.uk,True
-goldmansachs,*.goldman.com,True
 goldmansachs,*.marcus.com,True
 goldmansachs,*.honestdollar.com,True
 goldmansachs,*.gspublishing.com,True
@@ -9697,9 +9696,9 @@ valve,help.steampowered.com,True
 valve,developer.valvesoftware.com,True
 valve,storefront.steampowered.com,False
 valve,wiki.teamfortress.com,False
+crypto,auth.crypto.com,True
 crypto,*.mona.co,True
 crypto,tax.crypto.com,True
-crypto,auth.crypto.com,True
 crypto,js.crypto.com,True
 crypto,app.mona.co,True
 crypto,pay.crypto.com,True
@@ -9774,8 +9773,8 @@ toyota,www.login.gac.toyota.com,False
 toyota,www.lexusfinancial.com,False
 toyota,www.toyotafinancial.com,False
 toyota,www.global.toyota,False
-toyota,www.lexus.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
+toyota,www.lexus.com,False
 toyota,www.link.gac.toyota.com,False
 toyota,www.toyota.com,False
 toyota,www.dashboard.gatekeepers.co.in,False
@@ -9806,8 +9805,8 @@ crowdstrike,*.bionic.ai,True
 crowdstrike,*.preempt.com,True
 crowdstrike,*.preemptsecurity.com,True
 crowdstrike,*.humio.com,True
-crowdstrike,*.crowdstrike.com,True
 crowdstrike,www.crowdstrike.com,True
+crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.crowdstrike.com,True
 crowdstrike,*.humio.com,True
 crowdstrike,*.securecircle.com,True
@@ -9861,7 +9860,6 @@ localtapiola,asiointi.lahitapiola.fi,True
 localtapiola,api.lahitapiola.fi,True
 localtapiola,privatetarget-2-secure.zigzag,True
 localtapiola,privatetarget-1-www.zigzag,True
-semrush,*.semrush.net,True
 semrush,*.seoquake.com,True
 semrush,*.seoab.io,True
 semrush,*.scatec.io,True
@@ -9872,6 +9870,7 @@ semrush,*.prowly.com,False
 semrush,*.myinsights.io,True
 semrush,*.berush.com,False
 semrush,*.semrush.com,True
+semrush,*.semrush.net,True
 semrush,*.semrush.com,True
 semrush,*.semrush.net,True
 semrush,*.seoquake.com,True
@@ -10379,8 +10378,8 @@ shopify,*.shopify.com,True
 shopify,accounts.shopify.com,True
 shopify,partners.shopify.com,True
 shopify,shop.app,True
-shopify,admin.shopify.com,True
 shopify,your-store.myshopify.com,True
+shopify,admin.shopify.com,True
 shopify,*.shopifycs.com,True
 shopify,*.shopify.io,True
 shopify,*.shopify.com,True
@@ -10498,7 +10497,6 @@ adobe,*.acrobat.com,False
 adobe,*.bizible.com,False
 adobe,*.marketo.com,False
 adobe,*.mixamo.com,False
-adobe,*.tubemogul.com,False
 adobe,*.typekit.com,False
 adobe,account.adobe.com,False
 adobe,accounts.adobe.com,False
@@ -10885,7 +10883,6 @@ security,profile-photos.hackerone-user-content.com,True
 security,www.wearehackerone.com,True
 security,hackathon-photos.hackerone-user-content.com,True
 security,a5s.hackerone-ext-content.com,True
-security,www.hackerone.com,True
 security,app.pullrequest.com,True
 security,hackerone.live,True
 security,api.hackerone.com,True
@@ -10893,6 +10890,7 @@ security,errors.hackerone.net,True
 security,ctf.hacker101.com,True
 security,hackerone-user-content.com,True
 security,hackerone.com,True
+security,www.hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
@@ -11387,8 +11385,8 @@ newrelic,alerts.eu.newrelic.com,True
 newrelic,*.eu.newrelic.com,True
 newrelic,login.newrelic.com,True
 newrelic,developer.newrelic.com,True
-newrelic,rpm.newrelic.com,True
 newrelic,synthetics.newrelic.com,True
+newrelic,rpm.newrelic.com,True
 newrelic,insights.newrelic.com,True
 newrelic,one.newrelic.com,True
 newrelic,*.newrelic.com,True
