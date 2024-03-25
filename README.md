@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 17:23:43 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 18:26:55 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -814,15 +814,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-accounts.firefox.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-sync.services.mozilla.com
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 lando.services.mozilla.com
+sync.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -831,6 +830,7 @@ crash-reports.allizom.org
 addons.allizom.org
 bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 accounts.firefox.com
 bugzilla.mozilla.org
@@ -855,8 +855,8 @@ vpn.mozilla.org
 profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
-relay.firefox.com
 developer.mozilla.org
+relay.firefox.com
 www.mozilla.org
 monitor.mozilla.org
 developer.mozilla.org
@@ -887,8 +887,8 @@ hiltonlocalbiz.com
 *.hiltonbusinessonline.com
 hiltonhotels.jp
 *.hilton.io
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -926,8 +926,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
-truck-api.eu-east-1.indriverapp.com
 *.indriver.com
+truck-api.eu-east-1.indriverapp.com
 ci.indrive.dev
 cargo.indrive.com
 watchdocs.indriverapp.com
@@ -1112,8 +1112,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1166,8 +1166,8 @@ www.expediagroup.com
 *.expediapartnercentral.com
 www.expediapartnersolutions.com
 *.travelocity.ca
-www.fewo-direkt.de
 *.travelocity.com
+www.fewo-direkt.de
 www.flights.com
 *.vrbo.com
 *.wotif.com
@@ -1306,8 +1306,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-api.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1750,12 +1750,12 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
-*.touchtechpayments.com
 *.recko.io
 js.stripe.com
+*.touchtechpayments.com
 api.stripe.com
-*.stripe.com
 app.taxjar.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1798,8 +1798,8 @@ matrix.redditspace.com
 *.redditmedia.com
 *.redditinc.com
 gql.reddit.com
-api.reddit.com
 *.reddithelp.com
+api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1839,8 +1839,8 @@ remix.com
 eu.remix.com
 platform.remix.com
 *.scopely.com
-*.withbuddies.com
 *.scopely.io
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -1860,8 +1860,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chime.com
 *.chimebank.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1958,8 +1958,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2050,12 +2050,12 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
 developers.tiktok.com
 fp-sg.tiktokv.com
-ads.tiktok.com
-*.tiktokv.com
+tiktok.com
 *.tiktok.com
+*.tiktokv.com
+ads.tiktok.com
 partner.tiktokshop.com
 *.tiktok.com
 business.tiktok.com
@@ -2524,11 +2524,11 @@ updates.amazon.com
 *.alimama.com
 *.aliyun-inc.com
 *.taobao.com
-*.aliexpress.com
 www.alibabagroup.com
 *.alibabacloud.com
-*.aliyun.com
 *.alibaba.com
+*.aliexpress.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3000,16 +3000,16 @@ promos.tvg.com
 service.tvg.com
 fanduel.design
 ia.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 www.4njbets.com
 tvg.com
 sportsbook.fanduel.com
 fdbox.net
 www.tvg.com
-*.fanduel.com
 us.tvg.com
+*.fanduel.com
 *.fanduel.com
 *racing.fanduel.com
 fdbox.net
@@ -3040,6 +3040,12 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3048,15 +3054,9 @@ my.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
-my.swiftfinancial.com
 www.loanbuilder.com
+my.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paypalcorp.com
@@ -3244,15 +3244,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3309,8 +3309,8 @@ hybrid-analysis.com
 *.preemptsecurity.com
 *.humio.com
 *.reposify.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3424,8 +3424,8 @@ ccardsus1.badoo.com
 chatdate.app
 bma.bumble.com
 getofficial.co
-www.bumble.com
 eu1.badoo.com
+www.bumble.com
 badoo.com
 www.bumble.com
 bma.bumble.com
@@ -3475,7 +3475,6 @@ mercantile.wordpress.org
 irclogs.wordpress.org
 lists.wordpress.org
 planet.wordpress.org
-*.wordpress.net
 wordpressfoundation.org
 doaction.org
 gutenberg.run
@@ -3483,6 +3482,7 @@ gutenberg.run
 bbpress.org
 profiles.wordpress.org
 *.wordpress.org
+*.wordpress.net
 *.wordpress.org
 *.buddypress.org
 bbpress.org
@@ -3696,7 +3696,6 @@ www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
-cashier.deriv.com
 secure-dfadmin.deriv.com
 *.derivws.com
 derivws.com
@@ -3704,9 +3703,10 @@ smarttrader.deriv.com
 oauth.deriv.com
 *.binary.com
 api.deriv.com
-app.deriv.com
 *.deriv.cloud
+cashier.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3783,10 +3783,10 @@ arrive-server.shopifycloud.com
 shop.app
 accounts.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 shopifyinbox.com
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3822,8 +3822,8 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-businesshelp.snapchat.com
 login.playcanvas.com
+businesshelp.snapchat.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
@@ -4082,8 +4082,8 @@ coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
-*.coinbase.com
 commerce.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4414,8 +4414,8 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
-synthetics.newrelic.com
 rpm.newrelic.com
+synthetics.newrelic.com
 insights.newrelic.com
 one.newrelic.com
 *.newrelic.com
