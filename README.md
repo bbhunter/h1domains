@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 02:29:41 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 03:24:23 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -446,12 +446,12 @@ www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
-www.mercadopago.cl
 www.mercadopago.com.br
-api.mercadopago.com
+www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.com.ar
+www.mercadopago.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
 api.mercadopago.com
@@ -815,12 +815,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+phabricator.allizom.org
+crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-push.services.mozilla.com
 firefox.settings.services.mozilla.com
-crash-stats.allizom.org
-phabricator.allizom.org
+push.services.mozilla.com
 lando.services.mozilla.com
 sync.services.mozilla.com
 hg.mozilla.org
@@ -849,11 +849,11 @@ firefox-ci-tc.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
+profiler.firefox.com
 api.profiler.firefox.com
 vpn.mozilla.org
-profiler.firefox.com
 support.mozilla.org
 hg.mozilla.org
 relay.firefox.com
@@ -931,10 +931,10 @@ truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 ci.indrive.dev
 cargo.indrive.com
-*.indrive.com
 *.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1114,8 +1114,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1451,9 +1451,9 @@ bullsheet.me
 shoppers.instacart.com
 admin.instacart.com
 *.instacart.tools
-www.instacart.com
-api.instacart.com
 *.instacart.com
+api.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1960,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2524,8 +2524,8 @@ updates.amazon.com
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
-*.alibabacloud.com
 *.alibaba.com
+*.alibabacloud.com
 *.Daraz.com
 www.alibabagroup.com
 *.aliexpress.com
@@ -3022,11 +3022,11 @@ pabets.tvg.com
 promos.tvg.com
 service.tvg.com
 fanduel.design
+us.tvg.com
 ia.tvg.com
 www.4njbets.com
-us.tvg.com
-login.tvg.com
 mobile-prod.tvg.com
+login.tvg.com
 *racing.fanduel.com
 tvg.com
 sportsbook.fanduel.com
@@ -3083,12 +3083,12 @@ my.swiftfinancial.com
 *.braintreepayments.com
 *.paypalcorp.com
 *.braintreegateway.com
-www.loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 paypalobjects.com
 *.xoom.com
 *.paypal.com
+www.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3721,15 +3721,15 @@ www.algolia.com
 www.algolia.com
 cashier.deriv.com
 secure-dfadmin.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
 *.deriv.cloud
-*.binary.com
 app.deriv.com
 oauth.deriv.com
 api.deriv.com
 smarttrader.deriv.com
 *.deriv.com
+*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -4095,10 +4095,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4379,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
