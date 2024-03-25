@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 21:19:46 UTC 2024)
+## Domains with Bounties (Last Updated Mon Mar 25 22:22:04 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -318,14 +318,14 @@ app.rewire.to
 rates.rewire.com
 app3.rewire.to
 toolsforhumanity.com
-worldcoin.org
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
-*.worldcoin.org
 *.consumer.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -381,9 +381,9 @@ http://sandbox-api.fireblocks.io
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
-university-staging.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
+university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -391,8 +391,8 @@ sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 demo.dynamic.xyz
-app.dynamic.xyz
 app.dynamic-preprod.xyz
+app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -448,11 +448,11 @@ www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -500,8 +500,8 @@ paymentcomponent.booking.com
 booking.com
 careers.booking.com
 www.fareharbor.com
-*.rentalcars.com
 admin.booking.com
+*.rentalcars.com
 *.booking.com
 *.booking.com
 *.rentalcars.com
@@ -540,8 +540,8 @@ www.fareharbor.com
 teleport.fareharbor.engineering
 *.bybit.com
 *.bybit.com
-api.au.frontegg.com
 portal.au.frontegg.com
+api.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -814,14 +814,14 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
 phabricator.allizom.org
 crash-stats.allizom.org
 aus5.mozilla.org
 shavar.services.mozilla.com
-firefox.settings.services.mozilla.com
-push.services.mozilla.com
-lando.services.mozilla.com
 sync.services.mozilla.com
+lando.services.mozilla.com
 hg.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -930,10 +930,10 @@ truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 ci.indrive.dev
 cargo.indrive.com
-profile-api.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
-*.indrive.com
+profile-api.eu-east-1.indriverapp.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1061,6 +1061,7 @@ admin.8x8.com
 cloud8.8x8.com
 *.wavecell.com
 sso.8x8.com
+*.8x8staging.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1113,8 +1114,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.hypermint.com
 *.moonpaycloud.com
+*.hypermint.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1307,8 +1308,8 @@ portfolio.metamask.io
 checkout.razorpay.com
 payroll.razorpay.com
 invoices.razorpay.com
-api.razorpay.com
 x.razorpay.com
+api.razorpay.com
 dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
@@ -1939,9 +1940,9 @@ core.yoti.com
 code.yoti.com
 ccloud.yoti.com
 identity.yoti.com
+hub.yoti.com
 www.yotisign.com
 api.yoti.com
-hub.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1959,8 +1960,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-netlify-rum.netlify.app
 *.services.netlify.com
+netlify-rum.netlify.app
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2052,12 +2053,12 @@ academy-outbound-ads.tiktok.com
 developers.tiktok.com
 *.tiktok.com
 tiktok.com
-*.tiktokv.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
 ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2528,8 +2529,8 @@ updates.amazon.com
 www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun.com
-*.alibaba.com
 *.aliexpress.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2547,8 +2548,8 @@ konfigurator.bmw-motorrad.de
 configure.bmw.de
 www.bmw-motorrad.de
 www.mini.de
-configure.mini.de
 www.bmw.de
+configure.mini.de
 www.bmw.de
 www.mini.de
 www.bmw-motorrad.de
@@ -3041,23 +3042,22 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+www.swiftcapital.com
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-www.swiftcapital.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-my.loanbuilder.com
-loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.paylution.com
-www.loanbuilder.com
 my.swiftfinancial.com
+www.loanbuilder.com
 *.venmo.com
 *.braintreepayments.com
 *.paypalcorp.com
@@ -3067,6 +3067,7 @@ paypalobjects.com
 *.xoom.com
 *.braintree-api.com
 *.paypal.com
+my.loanbuilder.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3252,8 +3253,8 @@ js.crypto.com
 app.mona.co
 www.crypto.com
 pay.crypto.com
-merchant.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3309,9 +3310,9 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-www.crowdstrike.com
-*.crowdstrike.com
 *.reposify.com
+*.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3339,8 +3340,8 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
-*.lahitapiola.fi
 api.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3364,8 +3365,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.net
 *.semrush.com
+*.semrush.net
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3511,8 +3512,8 @@ circolocorecords.com/
 store.rockstargames.com
 prod.ros.rockstargames.com
 socialclub.rockstargames.com
-support.rockstargames.com
 *.rockstargames.com
+support.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3705,8 +3706,8 @@ oauth.deriv.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
-*.deriv.com
 cashier.deriv.com
+*.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3770,8 +3771,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3785,9 +3786,9 @@ shop.app
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
-shopifyinbox.com
 admin.shopify.com
 *.shopify.com
+shopifyinbox.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3832,8 +3833,8 @@ business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 *.sc-corp.net
-web.snapchat.com
 accounts.snapchat.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3911,9 +3912,9 @@ support-api.airbnb.com
 next.airbnb.com
 *.muscache.com
 www.hoteltonight.com
+*.airbnb.com
 www.airbnb.com
 api.airbnb.com
-*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -3975,12 +3976,12 @@ donations.livestream.com
 boards.greenhouse.io
 api.greenhouse.io
 onboarding.greenhouse.io
-support.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
 interseller.io
 www.greenhouse.io
 app.greenhouse.io
+support.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -3996,8 +3997,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4083,8 +4084,8 @@ coinbase.com
 nft.coinbase.com
 cloud.coinbase.com
 institutional.coinbase.com
-*.coinbase.com
 commerce.coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4151,9 +4152,9 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
+www.hackerone.com
 api.hackerone.com
 hackerone.com
-www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4379,8 +4380,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4416,8 +4417,8 @@ alerts.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
 synthetics.newrelic.com
-rpm.newrelic.com
 insights.newrelic.com
+rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
