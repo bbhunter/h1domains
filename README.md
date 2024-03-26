@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 25 23:18:29 UTC 2024)
+## Domains with Bounties (Last Updated Tue Mar 26 01:13:52 UTC 2024)
 ```
 www.dyson.ch
 www.dyson.se
@@ -25,7 +25,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.fr
 api.dyson.ie
-www.dyson.com.sg
 www.sa.dyson.com
 shop.dyson.ru
 *.dyson.com
@@ -305,11 +304,11 @@ webdirectory-eu.truecaller.com
 webonboarding-eu.truecaller.com
 cards.remitly.io
 app.rewire.to
-rates.rewire.com
-rewire.com
 app3.rewire.to
+rates.rewire.com
 api.remitly.io
 remitly.com
+rewire.com
 remitly.com
 api.remitly.io
 cards.remitly.io
@@ -323,9 +322,9 @@ bioid-management.app
 *.worldcoin.dev
 *.worldcoin-distributors.com
 *.consumer.worldcoin.org
-getworldcoin.com
 *.worldcoin.org
 worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -367,8 +366,8 @@ www.sheer.com
 my.sheer.com
 www.analvids.com
 www.pornbox.com
-www.ddfcontent.com
 www.pornworld.com
+www.ddfcontent.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -404,8 +403,8 @@ www.niagahoster.co.id
 hpanel.hostinger.com
 *.000webhost.com
 backend.zyro.com
-cpanel.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -425,8 +424,8 @@ auth.23andme.com
 mediacenter.23andme.com
 research.23andme.com
 blog.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -451,8 +450,8 @@ www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadolibre.com.mx
 api.mercadolibre.com
-www.mercadopago.com.ar
 api.mercadopago.com
+www.mercadopago.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -495,11 +494,11 @@ spark.fareharbor.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
 flights.booking.com
+www.fareharbor.com
 account.booking.com
 paymentcomponent.booking.com
-booking.com
 careers.booking.com
-www.fareharbor.com
+booking.com
 admin.booking.com
 *.rentalcars.com
 *.booking.com
@@ -932,8 +931,8 @@ ci.indrive.dev
 cargo.indrive.com
 watchdocs.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1114,8 +1113,8 @@ admin.8x8.com
 *.superbet.pl
 moonpay.com
 hypermint.com
-*.moonpaycloud.com
 *.hypermint.com
+*.moonpaycloud.com
 *.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
@@ -1752,9 +1751,9 @@ api.taxjar.com
 *.reckoproduction.com
 *.link.co
 *.reckostaging.com
+*.touchtechpayments.com
 *.recko.io
 js.stripe.com
-*.touchtechpayments.com
 api.stripe.com
 app.taxjar.com
 *.stripe.com
@@ -1800,8 +1799,8 @@ matrix.redditspace.com
 gql.reddit.com
 *.redditmedia.com
 *.redditinc.com
-api.reddit.com
 *.reddithelp.com
+api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1862,8 +1861,8 @@ wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
 wp-qa.chime.com
-*.chime.com
 *.chimebank.com
+*.chime.com
 *.1debit.com
 *.chimebank.com
 *.chimecard.com
@@ -1940,9 +1939,9 @@ core.yoti.com
 code.yoti.com
 ccloud.yoti.com
 identity.yoti.com
+api.yoti.com
 hub.yoti.com
 www.yotisign.com
-api.yoti.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1960,8 +1959,8 @@ internal-docs.netlify.com
 internal.netlify.com
 *.ops.netlify.com
 *.infra-prod.nsvcs.net
-*.services.netlify.com
 netlify-rum.netlify.app
+*.services.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2051,14 +2050,14 @@ www.pangleglobal.com
 business.tiktok.com
 academy-outbound-ads.tiktok.com
 developers.tiktok.com
-*.tiktok.com
-tiktok.com
 partner.tiktokshop.com
 effecthouse.tiktok.com
 fp-sg.tiktokv.com
-creatormarketplace.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+tiktok.com
+creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2585,8 +2584,8 @@ maria.casino
 www.32red.com
 *.highrolling.nu
 *.bingo.com
-*.unibet.com
 *.kes.kindredext.net
+*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -3042,6 +3041,12 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+*.braintree.tools
+prequal.swiftfinancial.com
+partner.swiftfinancial.com
+decision.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftcapital.com
 www.swiftfinancial.com
 api.swiftfinancial.com
@@ -3049,15 +3054,9 @@ api.loanbuilder.com
 loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
-*.braintree.tools
-prequal.swiftfinancial.com
-partner.swiftfinancial.com
-decision.swiftfinancial.com
-pigeon.swiftfinancial.com
-scrutiny.swiftfinancial.com
 *.paylution.com
-my.swiftfinancial.com
 www.loanbuilder.com
+my.swiftfinancial.com
 *.venmo.com
 *.braintreepayments.com
 *.paypalcorp.com
@@ -3066,8 +3065,8 @@ www.loanbuilder.com
 paypalobjects.com
 *.xoom.com
 *.braintree-api.com
-*.paypal.com
 my.loanbuilder.com
+*.paypal.com
 www.paypal-*.com
 *.xoom.com
 *.paypal.com
@@ -3246,15 +3245,15 @@ www.counter-strike.net
 playartifact.com
 help.steampowered.com
 developer.valvesoftware.com
+auth.crypto.com
 *.mona.co
 tax.crypto.com
-auth.crypto.com
 js.crypto.com
 app.mona.co
-www.crypto.com
 pay.crypto.com
-*.crypto.com
 merchant.crypto.com
+*.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3310,9 +3309,9 @@ hybrid-analysis.com
 *.preempt.com
 *.preemptsecurity.com
 *.humio.com
-*.reposify.com
-*.crowdstrike.com
 www.crowdstrike.com
+*.crowdstrike.com
+*.reposify.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3365,8 +3364,8 @@ privatetarget-1-www.zigzag
 *.scatec.io
 *.sellzone.com
 *.myinsights.io
-*.semrush.com
 *.semrush.net
+*.semrush.com
 *.semrush.com
 *.semrush.net
 *.seoquake.com
@@ -3426,8 +3425,8 @@ ccardsus1.badoo.com
 chatdate.app
 bma.bumble.com
 getofficial.co
-www.bumble.com
 eu1.badoo.com
+www.bumble.com
 badoo.com
 www.bumble.com
 bma.bumble.com
@@ -3631,10 +3630,10 @@ education.github.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 npmjs.com
 classroom.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3706,8 +3705,8 @@ oauth.deriv.com
 *.binary.com
 api.deriv.com
 *.deriv.cloud
-cashier.deriv.com
 *.deriv.com
+cashier.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3771,8 +3770,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-www.udemy.com
 yourcompany.udemy.com
+www.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3785,10 +3784,10 @@ arrive-server.shopifycloud.com
 shop.app
 your-store.myshopify.com
 partners.shopify.com
+shopifyinbox.com
 accounts.shopify.com
 admin.shopify.com
 *.shopify.com
-shopifyinbox.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3824,17 +3823,17 @@ relay.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
-login.playcanvas.com
 businesshelp.snapchat.com
+login.playcanvas.com
 geofilters.snapchat.com
 playcanvas.com
 app.snapchat.com
-business.snapchat.com
 www.bitmoji.com
 ads.snapchat.com
 *.sc-corp.net
 accounts.snapchat.com
 web.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4074,10 +4073,10 @@ team-irc.irccloud.com
 blog.irccloud.com
 *.cbhq.net
 api.custody.coinbase.com
-api.coinbase.com
 pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
+api.coinbase.com
 international.coinbase.com
 coinbase.com
 *.base.org
@@ -4152,9 +4151,9 @@ ctf.hacker101.com
 hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-www.hackerone.com
 api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4380,8 +4379,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
@@ -4416,9 +4415,9 @@ alerts.eu.newrelic.com
 *.eu.newrelic.com
 login.newrelic.com
 developer.newrelic.com
+rpm.newrelic.com
 synthetics.newrelic.com
 insights.newrelic.com
-rpm.newrelic.com
 one.newrelic.com
 *.newrelic.com
 *.infrastructure.newrelic.com
