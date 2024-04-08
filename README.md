@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  8 01:14:42 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 02:29:55 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.com.au
-www.dyson.my
+www.dyson.fr
+www.dyson.pl
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -323,8 +323,8 @@ getworldcoin.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
-toolsforhumanity.com
 *.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -417,9 +417,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
+api.23andme.com
 research.23andme.com
 blog.23andme.com
-api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -776,9 +776,9 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
+yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -923,10 +923,10 @@ ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
+ci.indrive.dev
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 cargo.indrive.com
-new-order.eu-east-1.indriverapp.com
-ci.indrive.dev
 watchdocs.indriverapp.com
 injob.indriver.com
 *.indriver.com
@@ -1443,9 +1443,9 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 bullsheet.me
+*.instacart.tools
 admin.instacart.com
 api.instacart.com
-*.instacart.tools
 shoppers.instacart.com
 *.instacart.com
 www.instacart.com
@@ -1467,8 +1467,8 @@ community.databricks.com
 customer-academy.databricks.com
 labs.databricks.com
 marketplace.databricks.com
-accounts.cloud.databricks.com
 databricks.com
+accounts.cloud.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -1748,8 +1748,8 @@ api.taxjar.com
 js.stripe.com
 app.taxjar.com
 *.touchtechpayments.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 api.stripe.com
 *.stripe.com
 *.touchtechpayments.com
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-*.redditmedia.com
 api.reddit.com
+*.redditmedia.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1972,8 +1972,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 *.hey.com
-launchpad.37signals.com
 3.basecamp.com
+launchpad.37signals.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -1996,10 +1996,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 accounts.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
@@ -2036,15 +2036,15 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+careers.tiktok.com
 shop.tiktok.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
-careers.tiktok.com
 pay.tokopediax.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
-shop-id.tokopedia.com
 partner.tiktokshop.com
+shop-id.tokopedia.com
 affiliate-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
@@ -2300,8 +2300,8 @@ bridge-api.matic.network
 watchgod.polygon.technology
 faucet.polygon.technology
 mapper.polygon.technology
-portal.polygon.technology
 staking-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2808,6 +2808,7 @@ cruises.priceline.com
 flyiin.com
 press.priceline.com
 www.bookingholdings.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2990,30 +2991,30 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 com.fanduel.android.live
-sportsbook.fanduel.com
 *racing.fanduel.com
+sportsbook.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
-login.tvg.com
-mobile-prod.tvg.com
 pabets.tvg.com
+login.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 service.tvg.com
 promos.tvg.com
 www.4njbets.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
 us.tvg.com
 ia.tvg.com
 fdbox.net
@@ -3259,12 +3260,12 @@ developer.valvesoftware.com
 *.mona.co
 app.mona.co
 tax.crypto.com
-merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
 www.crypto.com
 js.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3394,9 +3395,9 @@ wiki.grab.com
 *.taralite.com
 *.grab.co
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
 grab.careers
 xtramile.grabpay.com
@@ -3571,9 +3572,9 @@ openapi.starbucks.com
 secureui.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
-www.starbucks.com.sg
 www.starbucks.co.uk
+www.starbucks.com.sg
+gift.starbucks.co.jp
 app.starbucks.com
 www.starbucks.com.cn
 www.starbucks.co.jp
@@ -3798,13 +3799,13 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
-shop.app
 *.shopify.com
 *.shopify.io
+shop.app
 admin.shopify.com
 partners.shopify.com
-accounts.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3848,8 +3849,8 @@ forum.playcanvas.com
 accounts.snapchat.com
 business.snapchat.com
 businesshelp.snapchat.com
-web.snapchat.com
 app.snapchat.com
+web.snapchat.com
 developer.playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
@@ -4026,8 +4027,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-*.tumblr.com
 gravatar.com
+*.tumblr.com
 mailpoet.com
 www.tumblr.com
 akismet.com
