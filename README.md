@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  7 23:21:45 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr  8 01:14:42 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -21,8 +21,8 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.pl
-www.dyson.fr
+www.dyson.com.au
+www.dyson.my
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -323,8 +323,8 @@ getworldcoin.com
 bioid-management.app
 *.toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -360,8 +360,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -402,9 +402,9 @@ backend.zyro.com
 cpanel.hostinger.com
 *.000webhost.com
 editor.zyro.com
-hpanel.hostinger.com
 www.hostinger.com
 www.zyro.com
+hpanel.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -489,10 +489,10 @@ secure-supply-xml.booking.com
 taxi.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
-www.fareharbor.com
 paymentcomponent.booking.com
+www.fareharbor.com
+spark.fareharbor.com
 widget.rentalcars.com
 admin.booking.com
 careers.booking.com
@@ -587,8 +587,6 @@ prisma-ai.com
 appapi.neuralprisma.com
 https://simple-life-app.com/
 connect-sandbox.gocardless.com
-*.gocardless.io
-*.gocardless-banking.io
 oauth-sandbox.gocardless.com
 xero-sandbox.gocardless.com
 *.gocardless-lab.io
@@ -598,6 +596,8 @@ manage-sandbox.gocardless.com
 *.gocardless-cicd.io
 api-sandbox.gocardless.com
 www.gocardless.com
+*.gocardless.io
+*.gocardless-banking.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -777,8 +777,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
-yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -831,8 +831,8 @@ contile.services.mozilla.com
 monitor.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -874,9 +874,9 @@ push.services.mozilla.com
 sync.services.mozilla.com
 www.six-group.com
 www.six-group.com
-api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
+api-eu.floqast.app
 *.eu.floqast.app
 *.floqast.app
 api-eu.floqast.app
@@ -923,15 +923,15 @@ ab-platform-api.eu-east-1.indriverapp.com
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-*.indrive.com
-ci.indrive.dev
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 cargo.indrive.com
+new-order.eu-east-1.indriverapp.com
+ci.indrive.dev
 watchdocs.indriverapp.com
 injob.indriver.com
 *.indriver.com
 auth.indrive.tech
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -957,8 +957,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.io
+web.grindr.com
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -1045,11 +1045,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
+user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1160,8 +1160,8 @@ www.hotels.com
 *.wotif.com
 *.lastminute.com.au
 www.expedia.com
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.ebookers.com
 *.cheaptickets.com
 *.expediacruises.com
@@ -1250,8 +1250,8 @@ blueprints.amazon.com
 creator.amazon.com
 alexa.amazon.com
 skills-store.amazon.com
-read.amazon.com
 a4k.amazon.com
+read.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -1508,8 +1508,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.joinclubhouse.com
-*.clubhouse.com
 *.clubhouseapi.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1655,7 +1655,7 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-dashboard.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1781,8 +1781,8 @@ redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
 old.reddit.com
-api.reddit.com
 *.redditmedia.com
+api.reddit.com
 mod.reddit.com
 gql.reddit.com
 new.reddit.com
@@ -1954,8 +1954,8 @@ internal.netlify.com
 *.infra-prod.nsvcs.net
 netlify-rum.netlify.app
 api.netlify.com
-app.netlify.com
 *.services.netlify.com
+app.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -2805,8 +2805,8 @@ api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
 cruises.priceline.com
-press.priceline.com
 flyiin.com
+press.priceline.com
 www.bookingholdings.com
 www.priceline.com
 secure.rezserver.com
@@ -3064,17 +3064,17 @@ https://github.com/matomo-org/docker
 *.paydiant.com
 paypal.me
 py.pl
+www.swiftfinancial.com
+api.swiftfinancial.com
+api.loanbuilder.com
+swiftfinancial.com
+swiftcapital.com
 *.braintree.tools
 prequal.swiftfinancial.com
 partner.swiftfinancial.com
 decision.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
-www.swiftfinancial.com
-api.swiftfinancial.com
-api.loanbuilder.com
-swiftfinancial.com
-swiftcapital.com
 *.paylution.com
 my.swiftfinancial.com
 *.braintreepayments.com
@@ -3241,8 +3241,8 @@ www.teamfortress.com
 api.steampowered.com
 store.steampowered.com
 steamcommunity.com
-www.counter-strike.net
 www.valvesoftware.com
+www.counter-strike.net
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3394,15 +3394,15 @@ wiki.grab.com
 *.taralite.com
 *.grab.co
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
+grab.careers
+xtramile.grabpay.com
 gifts.grab.com
 *.grab.com
 *.ovo.id
-grab.careers
-xtramile.grabpay.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3774,8 +3774,8 @@ app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
 www.zendesk.com
-h1-your-domain.zendesk.com
 smooch.io
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3787,8 +3787,8 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 http://h1-your-domain.zendesk.com/sell
-yourcompany.udemy.com
 www.udemy.com
+yourcompany.udemy.com
 www.udemy.com
 yourcompany.udemy.com
 *.shopifykloud.com
@@ -3798,12 +3798,12 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
+shop.app
 *.shopify.com
 *.shopify.io
-accounts.shopify.com
-shop.app
 admin.shopify.com
 partners.shopify.com
+accounts.shopify.com
 your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
@@ -4026,8 +4026,8 @@ happy.tools
 my.pressable.com
 simplenote.com
 simperium.com
-gravatar.com
 *.tumblr.com
+gravatar.com
 mailpoet.com
 www.tumblr.com
 akismet.com
@@ -4583,8 +4583,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
