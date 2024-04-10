@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 10 12:34:25 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 10 13:23:39 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -19,10 +19,10 @@ api.dyson.fr
 api.dyson.ie
 www.sa.dyson.com
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
+www.dyson.it
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -302,8 +302,8 @@ cards.remitly.io
 *.dev.remitly.com
 rates.rewire.com
 app.rewire.to
-*.int.remitly.com
 rewire.com
+*.int.remitly.com
 api.remitly.io
 remitly.com
 app3.rewire.to
@@ -323,8 +323,8 @@ bioid-management.app
 *.toolsforhumanity.com
 toolsforhumanity.com
 *.consumer.worldcoin.org
-*.worldcoin.org
 worldcoin.org
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -446,10 +446,10 @@ www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadolibre.com.ar
 api.mercadopago.com
-www.mercadopago.com.br
 www.mercadolivre.com.br
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
+www.mercadopago.com.br
 www.mercadopago.com.ar
 api.mercadolibre.com
 api.mercadopago.com
@@ -706,8 +706,8 @@ visa.com.au
 www.visa.co.nz
 www.cybersource.com
 www.authorize.net
-sandbox.secure.checkout.visa.com
 www.visa.com.br
+sandbox.secure.checkout.visa.com
 developer.authorize.net
 www.cardinalcommerce.com
 aw.visa.com
@@ -787,8 +787,8 @@ yourdomain.myfreshworks.com
 app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
-api.krisha.kz
 m.krisha.kz
+api.krisha.kz
 krisha.kz
 kolesa.kz
 api.kolesa.kz
@@ -820,8 +820,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -910,18 +910,18 @@ wga.volans.tech
 auth2.indrive.tech
 argocd.indrive.dev
 super-services.indriverapp.com
-cargo.indrive.com
-new-order.eu-east-1.indriverapp.com
 ci.indrive.dev
+cargo.indrive.com
 auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
 *.indriver.com
-*.indriverapp.com
 watchdocs.indriverapp.com
+*.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 *.indrive.com
+new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1035,11 +1035,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-platform.8x8pilot.com
-*.chalet.8x8.com
-*.8x8.id
 user-profile.8x8.com
 voapi.8x8.com
+*.8x8.id
+platform.8x8pilot.com
+*.chalet.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1643,8 +1643,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
+api.data.gov
+ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1719,8 +1720,8 @@ www.elastic.co
 *.elasticnet.co
 *.elstc.co
 *.swiftype.com
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1775,12 +1776,12 @@ ads-api.reddit.com
 matrix.redditspace.com
 ads.reddit.com
 mod.reddit.com
-*.reddit.com
 *.snooguts.net
 *.redditinc.com
-accounts.reddit.com
-api.reddit.com
 www.reddit.com
+api.reddit.com
+*.reddit.com
+accounts.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2033,7 +2034,6 @@ shop-id.tokopedia.com
 developers.tiktok.com
 www.pangleglobal.com
 partner.tiktokshop.com
-*.tiktokv.com
 seller-id.tokopedia.com
 creatormarketplace.tiktok.com
 affiliate-id.tokopedia.com
@@ -2041,6 +2041,7 @@ tiktok.com
 ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 careers.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2092,9 +2093,9 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
+3d.cs.money
 support.cs.money
 wiki.cs.money
-3d.cs.money
 blog.cs.money
 cs.money
 cs.money
@@ -2140,7 +2141,6 @@ app.marionnaud.cz
 www.marionnaud.hu
 app.marionnaud.hu
 app.marionnaud.it
-www.marionnaud.it
 www.marionnaud.ro
 app.marionnaud.ro
 app.marionnaud.sk
@@ -2230,8 +2230,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2258,8 +2258,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
@@ -2279,7 +2279,6 @@ api.direct.playstation.com
 ca.account.sony.com
 my.account.sony.com
 open-api.polygon.technology
-wallet.polygon.technology
 bridge-explorer.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
@@ -2288,6 +2287,7 @@ faucet.polygon.technology
 burn.polygon.technology
 portal.polygon.technology
 staking-api.polygon.technology
+wallet.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2519,8 +2519,8 @@ updates.amazon.com
 *.alimama.com
 www.alibabagroup.com
 *.tmall.com
-*.taobao.com
 *.alibaba-inc.com
+*.taobao.com
 *.1688.com
 *.aliyun.com
 *.Daraz.com
@@ -3229,9 +3229,9 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-help.steampowered.com
 www.teamfortress.com
 api.steampowered.com
+help.steampowered.com
 store.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
@@ -3254,11 +3254,11 @@ developer.valvesoftware.com
 *.mona.co
 auth.crypto.com
 www.crypto.com
-tax.crypto.com
 app.mona.co
+tax.crypto.com
+pay.crypto.com
 js.crypto.com
 merchant.crypto.com
-pay.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3393,11 +3393,11 @@ xtramile.grabpay.com
 gifts.grab.com
 grab.careers
 *.grab-sure.com
-*.grabtaxi.com
 wiki.grab.com
+*.grabtaxi.com
 *.ovo.id
-*.grab.com
 *.grab.co
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3454,9 +3454,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
+*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
-*.tospotify.com
 api.spotify.com
 backstage.io
 *.withspotify.com
@@ -3575,8 +3575,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3682,9 +3682,9 @@ design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
 customers.gitlab.com
-docs.gitlab.com
 *.gitlab.net
 gitlab.com
+docs.gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3701,8 +3701,8 @@ api.grofers.com
 *.runnr.in
 blinkit.com
 api2.grofers.com
-*.zomato.com
 *.hyperpure.com
+*.zomato.com
 *.zomans.com
 *.zomato.com
 *.zdev.net
@@ -3772,9 +3772,9 @@ zopim.com
 app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
+www.zendesk.com
 smooch.io
 h1-your-domain.zendesk.com
-www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3798,12 +3798,12 @@ shopifyinbox.com
 *.shopifycloud.com
 *.shopify.io
 your-store.myshopify.com
-partners.shopify.com
 *.shopify.com
 linkpop.com
 shop.app
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3841,7 +3841,6 @@ www.bitmoji.com
 *.sc-corp.net
 ads.snapchat.com
 forum.playcanvas.com
-business.snapchat.com
 kit.snapchat.com
 *.sc-core.net
 playcanvas.com
@@ -3850,6 +3849,7 @@ businesshelp.snapchat.com
 developer.playcanvas.com
 web.snapchat.com
 app.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4071,9 +4071,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 coinbase.com
