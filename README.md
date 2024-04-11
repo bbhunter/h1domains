@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 11 14:20:19 UTC 2024)
+## Domains with Bounties (Last Updated Thu Apr 11 15:22:37 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -307,8 +307,8 @@ rates.rewire.com
 app3.rewire.to
 app.rewire.to
 rewire.com
-remitly.com
 *.int.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -325,8 +325,8 @@ bioid-management.app
 toolsforhumanity.com
 *.consumer.worldcoin.org
 worldcoin.org
-*.worldcoin.org
 getworldcoin.com
+*.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -419,9 +419,9 @@ logo.zyro.com
 www.niagahoster.co.id
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
-api.23andme.com
 research.23andme.com
 blog.23andme.com
+api.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
@@ -449,11 +449,11 @@ www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadopago.cl
 www.mercadopago.com.mx
-api.mercadopago.com
 www.mercadolibre.com.ar
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
+api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -502,8 +502,8 @@ taxi.booking.com
 careers.booking.com
 www.fareharbor.com
 booking.com
-*.rentalcars.com
 *.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -778,8 +778,8 @@ developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -792,8 +792,8 @@ m.kolesa.kz
 api.krisha.kz
 krisha.kz
 m.krisha.kz
-api.kolesa.kz
 kolesa.kz
+api.kolesa.kz
 id.kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -822,8 +822,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-merino.services.mozilla.com
 firefox.settings.services.mozilla.com
+merino.services.mozilla.com
 aus5.mozilla.org
 push.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -834,9 +834,9 @@ monitor.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 phabricator.allizom.org
 support.mozilla.org
-bugzilla.mozilla.org
 www.mozilla.org
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -949,8 +949,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-*.grindr.io
 web.grindr.com
+*.grindr.io
 *.grindr.com
 *.grindr.io
 *.grindr.com
@@ -993,7 +993,6 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-kaupat.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
 api.sokos.fi
@@ -1004,6 +1003,7 @@ www.s-pankki.fi
 www.prisma.fi
 digili.s-cloud.fi
 www.sokos.fi
+www.s-kaupat.fi
 online.s-pankki.fi
 www.s-pankki.fi
 https://crosskey.io/stores/s-pankki/apis
@@ -1036,11 +1036,11 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
-user-profile.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
+user-profile.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.jitsi.net
@@ -1085,8 +1085,8 @@ admin.8x8.com
 *.superbet.pl
 *.luckydays.com
 *.superbet.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1155,9 +1155,7 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.cheaptickets.com
 *.expediacruises.com
-www.expedia.com
 *.wotif.com
-*.hotwire.com
 *.travelocity.com
 www.hotels.com
 www.hotwirepartnercentral.com
@@ -1165,6 +1163,8 @@ www.hotwirepartnercentral.com
 *.vrbo.com
 www.ebookers.com
 *.lastminute.com.au
+www.expedia.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1229,8 +1229,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 test.deribit.com
-insights.deribit.com
 *.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1343,9 +1343,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1769,11 +1769,10 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
 *.redditmedia.com
 gql.reddit.com
-ads-api.reddit.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 ads.reddit.com
@@ -1784,6 +1783,7 @@ api.reddit.com
 accounts.reddit.com
 *.redditinc.com
 www.reddit.com
+ads-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1840,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1984,10 +1984,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2033,7 +2033,6 @@ www.pangleglobal.com
 partner.tiktokshop.com
 seller-id.tokopedia.com
 careers.tiktok.com
-*.tiktokv.com
 affiliate-id.tokopedia.com
 academy-outbound-ads.tiktok.com
 tiktok.com
@@ -2043,6 +2042,7 @@ ads.tiktok.com
 creatormarketplace.tiktok.com
 *.tiktok.com
 business.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2283,11 +2283,11 @@ bridge-explorer.polygon.technology
 bridge-api.matic.network
 watchgod.polygon.technology
 mapper.polygon.technology
-portal.polygon.technology
-faucet.polygon.technology
 burn.polygon.technology
 staking-api.polygon.technology
 wallet.polygon.technology
+portal.polygon.technology
+faucet.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2517,14 +2517,14 @@ updates.amazon.com
 *.alibabacloud.com
 www.alibabagroup.com
 *.tmall.com
-*.alibaba-inc.com
 *.taobao.com
+*.alibaba-inc.com
 *.1688.com
-*.aliyun.com
+*.aliexpress.com
 *.alibaba.com
 *.Daraz.com
-*.aliexpress.com
 *.alimama.com
+*.aliyun.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2567,8 +2567,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-*.bingo.com
 www.32red.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2984,27 +2984,27 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 com.fanduel.android.live
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+4njbets.us.betfair.com
 mobile-prod.tvg.com
+m.4njbets.tvg.com
 pabets.tvg.com
+login.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
-m.4njbets.tvg.com
-login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 us.tvg.com
@@ -3067,10 +3067,10 @@ py.pl
 *.xoom.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3230,9 +3230,9 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
+help.steampowered.com
 www.teamfortress.com
 api.steampowered.com
-help.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
 www.dota2.com
@@ -3386,12 +3386,12 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 wiki.grab.com
@@ -3455,9 +3455,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3576,8 +3576,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3805,14 +3805,14 @@ shopify.plus
 arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
-*.shopify.io
 linkpop.com
 partners.shopify.com
 shop.app
 accounts.shopify.com
-*.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+*.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
