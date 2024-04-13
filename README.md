@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 13 03:18:56 UTC 2024)
+## Domains with Bounties (Last Updated Sat Apr 13 04:22:45 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -306,8 +306,8 @@ api.remitly.io
 app3.rewire.to
 *.int.remitly.com
 rates.rewire.com
-rewire.com
 app.rewire.to
+rewire.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -489,14 +489,14 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 admin.booking.com
 flights.booking.com
+secure.booking.com
 account.booking.com
 indicative-pricing.taxi.booking.com
-secure.booking.com
 taxi.booking.com
 careers.booking.com
 www.fareharbor.com
@@ -790,8 +790,8 @@ app.kolesa.kz
 app.krisha.kz
 m.kolesa.kz
 krisha.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 api.krisha.kz
 m.krisha.kz
@@ -822,8 +822,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.luckydays.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1144,8 +1144,8 @@ www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
 *.lastminute.co.nz
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1156,15 +1156,15 @@ www.expediapartnersolutions.com
 *.expediacruises.com
 *.wotif.com
 *.travelocity.com
-*.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
+*.expediapartnercentral.com
 *.vrbo.com
 www.ebookers.com
 *.lastminute.com.au
+www.expedia.com
 *.hotwire.com
 *.cheaptickets.com
-www.expedia.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1270,8 +1270,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershop.io/*
 *.cornershopapp.com/*
+*.cornershop.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1779,8 +1779,8 @@ mod.reddit.com
 api.reddit.com
 *.redditinc.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 www.reddit.com
 *.reddit.com
 accounts.reddit.com
@@ -1840,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2093,8 +2093,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-support.cs.money
 3d.cs.money
+support.cs.money
 blog.cs.money
 wiki.cs.money
 cs.money
@@ -2286,8 +2286,8 @@ mapper.polygon.technology
 burn.polygon.technology
 staking-api.polygon.technology
 wallet.polygon.technology
-faucet.polygon.technology
 portal.polygon.technology
+faucet.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -3003,10 +3003,10 @@ www.tvg.com
 fanduel.com
 *.canada.fanduel.com
 fdbox.net
-*.numberfire.com
 tvg.com
 us.tvg.com
 ia.tvg.com
+*.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
 *.prod.fdbox.net
@@ -3055,20 +3055,20 @@ py.pl
 *.hyperwallet.com
 *.venmo.com
 *.xoom.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 my.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 *.braintree-api.com
 paypalobjects.com
 sandbox.braintreegateway.com
@@ -3249,9 +3249,9 @@ js.crypto.com
 www.crypto.com
 pay.crypto.com
 app.mona.co
-*.crypto.com
 merchant.crypto.com
 auth.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3795,14 +3795,14 @@ arrive-server.shopifycloud.com
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-your-store.myshopify.com
-*.shopify.com
 accounts.shopify.com
 shop.app
 admin.shopify.com
+your-store.myshopify.com
+*.shopify.com
+*.shopifycs.com
 *.shopify.io
 *.shopifykloud.com
-*.shopifycs.com
 partners.shopify.com
 *.shopifycs.com
 *.shopify.io
