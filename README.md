@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 14 04:45:27 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 14 06:03:09 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -18,11 +18,11 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 shop.dyson.ru
+www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
-www.dyson.de
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -426,8 +426,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 medical.23andme.com
-api.23andme.com
 you.23andme.com
+api.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -493,8 +493,8 @@ teleport.fareharbor.engineering
 paymentcomponent.booking.com
 spark.fareharbor.com
 flights.booking.com
-account.booking.com
 secure.booking.com
+account.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 careers.booking.com
@@ -642,8 +642,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
-10x.redoxengine.com
 www.redoxengine.com
+10x.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -820,8 +820,8 @@ lando.services.mozilla.com
 contile.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
-firefox.settings.services.mozilla.com
 merino.services.mozilla.com
+firefox.settings.services.mozilla.com
 aus5.mozilla.org
 firefox-ci-tc.services.mozilla.com
 addons.allizom.org
@@ -916,8 +916,8 @@ auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
-truck-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
+truck-api.eu-east-1.indriverapp.com
 *.indriver.com
 watchdocs.indriverapp.com
 wga.volans.tech
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1017,11 +1017,11 @@ www.sokos.fi
 api.sokos.fi
 cfapi.voikukka.fi
 jobs.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
 auth.skypicker.com
 www.kiwi.com
 *.kiwi.com
+*.skypicker.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1039,8 +1039,8 @@ work-staging.8x8.com
 platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
-voapi.8x8.com
 user-profile.8x8.com
+voapi.8x8.com
 cloud8.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1154,16 +1154,16 @@ www.flights.com
 www.expediapartnersolutions.com
 *.carrentals.com
 *.expediacruises.com
-*.wotif.com
 *.travelocity.com
+*.wotif.com
 *.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
 *.vrbo.com
 www.ebookers.com
 *.lastminute.com.au
-*.hotwire.com
 *.cheaptickets.com
+*.hotwire.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1270,8 +1270,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.cornershop.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1645,9 +1645,10 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
+ssh.fr.cloud.gov
+cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -2030,8 +2031,8 @@ developers.tiktok.com
 www.pangleglobal.com
 careers.tiktok.com
 academy-outbound-ads.tiktok.com
-live-backstage.tiktok.com
 effecthouse.tiktok.com
+live-backstage.tiktok.com
 affiliate-id.tokopedia.com
 tiktok.com
 business.tiktok.com
@@ -2230,8 +2231,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2258,14 +2259,14 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
 ca.account.sony.com
-*.sonyentertainmentnetwork.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2568,8 +2569,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-*.bingo.com
 www.32red.com
+*.bingo.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2710,9 +2711,9 @@ neoket.net
 novel.pixiv.net
 coban.pixiv.net
 sketch.pixiv.net
-booth.pm
 accounts.pixiv.net
 www.pixiv.net
+booth.pm
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2975,26 +2976,26 @@ grammarly.ai
 grammarly.ai
 *.east.fdbox.net
 *.mgmt.fndlsb.net
-*.prd.fndlsb.net
 *.prod.fdbox.net
+*.prd.fndlsb.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
+4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-4njbets.us.betfair.com
-mobile-prod.tvg.com
-m.4njbets.tvg.com
-pabets.tvg.com
-login.tvg.com
-www.4njbets.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
+m.4njbets.tvg.com
+login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
 sportsbook.fanduel.com
@@ -3002,10 +3003,10 @@ com.fanduel.android.live
 www.tvg.com
 fanduel.com
 *.canada.fanduel.com
-fdbox.net
 tvg.com
 us.tvg.com
 ia.tvg.com
+fdbox.net
 *.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
@@ -3286,8 +3287,8 @@ plaid.com
 api.blockscore.com
 manage.blockscore.com
 app.quovo.com
-my.plaid.com
 dashboard.plaid.com
+my.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3386,9 +3387,9 @@ gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
-*.grab.co
 *.grabtaxi.com
 *.grab.com
+*.grab.co
 wiki.grab.com
 *.myteksi.com
 *.myteksi.net
@@ -3446,9 +3447,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
-*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
+*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3567,8 +3568,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.com
@@ -3607,8 +3608,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3991,8 +3992,8 @@ api.x.ai
 ide.x.ai
 grok.x.ai
 *.twimg.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4148,9 +4149,9 @@ a5s.hackerone-ext-content.com
 profile-photos.hackerone-user-content.com
 app.pullrequest.com
 api.hackerone.com
-hackerone.com
 www.hackerone.com
 ctf.hacker101.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4355,8 +4356,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 magento.com
 marketplace.magento.com
 magentocommerce.com
