@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 14 06:03:09 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 14 08:03:09 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -307,8 +307,8 @@ app3.rewire.to
 *.int.remitly.com
 rewire.com
 app.rewire.to
-remitly.com
 rates.rewire.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -322,11 +322,11 @@ app3.rewire.to
 *.worldcoin.dev
 *.toolsforhumanity.com
 toolsforhumanity.com
-*.consumer.worldcoin.org
 getworldcoin.com
 bioid-management.app
-worldcoin.org
 *.worldcoin.org
+*.consumer.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -501,9 +501,9 @@ careers.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 *.rentalcars.com
-admin.booking.com
-*.booking.com
 booking.com
+*.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -694,12 +694,12 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
+www.practicalmoneyskills.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-www.practicalmoneyskills.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 visa.com.au
@@ -916,14 +916,14 @@ auth.indrive.tech
 injob.indriver.com
 ab-platform-api.eu-east-1.indriverapp.com
 volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 *.indriver.com
 watchdocs.indriverapp.com
 wga.volans.tech
 cargo.indrive.com
-*.indriverapp.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1084,8 +1084,8 @@ admin.8x8.com
 *.luckydays.ca
 *.superbet.pl
 *.luckydays.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.superbet.com
 *.superbet.ro
 *.superbet.rs
@@ -1146,9 +1146,9 @@ www.expediaagents.com
 *.lastminute.co.nz
 www.fewo-direkt.de
 www.stayz.com.au
+www.expediagroup.com
 www.bookabach.co.nz
 www.abritel.fr
-www.expediagroup.com
 www.flights.com
 *.travelocity.ca
 www.expediapartnersolutions.com
@@ -1648,7 +1648,6 @@ federalist-docs.18f.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1841,8 +1840,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1985,10 +1984,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-citrix.cloud.com
+adm.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-adm.cloud.com
+citrix.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2029,12 +2028,11 @@ shop.tiktok.com
 pay.tokopediax.com
 developers.tiktok.com
 www.pangleglobal.com
-careers.tiktok.com
 academy-outbound-ads.tiktok.com
 effecthouse.tiktok.com
 live-backstage.tiktok.com
+careers.tiktok.com
 affiliate-id.tokopedia.com
-tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
 partner.tiktokshop.com
@@ -2044,6 +2042,7 @@ seller-id.tokopedia.com
 ads.tiktok.com
 shop-id.tokopedia.com
 *.tiktokv.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2231,8 +2230,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-updater.clario.co
 account.mackeeper.com
+updater.clario.co
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2259,14 +2258,14 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
 *.api.playstation.com
 store.playstation.com
 ca.account.sony.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2569,8 +2568,8 @@ maria.casino
 *.mariacasino.com
 *.kes.kindredext.net
 *.unibet.com
-www.32red.com
 *.bingo.com
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2802,7 +2801,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-www.priceline.com
+www.getaroom.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3053,20 +3052,20 @@ py.pl
 *.braintree.tools
 *.paylution.com
 *.hyperwallet.com
-my.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+api.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
 *.braintree-api.com
 paypalobjects.com
 *.braintreegateway.com
@@ -3074,9 +3073,9 @@ loanbuilder.com
 sandbox.braintreegateway.com
 *.paypalcorp.com
 *.paypal.com
-*.venmo.com
 *.braintreepayments.com
 *.xoom.com
+*.venmo.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3222,8 +3221,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
 www.dota2.com
@@ -3287,8 +3286,8 @@ plaid.com
 api.blockscore.com
 manage.blockscore.com
 app.quovo.com
-dashboard.plaid.com
 my.plaid.com
+dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3337,9 +3336,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3378,12 +3377,12 @@ manage.grab.co
 *.myteksi.net
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
@@ -3447,9 +3446,9 @@ getofficial.co
 *.avecspotify.com
 *.atspotify.com
 *.enspotify.com
+*.tospotify.com
 *.fromspotify.com
 *.forspotify.com
-*.tospotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3608,8 +3607,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3774,8 +3773,8 @@ app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
 smooch.io
-www.zendesk.com
 h1-your-domain.zendesk.com
+www.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4072,9 +4071,9 @@ pro.coinbase.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
 nft.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 cloud.coinbase.com
@@ -4356,8 +4355,8 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 account.magento.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 marketplace.magento.com
 magentocommerce.com
