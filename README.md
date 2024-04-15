@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 14 22:11:03 UTC 2024)
+## Domains with Bounties (Last Updated Mon Apr 15 00:09:08 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -18,11 +18,11 @@ api.dyson.ch
 api.dyson.fr
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 api.fi.dyson.com
 www.dyson.co.th
 www.dyson.it
+www.dyson.de
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -321,12 +321,12 @@ app3.rewire.to
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.toolsforhumanity.com
-toolsforhumanity.com
 getworldcoin.com
 bioid-management.app
 *.worldcoin.org
 worldcoin.org
 *.consumer.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -405,8 +405,8 @@ logo.zyro.com
 www.zyro.com
 *.000webhost.com
 backend.zyro.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 *.000webhost.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -445,8 +445,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadolibre.com
@@ -489,21 +489,21 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
-secure.booking.com
 taxi.booking.com
 careers.booking.com
 www.fareharbor.com
 widget.rentalcars.com
 *.rentalcars.com
-booking.com
 admin.booking.com
+booking.com
 account.booking.com
 *.booking.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -833,9 +833,9 @@ accounts.firefox.com
 support.mozilla.org
 bugzilla.mozilla.org
 push.services.mozilla.com
-community-tc.services.mozilla.com
 shavar.services.mozilla.com
 www.mozilla.org
+community-tc.services.mozilla.com
 developer.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -1155,7 +1155,6 @@ www.expediapartnersolutions.com
 *.carrentals.com
 *.expediacruises.com
 *.travelocity.com
-*.wotif.com
 *.expediapartnercentral.com
 www.hotels.com
 www.hotwirepartnercentral.com
@@ -1165,6 +1164,7 @@ www.ebookers.com
 *.cheaptickets.com
 www.expedia.com
 *.hotwire.com
+*.wotif.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1270,8 +1270,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershopapp.com/*
 *.cornershop.io/*
+*.cornershopapp.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1397,9 +1397,9 @@ wallet.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
-bullsheet.me
 www.etoro.com
 etoropartners.com
+bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -2985,15 +2985,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3001,10 +3001,10 @@ com.fanduel.android.live
 www.tvg.com
 fanduel.com
 *.canada.fanduel.com
+fdbox.net
 tvg.com
 us.tvg.com
 ia.tvg.com
-fdbox.net
 *.numberfire.com
 sportsbook.fanduel.com
 *racing.fanduel.com
@@ -3221,8 +3221,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.counter-strike.net
 partner.steamgames.com
 www.dota2.com
@@ -3443,12 +3443,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
-*.fromspotify.com
 *.tospotify.com
+*.fromspotify.com
+*.forspotify.com
 backstage.io
 *.byspotify.com
 assets.spotify.com
@@ -3607,8 +3607,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3797,9 +3797,9 @@ shopifyinbox.com
 linkpop.com
 accounts.shopify.com
 shop.app
+*.shopify.io
 *.shopifykloud.com
 *.shopifycs.com
-*.shopify.io
 partners.shopify.com
 *.shopify.com
 your-store.myshopify.com
@@ -3847,9 +3847,9 @@ developer.playcanvas.com
 business.snapchat.com
 *.sc-corp.net
 web.snapchat.com
+accounts.snapchat.com
 app.snapchat.com
 rt.playcanvas.com
-accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
