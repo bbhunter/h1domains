@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 16 01:13:35 UTC 2024)
+## Domains with Bounties (Last Updated Tue Apr 16 02:28:38 UTC 2024)
 ```
 www.dyson.pt
 www.dyson.no
@@ -324,9 +324,9 @@ app3.rewire.to
 getworldcoin.com
 bioid-management.app
 *.worldcoin.org
-worldcoin.org
 *.consumer.worldcoin.org
 toolsforhumanity.com
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -426,8 +426,8 @@ mediacenter.23andme.com
 therapeutics.23andme.com
 auth.23andme.com
 api.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -787,8 +787,8 @@ yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 api.krisha.kz
 m.krisha.kz
@@ -817,13 +817,13 @@ profiler.firefox.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
-mozilla-pontoon-staging.herokuapp.com
 crash-stats.allizom.org
+mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 firefox.settings.services.mozilla.com
-aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
+aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 push.services.mozilla.com
@@ -950,8 +950,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
 *.grindr.io
-*.grindr.com
 web.grindr.com
+*.grindr.com
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
@@ -1271,8 +1271,8 @@ checksw.com
 royal.checksw.com
 *.superpal.io/*
 *.superpal.com/*
-*.cornershop.io/*
 *.cornershopapp.com/*
+*.cornershop.io/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1316,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1399,8 +1399,8 @@ watchlistapi.etoro.com
 rankings.etoro.com
 delta.app
 etoropartners.com
-www.etoro.com
 bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1646,9 +1646,9 @@ marketplace.fedramp.gov
 *.search.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
-ssh.fr.cloud.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1782,8 +1782,8 @@ oauth.reddit.com
 ads.reddit.com
 *.reddit.com
 *.redditinc.com
-www.reddit.com
 accounts.reddit.com
+www.reddit.com
 *.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
@@ -1841,8 +1841,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -1985,10 +1985,10 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
+citrix.cloud.com
 secure.sharefile.eu
 api.sharefile.com
-citrix.cloud.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2038,12 +2038,12 @@ business.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktok.com
 careers.tiktok.com
-tiktok.com
 developers.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
 seller-id.tokopedia.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2094,8 +2094,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-3d.cs.money
 support.cs.money
+3d.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2231,8 +2231,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2378,7 +2378,6 @@ chat.amazon.com
 track.amazon.com
 manufacturing.amazon.com
 aca-livecards-service.amazon.com
-address-photos.amazon.com
 ads-setu-proxy.amazon.com
 cloudaccesstelemetry-us-east-1.amazon.com
 dolphin.amazon.com
@@ -2414,6 +2413,7 @@ kca.amazon.com
 kwis-opf.amazon.com
 mag-na.amazon.com
 merch.amazon.com
+mlis.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2802,7 +2802,7 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -3053,10 +3053,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-my.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+my.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3066,17 +3066,17 @@ www.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
 paypalobjects.com
-*.venmo.com
 *.xoom.com
 *.braintreegateway.com
+*.venmo.com
 sandbox.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
 *.hyperwallet.com
 *.paypal.com
-*.braintree-api.com
 py.pl
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3249,9 +3249,9 @@ js.crypto.com
 pay.crypto.com
 app.mona.co
 tax.crypto.com
+auth.crypto.com
 merchant.crypto.com
 *.crypto.com
-auth.crypto.com
 www.crypto.com
 *.crypto.com
 *.mona.co
@@ -3377,17 +3377,17 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
+*.grabpay.com
 kartaview.org
 *.myteksi.com
-*.grabpay.com
 jira.grab.com
-gifts.grab.com
 xtramile.grabpay.com
+gifts.grab.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
-*.grabtaxi.com
 *.grab.co
+*.grabtaxi.com
 wiki.grab.com
 *.myteksi.net
 *.grab.com
@@ -3444,11 +3444,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 backstage.io
 *.byspotify.com
@@ -3568,8 +3568,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3769,10 +3769,10 @@ accounts.shopify.com
 shop.app
 linkpop.com
 partners.shopify.com
-arrive-server.shopifycloud.com
 *.shopifykloud.com
-*.shopify.io
 *.shopifycs.com
+arrive-server.shopifycloud.com
+*.shopify.io
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -4048,9 +4048,9 @@ api.coinbase.com
 coinbase.com
 commerce.coinbase.com
 nft.coinbase.com
+pro.coinbase.com
 *.coinbase.com
 cloud.coinbase.com
-pro.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4325,8 +4325,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4572,8 +4572,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-interseller.io
 www.greenhouse.io
+interseller.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
