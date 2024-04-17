@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 16:27:53 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 17:20:59 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -425,8 +425,8 @@ blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 medical.23andme.com
+you.23andme.com
 auth.23andme.com
 api.23andme.com
 api.23andme.com
@@ -450,11 +450,11 @@ www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadolibre.cl
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadopago.com.br
 api.mercadopago.com
+www.mercadopago.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -488,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -703,11 +703,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -720,7 +720,7 @@ www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
 www.tink.com
-usa.visa.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -785,8 +785,8 @@ developer.cybersource.com
 sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
-yourdomain.freshdesk.com
 yourdomain.freshcaller.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
@@ -821,16 +821,15 @@ api.tideplatform.in
 api.tideplatform.in
 api.profiler.firefox.com
 vpn.mozilla.org
-relay.firefox.com
 profiler.firefox.com
 crash-reports.allizom.org
 lando.services.mozilla.com
 contile.services.mozilla.com
 crash-stats.allizom.org
 merino.services.mozilla.com
+aus5.mozilla.org
 addons.allizom.org
 sync.services.mozilla.com
-aus5.mozilla.org
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
@@ -846,6 +845,7 @@ firefox.settings.services.mozilla.com
 community-tc.services.mozilla.com
 phabricator.allizom.org
 firefox-ci-tc.services.mozilla.com
+relay.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -920,8 +920,8 @@ auth2.indrive.tech
 argocd.indrive.dev
 auth.indrive.tech
 volans.tech
-new-order.eu-east-1.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 watchdocs.indriverapp.com
 wga.volans.tech
 ci.indrive.dev
@@ -931,8 +931,8 @@ cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriverapp.com
 super-services.indriverapp.com
-*.indrive.com
 file-storage-front.eu-east-1.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1045,10 +1045,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1057,8 +1057,8 @@ sso.8x8pilot.com
 admin.8x8.com
 *.wavecell.com
 *.jit.si
-*.packet8.net
 sso.8x8.com
+*.packet8.net
 user-profile.8x8.com
 *.8x8.vc
 *.jit.si
@@ -1092,8 +1092,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.superbet.rs
+*.superbet.ro
 *.luckydays.ca
 *.superbet.com
 *.superbet.pl
@@ -1172,8 +1172,8 @@ www.ebookers.com
 *.travelocity.com
 *.wotif.com
 www.hotels.com
-www.expedia.com
 *.expediapartnercentral.com
+www.expedia.com
 *.hotwire.com
 *.vrbo.com
 *.vrbo.com
@@ -1354,9 +1354,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1855,8 +1855,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2046,18 +2046,18 @@ shop-id.tokopedia.com
 effecthouse.tiktok.com
 academy-outbound-ads.tiktok.com
 careers.tiktok.com
-www.pangleglobal.com
 seller-id.tokopedia.com
-live-backstage.tiktok.com
 developers.tiktok.com
 *.tiktokv.com
 business.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
-ads.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
+www.pangleglobal.com
 tiktok.com
+ads.tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2245,8 +2245,8 @@ api.account.clario.co
 kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
-account.mackeeper.com
 updater.clario.co
+account.mackeeper.com
 mackeeper.com
 clario.co
 account.mackeeper.com
@@ -2273,8 +2273,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 my.account.sony.com
 store.playstation.com
 *.playstation.net
@@ -2396,14 +2396,14 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
+*.amazon.com.tr
 *.amazon.de
 *.amazon.es
-*.amazon.com.tr
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
-*.amazon.com.co
 *.amazon.eg
+*.amazon.com.co
 *.amazon.ae
 *.amazon.ca
 *.amazon.com.mx
@@ -2411,9 +2411,9 @@ itv7.itv.com
 *.amazon.co.jp
 *.amazon.co.uk
 *.amazon.cn
-*.amazon.com
 *.amazon.fr
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3147,8 +3147,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 steamcommunity.com
@@ -3211,9 +3211,9 @@ secure.plaid.com
 plaid.com
 api.blockscore.com
 manage.blockscore.com
+dashboard.plaid.com
 app.quovo.com
 my.plaid.com
-dashboard.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3262,9 +3262,9 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 ext-gw.lahitapiola.fi
-www.lahitapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
+www.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3493,8 +3493,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3502,8 +3502,8 @@ app.starbucks.com
 www.starbucks.fr
 www.starbucks.ca
 www.starbucks.com
-www.starbucks.co.kr
 www.starbucks.com.cn
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3533,8 +3533,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -4001,8 +4001,8 @@ www.quip.com
 slack-imgs.com
 status.slack.com
 slack.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4248,8 +4248,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 account.magento.com
 marketplace.magento.com
@@ -4495,8 +4495,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
