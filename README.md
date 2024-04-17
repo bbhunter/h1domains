@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 17 09:23:02 UTC 2024)
+## Domains with Bounties (Last Updated Wed Apr 17 10:23:02 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -16,7 +16,6 @@ api.dyson.de
 api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
-www.dyson.my
 www.dyson.fr
 www.dyson.co.th
 www.dyson.it
@@ -24,6 +23,7 @@ www.dyson.de
 www.dyson.cz
 www.dyson.nl
 www.dyson.hu
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -307,9 +307,9 @@ app3.rewire.to
 rates.rewire.com
 *.int.remitly.com
 remitly.com
-rewire.com
 cards.remitly.io
 app.rewire.to
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -425,8 +425,8 @@ blog.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 therapeutics.23andme.com
-medical.23andme.com
 you.23andme.com
+medical.23andme.com
 auth.23andme.com
 api.23andme.com
 api.23andme.com
@@ -446,8 +446,8 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadolibre.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
@@ -477,7 +477,6 @@ supplier.auth.toag.booking.com
 metasearch-api.booking.com
 experiences.booking.com
 webhooks.booking.com
-taxis.booking.com
 paybridge.booking.com
 phone-validation.taxi.booking.com
 autocomplete.booking.com
@@ -489,9 +488,9 @@ portal.taxi.booking.com
 secure-supply-xml.booking.com
 cars.booking.com
 kyc-onboarding.booking.com
+spark.fareharbor.com
 teleport.fareharbor.engineering
 paymentcomponent.booking.com
-spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -502,13 +501,14 @@ account.booking.com
 www.fareharbor.com
 secure.booking.com
 chat.booking.com
-sites.fareharbor.com
 marketing.fareharbor.com
+sites.fareharbor.com
 readonly.fareharbor.com
 *.booking.com
-admin.booking.com
 booking.com
 demo.fareharbor.com
+taxis.booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -719,8 +719,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.tink.com
 www.yellowpepper.com
+www.tink.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -788,16 +788,16 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
-yourdomain.freshservice.com
 yourdomain.freshchat.com
+yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
 yourdomain.myfreshworks.com
 app.kolesa.kz
-kolesa.kz
 api.kolesa.kz
+kolesa.kz
 id.kolesa.kz
 m.krisha.kz
 app.krisha.kz
@@ -834,8 +834,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 shavar.services.mozilla.com
-monitor.mozilla.org
 bugzilla.mozilla.org
+monitor.mozilla.org
 firefox-ci-tc.services.mozilla.com
 accounts.firefox.com
 push.services.mozilla.com
@@ -903,8 +903,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
 *.okcoin.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1051,15 +1051,15 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
 *.jit.si
 *.packet8.net
-*.jitsi.net
 sso.8x8.com
+user-profile.8x8.com
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1092,8 +1092,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.magicjackpot.ro
 *.luckydays.ca
 *.superbet.pl
@@ -1326,9 +1326,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
-www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
+www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1783,16 +1783,16 @@ sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
 www.spiketrap.io
-new.reddit.com
 old.reddit.com
+new.reddit.com
 *.reddithelp.com
 matrix.redditspace.com
 mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 *.redditinc.com
 accounts.reddit.com
 www.reddit.com
@@ -2049,7 +2049,6 @@ partner.tiktokshop.com
 careers.tiktok.com
 www.pangleglobal.com
 seller-id.tokopedia.com
-*.tiktok.com
 live-backstage.tiktok.com
 developers.tiktok.com
 tiktok.com
@@ -2058,6 +2057,7 @@ ads.tiktok.com
 fp-sg.tiktokv.com
 creatormarketplace.tiktok.com
 business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2273,8 +2273,8 @@ direct.playstation.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-my.playstation.com
 transact.playstation.com
+my.playstation.com
 my.account.sony.com
 store.playstation.com
 *.playstation.net
@@ -2452,8 +2452,8 @@ www.amazon.*
 *.aliyun.com
 *.alibabacloud.com
 www.alibabagroup.com
-*.alibaba-inc.com
 *.alibaba.com
+*.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -3149,14 +3149,14 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 steamcommunity.com
+store.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
-store.steampowered.com
 www.counter-strike.net
 www.dota2.com
 support.steampowered.com
@@ -3304,20 +3304,20 @@ gamma.grab.co
 manage.grab.co
 *.taralite.com
 api.grabpay.com
-*.grabpay.com
 kartaview.org
 *.myteksi.com
+*.grabpay.com
 jira.grab.com
-xtramile.grabpay.com
 gifts.grab.com
+xtramile.grabpay.com
 grab.careers
 *.grab-sure.com
 *.ovo.id
 *.grab.co
 *.myteksi.net
-*.grab.com
 wiki.grab.com
 *.grabtaxi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3377,11 +3377,11 @@ getofficial.co
 *.forspotify.com
 *.fromspotify.com
 *.tospotify.com
-backstage.io
-assets.spotify.com
 *.withspotify.com
 api.spotify.com
 *.byspotify.com
+assets.spotify.com
+backstage.io
 *.withspotify.com
 *.byspotify.com
 *.atspotify.com
@@ -3495,8 +3495,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3597,7 +3597,6 @@ https://docs.mapbox.com/api/
 api.mapbox.com
 registry.gitlab.com
 *.gitlab.org
-*.gitlap.com
 design.gitlab.com
 advisories.gitlab.com
 about.gitlab.com
@@ -3605,6 +3604,7 @@ customers.gitlab.com
 *.gitlab.net
 docs.gitlab.com
 gitlab.com
+*.gitlap.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3671,8 +3671,8 @@ app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
 smooch.io
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -4003,8 +4003,8 @@ www.quip.com
 slack-imgs.com
 status.slack.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 status.slack.com
@@ -4497,8 +4497,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
