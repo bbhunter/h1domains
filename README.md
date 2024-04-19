@@ -2,9 +2,8 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 06:26:29 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 07:20:39 UTC 2024)
 ```
-www.dyson.no
 www.fi.dyson.com
 api.dyson.se
 api.dyson.dk
@@ -24,6 +23,7 @@ www.dyson.cz
 www.dyson.nl
 www.dyson.hu
 shop.dyson.co.za
+www.dyson.at
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -325,9 +325,9 @@ app3.rewire.to
 getworldcoin.com
 bioid-management.app
 *.consumer.worldcoin.org
-worldcoin.org
 toolsforhumanity.com
 *.worldcoin.org
+worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -436,12 +436,12 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolibre.cl
@@ -491,8 +491,8 @@ www.fareharbor.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
 *.rentalcars.com
@@ -693,11 +693,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -710,7 +710,7 @@ www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
 www.tink.com
-usa.visa.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -776,8 +776,8 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
@@ -833,9 +833,9 @@ firefox.settings.services.mozilla.com
 phabricator.allizom.org
 www.mozilla.org
 firefox-ci-tc.services.mozilla.com
-community-tc.services.mozilla.com
 relay.firefox.com
 accounts.firefox.com
+community-tc.services.mozilla.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -921,8 +921,8 @@ super-services.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 *.indrive.com
 *.indriver.com
-ci.indrive.dev
 *.indriverapp.com
+ci.indrive.dev
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -962,8 +962,8 @@ skinport.com
 app.skinport.com
 api.skinport.com
 http://skinport.com/blog/
-api.miro.com
 miro.com
+api.miro.com
 http://miro.com/app
 miro.com
 api.miro.com
@@ -1035,10 +1035,10 @@ pay.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1143,8 +1143,8 @@ www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-www.stayz.com.au
 www.fewo-direkt.de
+www.stayz.com.au
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1159,10 +1159,10 @@ www.ebookers.com
 *.wotif.com
 www.hotels.com
 *.vrbo.com
-*.expediacruises.com
-www.expediataap.com
 www.expedia.com
 *.lastminute.com.au
+*.expediacruises.com
+www.expediataap.com
 *.hotwire.com
 *.expediapartnercentral.com
 *.lastminute.co.nz
@@ -1215,8 +1215,8 @@ cloud.gravitational.io
 askpam.ai
 *.teleportinfra.sh
 platform.teleport.sh
-h1-your-domain.teleport.sh
 *.goteleport.com
+h1-your-domain.teleport.sh
 *.goteleport.com
 *.gravitational.com
 *.teleport.dev
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1726,8 +1726,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elastic.co
 *.swiftype.com
-cloud.elastic.co
 *.elasticnet.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1784,12 +1784,12 @@ ads-api.reddit.com
 gql.reddit.com
 oauth.reddit.com
 accounts.reddit.com
-*.redditmedia.com
 ads.reddit.com
 *.redditinc.com
 www.reddit.com
 *.reddit.com
 new.reddit.com
+*.redditmedia.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2040,7 +2040,6 @@ careers.tiktok.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
-ads.tiktok.com
 seller-id.tokopedia.com
 www.pangleglobal.com
 tiktok.com
@@ -2049,6 +2048,7 @@ partner.tiktokshop.com
 business.tiktok.com
 *.tiktok.com
 creatormarketplace.tiktok.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2262,8 +2262,8 @@ mackeeper.com
 api.direct.playstation.com
 social.playstation.com
 wallets.api.playstation.com
-transact.playstation.com
 my.playstation.com
+transact.playstation.com
 store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2486,8 +2486,8 @@ maria.casino
 *.kes.kindredext.net
 *.bingo.com
 *.unibet.com
-www.32red.com
 *.unibet.fr
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2570,8 +2570,8 @@ www.goodrx.com
 *.ra.roblox.com
 api.localizestaging.com
 cdn.localizestaging.com
-localizestaging.com
 app.localizestaging.com
+localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -2588,8 +2588,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
@@ -2991,8 +2991,8 @@ sandbox.braintreegateway.com
 py.pl
 paypalobjects.com
 *.braintree-api.com
-*.paypal.com
 *.xoom.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3030,9 +3030,9 @@ m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
 *.mmcdn.com
-*.cb.dev
 *.mmwebc.dev
 chaturbate.com
+*.cb.dev
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3142,9 +3142,9 @@ help.steampowered.com
 api.steampowered.com
 www.dota2.com
 partner.steamgames.com
-store.steampowered.com
 www.valvesoftware.com
 www.teamfortress.com
+store.steampowered.com
 www.counter-strike.net
 steamcommunity.com
 www.dota2.com
@@ -3360,11 +3360,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 *.withspotify.com
 api.spotify.com
@@ -3484,17 +3484,17 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
 app.starbucks.com
 www.starbucks.ca
 www.starbucks.fr
-www.starbucks.com.cn
 www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com.cn
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3524,8 +3524,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3608,8 +3608,8 @@ api.grofers.com
 api2.grofers.com
 *.zdev.net
 *.runnr.in
-blinkit.com
 winecellar.zomato.com
+blinkit.com
 *.hyperpure.com
 *.zomans.com
 *.zomato.com
@@ -3681,16 +3681,16 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-*.shopifycs.com
 *.shopifykloud.com
+*.shopifycs.com
 arrive-server.shopifycloud.com
-accounts.shopify.com
 shop.app
 *.shopify.com
 your-store.myshopify.com
 *.shopify.io
 partners.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3735,8 +3735,8 @@ web.snapchat.com
 store.playcanvas.com
 app.snapchat.com
 *.sc-core.net
-accounts.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4037,8 +4037,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.hackerone.com
 a5s.hackerone-ext-content.com
-hackerone.com
 api.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
