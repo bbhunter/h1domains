@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 03:22:54 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 04:24:05 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -436,12 +436,12 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 www.mercadopago.com.mx
+www.mercadopago.cl
 www.mercadopago.com.br
 www.mercadolivre.com.br
-api.mercadopago.com
 www.mercadopago.com.ar
+api.mercadopago.com
 www.mercadolibre.com.ar
 api.mercadolibre.com
 www.mercadolibre.cl
@@ -491,14 +491,14 @@ www.fareharbor.com
 secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-booking.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 chat.booking.com
-admin.booking.com
 *.rentalcars.com
 *.booking.com
+booking.com
+admin.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -709,8 +709,8 @@ www.cardinalcommerce.com
 www.visa.com.tw
 www.visa.com.tr
 www.visa.com.hr
-www.yellowpepper.com
 www.tink.com
+www.yellowpepper.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -878,8 +878,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.io
 hilton.com
+hilton.io
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -893,8 +893,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.okg.com
 *.oklink.com
-*.okx.com
 *.okcoin.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1143,8 +1143,8 @@ www.orbitz.com
 www.ebookers.fi
 www.mrjet.se
 www.expediaagents.com
-www.fewo-direkt.de
 www.stayz.com.au
+www.fewo-direkt.de
 www.bookabach.co.nz
 www.abritel.fr
 www.expediagroup.com
@@ -1160,9 +1160,9 @@ www.ebookers.com
 www.hotels.com
 *.vrbo.com
 *.expediacruises.com
+www.expediataap.com
 www.expedia.com
 *.lastminute.com.au
-www.expediataap.com
 *.hotwire.com
 *.expediapartnercentral.com
 *.lastminute.co.nz
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1726,8 +1726,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elastic.co
 *.elasticnet.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2038,7 +2038,6 @@ effecthouse.tiktok.com
 developers.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 live-backstage.tiktok.com
 academy-outbound-ads.tiktok.com
 ads.tiktok.com
@@ -2049,6 +2048,7 @@ creatormarketplace.tiktok.com
 partner.tiktokshop.com
 *.tiktokv.com
 business.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2385,8 +2385,8 @@ itv7.itv.com
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.de
 *.amazon.com.tr
+*.amazon.de
 *.amazon.it
 *.amazon.com.be
 *.amazon.com.br
@@ -2439,11 +2439,11 @@ www.amazon.*
 *.taobao.com
 *.alibabacloud.com
 *.aliyun.com
-*.aliexpress.com
 *.alibaba-inc.com
-*.Daraz.com
 www.alibabagroup.com
+*.Daraz.com
 *.alibaba.com
+*.aliexpress.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2570,8 +2570,8 @@ www.goodrx.com
 *.ra.roblox.com
 api.localizestaging.com
 cdn.localizestaging.com
-app.localizestaging.com
 localizestaging.com
+app.localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -2588,8 +2588,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
@@ -2719,8 +2719,8 @@ admin.rezserver.com
 reservations.rezserver.com
 www.bookingholdings.com
 secure.rezserver.com
-cruises.priceline.com
 press.priceline.com
+cruises.priceline.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2968,21 +2968,21 @@ paypal.me
 *.braintree.tools
 *.paylution.com
 api.swiftfinancial.com
-decision.swiftfinancial.com
-my.swiftfinancial.com
-partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
+decision.swiftfinancial.com
+partner.swiftfinancial.com
+my.swiftfinancial.com
+pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
 www.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
-*.venmo.com
 *.braintreegateway.com
+*.venmo.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
@@ -3138,8 +3138,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-api.steampowered.com
 help.steampowered.com
+api.steampowered.com
 www.dota2.com
 partner.steamgames.com
 www.valvesoftware.com
@@ -3251,11 +3251,11 @@ verovelvollisuustiedot.lahitapiola.fi
 sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
-*.lahitapiola.fi
-api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 www.lahitapiola.fi
+api.lahitapiola.fi
+*.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3484,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3681,13 +3681,13 @@ shopify.plus
 shopifyinbox.com
 *.shopifycloud.com
 linkpop.com
-*.shopifykloud.com
 *.shopifycs.com
+*.shopifykloud.com
 arrive-server.shopifycloud.com
 accounts.shopify.com
 shop.app
-your-store.myshopify.com
 *.shopify.com
+your-store.myshopify.com
 *.shopify.io
 partners.shopify.com
 admin.shopify.com
@@ -3812,8 +3812,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-*.airbnb-aws.com
 assets.airbnb.com
+*.airbnb-aws.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3964,10 +3964,10 @@ api.custody.coinbase.com
 api.coinbase.com
 nft.coinbase.com
 pro.coinbase.com
-coinbase.com
 cloud.coinbase.com
 commerce.coinbase.com
 *.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4240,8 +4240,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 magento.com
 account.magento.com
 marketplace.magento.com
