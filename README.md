@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 19 02:31:38 UTC 2024)
+## Domains with Bounties (Last Updated Fri Apr 19 03:22:54 UTC 2024)
 ```
 www.dyson.no
 www.fi.dyson.com
@@ -492,8 +492,8 @@ secure.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
 booking.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 admin.booking.com
@@ -878,8 +878,8 @@ hiltonlocalbiz.com
 hiltonhotels.jp
 *.hilton.io
 *.hiltonbusinessonline.com
-hilton.com
 hilton.io
+hilton.com
 *.hilton.com
 *.hilton.com
 *.hilton.io
@@ -1041,8 +1041,8 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 *.8x8cloud.net
 admin.8x8.com
 *.wavecell.com
@@ -1081,8 +1081,8 @@ admin.8x8.com
 *.napoleongames.be
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.rs
 *.superbet.ro
+*.superbet.rs
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
@@ -1159,9 +1159,9 @@ www.ebookers.com
 *.wotif.com
 www.hotels.com
 *.vrbo.com
+*.expediacruises.com
 www.expedia.com
 *.lastminute.com.au
-*.expediacruises.com
 www.expediataap.com
 *.hotwire.com
 *.expediapartnercentral.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.simpletax.ca
 www.cheapflights.com
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.momondo.com
 business.kayak.com
 www.hotelscombined.com
@@ -1345,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1782,8 +1782,8 @@ mod.reddit.com
 *.snooguts.net
 api.reddit.com
 ads-api.reddit.com
-gql.reddit.com
 oauth.reddit.com
+gql.reddit.com
 accounts.reddit.com
 *.redditmedia.com
 ads.reddit.com
@@ -1846,8 +1846,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.chime.com
 *.1debit.com
@@ -2040,15 +2040,15 @@ careers.tiktok.com
 fp-sg.tiktokv.com
 *.tiktok.com
 live-backstage.tiktok.com
-business.tiktok.com
 academy-outbound-ads.tiktok.com
 ads.tiktok.com
 seller-id.tokopedia.com
-partner.tiktokshop.com
 www.pangleglobal.com
 tiktok.com
-*.tiktokv.com
 creatormarketplace.tiktok.com
+partner.tiktokshop.com
+*.tiktokv.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2099,8 +2099,8 @@ api.figma.com
 www.figma.com
 www.figma.com
 api.figma.com
-support.cs.money
 3d.cs.money
+support.cs.money
 wiki.cs.money
 blog.cs.money
 cs.money
@@ -2399,11 +2399,11 @@ itv7.itv.com
 *.amazon.fr
 *.amazon.co.uk
 *.amazon.pl
-*.amazon.co.jp
 *.amazon.es
 *.amazon.in
 *.amazon.com
 *.amazon.cn
+*.amazon.co.jp
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2486,8 +2486,8 @@ maria.casino
 *.kes.kindredext.net
 *.bingo.com
 *.unibet.com
-www.32red.com
 *.unibet.fr
+www.32red.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2570,8 +2570,8 @@ www.goodrx.com
 *.ra.roblox.com
 api.localizestaging.com
 cdn.localizestaging.com
-localizestaging.com
 app.localizestaging.com
+localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -2588,8 +2588,8 @@ www.datastax.com
 downloads.datastax.com
 docs.datastax.com
 astra.datastax.com
-app.nordpass.com
 *.nordvpn.com
+app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line-apps.com
@@ -2969,10 +2969,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-partner.swiftfinancial.com
 my.swiftfinancial.com
-scrutiny.swiftfinancial.com
+partner.swiftfinancial.com
 pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2981,9 +2981,8 @@ my.loanbuilder.com
 www.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
-*.xoom.com
-*.braintreegateway.com
 *.venmo.com
+*.braintreegateway.com
 loanbuilder.com
 *.paypalcorp.com
 *.braintreepayments.com
@@ -2993,6 +2992,7 @@ py.pl
 paypalobjects.com
 *.braintree-api.com
 *.paypal.com
+*.xoom.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3138,8 +3138,8 @@ developer.valvesoftware.com
 support.steampowered.com
 partner.steampowered.com
 playartifact.com
-help.steampowered.com
 api.steampowered.com
+help.steampowered.com
 www.dota2.com
 partner.steamgames.com
 www.valvesoftware.com
@@ -3166,9 +3166,9 @@ app.mona.co
 *.crypto.com
 www.crypto.com
 tax.crypto.com
+merchant.crypto.com
 auth.crypto.com
 pay.crypto.com
-merchant.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3360,12 +3360,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 *.withspotify.com
 api.spotify.com
 assets.spotify.com
@@ -3633,7 +3633,6 @@ dashboard.algolia.com
 secure-dfadmin.deriv.com
 *.derivws.com
 *.binary.com
-api.deriv.com
 derivws.com
 smarttrader.deriv.com
 cashier.deriv.com
@@ -3641,6 +3640,7 @@ app.deriv.com
 oauth.deriv.com
 *.deriv.com
 *.deriv.cloud
+api.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3732,11 +3732,11 @@ developer.playcanvas.com
 *.sc-corp.net
 rt.playcanvas.com
 web.snapchat.com
-business.snapchat.com
 store.playcanvas.com
 app.snapchat.com
 *.sc-core.net
 accounts.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3812,8 +3812,8 @@ api.airbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
 *.withairbnb.com
-assets.airbnb.com
 *.airbnb-aws.com
+assets.airbnb.com
 www.airbnb.com
 *.airbnb.com
 www.airbnb.com
@@ -3958,8 +3958,8 @@ blog.irccloud.com
 custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
-*.base.org
 institutional.coinbase.com
+*.base.org
 api.custody.coinbase.com
 api.coinbase.com
 nft.coinbase.com
