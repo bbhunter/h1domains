@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 28 01:19:36 UTC 2024)
+## Domains with Bounties (Last Updated Sun Apr 28 02:34:10 UTC 2024)
 ```
 api.dyson.se
 api.dyson.dk
@@ -15,15 +15,15 @@ api.dyson.ch
 api.dyson.ie
 shop.dyson.ru
 www.dyson.fr
-www.dyson.co.th
+www.dyson.co.jp
 www.dyson.it
 www.dyson.de
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-www.dyson.ch
 api.dyson.it
+www.dyson.ie
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -388,8 +388,8 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
-*.000webhost.com
 hpanel.hostinger.com
+*.000webhost.com
 payments.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
@@ -682,11 +682,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -799,6 +799,7 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+community-tc.services.mozilla.com
 api.profiler.firefox.com
 vpn.mozilla.org
 profiler.firefox.com
@@ -815,7 +816,6 @@ push.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 firefox.settings.services.mozilla.com
 phabricator.allizom.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 addons.allizom.org
 firefox-ci-tc.services.mozilla.com
@@ -1023,10 +1023,10 @@ sms.8x8.com
 work.8x8.com
 uc.8x8pilot.com
 work-staging.8x8.com
+voapi.8x8.com
+*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
-*.8x8.id
-voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
 platform.8x8.com
@@ -1068,11 +1068,11 @@ admin.8x8.com
 *.napoleonsports.be
 *.luckydays.com
 *.superbet.rs
-*.superbet.ro
 *.luckydays.ca
 *.superbet.pl
 *.magicjackpot.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1313,9 +1313,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1615,10 +1615,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
@@ -1707,11 +1707,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1749,14 +1749,14 @@ mod.reddit.com
 gql.reddit.com
 accounts.reddit.com
 api.reddit.com
-ads.reddit.com
 www.reddit.com
+ads.reddit.com
 *.redditmedia.com
 *.redditinc.com
 new.reddit.com
+*.reddit.com
 *.reddithelp.com
 ads-api.reddit.com
-*.reddit.com
 oauth.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1813,8 +1813,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-www.chime.com
 wp-qa.chime.com
+www.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1966,8 +1966,8 @@ secure.sharefile.com
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 secure.sharefile.eu
-accounts.cloud.com
 www.cloud.com
+accounts.cloud.com
 citrix.cloud.com
 www.cloud.com
 ap-s.cloud.com
@@ -2070,8 +2070,8 @@ api.figma.com
 3d.cs.money
 blog.cs.money
 cs.money
-support.cs.money
 wiki.cs.money
+support.cs.money
 cs.money
 support.cs.money
 blog.cs.money
@@ -2373,8 +2373,8 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.cn
 *.amazon.co.uk
-*.amazon.in
 *.amazon.com
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2411,8 +2411,8 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.alibaba.com
 *.taobao.com
-*.alibabacloud.com
 *.aliexpress.com
+*.alibabacloud.com
 *.alibaba-inc.com
 *.aliyun.com
 *.Daraz.com
@@ -2454,8 +2454,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.mariacasino.com
 www.32red.com
 *.unibet.com
@@ -2689,8 +2689,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2876,15 +2876,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2893,8 +2893,8 @@ www.tvg.com
 tvg.com
 sportsbook.fanduel.com
 ia.tvg.com
-fdbox.net
 us.tvg.com
+fdbox.net
 fanduel.com
 *.numberfire.com
 *racing.fanduel.com
@@ -2941,10 +2941,10 @@ paypal.me
 *.paylution.com
 api.swiftfinancial.com
 decision.swiftfinancial.com
-my.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
+my.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -2955,10 +2955,10 @@ swiftcapital.com
 loanbuilder.com
 py.pl
 *.xoom.com
-*.hyperwallet.com
 sandbox.braintreegateway.com
-*.braintreepayments.com
+*.hyperwallet.com
 www.loanbuilder.com
+*.braintreepayments.com
 *.venmo.com
 paypalobjects.com
 *.braintreegateway.com
@@ -3107,7 +3107,6 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-www.teamfortress.com
 support.steampowered.com
 www.dota2.com
 partner.steampowered.com
@@ -3115,6 +3114,7 @@ help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
+www.teamfortress.com
 store.steampowered.com
 www.valvesoftware.com
 steamcommunity.com
@@ -3289,8 +3289,8 @@ gifts.grab.com
 *.grabpay.com
 jira.grab.com
 *.ovo.id
-*.grab.com
 kartaview.org
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3466,8 +3466,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3544,8 +3544,8 @@ moneybirdstorage.com
 npmjs.org
 gist.github.com
 *.githubusercontent.com
-api.github.com
 classroom.github.com
+api.github.com
 education.github.com
 npmjs.com
 github.com
@@ -3712,8 +3712,8 @@ developer.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-code.playcanvas.com
 www.bitmoji.com
+code.playcanvas.com
 story.snapchat.com
 *.sc-corp.net
 business.snapchat.com
@@ -3973,10 +3973,10 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack.com
 *.quip.com
 status.slack.com
 slack-imgs.com
+slack.com
 app.slack.com
 api.slack.com
 slack.com
@@ -4252,8 +4252,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 account.magento.com
 marketplace.magento.com
 magento.com
@@ -4500,8 +4500,8 @@ api.greenhouse.io
 onboarding.greenhouse.io
 jss.greenhouse.io
 app.interseller.io
-www.greenhouse.io
 interseller.io
+www.greenhouse.io
 support.greenhouse.io
 app.greenhouse.io
 app.greenhouse.io
