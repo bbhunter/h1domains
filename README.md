@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  1 23:22:07 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  2 01:09:58 UTC 2024)
 ```
 sportsbook.caesars.com
 williamhill.us
