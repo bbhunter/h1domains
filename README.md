@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  3 11:18:41 UTC 2024)
+## Domains with Bounties (Last Updated Fri May  3 12:34:38 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
 sportsbook.caesars.com
-caesarspalaceonline.com
 *.williamhill.us
 williamhill.us
+caesarspalaceonline.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -435,8 +435,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-medical.23andme.com
 therapeutics.23andme.com
+medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 api.23andme.com
@@ -516,9 +516,9 @@ compass.fareharbor.com
 fhdn.fareharbor.com
 *.rentalcars.com
 secure.booking.com
-booking.com
 experiences.booking.com
-admin.booking.com
+account.booking.com
+*.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -854,9 +854,9 @@ sync.services.mozilla.com
 hg.mozilla.org
 relay.firefox.com
 accounts.firefox.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 addons.allizom.org
 developer.mozilla.org
@@ -896,13 +896,13 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1104,8 +1104,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1164,7 +1164,6 @@ www.abritel.fr
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 *.travelocity.com
-www.orbitz.com
 www.flights.com
 www.ebookers.fi
 www.bookabach.co.nz
@@ -1174,17 +1173,18 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 www.hotels.com
 *.cheaptickets.com
-*.expediapartnercentral.com
 www.mrjet.se
+*.expediapartnercentral.com
 *.wotif.com
+www.expedia.com
+*.lastminute.com.au
+www.vrbo.com
 www.expediataap.com
 www.expediaagents.com
-www.expedia.com
 www.ebookers.com
-www.vrbo.com
-*.vrbo.com
 *.hotwire.com
-*.lastminute.com.au
+www.orbitz.com
+*.vrbo.com
 *.expediacruises.com
 *.vrbo.com
 *.hotwire.com
@@ -1232,8 +1232,8 @@ pb.deribit.com
 tools.deribit.com
 metrics.deribit.com
 *.deribit.com
-insights.deribit.com
 test.deribit.com
+insights.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1474,7 +1474,6 @@ kb.databricks.com
 partners.databricks.com
 support.databricks.com
 https://community.cloud.databricks.com/
-https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 advocates.databricks.com
 community.databricks.com
 customer-academy.databricks.com
@@ -1606,10 +1605,10 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 www.recordedfuture.com
@@ -1741,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
+app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
-app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1789,9 +1788,9 @@ oauth.reddit.com
 matrix.redditspace.com
 www.spiketrap.io
 ads.reddit.com
-ads-api.reddit.com
 *.reddit.com
 www.reddit.com
+ads-api.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1991,8 +1990,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2047,10 +2046,10 @@ creatormarketplace.tiktok.com
 developers.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2071,7 +2070,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 circle.logi.com
-accounts.logi.com
 www.ultimateears.com
 www.astrogaming.com
 *vc.logitech.com
@@ -2239,9 +2237,9 @@ kbill.mackeeper.com
 api-ne.mackeeper.com
 mkapi.mackeeper.com
 updater.clario.co
-mackeeper.com
 clario.co
 account.mackeeper.com
+mackeeper.com
 account.mackeeper.com
 clario.co
 api.account.clario.co
@@ -2908,15 +2906,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2994,9 +2992,9 @@ www.loanbuilder.com
 *.paypalcorp.com
 *.braintreegateway.com
 *.xoom.com
-*.paypal.com
 *.braintree-api.com
 my.swiftfinancial.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3098,7 +3096,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3135,9 +3132,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 api.steampowered.com
 partner.steamgames.com
@@ -3165,9 +3162,9 @@ app.mona.co
 merchant.crypto.com
 tax.crypto.com
 *.crypto.com
-www.crypto.com
 js.crypto.com
 auth.crypto.com
+www.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3183,14 +3180,14 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.be
 *.deliveroo.ie
-*.deliveroo.com.sg
-*.deliveroo.ae
 *.deliveroo.it
+*.deliveroo.be
 *.deliveroo.com.hk
 *.deliveroo.com.kw
 *.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.ae
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.fr
@@ -3494,8 +3491,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3505,8 +3502,8 @@ www.starbucks.com.cn
 www.starbucksreserve.com
 app.starbucks.com
 www.starbucks.co.kr
-login.starbucks.co.jp
 www.starbucks.com
+login.starbucks.co.jp
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3636,8 +3633,8 @@ api2.grofers.com
 blinkit.com
 *.algolianet.com
 dashboard.algolia.com
-www.algolia.com
 *.algolia.net
+www.algolia.com
 *.algolia.net
 *.algolianet.com
 www.algolia.com
@@ -3735,8 +3732,8 @@ forum.playcanvas.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-code.playcanvas.com
 www.bitmoji.com
+code.playcanvas.com
 story.snapchat.com
 *.sc-corp.net
 kit.snapchat.com
@@ -4041,8 +4038,8 @@ ctf.hacker101.com
 hackerone-user-content.com
 www.wearehackerone.com
 hackerone.live
-errors.hackerone.net
 a5s.hackerone-ext-content.com
+errors.hackerone.net
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
 app.pullrequest.com
