@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 20:22:35 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 21:20:20 UTC 2024)
 ```
 api.americanwagering.com
 *.us.williamhill.com
@@ -49,9 +49,9 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 *.dyson.com
 www.dyson.co.uk
@@ -334,8 +334,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-rewire.com
 app3.rewire.to
+rewire.com
 app.rewire.to
 *.int.remitly.com
 rates.rewire.com
@@ -431,7 +431,6 @@ payments.hostinger.com
 https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
-auth.23andme.com
 api.23andme.com
 you.23andme.com
 therapeutics.23andme.com
@@ -439,6 +438,7 @@ medical.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -495,8 +495,8 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -849,7 +849,6 @@ phabricator.allizom.org
 addons.allizom.org
 lando.services.mozilla.com
 developer.mozilla.org
-www.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
@@ -858,6 +857,7 @@ firefox-ci-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -896,9 +896,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1066,7 +1066,6 @@ sso.8x8.com
 *.jitsi.net
 *.jit.si
 pay.8x8.com
-*.8x8.vc
 *.8x8cloud.net
 *.8x8.vc
 *.jit.si
@@ -1104,8 +1103,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.ro
 *.superbet.com
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1171,21 +1170,21 @@ www.bookabach.co.nz
 www.expediagroup.com
 www.expediapartnersolutions.com
 www.fewo-direkt.de
-www.hotels.com
 *.cheaptickets.com
 www.mrjet.se
-*.vrbo.com
+www.expedia.com
 www.expediataap.com
 www.expediaagents.com
-www.expedia.com
 www.ebookers.com
 www.orbitz.com
+*.vrbo.com
+*.expediapartnercentral.com
 *.hotwire.com
 *.lastminute.com.au
-*.expediapartnercentral.com
 www.vrbo.com
 *.expediacruises.com
 *.wotif.com
+www.hotels.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1346,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
+api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1789,8 +1788,8 @@ www.spiketrap.io
 ads.reddit.com
 ads-api.reddit.com
 accounts.reddit.com
-www.reddit.com
 *.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1923,8 +1922,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 api.yoti.com
@@ -2043,8 +2042,8 @@ www.pangleglobal.com
 business.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
-developers.tiktok.com
 live-backstage.tiktok.com
+developers.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
 tiktok.com
@@ -2292,8 +2291,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-portal.polygon.technology
 open-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2402,8 +2401,8 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.ca
 *.amazon.co.jp
-*.amazon.com
 *.amazon.com.au
+*.amazon.com
 *.amazon.in
 *.amazon.it
 *.amazon.cl
@@ -2585,8 +2584,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2962,18 +2961,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-swiftfinancial.com
-prequal.swiftfinancial.com
-www.swiftcapital.com
-swiftcapital.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -3089,6 +3088,7 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
+*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3125,9 +3125,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
+partner.steampowered.com
 support.steampowered.com
 www.dota2.com
-partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3154,9 +3154,9 @@ app.mona.co
 *.mona.co
 merchant.crypto.com
 tax.crypto.com
+auth.crypto.com
 www.crypto.com
 *.crypto.com
-auth.crypto.com
 js.crypto.com
 *.crypto.com
 *.mona.co
@@ -3180,10 +3180,10 @@ bounty-node.rsk.co
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.fr
-*.deliveroo.be
 *.deliveroo.hk
 *.deliveroo.co.uk
 *.deliveroo.ae
+*.deliveroo.be
 *.deliveroo.co.uk
 *.deliveroo.fr
 *.deliveroo.be
@@ -3336,9 +3336,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3484,8 +3484,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3495,8 +3495,8 @@ www.starbucks.com.cn
 www.starbucksreserve.com
 app.starbucks.com
 www.starbucks.com
-www.starbucks.co.kr
 login.starbucks.co.jp
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3526,8 +3526,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 talk.brave.com
+search.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3690,9 +3690,9 @@ shop.app
 partners.shopify.com
 *.shopify.io
 admin.shopify.com
-your-store.myshopify.com
 *.shopify.com
 accounts.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3724,12 +3724,11 @@ geofilters.snapchat.com
 rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
-www.bitmoji.com
 code.playcanvas.com
+www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
 businesshelp.snapchat.com
-business.snapchat.com
 developer.playcanvas.com
 ads.snapchat.com
 web.snapchat.com
@@ -3739,6 +3738,7 @@ forum.playcanvas.com
 playcanvas.com
 accounts.snapchat.com
 kit.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3816,8 +3816,8 @@ support-api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.airbnb-aws.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -3880,8 +3880,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-*.twitter.com
 x.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
