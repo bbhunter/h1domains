@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  4 13:22:30 UTC 2024)
+## Domains with Bounties (Last Updated Sat May  4 14:21:13 UTC 2024)
 ```
 api.americanwagering.com
-sportsbook.caesars.com
 *.us.williamhill.com
 williamhill.us
 caesarspalaceonline.com
 *.williamhill.us
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -23,9 +23,9 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 app.koho.ca
-webgateway.koho.ca
 web.koho.ca
 www.koho.ca
+webgateway.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -49,8 +49,8 @@ www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
 www.dyson.at
-api.dyson.it
 www.dyson.ie
+api.dyson.it
 www.dyson.ch
 www.dyson.es
 *.dyson.com
@@ -434,8 +434,8 @@ store.23andme.com
 auth.23andme.com
 api.23andme.com
 you.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -461,8 +461,8 @@ www.mercadopago.cl
 api.mercadolibre.com
 www.mercadolibre.com.mx
 www.mercadolibre.com.ar
-www.mercadopago.com.br
 api.mercadopago.com
+www.mercadopago.com.br
 www.mercadopago.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 chat.booking.com
 widget.rentalcars.com
@@ -516,9 +516,9 @@ fhdn.fareharbor.com
 *.rentalcars.com
 experiences.booking.com
 account.booking.com
-booking.com
 *.booking.com
 paymentcomponent.booking.com
+booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -586,8 +586,8 @@ www.compass.com
 *.hypr.com
 *.hypr.com
 *.gethypr.com
-cdn.moderntreasury.com
 app.moderntreasury.com
+cdn.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -800,8 +800,8 @@ developer.visa.com
 yourdomain.freshcaller.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -853,9 +853,9 @@ www.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 addons.allizom.org
@@ -970,8 +970,8 @@ aws.indrive.tech
 debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 *.grindr.mobi
-web.grindr.com
 *.grindr.com
+web.grindr.com
 *.grindr.io
 *.grindr.io
 *.grindr.com
@@ -1060,14 +1060,13 @@ platform.8x8pilot.com
 voapi.8x8.com
 user-profile-staging.8x8.com
 *.8x8staging.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
 pay.8x8.com
 *.8x8.vc
-*.8x8cloud.net
 *.8x8.vc
 *.jit.si
 *.jitsi.net
@@ -1104,8 +1103,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1174,17 +1173,17 @@ www.fewo-direkt.de
 www.hotels.com
 *.cheaptickets.com
 www.mrjet.se
-www.expedia.com
 www.expediataap.com
 www.expediaagents.com
+www.expedia.com
 www.ebookers.com
 www.orbitz.com
 *.vrbo.com
+*.wotif.com
+*.lastminute.com.au
+*.expediacruises.com
 *.expediapartnercentral.com
 *.hotwire.com
-*.wotif.com
-*.expediacruises.com
-*.lastminute.com.au
 www.vrbo.com
 *.vrbo.com
 *.hotwire.com
@@ -1317,9 +1316,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 business.kayak.com
 www.kayak.com
 www.cheapflights.com
@@ -1346,9 +1345,9 @@ ws.sorare.com
 *.romwe.com
 *.sheingsp.com
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
+api.excalls.mobi
 pay.ibex.exchange
 exness.com
 my.exness.com
@@ -1605,10 +1604,10 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
 tria.ge
 api.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 www.recordedfuture.com
@@ -1647,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
+cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
-cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1990,8 +1989,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
 api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2101,8 +2100,8 @@ www.figma.com
 api.figma.com
 3d.cs.money
 blog.cs.money
-wiki.cs.money
 support.cs.money
+wiki.cs.money
 cs.money
 cs.money
 support.cs.money
@@ -2564,9 +2563,9 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.rbx.com
 *.guilded.gg
 *.roblox.com
+*.rbx.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2585,8 +2584,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-docs.datastax.com
 www.datastax.com
+docs.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2803,8 +2802,8 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
+res.en.travelbrandsagent.com
 new.www.vaxvacationaccess.com
-res.vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2986,8 +2985,8 @@ sandbox.braintreegateway.com
 *.paypalcorp.com
 *.xoom.com
 *.braintreegateway.com
-*.paypal.com
 *.venmo.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3089,7 +3088,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-api.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3126,9 +3124,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3152,9 +3150,9 @@ help.steampowered.com
 developer.valvesoftware.com
 pay.crypto.com
 app.mona.co
-*.mona.co
-merchant.crypto.com
 tax.crypto.com
+merchant.crypto.com
+*.mona.co
 auth.crypto.com
 www.crypto.com
 *.crypto.com
@@ -3174,10 +3172,10 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.ae
@@ -3485,8 +3483,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3684,9 +3682,9 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
+shopifyinbox.com
 your-store.myshopify.com
 *.shopify.com
 shop.app
@@ -3882,8 +3880,8 @@ grok.x.ai
 ide.x.ai
 api.x.ai
 gnip.com
-x.com
 *.twitter.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -4273,8 +4271,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-accounts.magento.cloud
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 magento.com
 account.magento.com
