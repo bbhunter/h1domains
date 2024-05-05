@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  5 07:19:35 UTC 2024)
+## Domains with Bounties (Last Updated Sun May  5 08:24:11 UTC 2024)
 ```
 *.us.williamhill.com
 caesarspalaceonline.com
@@ -432,8 +432,8 @@ https://passport.eufy.com/?app=eufy-us
 education.23andme.com
 store.23andme.com
 api.23andme.com
-therapeutics.23andme.com
 medical.23andme.com
+therapeutics.23andme.com
 blog.23andme.com
 mediacenter.23andme.com
 research.23andme.com
@@ -502,8 +502,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
@@ -515,10 +515,10 @@ fhdn.fareharbor.com
 *.rentalcars.com
 experiences.booking.com
 account.booking.com
-*.booking.com
-paymentcomponent.booking.com
 booking.com
+paymentcomponent.booking.com
 secure.booking.com
+chat.booking.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -570,8 +570,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.trip.com
@@ -586,8 +586,8 @@ www.compass.com
 *.hypr.com
 *.hypr.com
 *.gethypr.com
-app.moderntreasury.com
 cdn.moderntreasury.com
+app.moderntreasury.com
 app.moderntreasury.com
 cdn.moderntreasury.com
 test.nicehash.com
@@ -712,11 +712,11 @@ visa.co.za
 www.fraedom.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.org
+bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
-bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -853,8 +853,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 www.mozilla.org
@@ -1159,7 +1159,6 @@ dookeydash.com
 hv-mtl.com
 www.stayz.com.au
 www.abritel.fr
-*.travelocity.ca
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 *.travelocity.com
@@ -1172,19 +1171,20 @@ www.expediapartnersolutions.com
 www.fewo-direkt.de
 *.cheaptickets.com
 www.mrjet.se
-*.vrbo.com
 www.expediataap.com
 www.expediaagents.com
 www.ebookers.com
 www.orbitz.com
-*.lastminute.com.au
+*.vrbo.com
 *.expediapartnercentral.com
+*.lastminute.com.au
 www.vrbo.com
 *.expediacruises.com
 *.wotif.com
 www.hotels.com
 *.hotwire.com
 www.expedia.com
+*.travelocity.ca
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1646,10 +1646,10 @@ www.fedramp.gov
 marketplace.fedramp.gov
 federalist.18f.gov
 federalist-docs.18f.gov
-cloud.gov
 dashboard.fr.cloud.gov
 api.data.gov
 ssh.fr.cloud.gov
+cloud.gov
 www.usa.gov
 *.login.gov
 federalist-proxy.app.cloud.gov
@@ -1724,10 +1724,10 @@ https://www.xvideos.net/app/
 *.found.io
 *.elasticnet.co
 www.elastic.co
-*.elstc.co
 *.elastic.co
-cloud.elastic.co
 *.swiftype.com
+cloud.elastic.co
+*.elstc.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1784,11 +1784,11 @@ oauth.reddit.com
 *.snooguts.net
 *.reddithelp.com
 matrix.redditspace.com
-www.spiketrap.io
 ads.reddit.com
 ads-api.reddit.com
 accounts.reddit.com
 *.reddit.com
+www.spiketrap.io
 www.reddit.com
 *.snooguts.net
 *.redditmedia.com
@@ -1922,10 +1922,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
+identity.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -1989,8 +1989,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-api.sharefile.com
 adm.cloud.com
+api.sharefile.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2040,11 +2040,11 @@ seller-id.tokopedia.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 business.tiktok.com
-creatormarketplace.tiktok.com
 partner.tiktokshop.com
+creatormarketplace.tiktok.com
 developers.tiktok.com
-ads.tiktok.com
 live-backstage.tiktok.com
+ads.tiktok.com
 *.tiktokv.com
 tiktok.com
 shop.tiktok.com
@@ -2291,8 +2291,8 @@ wallet.polygon.technology
 faucet.polygon.technology
 burn.polygon.technology
 bridge-api.matic.network
-portal.polygon.technology
 open-api.polygon.technology
+portal.polygon.technology
 wallet.polygon.technology
 staking-api.polygon.technology
 bridge-explorer.polygon.technology
@@ -2483,8 +2483,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 www.32red.com
 *.bingo.com
 *.unibet.com
@@ -2584,8 +2584,8 @@ k8s.io
 kubernetes-csi.github.io
 downloads.datastax.com
 astra.datastax.com
-www.datastax.com
 docs.datastax.com
+www.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2629,10 +2629,10 @@ accounts.pixiv.net
 sketch.pixiv.net
 www.pixiv.net
 *.fanbox.cc
-hub.vroid.com
-neoket.net
 vroid.com
 booth.pm
+hub.vroid.com
+neoket.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3131,10 +3131,10 @@ help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
 store.steampowered.com
-steamcommunity.com
 www.valvesoftware.com
 www.teamfortress.com
 api.steampowered.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3172,10 +3172,10 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.ie
 *.deliveroo.it
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.com.sg
 *.deliveroo.fr
@@ -3253,10 +3253,10 @@ privatetarget-2-secure.zigzag
 *.beta.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
+api.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
 *.tapiola.fi
@@ -3494,8 +3494,8 @@ www.starbucks.com.cn
 www.starbucksreserve.com
 app.starbucks.com
 login.starbucks.co.jp
-www.starbucks.com
 www.starbucks.co.kr
+www.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3723,7 +3723,6 @@ rt.playcanvas.com
 store.playcanvas.com
 *.sc-core.net
 code.playcanvas.com
-www.bitmoji.com
 story.snapchat.com
 *.sc-corp.net
 businesshelp.snapchat.com
@@ -3738,6 +3737,7 @@ accounts.snapchat.com
 kit.snapchat.com
 business.snapchat.com
 snappublisher.snapchat.com
+www.bitmoji.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3815,8 +3815,8 @@ support-api.airbnb.com
 *.muscache.com
 www.hoteltonight.com
 *.airbnb-aws.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 www.airbnb.com
 next.airbnb.com
@@ -4037,8 +4037,8 @@ a5s.hackerone-ext-content.com
 api.hackerone.com
 b5s.hackerone-ext-content.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
