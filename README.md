@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue May  7 02:38:19 UTC 2024)
+## Domains with Bounties (Last Updated Tue May  7 03:24:12 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -47,8 +47,8 @@ www.dyson.de
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 www.dyson.es
 www.dyson.se
@@ -333,8 +333,8 @@ webonboarding-eu.truecaller.com
 *.dev.remitly.com
 cards.remitly.io
 api.remitly.io
-app3.rewire.to
 rewire.com
+app3.rewire.to
 app.rewire.to
 rates.rewire.com
 *.int.remitly.com
@@ -501,8 +501,8 @@ indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-taxis.booking.com
 demo.fareharbor.com
+taxis.booking.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
@@ -849,8 +849,8 @@ sync.services.mozilla.com
 hg.mozilla.org
 accounts.firefox.com
 community-tc.services.mozilla.com
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 relay.firefox.com
 monitor.mozilla.org
@@ -1052,13 +1052,13 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-voapi.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
+voapi.8x8.com
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1101,8 +1101,8 @@ admin.8x8.com
 *.magicjackpot.ro
 *.luckydays.com
 *.superbet.rs
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1155,9 +1155,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 *.travelocity.com
 www.flights.com
 www.ebookers.fi
@@ -1165,9 +1165,9 @@ www.bookabach.co.nz
 *.carrentals.com
 www.expediapartnersolutions.com
 www.mrjet.se
-www.expediataap.com
-www.expediaagents.com
 www.ebookers.com
+www.expediaagents.com
+www.expediataap.com
 www.orbitz.com
 *.lastminute.com.au
 www.hotels.com
@@ -1176,8 +1176,8 @@ www.vrbo.com
 *.cheaptickets.com
 *.travelocity.ca
 www.expediagroup.com
-*.expediapartnercentral.com
 www.fewo-direkt.de
+*.expediapartnercentral.com
 *.expediacruises.com
 www.abritel.fr
 www.expedia.com
@@ -1314,9 +1314,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 business.kayak.com
 www.cheapflights.com
 www.hotelscombined.com
@@ -1737,11 +1737,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1920,10 +1920,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
+ccloud.yoti.com
 code.yoti.com
+core.yoti.com
 api.yoti.com
 hub.yoti.com
 www.yotisign.com
@@ -1946,8 +1946,8 @@ screenshot-proxy.netlify.app
 *.services.netlify.com
 *.onegraph.com
 internal.netlify.com
-api.netlify.com
 app.netlify.com
+api.netlify.com
 *.services.netlify.com
 *.services-prod.nsvcs.net
 *.infra-prod.nsvcs.net
@@ -1987,8 +1987,8 @@ api.adm.cloud.com
 (yoursubdomain).us.iws.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-adm.cloud.com
 api.sharefile.com
+adm.cloud.com
 (youriwssubdomain).cloud.com
 secure.sharefile.com
 (yoursubdomain).sharefile.eu
@@ -2395,14 +2395,14 @@ itv7.itv.com
 *.amazon.com.au
 amazonpayinsurance.in
 *.amazon.it
-*.amazon.cn
-*.amazon.es
 *.amazon.com.mx
 *.amazon.co.jp
 *.amazon.com.br
 *.amazon.com
 *.amazon.co.uk
 *.amazon.in
+*.amazon.cn
+*.amazon.es
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2439,10 +2439,10 @@ amazonpayinsurance.in
 www.alibabagroup.com
 *.aliyun.com
 *.taobao.com
+*.Daraz.com
 *.aliexpress.com
 *.1688.com
 *.alibaba.com
-*.Daraz.com
 *.alibaba-inc.com
 *.alibaba.com
 *.aliexpress.com
@@ -2481,8 +2481,8 @@ maria.casino
 *.casinohuone.com
 *.kindredext.net
 *.highrolling.nu
-*.kes.kindredext.net
 *.unibet.fr
+*.kes.kindredext.net
 www.32red.com
 *.bingo.com
 *.kolikkopelit.com
@@ -2717,8 +2717,8 @@ app.command.cysiv.com
 api.rezserver.com
 admin.rezserver.com
 reservations.rezserver.com
-press.priceline.com
 cruises.priceline.com
+press.priceline.com
 www.bookingholdings.com
 flyiin.com
 www.priceline.com
@@ -2800,8 +2800,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-vacations.united.com
 res.vacations.universalstudioshollywood.com
+vacations.united.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2959,18 +2959,18 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-api.swiftfinancial.com
-decision.swiftfinancial.com
+swiftfinancial.com
+prequal.swiftfinancial.com
+www.swiftcapital.com
+swiftcapital.com
 partner.swiftfinancial.com
 pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
 www.swiftfinancial.com
-swiftfinancial.com
-prequal.swiftfinancial.com
 api.loanbuilder.com
 my.loanbuilder.com
-www.swiftcapital.com
-swiftcapital.com
+api.swiftfinancial.com
+decision.swiftfinancial.com
 py.pl
 loanbuilder.com
 paypalobjects.com
@@ -2980,11 +2980,11 @@ my.swiftfinancial.com
 *.hyperwallet.com
 *.xoom.com
 *.braintreegateway.com
-*.paypalcorp.com
 sandbox.braintreegateway.com
 *.venmo.com
-*.braintree-api.com
 *.paypal.com
+*.braintree-api.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3086,7 +3086,6 @@ marquee.gs.com
 *.foliodigitalwealth.com
 *.foliofn.com
 *.nnip.com
-*.marcus.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3123,9 +3122,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
 support.steampowered.com
 www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3154,8 +3153,8 @@ js.crypto.com
 www.crypto.com
 tax.crypto.com
 *.crypto.com
-pay.crypto.com
 merchant.crypto.com
+pay.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3171,8 +3170,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.be
@@ -3251,10 +3250,10 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 yrityspalvelu.tapiola.fi
 verkkopalvelu.tapiola.fi
+api.lahitapiola.fi
 ext-gw.lahitapiola.fi
 www.lahitapiola.fi
 *.lahitapiola.fi
-api.lahitapiola.fi
 *.beta.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3360,11 +3359,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
 *.tospotify.com
 assets.spotify.com
 *.byspotify.com
@@ -3524,8 +3523,8 @@ ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
 account.brave.com
-talk.brave.com
 search.brave.com
+talk.brave.com
 brave.com
 brave.com
 basicattentiontoken.org
@@ -3639,8 +3638,8 @@ api.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 cashier.deriv.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3681,13 +3680,13 @@ shopify.plus
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.shopifykloud.com
+shopifyinbox.com
 linkpop.com
 *.shopifycloud.com
-shopifyinbox.com
+your-store.myshopify.com
 partners.shopify.com
 *.shopify.io
 accounts.shopify.com
-your-store.myshopify.com
 *.shopify.com
 shop.app
 admin.shopify.com
@@ -3815,8 +3814,8 @@ www.hoteltonight.com
 *.airbnb-aws.com
 *.withairbnb.com
 *.muscache.com
-*.airbnb.com
 www.airbnb.com
+*.airbnb.com
 www.airbnb.com
 next.airbnb.com
 api.airbnb.com
@@ -4036,10 +4035,10 @@ hackerone.live
 reviewer.pullrequest.com
 app.pullrequest.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
-www.hackerone.com
-a5s.hackerone-ext-content.com
 api.hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
