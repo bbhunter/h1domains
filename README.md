@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  9 11:21:03 UTC 2024)
+## Domains with Bounties (Last Updated Thu May  9 12:38:49 UTC 2024)
 ```
-api.americanwagering.com
 *.us.williamhill.com
+api.americanwagering.com
 sportsbook.caesars.com
 caesarspalaceonline.com
-*.williamhill.us
 williamhill.us
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -23,8 +23,8 @@ https://caesarspalaceonline.com/us/pa/casino
 williamhill.us
 usercontent.koho.ca
 app.koho.ca
-web.koho.ca
 webgateway.koho.ca
+web.koho.ca
 www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
@@ -46,8 +46,8 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
-www.dyson.ie
 api.dyson.it
+www.dyson.ie
 www.dyson.ch
 www.dyson.es
 www.dyson.se
@@ -382,14 +382,14 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornworld.com
-www.analvids.com
 www.pornbox.com
+www.analvids.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -496,15 +496,15 @@ supply-xml.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 kyc-onboarding.booking.com
-spark.fareharbor.com
 teleport.fareharbor.engineering
+spark.fareharbor.com
 flights.booking.com
 indicative-pricing.taxi.booking.com
 taxi.booking.com
 marketing.fareharbor.com
 readonly.fareharbor.com
-demo.fareharbor.com
 taxis.booking.com
+demo.fareharbor.com
 sites.fareharbor.com
 widget.rentalcars.com
 cars.booking.com
@@ -516,8 +516,8 @@ account.booking.com
 paymentcomponent.booking.com
 secure.booking.com
 booking.com
-*.rentalcars.com
 chat.booking.com
+*.rentalcars.com
 *.booking.com
 *.rentalcars.com
 booking.com
@@ -662,8 +662,8 @@ sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 testapp.redoxengine.com
 10x.redoxengine.com
-www.redoxengine.com
 dashboard.gamma.redoxstage.com
+www.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -710,11 +710,11 @@ www.visa.co.ve
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -797,10 +797,10 @@ sandbox.authorize.net
 developer.authorize.net
 developer.visa.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshchat.com
 yourdomain.myfreshworks.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -811,9 +811,9 @@ api.krisha.kz
 app.kolesa.kz
 app.krisha.kz
 krisha.kz
+api.kolesa.kz
 id.kolesa.kz
 m.kolesa.kz
-api.kolesa.kz
 kolesa.kz
 kolesa.kz
 m.kolesa.kz
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
-*.hiltonhotels.jp
 hiltonhotels.jp
 hilton.com
 *.hilton.com
@@ -913,9 +913,9 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
 *.oklink.com
-*.okx.com
 *.okcoin.com
 *.okg.com
+*.okx.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1395,12 +1395,12 @@ uapi-front.etoro.com
 wallet.etoro.com
 watchlistapi.etoro.com
 rankings.etoro.com
-etoropartners.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
 delta.app
 bullsheet.me
+etoropartners.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1738,11 +1738,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -2017,7 +2017,6 @@ affiliate-id.tokopedia.com
 www.pangleglobal.com
 creatormarketplace.tiktok.com
 shop-id.tokopedia.com
-*.tiktok.com
 developers.tiktok.com
 *.tiktokv.com
 live-backstage.tiktok.com
@@ -2025,6 +2024,7 @@ tiktok.com
 ads.tiktok.com
 business.tiktok.com
 partner.tiktokshop.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2497,7 +2497,6 @@ help.marriott.com
 mipartnerprivileges.marriott.com
 travelagents.marriott.com/
 activities.marriott.com
-careers.marriott.com
 www.ritzcarlton.com
 marrtool.com
 all-inclusive.marriott.com
@@ -2507,6 +2506,7 @@ traveler.marriott.com
 homes-and-villas.marriott.com
 www.marriott.com
 *uat.marriott.com
+careers.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2572,8 +2572,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line-apps.com
-*.linecorp.com
 *.line.biz
+*.linecorp.com
 *.line.me
 *.line.me
 *.line-apps.com
@@ -2873,15 +2873,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -2940,8 +2940,8 @@ paypal.me
 api.swiftfinancial.com
 decision.swiftfinancial.com
 partner.swiftfinancial.com
-pigeon.swiftfinancial.com
 scrutiny.swiftfinancial.com
+pigeon.swiftfinancial.com
 www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3127,10 +3127,10 @@ help.steampowered.com
 developer.valvesoftware.com
 *.mona.co
 js.crypto.com
-pay.crypto.com
-*.crypto.com
 auth.crypto.com
 app.mona.co
+pay.crypto.com
+*.crypto.com
 www.crypto.com
 tax.crypto.com
 merchant.crypto.com
@@ -3149,13 +3149,13 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
-*.deliveroo.it
 *.deliveroo.com.sg
+*.deliveroo.it
 *.deliveroo.hk
 *.deliveroo.fr
 *.deliveroo.co.uk
@@ -3629,9 +3629,9 @@ app.futuresimple.com
 api.getbase.com
 apps.zendesk.com
 api.smooch.io
-h1-your-domain.zendesk.com
 smooch.io
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 developer.zendesk.com
 h1-your-domain.zendesk.com
@@ -3656,8 +3656,8 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.shopify.io
 *.shopify.com
-admin.shopify.com
 shop.app
+admin.shopify.com
 accounts.shopify.com
 partners.shopify.com
 your-store.myshopify.com
@@ -3704,9 +3704,9 @@ login.playcanvas.com
 playcanvas.com
 web.snapchat.com
 businesshelp.snapchat.com
-business.snapchat.com
 app.snapchat.com
 ads.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3744,6 +3744,7 @@ ispdesign.ui.com
 careers.ui.com
 unifi.ui.com
 store.ui.com
+uisp.com
 *.ubnt.com
 *.ui.com
 store.ui.com
@@ -3783,10 +3784,10 @@ support-api.airbnb.com
 *.withairbnb.com
 *.hoteltonight-test.com
 *.muscache.com
-www.airbnb.com
 *.airbnb.com
 www.hoteltonight.com
 *.hoteltonight.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3959,8 +3960,8 @@ slackatwork.com
 slack-redir.net
 spaces.pm
 www.quip.com
-slack-imgs.com
 slack-status.com
+slack-imgs.com
 *.quip.com
 api.slack.com
 app.slack.com
