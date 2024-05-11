@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 11 22:18:54 UTC 2024)
+## Domains with Bounties (Last Updated Sat May 11 23:21:19 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
 *.us.williamhill.com
 caesarspalaceonline.com
-williamhill.us
 *.williamhill.us
+williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -46,9 +46,9 @@ www.dyson.it
 www.dyson.cz
 www.dyson.nl
 shop.dyson.co.za
+www.dyson.ch
 api.dyson.it
 www.dyson.ie
-www.dyson.ch
 www.dyson.es
 www.dyson.se
 www.dyson.be
@@ -459,10 +459,10 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadolibre.cl
-www.mercadopago.com.mx
 www.mercadopago.com.ar
+www.mercadopago.com.mx
 api.mercadopago.com
+www.mercadolibre.cl
 www.mercadolivre.com.br
 www.mercadolibre.com.ar
 www.mercadopago.com.pe
@@ -846,8 +846,8 @@ lando.services.mozilla.com
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 support.mozilla.org
 relay.firefox.com
@@ -1040,8 +1040,8 @@ jobs.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
 www.kiwi.com
-*.kiwi.com
 *.skypicker.com
+*.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1057,8 +1057,8 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1174,7 +1174,6 @@ www.orbitz.com
 www.fewo-direkt.de
 www.expedia.com
 www.ebookers.fi
-*.hotwire.com
 *.expediapartnercentral.com
 www.mrjet.se
 *.carrentals.com
@@ -1183,6 +1182,7 @@ www.ebookers.com
 www.expediagroup.com
 *.travelocity.com
 www.abritel.fr
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1227,8 +1227,8 @@ api.zerobounce.in
 zerobounce.net
 pb.deribit.com
 metrics.deribit.com
-test.deribit.com
 tools.deribit.com
+test.deribit.com
 insights.deribit.com
 *.deribit.com
 *.deribit.com
@@ -1397,8 +1397,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1779,8 +1779,8 @@ api.reddit.com
 matrix.redditspace.com
 accounts.reddit.com
 www.spiketrap.io
-*.reddit.com
 oauth.reddit.com
+*.reddit.com
 new.reddit.com
 *.redditinc.com
 ads.reddit.com
@@ -1899,8 +1899,8 @@ internal-api-lark-api.larksuite.com
 hackers_chosendomain.larksuite.com
 api.larksuite.com
 open.larksuite.com
-larksuite.com
 app.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1944,8 +1944,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-*.onegraph.com
 internal.netlify.com
+*.onegraph.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2013,16 +2013,16 @@ shop-id.tokopedia.com
 developers.tiktok.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
+seller-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-seller-id.tokopedia.com
 business.tiktok.com
 effecthouse.tiktok.com
-affiliate-id.tokopedia.com
 tiktok.com
 ads.tiktok.com
 pay.tokopediax.com
 *.tiktokv.com
+affiliate-id.tokopedia.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2570,8 +2570,8 @@ app.nordpass.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
-*.line.biz
 *.linecorp.com
+*.line.biz
 *.line.me
 *.line-apps.com
 *.line.me
@@ -2936,16 +2936,16 @@ https://github.com/matomo-org/docker
 paypal.me
 *.braintree.tools
 *.paylution.com
-decision.swiftfinancial.com
-partner.swiftfinancial.com
-scrutiny.swiftfinancial.com
-pigeon.swiftfinancial.com
-www.swiftfinancial.com
 swiftfinancial.com
 prequal.swiftfinancial.com
-my.loanbuilder.com
 www.swiftcapital.com
 swiftcapital.com
+partner.swiftfinancial.com
+pigeon.swiftfinancial.com
+scrutiny.swiftfinancial.com
+www.swiftfinancial.com
+my.loanbuilder.com
+decision.swiftfinancial.com
 py.pl
 paypalobjects.com
 www.loanbuilder.com
@@ -3101,8 +3101,8 @@ api.foliofn.com
 developer.valvesoftware.com
 playartifact.com
 partner.steampowered.com
-support.steampowered.com
 www.dota2.com
+support.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3199,8 +3199,8 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.preempt.com
 *.crowdstrike.com
+*.preempt.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
@@ -3224,14 +3224,14 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-api.lahitapiola.fi
 ext-gw.lahitapiola.fi
+api.lahitapiola.fi
 *.beta.lahitapiola.fi
 asiointi.lahitapiola.fi
 tunnistus.lahitapiola.fi
+www.lahitapiola.fi
 yrityspalvelu.tapiola.fi
 secure.lahitapiola.fi
-www.lahitapiola.fi
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lahitapiola.fi
@@ -3608,8 +3608,8 @@ api.deriv.com
 *.deriv.cloud
 oauth.deriv.com
 smarttrader.deriv.com
-derivws.com
 *.deriv.com
+derivws.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3649,14 +3649,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
-partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
+partners.shopify.com
 linkpop.com
 accounts.shopify.com
 admin.shopify.com
@@ -3703,8 +3703,8 @@ business.snapchat.com
 accounts.snapchat.com
 ads.snapchat.com
 developer.playcanvas.com
-playcanvas.com
 login.playcanvas.com
+playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3934,9 +3934,9 @@ commerce.coinbase.com
 *.cbhq.net
 cloud.coinbase.com
 nft.coinbase.com
-*.coinbase.com
 api.coinbase.com
 coinbase.com
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4238,8 +4238,8 @@ magentocommerce.com
 u.magento.com
 imagine.magento.com
 magentolive.com
-repo.magento.com
 accounts.magento.cloud
+repo.magento.com
 marketplace.magento.com
 magento.com
 account.magento.com
