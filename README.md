@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 13 01:18:20 UTC 2024)
+## Domains with Bounties (Last Updated Mon May 13 02:35:55 UTC 2024)
 ```
 api.americanwagering.com
 sportsbook.caesars.com
@@ -458,9 +458,9 @@ www.mercadopago.com.br
 www.mercadolibre.com.uy
 www.mercadopago.cl
 www.mercadolibre.com.pe
-www.mercadolibre.cl
-www.mercadopago.com.mx
 www.mercadopago.com.ar
+www.mercadopago.com.mx
+www.mercadolibre.cl
 www.mercadolivre.com.br
 api.mercadopago.com
 api.mercadolibre.com
@@ -895,9 +895,9 @@ api-eu.floqast.app
 *.hiltonlocalbiz.com
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.hiltonhotels.jp
 *.hiltonbusinessonline.com
 hilton.io
+*.hiltonhotels.jp
 hiltonhotels.jp
 *.hilton.io
 hilton.com
@@ -1053,9 +1053,9 @@ sms.8x8.com
 *.p8t.us
 uc.8x8pilot.com
 work-staging.8x8.com
-*.8x8.id
 platform.8x8pilot.com
 *.chalet.8x8.com
+*.8x8.id
 user-profile-staging.8x8.com
 platform.8x8.com
 sso.8x8pilot.com
@@ -1138,13 +1138,13 @@ share.doppler.com
 *.yugalabs.io
 *.meebits.app
 dookeydash.com
-*.boredapeyachtclub.com
 *.wenewmoments.com
 *.cryptopunks.app
 hv-mtl.com
 *.10ktf.com
 *.yuga.com
 *.otherside.xyz
+*.boredapeyachtclub.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1315,9 +1315,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1398,8 +1398,8 @@ rankings.etoro.com
 charts.etoro.com
 aggregator.etoro.com
 www.etoro.com
-bullsheet.me
 etoropartners.com
+bullsheet.me
 delta.app
 www.etoro.com
 etoropartners.com
@@ -1501,8 +1501,8 @@ upld.krisp.ai
 admin.wickr.com
 admin.wickr.com
 *.clubhouseapi.com
-*.clubhouse.com
 *.joinclubhouse.com
+*.clubhouse.com
 *.clubhouse.com
 *.joinclubhouse.com
 *.clubhouseapi.com
@@ -1604,8 +1604,8 @@ playwonderbox.com
 therecord.media
 geminiadvisory.io
 hatching.io
-app.recordedfuture.com
 id.recordedfuture.com
+app.recordedfuture.com
 securitytrails.com
 www.recordedfuture.com
 tria.ge
@@ -1923,8 +1923,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.com
 identity.yoti.com
 ccloud.yoti.com
-code.yoti.com
 core.yoti.com
+code.yoti.com
 api.yoti.com
 www.yotisign.com
 hub.yoti.com
@@ -2021,8 +2021,8 @@ pay.tokopediax.com
 *.tiktok.com
 partner.tiktokshop.com
 live-backstage.tiktok.com
-ads.tiktok.com
 affiliate-id.tokopedia.com
+ads.tiktok.com
 seller-id.tokopedia.com
 *.tiktokv.com
 *.tiktok.com
@@ -2462,10 +2462,10 @@ maria.casino
 *.unibet.fr
 *.kolikkopelit.com
 *.mariacasino.com
+*.unibet.com
 www.32red.com
 *.kindredext.net
 *.bingo.com
-*.unibet.com
 *.unibet.com
 *.unibet.fr
 *.storspiller.com
@@ -2778,8 +2778,8 @@ booking.applevacations.com
 login.www.vaxvacationaccess.com
 res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2863,28 +2863,28 @@ grammarly.ai
 *.grammarly.com
 grammarly.ai
 *.mgmt.fndlsb.net
-*.prod.fdbox.net
 *.prd.fndlsb.net
+*.prod.fdbox.net
 *inf.fndlsb.net
 *racing.fanduel.com
 4njbets.tvgnetwork.com
 b2b.tvgnetwork.com
 service.racing.fanduel.com
-4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
+4njbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
+mobile-prod.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
+pabets.tvg.com
 login.tvg.com
-www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
+service.tvg.com
+promos.tvg.com
+www.4njbets.com
 com.fanduel.android.live
 www.tvg.com
 sportsbook.fanduel.com
@@ -3101,9 +3101,9 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-partner.steampowered.com
-www.dota2.com
 support.steampowered.com
+www.dota2.com
+partner.steampowered.com
 help.steampowered.com
 partner.steamgames.com
 www.counter-strike.net
@@ -3312,9 +3312,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
-ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
+ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3338,12 +3338,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 assets.spotify.com
 *.byspotify.com
 *.withspotify.com
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.sg
 gift.starbucks.co.jp
+www.starbucks.com.sg
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3537,8 +3537,8 @@ moneybirdstorage.com
 npmjs.org
 *.githubusercontent.com
 education.github.com
-classroom.github.com
 *.githubapp.com
+classroom.github.com
 api.github.com
 github.com
 npmjs.com
@@ -3557,8 +3557,8 @@ npmjs.org
 *.uberinternal.com
 *.uberinternal.com
 *ubereats.com
-www.mapbox.com
 api.mapbox.com
+www.mapbox.com
 www.mapbox.com
 https://docs.mapbox.com/api/
 api.mapbox.com
@@ -3608,9 +3608,9 @@ smarttrader.deriv.com
 derivws.com
 cashier.deriv.com
 *.derivws.com
-*.deriv.com
 app.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3650,14 +3650,14 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-shopifyinbox.com
 *.shopifycloud.com
+shopifyinbox.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.io
+partners.shopify.com
 your-store.myshopify.com
 *.shopify.com
-partners.shopify.com
 linkpop.com
 accounts.shopify.com
 admin.shopify.com
