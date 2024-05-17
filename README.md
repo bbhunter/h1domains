@@ -2,14 +2,14 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 17 01:17:37 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 17 02:33:15 UTC 2024)
 ```
 api.americanwagering.com
 caesarspalaceonline.com
 sportsbook.caesars.com
-*.williamhill.us
 williamhill.us
 *.us.williamhill.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -419,8 +419,8 @@ demo.dynamic.xyz
 app.dynamic.xyz
 cpanel.hostinger.com
 payments.hostinger.com
-www.hostinger.com
 builder.hostinger.com
+www.hostinger.com
 *.000webhost.com
 hpanel.hostinger.com
 *.000webhost.com
@@ -459,8 +459,8 @@ www.mercadolibre.com.co
 www.mercadolibre.com.pe
 www.mercadolibre.com.uy
 www.mercadolibre.cl
-api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadolibre.com
 www.mercadopago.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.br
@@ -710,11 +710,11 @@ www.visa.co.ve
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-bd.visa.com
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
 bb.visa.com
+bd.visa.com
 visa.co.ni
 www.visa.com.kz
 www.visa.co.nz
@@ -845,8 +845,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-community-tc.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
+community-tc.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 monitor.mozilla.org
@@ -854,8 +854,8 @@ accounts.firefox.com
 relay.firefox.com
 lando.services.mozilla.com
 bugzilla.mozilla.org
-addons.allizom.org
 support.mozilla.org
+addons.allizom.org
 firefox.settings.services.mozilla.com
 crash-stats.allizom.org
 profiler.firefox.com
@@ -1059,8 +1059,8 @@ platform.8x8pilot.com
 *.chalet.8x8.com
 *.8x8.id
 user-profile-staging.8x8.com
-sso.8x8pilot.com
 platform.8x8.com
+sso.8x8pilot.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1158,9 +1158,9 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+*.lastminute.co.nz
 www.stayz.com.au
 www.hotwirepartnercentral.com
-*.lastminute.co.nz
 www.flights.com
 www.bookabach.co.nz
 www.expediapartnersolutions.com
@@ -1183,8 +1183,8 @@ www.expediagroup.com
 *.expediacruises.com
 *.wotif.com
 *.carrentals.com
-*.hotwire.com
 *.travelocity.com
+*.hotwire.com
 www.expedia.com
 *.vrbo.com
 *.hotwire.com
@@ -1317,9 +1317,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1740,11 +1740,11 @@ cloud.elastic.co
 api.taxjar.com
 *.reckoproduction.com
 *.link.co
-app.taxjar.com
 *.reckostaging.com
 *.recko.io
 js.stripe.com
 *.touchtechpayments.com
+app.taxjar.com
 api.stripe.com
 *.stripe.com
 api.stripe.com
@@ -1788,9 +1788,9 @@ new.reddit.com
 amp.reddit.com
 *.reddit.com
 ads-api.reddit.com
+www.reddit.com
 *.redditmedia.com
 ads.reddit.com
-www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -1923,10 +1923,10 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-ccloud.yoti.com
 identity.yoti.com
-core.yoti.com
+ccloud.yoti.com
 code.yoti.com
+core.yoti.com
 www.yotisign.com
 hub.yoti.com
 api.yoti.com
@@ -1947,8 +1947,8 @@ internal-docs.netlify.com
 netlify-rum.netlify.app
 screenshot-proxy.netlify.app
 *.services.netlify.com
-internal.netlify.com
 *.onegraph.com
+internal.netlify.com
 api.netlify.com
 app.netlify.com
 *.services.netlify.com
@@ -2019,12 +2019,12 @@ partner.tiktokshop.com
 business.tiktok.com
 affiliate-id.tokopedia.com
 shop-id.tokopedia.com
-shop.tiktok.com
 ads.tiktok.com
+shop.tiktok.com
 tiktok.com
-seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktok.com
+seller-id.tokopedia.com
 creatormarketplace.tiktok.com
 *.tiktokv.com
 *.tiktok.com
@@ -2420,8 +2420,8 @@ amazonpayinsurance.in
 *.alibabacloud.com
 *.aliyun.com
 *.Daraz.com
-www.alibabagroup.com
 *.taobao.com
+www.alibabagroup.com
 *.alibaba.com
 *.alibaba.com
 *.aliexpress.com
@@ -2774,10 +2774,10 @@ booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
 login.www.vaxvacationaccess.com
-res.en.travelbrandsagent.com
 res.vacations.united.com
-res.vacations.universalstudioshollywood.com
 vacations.united.com
+res.vacations.universalstudioshollywood.com
+res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 hyatt.com
@@ -2873,15 +2873,15 @@ service.racing.fanduel.com
 4njbets.us.betfair.com
 4njbets.tvg.com
 4njbets.com
+mobile-prod.tvg.com
+pabets.tvg.com
+service.tvg.com
+promos.tvg.com
 login-4njbets.us.betfair.com
 login-pabets.tvg.com
 login-ia.tvg.com
 m.4njbets.tvg.com
 login.tvg.com
-mobile-prod.tvg.com
-pabets.tvg.com
-service.tvg.com
-promos.tvg.com
 www.4njbets.com
 login-4ngbets.us.betfair.com
 login.pabets.tvg.com
@@ -3101,15 +3101,15 @@ api.foliofn.com
 *.folioinvesting.com
 developer.valvesoftware.com
 playartifact.com
-support.steampowered.com
 partner.steampowered.com
+support.steampowered.com
 help.steampowered.com
 www.counter-strike.net
 www.teamfortress.com
 api.steampowered.com
 partner.steamgames.com
-www.dota2.com
 www.valvesoftware.com
+www.dota2.com
 store.steampowered.com
 steamcommunity.com
 www.dota2.com
@@ -3132,8 +3132,8 @@ merchant.crypto.com
 *.mona.co
 pay.crypto.com
 *.crypto.com
-tax.crypto.com
 www.crypto.com
+tax.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3149,8 +3149,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.kw
 *.deliveroo.com.hk
+*.deliveroo.com.kw
 *.deliveroo.com.qa
 *.deliveroo.ae
 *.deliveroo.ie
@@ -3199,12 +3199,12 @@ falcon-sandbox.com
 *.preemptsecurity.com
 *.reposify.com
 *.humio.com
-*.crowdstrike.com
 www.crowdstrike.com
 hybrid-analysis.com
 *.bionic.ai
 *.securecircle.com
 *.preempt.com
+*.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3225,8 +3225,8 @@ sijoitusvakuutus.lahitapiola.fi
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
-ext-gw.lahitapiola.fi
 api.lahitapiola.fi
+ext-gw.lahitapiola.fi
 *.beta.lahitapiola.fi
 www.lahitapiola.fi
 asiointi.lahitapiola.fi
@@ -3312,9 +3312,9 @@ bma.badoo.com
 translate.badoo.com
 ccardsus1.badoo.com
 bma.bumble.com
+ccardseu1.badoo.com
 us1.badoo.com
 eu1.badoo.com
-ccardseu1.badoo.com
 badoocdn.com
 hotornot.com
 chatdate.app
@@ -3338,11 +3338,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.atspotify.com
 *.avecspotify.com
+*.atspotify.com
 *.enspotify.com
-*.forspotify.com
 *.fromspotify.com
+*.forspotify.com
 *.tospotify.com
 assets.spotify.com
 *.withspotify.com
@@ -3420,8 +3420,8 @@ lifeinvader.com
 circolocorecords.com/
 socialclub.rockstargames.com
 support.rockstargames.com
-*.rockstargames.com
 prod.ros.rockstargames.com
+*.rockstargames.com
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3460,8 +3460,8 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-gift.starbucks.co.jp
 www.starbucks.com.sg
+gift.starbucks.co.jp
 www.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.co.uk
@@ -3523,8 +3523,8 @@ yelptop100.com
 yelptop100.com
 forecastapp.com
 getharvest.com
-harvestapp.com
 id.getharvest.com
+harvestapp.com
 harvestapp.com
 forecastapp.com
 id.getharvest.com
@@ -3541,8 +3541,8 @@ classroom.github.com
 gist.github.com
 npmjs.org
 npmjs.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3611,9 +3611,9 @@ dashboard.algolia.com
 secure-dfadmin.deriv.com
 cashier.deriv.com
 smarttrader.deriv.com
-oauth.deriv.com
-derivws.com
 *.derivws.com
+derivws.com
+oauth.deriv.com
 *.deriv.cloud
 *.binary.com
 app.deriv.com
@@ -3658,8 +3658,8 @@ yourcompany.udemy.com
 shopify.plus
 *.shopifycs.com
 *.shopifykloud.com
-*.shopifycloud.com
 shopifyinbox.com
+*.shopifycloud.com
 arrive-server.shopifycloud.com
 linkpop.com
 *.shopify.io
