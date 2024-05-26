@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 26 14:18:58 UTC 2024)
+## Domains with Bounties (Last Updated Sun May 26 15:22:52 UTC 2024)
 ```
 *.varonis.net
 *.varonis.io
@@ -43,6 +43,7 @@ presentationtracking.netflix.com
 nmtracking.netflix.com
 meechum.netflix.com
 platform.cat.earlywarning.io
+*.clearxchange.com
 earlywarningapi.force.com
 zellepay.force.com
 zelleservice.my.site.com
@@ -51,7 +52,6 @@ platformtest.cat.earlywarning.io
 api.zellepay.com
 *.zelle.com
 api.zmsp.earlywarning.com
-*.clearxchange.com
 *.earlywarning.com
 *.zellepay.com
 *.zellepay.com
@@ -69,15 +69,15 @@ zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
-*.williamhill.us
+*.us.williamhill.com
 api.americanwagering.com
 sportsbook.caesars.com
-*.us.williamhill.com
+*.williamhill.us
 caesarspalaceonline.com
 wsop.com
 williamhill.us
-cms.wsop.com
 www.wsop.com
+cms.wsop.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -424,9 +424,9 @@ media.remitly.io
 partner-webhook.remitly.io
 rates.rewire.com
 app3.rewire.to
-getworldcoin.com
 *.worldcoin-distributors.com
 *.toolsforhumanity.com
+getworldcoin.com
 bioid-management.app
 *.consumer.worldcoin.org
 worldcoin.org
@@ -526,9 +526,6 @@ store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
-api.mercadopago.com
-www.mercadolibre.com.mx
-www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
@@ -537,6 +534,9 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.co
 www.mercadolibre.cl
 www.mercadopago.cl
+www.mercadopago.com.mx
+www.mercadolibre.com.mx
+api.mercadopago.com
 www.mercadolivre.com.br
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
@@ -585,15 +585,15 @@ marketing.fareharbor.com
 accommodations.booking.com
 widget.rentalcars.com
 cars.booking.com
-booking.com
 experiences.booking.com
 demo.fareharbor.com
+teleport.fareharbor.engineering
 account.booking.com
 webhooks.booking.com
 tableau.fareharbor.engineering
 www.fareharbor.com
-teleport.fareharbor.engineering
 *.rentalcars.com
+secure.booking.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -659,8 +659,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -695,8 +695,8 @@ manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-api-sandbox.gocardless.com
 www.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless.io
 *.gocardless-banking.io
@@ -785,7 +785,6 @@ www.visa.co.uk
 visa.co.za
 www.fraedom.com
 www.practicalmoneyskills.org
-www.visa.co.ve
 www.visa.com.ph
 www.visa.com.mx
 www.visa.co.jp
@@ -810,6 +809,7 @@ www.visa.com.cn
 www.cybersource.com
 www.authorize.net
 www.practicalbusinessskills.org
+sandbox.authorize.net
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -919,8 +919,8 @@ phabricator.allizom.org
 developer.mozilla.org
 sync.services.mozilla.com
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
 community-tc.services.mozilla.com
+stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
 monitor.mozilla.org
 relay.firefox.com
@@ -932,8 +932,8 @@ www.mozilla.org
 shavar.services.mozilla.com
 api.profiler.firefox.com
 crash-stats.allizom.org
-support.mozilla.org
 addons.allizom.org
+support.mozilla.org
 accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
@@ -978,8 +978,8 @@ hiltonhotels.jp
 *.hilton.io
 *.hiltonhotels.jp
 *.hiltonbusinessonline.com
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -990,10 +990,10 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hiltonhotels.jp
-*.okg.com
 *.okx.com
 *.oklink.com
 *.okcoin.com
+*.okg.com
 *.okx.com
 *.okcoin.com
 *.oklink.com
@@ -1133,8 +1133,8 @@ uc.8x8pilot.com
 work-staging.8x8.com
 platform.8x8pilot.com
 user-profile-staging.8x8.com
-platform.8x8.com
 sso.8x8pilot.com
+platform.8x8.com
 sso.8x8.com
 *.jitsi.net
 *.jit.si
@@ -1235,6 +1235,7 @@ hv-mtl.com
 *.wenewmoments.com
 dookeydash.com
 hv-mtl.com
+www.vrbo.com
 www.hotwirepartnercentral.com
 *.lastminute.co.nz
 www.bookabach.co.nz
@@ -1251,7 +1252,6 @@ www.flights.com
 www.hotels.com
 *.wotif.com
 *.expediapartnercentral.com
-www.vrbo.com
 *.hotwire.com
 www.orbitz.com
 www.expediapartnersolutions.com
@@ -1345,9 +1345,9 @@ checksw.com
 checksw.com
 royal.checksw.com
 *.cornershopapp.com/*
-*.superpal.com/*
 *.cornershop.io/*
 *.superpal.io/*
+*.superpal.com/*
 *.cornershopapp.com/*
 *.superpal.com/*
 *.cornershop.io/*
@@ -1390,9 +1390,9 @@ business.linkedin.com
 *.wealthsimple.com
 *.wealthsimple.com
 *.simpletax.ca
+www.swoodoo.com
 www.mundi.com.br
 www.checkfelix.com
-www.swoodoo.com
 www.cheapflights.com
 www.hotelscombined.com
 www.momondo.com
@@ -1605,7 +1605,6 @@ twinmotion.unrealengine.com
 *.jellychat.com
 hmxservices.com
 aqtooling.com
-aquiristech.com
 ballistic.com
 ballistic.com.br
 buckingfuggy.com
@@ -1767,10 +1766,10 @@ bridge.codefi.network
 canary.activate.codefi.network
 webhooks-api-experimental.codefi.network
 staking.consensys.io
+app.infura.io
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
 tickets.metamask.io
-app.infura.io
 activate.codefi.network
 activate.codefi.network
 canary.activate.codefi.network
@@ -1845,7 +1844,6 @@ s.reddit.com
 sh.reddit.com
 redditforbusiness.com
 app.spiketrap.io
-*.reddit.com
 mod.reddit.com
 gql.reddit.com
 api.reddit.com
@@ -1860,6 +1858,7 @@ new.reddit.com
 amp.reddit.com
 *.redditmedia.com
 ads.reddit.com
+*.reddit.com
 ads-api.reddit.com
 www.reddit.com
 old.reddit.com
@@ -1918,8 +1917,8 @@ wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
 app.chime.com
-wp-qa.chime.com
 www.chime.com
+wp-qa.chime.com
 *.chimebank.com
 *.1debit.com
 *.chime.com
@@ -1995,8 +1994,8 @@ hackers_chosendomain.larksuite.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-identity.yoti.com
 ccloud.yoti.com
+identity.yoti.com
 core.yoti.com
 code.yoti.com
 www.yotisign.com
@@ -2080,6 +2079,8 @@ api.adm.cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (youriwssubdomain).cloud.com
+partner.tiktokshop.com
+business.tiktok.com
 careers.tiktok.com
 fp-sg.tiktokv.com
 academy-outbound-ads.tiktok.com
@@ -2088,13 +2089,11 @@ shop.tiktok.com
 shop-id.tokopedia.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
-partner.tiktokshop.com
-business.tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 effecthouse.tiktok.com
-www.pangleglobal.com
 affiliate-id.tokopedia.com
+www.pangleglobal.com
 ads.tiktok.com
 *.tiktok.com
 *.tiktokv.com
@@ -2448,10 +2447,10 @@ itv7.itv.com
 *.amazon.co.jp
 *.amazon.co.uk
 *.amazon.com.au
-*.amazon.in
 *.amazon.de
 amazonpayinsurance.in
 *.amazon.com
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2490,9 +2489,9 @@ www.alibabagroup.com
 *.alibabacloud.com
 *.aliyun-inc.com
 *.aliyun.com
-*.alibaba.com
 *.taobao.com
 *.Daraz.com
+*.alibaba.com
 *.alibaba.com
 *.aliexpress.com
 *.taobao.com
@@ -2529,8 +2528,8 @@ maria.casino
 *.storspiller.com
 *.casinohuone.com
 *.highrolling.nu
-*.unibet.fr
 *.kes.kindredext.net
+*.unibet.fr
 *.kolikkopelit.com
 *.kindredext.net
 *.bingo.com
@@ -2672,13 +2671,13 @@ dic.pixiv.net
 payment.pixiv.net
 novel.pixiv.net
 coban.pixiv.net
+www.pixiv.net
 neoket.net
 hub.vroid.com
 accounts.pixiv.net
 *.fanbox.cc
 vroid.com
 booth.pm
-www.pixiv.net
 sketch.pixiv.net
 *.fanbox.cc
 booth.pm
@@ -2842,10 +2841,10 @@ blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 res.hyattinclusivecollection.com
 booking.applevacations.com
+res.en.travelbrandsagent.com
 res.vacations.united.com
 vacations.united.com
 res.vacations.universalstudioshollywood.com
-res.en.travelbrandsagent.com
 www.hyattconnect.com
 res.vacations.discoverycove.com
 assets.hyatt.com
@@ -2933,8 +2932,6 @@ grammarly.ai
 *.grammarlyaws.com
 *.grammarly.com
 grammarly.ai
-sportsbook.fanduel.com
-www.tvg.com
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net
 *.prod.fdbox.net
@@ -2946,18 +2943,18 @@ service.racing.fanduel.com
 4njbets.tvg.com
 4njbets.com
 4njbets.us.betfair.com
-login-4njbets.us.betfair.com
-login-pabets.tvg.com
 mobile-prod.tvg.com
-login-ia.tvg.com
 m.4njbets.tvg.com
 pabets.tvg.com
 login.tvg.com
-login-4ngbets.us.betfair.com
-login.pabets.tvg.com
+www.4njbets.com
 service.tvg.com
 promos.tvg.com
-www.4njbets.com
+login-4njbets.us.betfair.com
+login-pabets.tvg.com
+login-ia.tvg.com
+login-4ngbets.us.betfair.com
+login.pabets.tvg.com
 com.fanduel.android.live
 ia.tvg.com
 fdbox.net
@@ -2965,6 +2962,8 @@ fdbox.net
 fanduel.com
 tvg.com
 us.tvg.com
+sportsbook.fanduel.com
+www.tvg.com
 *.numberfire.com
 *racing.fanduel.com
 *.east.fdbox.net
@@ -3133,9 +3132,6 @@ marquee.gs.com
 *.goldmanpfm.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-api.foliofn.com
-www.rocaton.com
-apigw.foliofn.com
 *.goldmansachs.com
 *.gs.com
 *.goldman.com
@@ -3199,8 +3195,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-tax.crypto.com
 www.crypto.com
+tax.crypto.com
 auth.crypto.com
 pay.crypto.com
 merchant.crypto.com
@@ -3220,8 +3216,8 @@ https://crypto.com/price
 bounty-node.rsk.co
 https://github.com/rsksmart/rsk-powhsm/
 bounty-node.rsk.co
-*.deliveroo.com.hk
 *.deliveroo.com.kw
+*.deliveroo.com.hk
 *.deliveroo.com.qa
 *.deliveroo.ie
 *.deliveroo.com.sg
@@ -3296,11 +3292,11 @@ privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 verkkopalvelu.tapiola.fi
 ext-gw.lahitapiola.fi
-asiointi.lahitapiola.fi
-yrityspalvelu.tapiola.fi
 www.lahitapiola.fi
 secure.lahitapiola.fi
 tunnistus.lahitapiola.fi
+asiointi.lahitapiola.fi
+yrityspalvelu.tapiola.fi
 api.lahitapiola.fi
 *.lahitapiola.fi
 *.beta.lahitapiola.fi
@@ -3409,12 +3405,12 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
 getofficial.co
-*.avecspotify.com
 *.atspotify.com
+*.avecspotify.com
 *.enspotify.com
-*.tospotify.com
-*.fromspotify.com
 *.forspotify.com
+*.fromspotify.com
+*.tospotify.com
 backstage.io
 assets.spotify.com
 *.byspotify.com
@@ -3531,8 +3527,6 @@ www.starbucks.com.br
 openapi.starbucks.com
 card.starbucks.com.sg
 cart.starbucks.co.jp
-www.starbucks.com.cn
-app.starbucks.com
 gift.starbucks.co.jp
 secureui.starbucks.com
 www.starbucks.ca
@@ -3541,9 +3535,11 @@ login.starbucks.co.jp
 www.starbucks.co.uk
 www.starbucksreserve.com
 www.starbucks.com.sg
+www.starbucks.com.cn
+app.starbucks.com
 www.starbucks.com
-www.starbucks.co.kr
 www.starbucks.co.jp
+www.starbucks.co.kr
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3658,10 +3654,10 @@ api.grofers.com
 api2.grofers.com
 winecellar.zomato.com
 *.runnr.in
-blinkit.com
-*.zomans.com
 *.hyperpure.com
+*.zomans.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3961,8 +3957,6 @@ t.umblr.com
 my.pressable.com
 simplenote.com
 simperium.com
-wordpress.com
-*.tumblr.com
 intensedebate.com
 safe.tumblr.com
 assets.tumblr.com
@@ -3971,6 +3965,8 @@ api.tumblr.com
 mailpoet.com
 happy.tools
 akismet.com
+wordpress.com
+*.tumblr.com
 www.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
@@ -4322,10 +4318,10 @@ u.magento.com
 imagine.magento.com
 magentolive.com
 repo.magento.com
+accounts.magento.cloud
 marketplace.magento.com
 account.magento.com
 magento.com
-accounts.magento.cloud
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
