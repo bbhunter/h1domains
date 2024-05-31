@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 12:37:07 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 13:23:30 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -441,8 +441,8 @@ customer-sessions.arkoselabs.com
 portal.arkoselabs.com
 verify.arkoselabs.com
 iframe.arkoselabs.com
-www.arkoselabs.com
 demo.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -556,7 +556,6 @@ www.temu.com
 booking.com
 careers.booking.com
 kyc-onboarding.booking.com
-*.rentalcars.com
 supplier.auth.toag.booking.com
 www.fareharbor.com
 taxi.booking.com
@@ -587,6 +586,7 @@ sites.fareharbor.com
 teleport.fareharbor.engineering
 compass.fareharbor.com
 fhdn.fareharbor.com
+spark.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -1179,18 +1179,18 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.ca
 *.napoleongames.be
 *.superbet.rs
 *.superbet.pl
 *.magicjackpot.ro
-*.spinaway.com
 *.napoleonsports.be
 *.luckydays.com
-*.superbet.ro
 *.napoleondice.be
 *.napoleoncasino.be
 *.superbet.com
+*.spinaway.com
+*.luckydays.ca
+*.superbet.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1815,8 +1815,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.elasticnet.co
 *.eops.nl
-cloud.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -2099,7 +2099,6 @@ api.adm.cloud.com
 careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-*.tiktok.com
 business.tiktok.com
 ads.tiktok.com
 academy-outbound-ads.tiktok.com
@@ -2115,6 +2114,7 @@ shop-id.tokopedia.com
 pay.tokopediax.com
 *.tiktokv.com
 tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2465,7 +2465,6 @@ amazonpayinsurance.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
-*.amazon.com.co
 *.amazon.com.mx
 *.amazon.com.ng
 *.amazon.com.tr
@@ -2486,6 +2485,7 @@ amazonpayinsurance.in
 *.amazon.de
 *.amazon.com.br
 *.amazon.co.uk
+*.amazon.com.co
 *.amazon.com
 *.amazon.in
 *.amazon.cl
@@ -2819,8 +2819,7 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-hyatt.com
-www.hyatt.com
+world.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
@@ -2832,7 +2831,8 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -3080,12 +3080,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
-secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
+secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3134,15 +3134,15 @@ staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
 *.goldmanpfm.com
+*.marcus.co.uk
 research.gs.com
 *.gspublishing.com
 www.rocaton.com
-*.marcus.co.uk
 *.gs.com
 *.goldman.com
-*.goldmansachs.com
 *.marcus.com
 *.honestdollar.com
+*.goldmansachs.com
 *.ayco.com
 *.gsam.com
 *.gsselect.com
@@ -3545,10 +3545,6 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
-app.starbucks.com
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3560,6 +3556,10 @@ www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
 www.starbucks.com
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
+app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3622,7 +3622,6 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 education.github.com
-npmjs.com
 npmjs.org
 api.github.com
 gist.github.com
@@ -3630,6 +3629,7 @@ classroom.github.com
 *.githubapp.com
 *.githubusercontent.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3749,12 +3749,12 @@ arrive-server.shopifycloud.com
 *.shopify.com
 your-store.myshopify.com
 partners.shopify.com
-accounts.shopify.com
 *.shopifycloud.com
 linkpop.com
 shopifyinbox.com
 shop.app
 *.shopifycs.com
+accounts.shopify.com
 admin.shopify.com
 *.shopifycs.com
 *.shopify.io
@@ -3880,7 +3880,6 @@ callbacks.airbnb.com
 *.airbnb.com
 *.airbnbcitizen.com
 *.atairbnb.com
-*.withairbnb.com
 *.byairbnb.com
 *.muscache.com
 *.airbnb-aws.com
@@ -3888,6 +3887,7 @@ callbacks.airbnb.com
 *.hoteltonight-test.com
 www.hoteltonight.com
 *.hoteltonight.com
+*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -4111,11 +4111,11 @@ hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 api.hackerone.com
-errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
-www.hackerone.com
+errors.hackerone.net
 app.pullrequest.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4141,11 +4141,11 @@ cover-photos-us-east-2.hackerone-user-content.com
 hackerone.live
 *.vpn.hackerone.net
 williamhill.us
-*.williamhill.us
 *.us.williamhill.com
-sportsbook.caesars.com
 api.americanwagering.com
 caesarspalaceonline.com
+sportsbook.caesars.com
+*.williamhill.us
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
@@ -4365,15 +4365,15 @@ www.smartsheet.com
 *legal.trustpilot.com
 https://github.com/evolveum/midpoint
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
+marketplace.magento.com
+magentocommerce.com
+repo.magento.com
+magento.com
 account.magento.com
 u.magento.com
 imagine.magento.com
 magentolive.com
 accounts.magento.cloud
-marketplace.magento.com
-magentocommerce.com
-repo.magento.com
-magento.com
 marketplace.magento.com
 magentocommerce.com
 repo.magento.com
