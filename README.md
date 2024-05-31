@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 13:23:30 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 14:19:54 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -451,8 +451,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.analvids.com
@@ -480,9 +480,9 @@ account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
+app.dynamic-preprod.xyz
 app.dynamic-preprod.xyz
 demo.dynamic.xyz
 app.dynamic.xyz
@@ -531,10 +531,10 @@ www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mercadopago.cl
 www.mercadolivre.com.br
-www.mercadopago.com.ar
 www.mercadopago.com.br
-api.mercadolibre.com
 www.mercadolibre.cl
+www.mercadopago.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -586,7 +586,7 @@ sites.fareharbor.com
 teleport.fareharbor.engineering
 compass.fareharbor.com
 fhdn.fareharbor.com
-spark.fareharbor.com
+tableau.fareharbor.engineering
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -729,13 +729,13 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
-testapp.redoxengine.com
 testapi.redoxengine.com
 docs.redoxengine.com
 fhir.redoxengine.com
 explore.redoxengine.com
 www.redoxengine.com
 help.redoxengine.com
+testapp.redoxengine.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -890,8 +890,8 @@ app.krisha.kz
 api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
-kolesa.kz
 m.kolesa.kz
+kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -1182,15 +1182,15 @@ admin.8x8.com
 *.napoleongames.be
 *.superbet.rs
 *.superbet.pl
-*.magicjackpot.ro
 *.napoleonsports.be
 *.luckydays.com
 *.napoleondice.be
 *.napoleoncasino.be
-*.superbet.com
 *.spinaway.com
 *.luckydays.ca
+*.superbet.com
 *.superbet.ro
+*.magicjackpot.ro
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1380,8 +1380,8 @@ dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
 invoices.razorpay.com
-x.razorpay.com
 payroll.razorpay.com
+x.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1426,13 +1426,13 @@ ws.sorare.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
-my.exness.com
 pay.ibex.exchange
 exnessaffiliates.com
 social-trading.exness.com
 pwapi.ex2b.com
 api.excalls.mobi
 exness.com
+my.exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1851,7 +1851,6 @@ www.urbancompany.com
 www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
-www.reddit.com
 old.reddit.com
 new.reddit.com
 *.redditinc.com
@@ -1879,6 +1878,7 @@ www.spiketrap.io
 redditforbusiness.com
 matrix.redditspace.com
 ads.reddit.com
+www.reddit.com
 *.snooguts.net
 *.redditmedia.com
 *.reddit.com
@@ -2100,7 +2100,6 @@ careers.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
 business.tiktok.com
-ads.tiktok.com
 academy-outbound-ads.tiktok.com
 www.pangleglobal.com
 live-backstage.tiktok.com
@@ -2112,8 +2111,9 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-*.tiktokv.com
+ads.tiktok.com
 tiktok.com
+*.tiktokv.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2184,9 +2184,9 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
+account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
-account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2461,13 +2461,11 @@ itv7.itv.com
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-amazonpayinsurance.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
 *.amazon.com.mx
 *.amazon.com.ng
-*.amazon.com.tr
 *.amazon.pl
 *.amazon.com.be
 *.amazon.ae
@@ -2483,11 +2481,13 @@ amazonpayinsurance.in
 *.amazon.cn
 *.amazon.co.jp
 *.amazon.de
-*.amazon.com.br
 *.amazon.co.uk
+*.amazon.com.br
 *.amazon.com.co
-*.amazon.com
+amazonpayinsurance.in
+*.amazon.com.tr
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2562,7 +2562,6 @@ www.32red.com
 unibet.me
 maria.casino
 www.32red.com
-homes-and-villas.marriott.com
 all-inclusive.marriott.com
 reservations.all-inclusive.marriott.com
 marrtool.com
@@ -2588,6 +2587,7 @@ traveler.marriott.com
 travelagents.marriott.com/
 mipartnerprivileges.marriott.com
 *uat.marriott.com
+homes-and-villas.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2819,7 +2819,8 @@ dashboard.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
-world.hyatt.com
+hyatt.com
+www.hyatt.com
 assets.hyatt.com
 salesportal.hyatt.com
 meetings.hyatt.com
@@ -2831,8 +2832,7 @@ roominglist.hyatt.com
 soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
-hyatt.com
-www.hyatt.com
+world.hyatt.com
 newsroom.images.hyatt.com
 www.hyattconnect.com
 jira.hyattdev.com
@@ -3080,12 +3080,12 @@ loanbuilder.com
 swiftfinancial.com
 swiftcapital.com
 *.mmcdn.com
+secure.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 m.chaturbate.com
 *.securegatewayaccess.com
 billingsupport.chaturbate.com
-secure.chaturbate.com
 *.cb.dev
 *.mmwebc.dev
 *.highwebmedia.com
@@ -3134,15 +3134,15 @@ staging-shoppingcart.shipt.com
 shoppingcart.shipt.com
 www.shipt.com
 *.goldmanpfm.com
-*.marcus.co.uk
 research.gs.com
 *.gspublishing.com
 www.rocaton.com
+*.marcus.co.uk
 *.gs.com
 *.goldman.com
+*.goldmansachs.com
 *.marcus.com
 *.honestdollar.com
-*.goldmansachs.com
 *.ayco.com
 *.gsam.com
 *.gsselect.com
@@ -3674,10 +3674,10 @@ advisories.gitlab.com
 winecellar.zomato.com
 *.zdev.net
 *.hyperpure.com
-*.runnr.in
 api.grofers.com
 api2.grofers.com
 blinkit.com
+*.runnr.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3703,8 +3703,8 @@ derivws.com
 secure-dfadmin.deriv.com
 oauth.deriv.com
 api.deriv.com
-*.deriv.com
 *.derivws.com
+*.deriv.com
 app.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3745,17 +3745,17 @@ yourcompany.udemy.com
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifykloud.com
-*.shopify.io
-*.shopify.com
 your-store.myshopify.com
 partners.shopify.com
+*.shopify.io
+*.shopify.com
 *.shopifycloud.com
 linkpop.com
 shopifyinbox.com
 shop.app
 *.shopifycs.com
-accounts.shopify.com
 admin.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3841,7 +3841,6 @@ account.ui.com
 fw-update.ubnt.com
 rma.ui.com
 design.ui.com
-uisp.com
 unifi.ui.com
 careers.ui.com
 ispdesign.ui.com
@@ -3973,6 +3972,7 @@ api.cloudflare.com
 *.cloudflare.com
 *.cloudflarepartners.com
 one.dash.cloudflare.com
+waf.cumulusfire.net
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -4107,15 +4107,15 @@ reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 *.vpn.hackerone.net
-hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
 api.hackerone.com
-cover-photos-us-east-2.hackerone-user-content.com
 errors.hackerone.net
+cover-photos-us-east-2.hackerone-user-content.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.live
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
@@ -4144,8 +4144,8 @@ williamhill.us
 *.us.williamhill.com
 api.americanwagering.com
 caesarspalaceonline.com
-sportsbook.caesars.com
 *.williamhill.us
+sportsbook.caesars.com
 *.us.williamhill.com
 *.williamhill.us
 sportsbook.caesars.com
