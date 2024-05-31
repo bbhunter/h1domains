@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 31 11:19:40 UTC 2024)
+## Domains with Bounties (Last Updated Fri May 31 12:37:07 UTC 2024)
 ```
 api.circle.com
 app.circle.com
@@ -529,12 +529,12 @@ www.mercadopago.com.mx
 www.mercadopago.com.co
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mercadolibre.cl
 www.mercadopago.cl
 www.mercadolivre.com.br
+www.mercadopago.com.ar
 www.mercadopago.com.br
 api.mercadolibre.com
-www.mercadopago.com.ar
+www.mercadolibre.cl
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -556,7 +556,6 @@ www.temu.com
 booking.com
 careers.booking.com
 kyc-onboarding.booking.com
-*.booking.com
 *.rentalcars.com
 supplier.auth.toag.booking.com
 www.fareharbor.com
@@ -587,6 +586,7 @@ marketing.fareharbor.com
 sites.fareharbor.com
 teleport.fareharbor.engineering
 compass.fareharbor.com
+fhdn.fareharbor.com
 *.booking.com
 *.rentalcars.com
 *.fareharbor.engineering
@@ -890,8 +890,8 @@ app.krisha.kz
 api.avtoelon.uz
 app.avtoelon.uz
 id.avtoelon.uz
-m.kolesa.kz
 kolesa.kz
+m.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -917,7 +917,6 @@ monitor.mozilla.org
 www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
-accounts.firefox.com
 profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
@@ -939,6 +938,7 @@ mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
 push.services.mozilla.com
 sync.services.mozilla.com
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1095,10 +1095,10 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-www.s-pankki.fi
+online.s-pankki.fi
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-online.s-pankki.fi
+www.s-pankki.fi
 www.s-kaupat.fi
 tunnistus.s-ryhma.fi
 digili.s-cloud.fi
@@ -1179,18 +1179,18 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-*.luckydays.com
 *.luckydays.ca
-*.napoleoncasino.be
 *.napoleongames.be
-*.napoleonsports.be
 *.superbet.rs
-*.superbet.com
 *.superbet.pl
 *.magicjackpot.ro
 *.spinaway.com
+*.napoleonsports.be
+*.luckydays.com
 *.superbet.ro
 *.napoleondice.be
+*.napoleoncasino.be
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1414,9 +1414,9 @@ www.cheapflights.com
 www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
-sorare.com
 api.sorare.com
 ws.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1614,7 +1614,6 @@ api.evernote.com
 *.oncatapult.com
 *.fallguys.com
 *.mediatonic.co.uk
-*.artstation.com
 *.easy.ac
 *.psyonix.com
 *.unrealengine.com
@@ -1623,6 +1622,7 @@ metahuman.unrealengine.com
 twinmotion.unrealengine.com
 *.sketchfab.com
 *.quixel.com
+*.superawesome.com
 *.rocketleague.com
 *.psynet.gg
 *.unrealtournament.com
@@ -2184,9 +2184,9 @@ api.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
+account.acronis.com
 *.5nine.com
 *.devicelock.com
 *.acronis.com
@@ -2465,7 +2465,6 @@ amazonpayinsurance.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
-*.amazon.com.br
 *.amazon.com.co
 *.amazon.com.mx
 *.amazon.com.ng
@@ -2474,8 +2473,6 @@ amazonpayinsurance.in
 *.amazon.com.be
 *.amazon.ae
 *.amazon.ca
-*.amazon.co.uk
-*.amazon.de
 *.amazon.eg
 *.amazon.es
 *.amazon.fr
@@ -2484,10 +2481,13 @@ amazonpayinsurance.in
 *.amazon.sa
 *.amazon.se
 *.amazon.sg
-*.amazon.co.jp
 *.amazon.cn
-*.amazon.in
+*.amazon.co.jp
+*.amazon.de
+*.amazon.com.br
+*.amazon.co.uk
 *.amazon.com
+*.amazon.in
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2621,8 +2621,8 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2654,8 +2654,8 @@ app.nordpass.com
 *.line-apps.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -3202,9 +3202,9 @@ api.foliofn.com
 *.folioinvesting.com
 playartifact.com
 help.steampowered.com
-developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
+developer.valvesoftware.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3545,6 +3545,10 @@ https://enterprise-demo.portswigger.net/
 www.starbucks.co.kr
 card.starbucks.com.sg
 www.starbucks.com.sg
+app.starbucks.com
+cart.starbucks.co.jp
+openapi.starbucks.com
+secureui.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3556,10 +3560,6 @@ www.starbucks.co.uk
 www.starbucks.com.br
 www.starbucks.ca
 www.starbucks.com
-cart.starbucks.co.jp
-openapi.starbucks.com
-secureui.starbucks.com
-app.starbucks.com
 www.starbucksreserve.com
 gift.starbucks.co.jp
 login.starbucks.co.jp
@@ -3745,11 +3745,11 @@ yourcompany.udemy.com
 shopify.plus
 arrive-server.shopifycloud.com
 *.shopifykloud.com
+*.shopify.io
+*.shopify.com
 your-store.myshopify.com
 partners.shopify.com
 accounts.shopify.com
-*.shopify.io
-*.shopify.com
 *.shopifycloud.com
 linkpop.com
 shopifyinbox.com
@@ -3800,8 +3800,8 @@ rt.playcanvas.com
 store.playcanvas.com
 playcanv.as
 *.sc-corp.net
-accounts.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -4103,7 +4103,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
-app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4111,10 +4110,11 @@ hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
-errors.hackerone.net
 api.hackerone.com
+errors.hackerone.net
 cover-photos-us-east-2.hackerone-user-content.com
 www.hackerone.com
+app.pullrequest.com
 hackerone.com
 hackerone.com
 api.hackerone.com
