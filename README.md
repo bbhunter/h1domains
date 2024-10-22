@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 22 19:21:58 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 22 20:21:55 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
