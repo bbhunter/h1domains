@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 22 21:19:25 UTC 2024)
+## Domains with Bounties (Last Updated Tue Oct 22 22:20:19 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -38,8 +38,8 @@ anthem.khealth.com
 api.khealth.com
 *.capitalone.ca
 *.capitalonegslbex.com
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -201,6 +201,7 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
+www.dyson.pt
 api.dyson.be
 api.dyson.de
 www.dyson.ie
@@ -212,7 +213,6 @@ www.dyson.nl
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
-www.dyson.pl
 www.dyson.no
 *.dyson.com
 www.dyson.co.uk
@@ -511,9 +511,9 @@ rates.rewire.com
 blog.remitly.com
 site.rewire.com
 auth.remitly.com
+rewire.com
 app.rewire.to
 remitly.com
-rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -570,8 +570,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.analvids.com
 www.ddfcontent.com
+www.analvids.com
 www.pornbox.com
 www.pornworld.com
 www.pornbox.com
@@ -644,8 +644,8 @@ www.mercadopago.cl
 www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
-www.mercadolivre.com.br
 www.mercadolibre.cl
+www.mercadolivre.com.br
 api.mercadopago.com
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -685,15 +685,15 @@ autocomplete.booking.com
 widget.rentalcars.com
 cars.booking.com
 teleport.fareharbor.engineering
+chat.booking.com
 readonly.fareharbor.com
 demo.fareharbor.com
-sites.fareharbor.com
 spark.fareharbor.com
-chat.booking.com
+sites.fareharbor.com
 taxi.booking.com
 www.fareharbor.com
-portal.taxi.booking.com
 fhdn.fareharbor.com
+portal.taxi.booking.com
 fareharborsites.com
 flights.booking.com
 *.fareharbor.com
@@ -788,13 +788,13 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
-manage-sandbox.gocardless.com
 www.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -886,7 +886,9 @@ visa.co.ni
 www.visa.co.nz
 www.visa.co.th
 www.fraedom.com
-bd.visa.com
+www.visa.com.cn
+cw.visa.com
+www.visa.com.sg
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
@@ -895,9 +897,7 @@ developer.authorize.net
 bm.visa.com
 www.authorize.net
 www.visa.com.tr
-www.visa.com.sg
-www.visa.com.cn
-cw.visa.com
+bd.visa.com
 aw.visa.com
 www.yellowpepper.com
 www.visa.com.mx
@@ -995,8 +995,8 @@ api.avtoelon.uz
 kolesa.kz
 api.krisha.kz
 api.kolesa.kz
-id.avtoelon.uz
 krisha.kz
+id.avtoelon.uz
 m.kolesa.kz
 m.krisha.kz
 id.kolesa.kz
@@ -1088,8 +1088,8 @@ hiltonhotels.jp
 *.hiltonbusinessonline.com
 hiltonlocalbiz.com
 hilton.io
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1199,10 +1199,10 @@ cloud.malwarebytes.com
 oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
-api.sokos.fi
-www.prisma.fi
-cfapi.voikukka.fi
 www.s-pankki.fi
+www.prisma.fi
+api.sokos.fi
+cfapi.voikukka.fi
 digili.s-cloud.fi
 tunnistus.s-ryhma.fi
 www.sokos.fi
@@ -1297,10 +1297,10 @@ moonpay.com
 app.moonpay.com
 sell.moonpay.com
 api.moonpay.com
-*.moonpay.com
 web3.moonpay.com
 *.hypermint.com
 buy.moonpay.com
+*.moonpay.com
 *.moonpaycloud.com
 *.hypermint.com
 *.moonpay.com
@@ -1354,11 +1354,11 @@ www.lastminute.com.au
 www.travelocity.ca
 *.vrbo.com
 www.orbitz.com
-www.expediagroup.com
 www.lastminute.co.nz
 *.expediacruises.com
 www.wotif.com
 bookus.expediacruises.com
+www.expediagroup.com
 *.wotif.com
 www.travelocity.com
 *.lastminute.co.nz
@@ -1450,22 +1450,4 @@ royal.checksw.com
 checksw.com
 checksw.com
 royal.checksw.com
-*.superpal.com/*
-*.cornershop.io/*
-*.superpal.io/*
-*.cornershopapp.com/*
-*.cornershopapp.com/*
-*.superpal.com/*
-*.cornershop.io/*
-*.superpal.io/*
-m.trendyol.com
-www.trendyol-milla.com
-www.dolap.com
-www.trendyol.com
-www.trendyol.com
-m.trendyol.com
-www.dolap.com
-www.trendyol-milla.com
-*.sidefx.com
-*.sidefx.com
 ```
