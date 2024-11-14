@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 14 19:20:08 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 14 20:26:26 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -42,8 +42,8 @@ anthem.khealth.com
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -623,8 +623,8 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 payments.hostinger.com
-cpanel.hostinger.com
 builder.hostinger.com
+cpanel.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
 www.hostinger.com
@@ -663,11 +663,11 @@ www.mercadolibre.com.co
 www.mercadopago.com.ar
 www.mercadolibre.com.ar
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.br
-www.mercadolivre.com.br
 www.mercadopago.com.co
 www.mercadolibre.cl
+www.mercadolivre.com.br
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -704,10 +704,10 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-spark.fareharbor.com
-sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+sites.fareharbor.com
+spark.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -1109,8 +1109,8 @@ hilton.io
 *.hilton.io
 *.hiltonhotels.jp
 *.hiltonbusinessonline.com
-hilton.com
 *.hilton.com
+hilton.com
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1181,8 +1181,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1681,8 +1681,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1911,9 +1911,9 @@ https://www.xvideos.net/app/
 *.found.io
 *.elstc.co
 *.swiftype.com
-cloud.elastic.co
 www.elastic.co
 *.elastic.co
+cloud.elastic.co
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1965,9 +1965,9 @@ m.reddit.com
 *.snooguts.net
 ads.reddit.com
 *.memorable.io
-api.reddit.com
-business.reddithelp.com
 *.reddit.com
+business.reddithelp.com
+api.reddit.com
 sh.reddit.com
 developers.reddit.com
 *.snooguts.net
@@ -2024,8 +2024,8 @@ saltlabs.com
 *.1debit.com
 www.chime.com
 wp-dev5.chime.com
-*.chimebank.com
 app.chime.com
+*.chimebank.com
 app.staging.saltlabs.com
 *.chime.com
 *.saltlabs.com
@@ -2185,8 +2185,8 @@ www.pangleglobal.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
 careers.tiktok.com
-affiliate-id.tokopedia.com
 *.tiktok.com
+affiliate-id.tokopedia.com
 *.tiktokv.com
 business.tiktok.com
 tiktok.com
@@ -2211,6 +2211,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2256,9 +2257,9 @@ api.faraday.ai
 *.devicelock.com
 *.acronis.work
 *.5nine.com
-*.acronis.com
 account.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2552,13 +2553,13 @@ amazonpayinsurance.in
 *.amazon.ca
 *.amazon.com.tr
 *.amazon.ae
-*.amazon.co.uk
 *.amazon.fr
+*.amazon.co.uk
 *.amazon.com.br
-*.amazon.com
 *.amazon.in
-*.amazon.cn
 *.amazon.de
+*.amazon.cn
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2623,8 +2624,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 traveler.marriott.com
@@ -2889,17 +2890,17 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-res.hyattinclusivecollection.com
-jira.hyattdev.com
-res.funjet.com
-new.www.vaxvacationaccess.com
-res.universalorlandovacations.com
-www.funjet.com
-res.vacations.united.com
-www.hyattinclusivecollection.com
-www.beachbound.com
 book.beachbound.com
 www.triseptsolutions.com
+www.funjet.com
+res.universalorlandovacations.com
+res.vacations.united.com
+res.hyattinclusivecollection.com
+res.funjet.com
+jira.hyattdev.com
+new.www.vaxvacationaccess.com
+www.hyattinclusivecollection.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
@@ -3070,9 +3071,9 @@ my.loanbuilder.com
 www.swiftcapital.com
 *.braintree.tools
 swiftcapital.com
-paypal.me
 swiftfinancial.com
 loanbuilder.com
+paypal.me
 my.swiftfinancial.com
 *.braintreepayments.com
 *.venmo.com
@@ -3080,11 +3081,11 @@ paypalobjects.com
 *.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
-sandbox.braintreegateway.com
 *.braintree-api.com
+sandbox.braintreegateway.com
 *.paylution.com
-*.hyperwallet.com
 *.xoom.com
+*.hyperwallet.com
 *.braintreegateway.com
 *.paypal.com
 *.xoom.com
@@ -3181,8 +3182,8 @@ research.gs.com
 apigw.foliofn.com
 *.advisorsolutions.gs.com
 *.foliodigitalwealth.com
-*.honestdollar.com
 *.gspublishing.com
+*.honestdollar.com
 api.foliofn.com
 *.vennhypotheken.nl
 *.gs-mosaic.qa.gs.com
@@ -3227,8 +3228,8 @@ developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
 api.steampowered.com
-partner.steampowered.com
 www.dota2.com
+partner.steampowered.com
 partner.steamgames.com
 www.valvesoftware.com
 store.steampowered.com
@@ -3254,10 +3255,10 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
-*.crypto.com
-developer-platform-api.crypto.com
-web.crypto.com
 www.crypto.com
+developer-platform-api.crypto.com
+*.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 www.crypto.com
@@ -3341,10 +3342,10 @@ jira.grab.com
 grab.careers
 *.grab.co
 gifts.grab.com
-api.grabpay.com
-*.taralite.com
 *.ovo.id
 *.grab.com
+api.grabpay.com
+*.taralite.com
 *.myteksi.net
 *.myteksi.com
 *.myteksi.net
@@ -3522,8 +3523,8 @@ secureui.starbucks.com
 openapi.starbucks.com
 www.starbucks.ca
 www.starbucksreserve.com
-www.starbucks.com
 app.starbucks.com
+www.starbucks.com
 www.starbucksreserve.com
 www.starbucks.ca
 www.starbucks.com
@@ -3710,20 +3711,20 @@ www.bitstrips.com
 scan.snapchat.com
 code.playcanvas.com
 store.playcanvas.com
+story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 developer.playcanvas.com
 launch.playcanvas.com
 store.snapchat.com
-story.snapchat.com
 login.playcanvas.com
 *.sc-corp.net
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 www.bitmoji.com
 businesshelp.snapchat.com
 playcanv.as
@@ -3860,7 +3861,6 @@ www.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3990,8 +3990,8 @@ commerce.coinbase.com
 coinbase.com
 api.coinbase.com
 *.base.org
-prime.coinbase.com
 *.cbhq.net
+prime.coinbase.com
 *.coinbase.com
 *.coinbase.com
 *.cbhq.net
@@ -4055,8 +4055,8 @@ errors.hackerone.net
 profile-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 hackerone.live
-app.pullrequest.com
 ctf.hacker101.com
+app.pullrequest.com
 a5s.hackerone-ext-content.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 www.wearehackerone.com
