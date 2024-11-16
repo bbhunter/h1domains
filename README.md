@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 16 12:37:52 UTC 2024)
+## Domains with Bounties (Last Updated Sat Nov 16 13:24:47 UTC 2024)
 ```
 connect.secure.wellsfargo.com
 *.wellsfargo.com
@@ -40,10 +40,10 @@ http://clinical-quality.khealth.com/api/v1
 middle-force.khealth.io
 anthem.khealth.com
 api.khealth.com
-*.capitalone.ca
 *.capitalonegslbex.com
-*.capitaloneshopping.com
+*.capitalone.ca
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -90,9 +90,9 @@ bal.nba.com
 2kleague.nba.com
 gleague.nba.com
 stats.nba.com
-cms.nba.com
 identity.nba.com
 www.nba.com
+cms.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -122,9 +122,9 @@ login.insightly.com
 mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
-api.circle.com
 app.circle.com
 console.circle.com
+api.circle.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -525,8 +525,8 @@ cards.remitly.io
 auth.remitly.com
 app.rewire.to
 blog.remitly.com
-remitly.com
 api.remitly.io
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -556,10 +556,10 @@ getworldcoin.com
 id.worldcoin.org
 worldcoin.org
 *.worldcoin.dev
-*.consumer.worldcoin.org
-*.toolsforhumanity.com
 *.worldcoin.org
 developer.worldcoin.org
+*.consumer.worldcoin.org
+*.toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -572,8 +572,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 iframe.arkoselabs.com
 demo.arkoselabs.com
 cdn.arkoselabs.com
@@ -624,9 +624,9 @@ app.dynamic.xyz
 demo.dynamic.xyz
 payments.hostinger.com
 cpanel.hostinger.com
-builder.hostinger.com
 hpanel.hostinger.com
 www.hostinger.com
+builder.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -639,9 +639,9 @@ therapeutics.23andme.com
 store.23andme.com
 mediacenter.23andme.com
 auth.23andme.com
-you.23andme.com
 medical.23andme.com
 api.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -659,14 +659,14 @@ www.mercadolibre.com.uy
 www.mercadolibre.com.pe
 www.mercadopago.com.pe
 www.mercadolibre.com.co
-api.mercadopago.com
 www.mercadolibre.com.ar
+api.mercadopago.com
 www.mercadopago.com.co
 www.mercadopago.com.br
 www.mercadolibre.cl
+api.mercadolibre.com
 www.mercadopago.com.ar
 www.mercadolivre.com.br
-api.mercadolibre.com
 www.mercadopago.cl
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -706,8 +706,8 @@ widget.rentalcars.com
 teleport.fareharbor.engineering
 readonly.fareharbor.com
 demo.fareharbor.com
-sites.fareharbor.com
 spark.fareharbor.com
+sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -807,8 +807,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 www.gocardless.com
@@ -905,9 +905,9 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
+developer.authorize.net
 bm.visa.com
 www.authorize.net
-developer.authorize.net
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -1043,8 +1043,8 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 sync.services.mozilla.com
 vpn.mozilla.org
 push.services.mozilla.com
-phabricator.allizom.org
 addons.allizom.org
+phabricator.allizom.org
 lando.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
@@ -1182,8 +1182,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-api.skinport.com
 app.skinport.com
+api.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1202,11 +1202,11 @@ oneview.malwarebytes.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
 *.malwarebytes.com
-www.malwarebytes.com
 *.mwbsys.com
 *.mbamupdates.com
 my.malwarebytes.com
 *.threatdown.com
+www.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1219,40 +1219,4 @@ www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
 oneview.malwarebytes.com
-mobile.s-pankki.fi
-extranet.s-pankki.fi
-digili.s-cloud.fi
-tunnistus.s-ryhma.fi
-www.s-kaupat.fi
-www.prisma.fi
-api.sokos.fi
-cfapi.voikukka.fi
-www.sokos.fi
-www.s-pankki.fi
-online.s-pankki.fi
-online.s-pankki.fi
-www.s-pankki.fi
-https://crosskey.io/stores/s-pankki/apis
-mobile.s-pankki.fi
-www.s-kaupat.fi
-extranet.s-pankki.fi
-tunnistus.s-ryhma.fi
-digili.s-cloud.fi
-www.prisma.fi
-www.sokos.fi
-api.sokos.fi
-cfapi.voikukka.fi
-jobs.kiwi.com
-tequila.kiwi.com
-auth.skypicker.com
-*.skypicker.com
-www.kiwi.com
-*.kiwi.com
-*.kiwi.com
-*.skypicker.com
-www.kiwi.com
-auth.skypicker.com
-tequila.kiwi.com
-http://www.kiwi.com/stories
-jobs.kiwi.com
 ```
