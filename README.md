@@ -2,11 +2,10 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 21 16:30:46 UTC 2024)
+## Domains with Bounties (Last Updated Thu Nov 21 17:22:35 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
-auth.pab.porsche.com
 es.porsche.com
 investorrelations.porsche.de
 pab.porsche.com
@@ -53,6 +52,7 @@ xn--porsche-schwbisch-gmnd-c5b89c.de
 xn--porsche-wrzburg-7vb.de
 porscheengineering.com
 connect-store.porsche.com
+skyway.porsche.com
 api-frontend.pab.porsche.com
 api.emea.gravity.porsche.com
 api.pab.porsche.com
@@ -193,8 +193,8 @@ anthem.khealth.com
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -243,8 +243,8 @@ id.nba.com
 cdn.nba.com
 identity.nba.com
 cms.nba.com
-bal.nba.com
 www.nba.com
+bal.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -260,11 +260,11 @@ stats.nba.com
 identity.nba.com
 outlook.insightly.com
 marketing.na1.insightly.com
-mobileapi.na1.insightly.com
 mobileapi.insightly.com
 login.insightly.com
 accounts.insightly.com
 crm.na1.insightly.com
+mobileapi.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -669,16 +669,16 @@ news.remitly.com
 access.remitly.com
 site.rewire.com
 ir.remitly.com
-app3.rewire.to
 *.int.remitly.com
 cards.remitly.io
 blog.remitly.com
 rewire.com
-remitly.com
-careers.remitly.com
 auth.remitly.com
 app.rewire.to
+remitly.com
+careers.remitly.com
 api.remitly.io
+app3.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -724,8 +724,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-portal.arkoselabs.com
 verify.arkoselabs.com
+portal.arkoselabs.com
 iframe.arkoselabs.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
@@ -961,8 +961,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -1000,8 +1000,8 @@ launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -1203,8 +1203,8 @@ lando.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
 merino.services.mozilla.com
-profiler.firefox.com
 firefox-ci-tc.services.mozilla.com
+profiler.firefox.com
 hg.mozilla.org
 community-tc.services.mozilla.com
 aus5.mozilla.org
@@ -1468,8 +1468,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-*.hypermint.com
 sell.moonpay.com
+*.hypermint.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1500,8 +1500,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
 *.boredapeyachtclub.com
-*.otherside.xyz
 *.cryptopunks.app
+*.otherside.xyz
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1587,8 +1587,8 @@ zerobounce.net
 tools.deribit.com
 pb.deribit.com
 metrics.deribit.com
-*.deribit.com
 insights.deribit.com
+*.deribit.com
 test.deribit.com
 *.deribit.com
 test.deribit.com
@@ -1599,8 +1599,8 @@ metrics.deribit.com
 read.amazon.com
 a4k.amazon.com
 skills-store.amazon.com
-alexaanswers.amazon.com
 creator.amazon.com
+alexaanswers.amazon.com
 alexa.amazon.com
 blueprints.amazon.com
 read.amazon.com
@@ -1671,8 +1671,8 @@ www.momondo.com
 www.checkfelix.com
 www.cheapflights.com
 business.kayak.com
-www.swoodoo.com
 www.hotelscombined.com
+www.swoodoo.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1801,9 +1801,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
-support.databricks.com
 advocates.databricks.com
 docs.databricks.com
+support.databricks.com
 kb.databricks.com
 labs.databricks.com
 community.databricks.com
@@ -1833,9 +1833,9 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 krisp.ai
 api.krisp.ai
@@ -1876,7 +1876,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
+aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2094,9 +2094,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 matrix.redditspace.com
 *.redditinc.com
 mod.reddit.com
@@ -2115,9 +2115,9 @@ sh.reddit.com
 *.redditmedia.com
 *.reddit.com
 *.spiketrap.io
-business.reddithelp.com
 developers.reddit.com
 ads.reddit.com
+business.reddithelp.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2249,8 +2249,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2405,8 +2405,8 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 *.acronis.work
-account.acronis.com
 beta-cloud.acronis.com
+account.acronis.com
 *.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2581,7 +2581,6 @@ social.playstation.com
 wallets.api.playstation.com
 my.playstation.com
 *.api.playstation.com
-*.sonyentertainmentnetwork.com
 direct.playstation.com
 transact.playstation.com
 my.account.sony.com
@@ -2589,6 +2588,7 @@ store.playstation.com
 api.direct.playstation.com
 ca.account.sony.com
 *.playstation.net
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2701,13 +2701,13 @@ amazonpayinsurance.in
 *.amazon.sa
 *.amazon.co.uk
 *.amazon.ca
-*.amazon.in
 *.amazon.co.jp
 *.amazon.fr
 *.amazon.de
-*.amazon.com
 *.amazon.ae
+*.amazon.in
 *.amazon.cn
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3053,6 +3053,7 @@ login.en.travelbrandsagent.com
 vacations.united.com
 www.cheapcaribbean.com
 res.en.travelbrandsagent.com
+res.skyteam.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3223,7 +3224,6 @@ swiftfinancial.com
 loanbuilder.com
 my.swiftfinancial.com
 paypalobjects.com
-*.paypalcorp.com
 *.paydiant.com
 api.loanbuilder.com
 sandbox.braintreegateway.com
@@ -3236,6 +3236,7 @@ paypal.me
 *.hyperwallet.com
 *.braintree-api.com
 *.paypal.com
+*.paypalcorp.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3483,9 +3484,9 @@ wiki.grab.com
 kartaview.org
 manage.grab.co
 *.grab-sure.com
+*.grabpay.com
 *.grab.co
 gifts.grab.com
-*.grabpay.com
 api.grabpay.com
 *.taralite.com
 *.grabtaxi.com
@@ -3671,8 +3672,8 @@ secureui.starbucks.com
 openapi.starbucks.com
 www.starbucksreserve.com
 www.starbucks.com
-www.starbucks.ca
 app.starbucks.com
+www.starbucks.ca
 www.starbucksreserve.com
 www.starbucks.ca
 www.starbucks.com
@@ -3689,8 +3690,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3766,11 +3767,11 @@ advisories.gitlab.com
 winecellar.zomato.com
 api2.grofers.com
 api.grofers.com
-*.hyperpure.com
 *.zomans.com
 *.runnr.in
-blinkit.com
 *.zomato.com
+*.hyperpure.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3794,8 +3795,8 @@ cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
 derivws.com
-api.deriv.com
 smarttrader.deriv.com
+api.deriv.com
 app.deriv.com
 *.binary.com
 *.deriv.com
@@ -3834,11 +3835,11 @@ arrive-server.shopifycloud.com
 *.shopifycs.com
 your-store.myshopify.com
 shop.app
-accounts.shopify.com
 *.shopifycloud.com
+accounts.shopify.com
 *.shopify.io
-*.shopify.com
 admin.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3920,7 +3921,6 @@ story.snapchat.com
 fw-update.ubnt.com
 ispdesign.ui.com
 careers.ui.com
-design.ui.com
 rma.ui.com
 *.ubnt.com
 store.ui.com
@@ -4007,10 +4007,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-api.vhx.tv
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4080,8 +4079,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4115,9 +4114,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
+*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
-*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4138,9 +4137,9 @@ pro.coinbase.com
 prime.coinbase.com
 *.base.org
 *.coinbase.com
-coinbase.com
 api.coinbase.com
 commerce.coinbase.com
+coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
