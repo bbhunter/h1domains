@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 22 01:44:18 UTC 2024)
+## Domains with Bounties (Last Updated Fri Nov 22 03:02:07 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
@@ -233,8 +233,8 @@ vfo03.vodafone.om
 stats-trafficcop-prod.nba.com
 content-api-nextgen-prod.nba.com
 core-api.nba.com
-content-api-prod.nba.com
 stats.nba.com
+content-api-prod.nba.com
 gleague.nba.com
 id.nba.com
 cdn.nba.com
@@ -242,12 +242,9 @@ identity.nba.com
 cms.nba.com
 bal.nba.com
 teamportal.nba.com
-corp-dev.nba.com
-manage.nba.com
-nbafedsvc.nba.com
 manage-teams.nba.com
-mcd.nba.com
-mcdalerts.nba.com
+nbafedsvc.nba.com
+vote.nba.com
 lockervision.nba.com
 elm.nba.com
 syndication.nba.com
@@ -255,7 +252,10 @@ cweb-ott.nba.com
 stats.gleague.nba.com
 stats.2kleague.nba.com
 stats.wnba.com
-vote.nba.com
+corp-dev.nba.com
+manage.nba.com
+mcd.nba.com
+mcdalerts.nba.com
 cdn-bal.nba.com
 www.wnba.com
 2kleague.nba.com
@@ -396,13 +396,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
+api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
-api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -761,8 +761,8 @@ portal.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 demo.arkoselabs.com
-www.arkoselabs.com
 cdn.arkoselabs.com
+www.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -888,9 +888,9 @@ paymentcomponent.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-sites.fareharbor.com
 readonly.fareharbor.com
 demo.fareharbor.com
+sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -993,8 +993,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -1293,8 +1293,8 @@ hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-*.hiltonbusinessonline.com
 *.hiltonhotels.jp
+*.hiltonbusinessonline.com
 *.hilton.io
 hilton.com
 *.hilton.com
@@ -1483,8 +1483,8 @@ admin.8x8.com
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.com
-*.napoleoncasino.be
 *.spinaway.com
+*.napoleoncasino.be
 *.napoleondice.be
 *.superbet.ro
 *.superbet.ro
@@ -1500,8 +1500,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-sell.moonpay.com
 *.hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1777,8 +1777,8 @@ partners.etoro.com
 billing.etoro.com
 kyc.etoro.com
 api.etoro.com
-push-demo-lightstreamer.cloud.etoro.com
 delta.app
+push-demo-lightstreamer.cloud.etoro.com
 aggregator.etoro.com
 wallet.etoro.com
 bullsheet.me
@@ -1823,8 +1823,8 @@ shoppers.instacart.com
 api.instacart.com
 admin.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1866,8 +1866,8 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 krisp.ai
 api.krisp.ai
@@ -2107,10 +2107,10 @@ cloud.elastic.co
 api.taxjar.com
 *.link.co
 *.stripe.com
-js.stripe.com
 app.taxjar.com
 api.stripe.com
 *.lemonsqueezy.com
+js.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2257,8 +2257,8 @@ internal-api-drive-stream.larksuite.com
 app.larksuite.com
 api.larksuite.com
 open.larksuite.com
-hackers_chosendomain.larksuite.com
 larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2282,8 +2282,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-hub.yoti.com
 core.yoti.com
+hub.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2618,8 +2618,8 @@ direct.playstation.com
 transact.playstation.com
 my.account.sony.com
 store.playstation.com
-api.direct.playstation.com
 ca.account.sony.com
+api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.playstation.net
@@ -2714,8 +2714,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.co
 *.amazon.com.ng
+*.amazon.com.co
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2725,9 +2725,9 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.sg
 *.amazon.com.br
+*.amazon.pl
 *.amazon.nl
 *.amazon.com.mx
-*.amazon.pl
 *.amazon.com.tr
 *.amazon.es
 *.amazon.sa
@@ -3030,8 +3030,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 offsite.omise.co
-www.omise.co
 www.opn.ooo
+www.omise.co
 dashboard.omise.co
 api.omise.co
 vault.omise.co
@@ -3439,9 +3439,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
+developer-platform-api.crypto.com
 web.crypto.com
 www.crypto.com
-developer-platform-api.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3519,9 +3519,9 @@ wiki.grab.com
 kartaview.org
 manage.grab.co
 *.grab-sure.com
+*.grabpay.com
 *.grab.co
 gifts.grab.com
-*.grabpay.com
 api.grabpay.com
 p.grabtaxi.com
 *.taralite.com
@@ -3829,9 +3829,9 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-derivws.com
-smarttrader.deriv.com
 api.deriv.com
+smarttrader.deriv.com
+derivws.com
 app.deriv.com
 *.binary.com
 *.deriv.com
@@ -3871,10 +3871,10 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 *.shopify.io
 shop.app
-accounts.shopify.com
-admin.shopify.com
 *.shopify.com
 your-store.myshopify.com
+accounts.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -4010,8 +4010,8 @@ next.airbnb.com
 *.airbnb-aws.com
 *.byairbnb.com
 api.airbnb.com
-*.hoteltonight-test.com
 *.hoteltonight.com
+*.hoteltonight-test.com
 *.muscache.com
 www.airbnb.com
 www.hoteltonight.com
@@ -4076,8 +4076,8 @@ interseller.io
 support.greenhouse.io
 www.greenhouse.io
 boards.greenhouse.io
-app.greenhouse.io
 api.greenhouse.io
+app.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4113,8 +4113,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
 gravatar.com
 simperium.com
 api.tumblr.com
@@ -4148,9 +4148,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
-*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
+*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4171,8 +4171,8 @@ pro.coinbase.com
 prime.coinbase.com
 *.base.org
 commerce.coinbase.com
-*.coinbase.com
 api.coinbase.com
+*.coinbase.com
 coinbase.com
 *.coinbase.com
 *.cbhq.net
