@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 24 17:20:37 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 24 18:29:17 UTC 2024)
 ```
 api.pab.porsche.com
 api.ppa.porsche.com
@@ -49,8 +49,8 @@ connect-store.porsche.com
 capitalmarketsday.porsche.com
 porshedesign.com
 porschezentrumbremen.de
-porsche-solingen.de
 porsche-zentrum-wuppertal.de
+porsche-solingen.de
 porsche-moers.de
 ecc.porsche.com
 api-frontend.pab.porsche.com
@@ -396,13 +396,13 @@ api.dyson.ch
 api.dyson.ie
 api.fi.dyson.com
 *.cp.dyson.com
-api.dyson.be
 api.dyson.de
 www.dyson.ie
 www.dyson.se
 www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
+api.dyson.be
 www.dyson.be
 www.dyson.dk
 www.gr.dyson.com
@@ -740,8 +740,8 @@ id.worldcoin.org
 bioid-management.app
 *.consumer.worldcoin.org
 toolsforhumanity.com
-*.toolsforhumanity.com
 *.worldcoin.org
+*.toolsforhumanity.com
 worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
@@ -955,8 +955,8 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 *.travix.com
@@ -991,8 +991,8 @@ pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-staging.io
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 manage-sandbox.gocardless.com
@@ -1026,22 +1026,22 @@ eets-sftp-listener.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
-launch.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
-webhooks.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 api.gamma.redoxstage.com
-app.gamma.redoxstage.com
 testapi.redoxengine.com
+app.gamma.redoxstage.com
 testapp.redoxengine.com
 www.redoxengine.com
-10x.redoxengine.com
+launch.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
+10x.redoxengine.com
+webhooks.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -1083,8 +1083,6 @@ www.visa.co.ke
 visa.co.ni
 www.visa.co.th
 www.fraedom.com
-www.visa.com.cn
-cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
@@ -1092,6 +1090,8 @@ visa.com.au
 developer.authorize.net
 bm.visa.com
 www.authorize.net
+www.visa.com.cn
+cw.visa.com
 www.visa.com.mx
 bq.visa.com
 direct-demo.currencycloud.com
@@ -1181,8 +1181,8 @@ direct-demo.currencycloud.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1245,9 +1245,9 @@ firefox.settings.services.mozilla.com
 support.mozilla.org
 merino.services.mozilla.com
 addons.allizom.org
-www.mozilla.org
 aus5.mozilla.org
 accounts.firefox.com
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1291,8 +1291,8 @@ hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-*.hiltonbusinessonline.com
 *.hiltonhotels.jp
+*.hiltonbusinessonline.com
 *.hilton.io
 hilton.com
 *.hilton.com
@@ -1366,8 +1366,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1529,9 +1529,9 @@ dashboard.doppler.com
 share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
+*.cryptopunks.app
 *.boredapeyachtclub.com
 *.otherside.xyz
-*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1558,16 +1558,16 @@ www.expediataap.com
 www.wotif.com
 www.expediaagents.com
 www.orbitz.com
-*.cheaptickets.com
 www.mrjet.se
+*.cheaptickets.com
 *.travelocity.com
 *.expediapartnercentral.com
 *.wotif.com
 www.hotels.com
 *.vrbo.com
 www.bookabach.co.nz
-www.stayz.com.au
 www.travelocity.ca
+www.stayz.com.au
 www.hotwirepartnercentral.com
 *.vrbo.com
 *.hotwire.com
@@ -1841,8 +1841,8 @@ help.databricks.com
 customer-academy.databricks.com
 partners.databricks.com
 accounts.cloud.databricks.com
-academy.databricks.com
 databricks.com
+academy.databricks.com
 databricks.com
 academy.databricks.com
 accounts.cloud.databricks.com
@@ -2123,10 +2123,10 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-matrix.redditspace.com
-meta-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
+matrix.redditspace.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -2181,9 +2181,9 @@ eu.remix.com
 platform.remix.com
 https://metroconnect.app.ridewithvia.com
 https://pt-runner.app.ridewithvia.com
-*.withbuddies.com
 *.scopely.io
 *.scopely.com
+*.withbuddies.com
 *.scopely.io
 *.scopely.com
 *.withbuddies.com
@@ -2197,8 +2197,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 app.chime.com
 *.chimebank.com
 *.chmfin.com
@@ -2388,7 +2388,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2645,8 +2644,8 @@ ecosystem-api.polygon.technology
 *.xiaomiyoupin.com
 *.miwifi.com
 *.miui.com
-*.mi.com
 *.xiaomi.com
+*.mi.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
@@ -2800,8 +2799,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-hotel-deals.marriott.com
 all-inclusive.marriott.com
+hotel-deals.marriott.com
 www.ritzcarlton.com
 careers.marriott.com
 www.marriott.com
@@ -3406,8 +3405,8 @@ support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
 www.counter-strike.net
-partner.steampowered.com
 www.dota2.com
+partner.steampowered.com
 steamcommunity.com
 help.steampowered.com
 www.valvesoftware.com
@@ -3513,19 +3512,19 @@ wiki.grab.com
 *.myteksi.com
 kartaview.org
 manage.grab.co
+*.grabpay.com
 *.grab.co
 gifts.grab.com
-*.grabpay.com
 *.taralite.com
 *.grabtaxi.com
 grab.careers
 jira.grab.com
 *.myteksi.net
+*.grab-sure.com
 api.grabpay.com
 *.ovo.id
-*.grab-sure.com
-*.grab.com
 p.grabtaxi.com
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3589,8 +3588,8 @@ getofficial.co
 *.spotify.net
 backstage.io
 *.spotify.com
-assets.spotify.com
 *.byspotify.com
+assets.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3606,8 +3605,8 @@ backstage.io
 logs.dashlane.com
 console.dashlane.com
 api.dashlane.com
-app.dashlane.com
 ws1.dashlane.com
+app.dashlane.com
 www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
@@ -3796,11 +3795,11 @@ advisories.gitlab.com
 *.zdev.net
 winecellar.zomato.com
 api2.grofers.com
-*.zomans.com
 *.runnr.in
 *.hyperpure.com
 blinkit.com
 api.grofers.com
+*.zomans.com
 *.zomato.com
 *.zomato.com
 *.zdev.net
@@ -3911,8 +3910,8 @@ developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
 business.snapchat.com
-*.sc-corp.net
 app.snapchat.com
+*.sc-corp.net
 www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4004,8 +4003,8 @@ next.airbnb.com
 *.airbnb-aws.com
 *.byairbnb.com
 api.airbnb.com
-*.hoteltonight-test.com
 *.hoteltonight.com
+*.hoteltonight-test.com
 *.muscache.com
 www.hoteltonight.com
 *.withairbnb.com
@@ -4036,10 +4035,10 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
 api.vhx.tv
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -4071,8 +4070,8 @@ interseller.io
 support.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
-app.greenhouse.io
 www.greenhouse.io
+app.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4144,9 +4143,9 @@ irc.irccloud.com
 team-irc.irccloud.com
 api.irccloud.com
 *.irccloud-cdn.com
+*.irccloud.com
 www.irccloud.com
 blog.irccloud.com
-*.irccloud.com
 irccloud.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -4193,8 +4192,8 @@ slackatwork.com
 slack-imgs.com
 *.quip.com
 slack-status.com
-edgeapi.slack.com
 app.slack.com
+edgeapi.slack.com
 api.slack.com
 slack.com
 slack.com
