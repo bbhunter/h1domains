@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 24 21:21:34 UTC 2024)
+## Domains with Bounties (Last Updated Sun Nov 24 22:22:07 UTC 2024)
 ```
 api.ppa.porsche.com
 es.porsche.com
@@ -46,9 +46,9 @@ xn--porsche-schwbisch-gmnd-c5b89c.de
 xn--porsche-wrzburg-7vb.de
 connect-store.porsche.com
 capitalmarketsday.porsche.com
-porschezentrumbremen.de
 porshedesign.com
 porsche-zentrum-wuppertal.de
+porschezentrumbremen.de
 porsche-solingen.de
 porsche-moers.de
 ecc.porsche.com
@@ -704,9 +704,9 @@ ir.remitly.com
 *.int.remitly.com
 cards.remitly.io
 rewire.com
+careers.remitly.com
 auth.remitly.com
 app.rewire.to
-careers.remitly.com
 api.remitly.io
 blog.remitly.com
 app3.rewire.to
@@ -740,9 +740,9 @@ id.worldcoin.org
 bioid-management.app
 toolsforhumanity.com
 worldcoin.org
-*.worldcoin.org
-*.toolsforhumanity.com
 developer.worldcoin.org
+*.toolsforhumanity.com
+*.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -756,8 +756,8 @@ worldcoin.org
 developer.worldcoin.org
 id.worldcoin.org
 customer-sessions.arkoselabs.com
-verify.arkoselabs.com
 portal.arkoselabs.com
+verify.arkoselabs.com
 iframe.arkoselabs.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
@@ -995,9 +995,9 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
-manage-sandbox.gocardless.com
 www.gocardless.com
 *.gocardless-cicd.io
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1028,8 +1028,8 @@ evening-earth.gamma.redoxstage.com
 gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -1037,10 +1037,10 @@ api.gamma.redoxstage.com
 app.gamma.redoxstage.com
 testapi.redoxengine.com
 testapp.redoxengine.com
-www.redoxengine.com
-launch.gamma.redoxstage.com
 dashboard.gamma.redoxstage.com
 10x.redoxengine.com
+launch.gamma.redoxstage.com
+www.redoxengine.com
 webhooks.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
@@ -1231,8 +1231,8 @@ phabricator.allizom.org
 lando.services.mozilla.com
 relay.firefox.com
 crash-reports.allizom.org
-firefox-ci-tc.services.mozilla.com
 profiler.firefox.com
+firefox-ci-tc.services.mozilla.com
 hg.mozilla.org
 community-tc.services.mozilla.com
 shavar.services.mozilla.com
@@ -1246,8 +1246,8 @@ merino.services.mozilla.com
 addons.allizom.org
 aus5.mozilla.org
 accounts.firefox.com
-www.mozilla.org
 bugzilla.mozilla.org
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1318,8 +1318,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 auth.indrive.tech
@@ -1481,8 +1481,8 @@ admin.8x8.com
 *.napoleongames.be
 *.magicjackpot.ro
 *.superbet.com
-*.spinaway.com
 *.napoleoncasino.be
+*.spinaway.com
 *.napoleondice.be
 *.superbet.ro
 *.superbet.ro
@@ -1498,8 +1498,8 @@ admin.8x8.com
 *.napoleonsports.be
 *.superbet.pl
 web3.moonpay.com
-sell.moonpay.com
 *.hypermint.com
+sell.moonpay.com
 auth.moonpay.com
 api.moonpay.com
 buy.moonpay.com
@@ -1530,8 +1530,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
 *.boredapeyachtclub.com
-*.cryptopunks.app
 *.otherside.xyz
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1543,14 +1543,14 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.flights.com
-www.ebookers.fi
 www.fewo-direkt.de
+www.ebookers.fi
 www.cheaptickets.com
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 www.lastminute.com.au
-www.expediagroup.com
 www.lastminute.co.nz
+www.expediagroup.com
 *.lastminute.co.nz
 *.carrentals.com
 *.travelocity.ca
@@ -1566,8 +1566,8 @@ www.mrjet.se
 www.hotels.com
 *.vrbo.com
 www.bookabach.co.nz
-www.stayz.com.au
 www.travelocity.ca
+www.stayz.com.au
 www.hotwirepartnercentral.com
 *.vrbo.com
 *.hotwire.com
@@ -1629,8 +1629,8 @@ metrics.deribit.com
 read.amazon.com
 a4k.amazon.com
 skills-store.amazon.com
-creator.amazon.com
 alexaanswers.amazon.com
+creator.amazon.com
 blueprints.amazon.com
 alexa.amazon.com
 read.amazon.com
@@ -1863,8 +1863,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-download.krisp.ai
 upld.krisp.ai
+download.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1906,6 +1906,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+aquiris.com.br
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2278,8 +2279,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2613,8 +2614,8 @@ direct.playstation.com
 transact.playstation.com
 my.account.sony.com
 store.playstation.com
-ca.account.sony.com
 api.direct.playstation.com
+ca.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 my.playstation.com
@@ -2709,8 +2710,8 @@ ecosystem-api.polygon.technology
 *.ppbdev.com
 super6.skysports.com
 itv7.itv.com
-*.amazon.com.ng
 *.amazon.com.co
+*.amazon.com.ng
 *.amazon.co.za
 *.amazon.se
 *.amazon.cl
@@ -2720,8 +2721,8 @@ amazonpayinsurance.in
 *.amazon.eg
 *.amazon.sg
 *.amazon.com.br
-*.amazon.pl
 *.amazon.com.mx
+*.amazon.pl
 *.amazon.com.tr
 *.amazon.es
 *.amazon.sa
@@ -2730,12 +2731,12 @@ amazonpayinsurance.in
 *.amazon.fr
 *.amazon.ca
 *.amazon.com.au
-*.amazon.ae
 *.amazon.nl
+*.amazon.ae
 *.amazon.de
-*.amazon.cn
-*.amazon.com
 *.amazon.in
+*.amazon.com
+*.amazon.cn
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3025,8 +3026,8 @@ https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
 offsite.omise.co
-www.opn.ooo
 www.omise.co
+www.opn.ooo
 dashboard.omise.co
 api.omise.co
 vault.omise.co
@@ -3305,8 +3306,8 @@ secure.chaturbate.com
 *.mmcdn.com
 billingsupport.chaturbate.com
 *.cb.dev
-chaturbate.com
 *.highwebmedia.com
+chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
 *.mmcdn.com
@@ -3433,9 +3434,9 @@ app.mona.co
 pay.crypto.com
 tax.crypto.com
 merchant.crypto.com
+developer-platform-api.crypto.com
 web.crypto.com
 www.crypto.com
-developer-platform-api.crypto.com
 auth.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3513,17 +3514,17 @@ wiki.grab.com
 *.myteksi.com
 kartaview.org
 manage.grab.co
-*.grabpay.com
 *.grab.co
 gifts.grab.com
+*.grabpay.com
 *.taralite.com
 *.grabtaxi.com
 grab.careers
 jira.grab.com
 *.myteksi.net
-*.grab-sure.com
-api.grabpay.com
 *.ovo.id
+api.grabpay.com
+*.grab-sure.com
 p.grabtaxi.com
 *.grab.com
 *.myteksi.com
@@ -3606,8 +3607,8 @@ backstage.io
 logs.dashlane.com
 console.dashlane.com
 api.dashlane.com
-ws1.dashlane.com
 app.dashlane.com
+ws1.dashlane.com
 www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
@@ -3781,8 +3782,8 @@ about.gitlab.com
 registry.gitlab.com
 customers.gitlab.com
 *.gitlab.net
-*.gitlap.com
 gitlab.com
+*.gitlap.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3800,8 +3801,8 @@ api2.grofers.com
 *.hyperpure.com
 blinkit.com
 api.grofers.com
-*.zomato.com
 *.zomans.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3824,8 +3825,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-smarttrader.deriv.com
 api.deriv.com
+smarttrader.deriv.com
 app.deriv.com
 *.binary.com
 *.deriv.com
@@ -3900,8 +3901,8 @@ login.playcanvas.com
 spectacles.com
 my.snapchat.com
 snappublisher.snapchat.com
-forum.playcanvas.com
 blog.playcanvas.com
+forum.playcanvas.com
 businesshelp.snapchat.com
 playcanv.as
 kit.snapchat.com
@@ -3911,8 +3912,8 @@ developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
 business.snapchat.com
-*.sc-corp.net
 app.snapchat.com
+*.sc-corp.net
 www.bitmoji.com
 web.snapchat.com
 accounts.snapchat.com
@@ -4072,8 +4073,8 @@ interseller.io
 support.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
-app.greenhouse.io
 www.greenhouse.io
+app.greenhouse.io
 app.greenhouse.io
 boards.greenhouse.io
 api.greenhouse.io
@@ -4110,8 +4111,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
