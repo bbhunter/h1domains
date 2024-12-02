@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  2 21:23:56 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  2 22:24:14 UTC 2024)
 ```
 www.starbucks.com.cn/
 www.starbucks.com.cn/
@@ -107,13 +107,13 @@ teamportal.nba.com
 vote.nba.com
 corp-dev.nba.com
 cdn.nba.com
-www.nba.com
 identity.nba.com
 cdn-bal.nba.com
 www.wnba.com
 cms.nba.com
 gleague.nba.com
 lockervision.nba.com
+www.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -181,8 +181,8 @@ ichnaea.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
 *.nflxext.com
-*.prod.dradis.netflix.com
 *.nflxvideo.net
+*.prod.dradis.netflix.com
 presentationtracking.netflix.com
 help.netflix.com
 secure.netflix.com
@@ -671,8 +671,8 @@ hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 research.23andme.com
-medical.23andme.com
 education.23andme.com
+medical.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 store.23andme.com
@@ -704,8 +704,8 @@ www.mercadolivre.com.br
 api.mercadopago.com
 www.mercadopago.com.br
 www.mercadolibre.cl
-api.mercadolibre.com
 www.mercadopago.com.co
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -740,8 +740,8 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-sites.fareharbor.com
 readonly.fareharbor.com
+sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 compass.fareharbor.com
@@ -749,9 +749,9 @@ compass.fareharbor.com
 fhdn.fareharbor.com
 fareharborsites.com
 taxi.booking.com
+spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-spark.fareharbor.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -889,11 +889,11 @@ eets-sftp-listener.gamma.redoxstage.com
 10x.redoxengine.com
 gamma.redoxstage.com
 launch.gamma.redoxstage.com
-app.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
-dashboard.gamma.redoxstage.com
-testapp.redoxengine.com
 www.redoxengine.com
+app.gamma.redoxstage.com
+testapp.redoxengine.com
+dashboard.gamma.redoxstage.com
 10x.redoxengine.com
 testapp.redoxengine.com
 testapi.redoxengine.com
@@ -935,14 +935,14 @@ www.visa.co.ke
 visa.co.ni
 www.visa.co.th
 www.fraedom.com
-www.visa.com.cn
-cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
+www.visa.com.cn
+cw.visa.com
 www.visa.com.mx
 bq.visa.com
 direct-demo.currencycloud.com
@@ -1143,8 +1143,8 @@ hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
 hilton.io
-hilton.com
 *.hiltonbusinessonline.com
+hilton.com
 *.hiltonhotels.jp
 *.hilton.io
 *.hilton.com
@@ -1164,8 +1164,8 @@ hiltonhotels.jp
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
@@ -1218,8 +1218,8 @@ web.grindr.com
 *.grindr.com
 *.grindr.mobi
 web.grindr.com
-app.skinport.com
 api.skinport.com
+app.skinport.com
 skinport.com
 skinport.com
 app.skinport.com
@@ -1382,8 +1382,8 @@ share.doppler.com
 *.mdvmm.xyz
 *.yugalabs.io
 *.boredapeyachtclub.com
-*.cryptopunks.app
 *.otherside.xyz
+*.cryptopunks.app
 *.meebits.app
 *.yuga.com
 *.boredapeyachtclub.com
@@ -1394,11 +1394,11 @@ share.doppler.com
 *.cryptopunks.app
 *.mdvmm.xyz
 www.abritel.fr
-www.fewo-direkt.de
 www.ebookers.fi
+www.fewo-direkt.de
 www.cheaptickets.com
-www.carrentals.com
 *.lastminute.com.au
+www.carrentals.com
 www.expediagroup.com
 *.lastminute.co.nz
 *.carrentals.com
@@ -1410,12 +1410,12 @@ www.orbitz.com
 www.mrjet.se
 *.travelocity.com
 *.expediapartnercentral.com
-www.travelocity.ca
 www.stayz.com.au
+www.travelocity.ca
 www.ebookers.com
 www.bookabach.co.nz
-*.wotif.com
 www.vrbo.com
+*.wotif.com
 *.cheaptickets.com
 www.travelocity.com
 *.hotwire.com
@@ -1552,8 +1552,8 @@ www.momondo.com
 www.checkfelix.com
 www.cheapflights.com
 business.kayak.com
-www.hotelscombined.com
 www.swoodoo.com
+www.hotelscombined.com
 www.kayak.com
 www.kayak.com
 www.swoodoo.com
@@ -1569,8 +1569,8 @@ sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
-*.sheingsp.com
 *.romwe.com
+*.sheingsp.com
 *.shein.com
 *.shein.com
 *.romwe.com
@@ -1593,8 +1593,8 @@ social-trading.exness.com
 https://my.exness.com/pa/socialtrading
 exness.com
 api.smtp2go.com
-smtp2go.com
 app.smtp2go.com
+smtp2go.com
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
@@ -1714,8 +1714,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 krisp.ai
@@ -1962,8 +1962,8 @@ api.taxjar.com
 api.stripe.com
 js.stripe.com
 app.taxjar.com
-*.lemonsqueezy.com
 *.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1996,10 +1996,10 @@ matrix.redditspace.com
 *.spiketrap.io
 sh.reddit.com
 accounts.reddit.com
-*.reddit.com
 business.reddithelp.com
 *.reddithelp.com
 developers.reddit.com
+*.reddit.com
 ads.reddit.com
 gql.reddit.com
 *.snooguts.net
@@ -2123,9 +2123,9 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.io
 *.a.exodus.io
 *.exodus.com
+*.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2133,8 +2133,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2173,8 +2173,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2215,7 +2215,6 @@ shop.tiktok.com
 partner.tiktokshop.com
 creatormarketplace.tiktok.com
 business.tiktok.com
-*.tiktokv.com
 seller-id.tokopedia.com
 academy-outbound-ads.tiktok.com
 tiktok.com
@@ -2223,6 +2222,7 @@ live-backstage.tiktok.com
 *.tiktok.com
 www.pangleglobal.com
 ads.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2289,8 +2289,8 @@ api.faraday.ai
 *.devicelock.com
 *.5nine.com
 *.acronis.work
-*.acronis.com
 account.acronis.com
+*.acronis.com
 beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
@@ -2464,10 +2464,10 @@ mackeeper.com
 wallets.api.playstation.com
 *.api.playstation.com
 direct.playstation.com
-ca.account.sony.com
 api.direct.playstation.com
-*.sonyentertainmentnetwork.com
+ca.account.sony.com
 transact.playstation.com
+*.sonyentertainmentnetwork.com
 my.account.sony.com
 *.playstation.net
 my.playstation.com
@@ -2583,14 +2583,14 @@ amazonpayinsurance.in
 *.amazon.com.au
 *.amazon.pl
 *.amazon.cn
-*.amazon.de
 *.amazon.ae
 *.amazon.co.uk
-*.amazon.fr
 *.amazon.co.jp
 *.amazon.ca
 *.amazon.in
 *.amazon.com
+*.amazon.fr
+*.amazon.de
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -3042,9 +3042,9 @@ login.tvg.com
 sportsbook.fanduel.com
 www.tvg.com
 ia.tvg.com
+fdbox.net
 *.numberfire.com
 tvg.com
-fdbox.net
 fanduel.com
 *racing.fanduel.com
 *.east.fdbox.net
@@ -3253,8 +3253,8 @@ playartifact.com
 support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 help.steampowered.com
 steamcommunity.com
 api.steampowered.com
@@ -3279,10 +3279,10 @@ js.crypto.com
 app.mona.co
 tax.crypto.com
 developer-platform-api.crypto.com
-web.crypto.com
 *.mona.co
 merchant.crypto.com
 *.crypto.com
+web.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3358,8 +3358,8 @@ wiki.grab.com
 kartaview.org
 manage.grab.co
 *.grabpay.com
-*.grab-sure.com
 *.ovo.id
+*.grab-sure.com
 p.grabtaxi.com
 jira.grab.com
 grab.careers
@@ -3449,8 +3449,8 @@ assets.spotify.com
 backstage.io
 logs.dashlane.com
 api.dashlane.com
-app.dashlane.com
 ws1.dashlane.com
+app.dashlane.com
 www.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
@@ -3564,8 +3564,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 brave.com
 talk.brave.com
 brave.com
@@ -3596,8 +3596,8 @@ gist.github.com
 npmjs.com
 classroom.github.com
 api.github.com
-github.com
 education.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3608,8 +3608,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*ubereats.com
 *.uberinternal.com
+*ubereats.com
 *.uberinternal.com
 *ubereats.com
 api.mapbox.com
@@ -3668,8 +3668,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-api.deriv.com
 smarttrader.deriv.com
+api.deriv.com
 app.deriv.com
 *.binary.com
 derivws.com
@@ -3709,11 +3709,11 @@ arrive-server.shopifycloud.com
 shop.app
 partners.shopify.com
 shopify.plus
-your-store.myshopify.com
 accounts.shopify.com
+your-store.myshopify.com
 admin.shopify.com
-*.shopify.com
 *.shopify.io
+*.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3733,11 +3733,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 spectacles.com
 snappublisher.snapchat.com
@@ -3750,16 +3750,16 @@ developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 code.playcanvas.com
 store.snapchat.com
 my.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
-playcanvas.com
 forum.playcanvas.com
 web.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3851,8 +3851,8 @@ next.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 *.hoteltonight.com
-*.withairbnb.com
 api.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
@@ -3880,9 +3880,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3951,8 +3951,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 simperium.com
 api.tumblr.com
