@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  6 01:47:13 UTC 2024)
+## Domains with Bounties (Last Updated Fri Dec  6 03:07:13 UTC 2024)
 ```
 bcny.com
 thebrowser.company
@@ -24,8 +24,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 accounts.khealth.com
@@ -97,9 +97,9 @@ core-api.nba.com
 content-api-prod.nba.com
 stats.nba.com
 cweb-ott.nba.com
-stats.wnba.com
 stats.gleague.nba.com
 stats.2kleague.nba.com
+stats.wnba.com
 manage-teams.nba.com
 mcd.nba.com
 mcdalerts.nba.com
@@ -109,9 +109,9 @@ nbafedsvc.nba.com
 id.nba.com
 vote.nba.com
 gleague.nba.com
+identity.nba.com
 cdn-bal.nba.com
 cdn.nba.com
-identity.nba.com
 corp-dev.nba.com
 teamportal.nba.com
 www.wnba.com
@@ -363,12 +363,12 @@ cards.remitly.io
 auth.remitly.com
 app3.rewire.to
 blog.remitly.com
-api.remitly.io
 app.rewire.to
+api.remitly.io
 *.dev.remitly.com
-careers.remitly.com
 remitly.com
 *.int.remitly.com
+careers.remitly.com
 rewire.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -477,8 +477,8 @@ hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 research.23andme.com
-medical.23andme.com
 education.23andme.com
+medical.23andme.com
 therapeutics.23andme.com
 blog.23andme.com
 store.23andme.com
@@ -499,11 +499,11 @@ research.23andme.com
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadolibre.com.uy
+www.mercadopago.com.mx
 www.mercadopago.com.uy
 www.mercadopago.com.ar
 www.mercadolibre.com.mx
 www.mercadolibre.cl
-www.mercadopago.com.mx
 www.mercadolibre.com.pe
 www.mercadolibre.com.co
 www.mercadopago.com.pe
@@ -557,7 +557,6 @@ taxi.booking.com
 spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-kyc-onboarding.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -617,8 +616,8 @@ api2.frontapp.com
 *.booztlet.com
 *.boozt.com
 *.booztlet.com
-*.travix.com
 *.travix.io
+*.travix.com
 *.trip.com
 *.trip.com
 *.travix.com
@@ -646,16 +645,16 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
 www.gocardless.com
 manage-sandbox.gocardless.com
+*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
-*.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -741,14 +740,14 @@ www.visa.co.ke
 visa.co.ni
 www.visa.co.th
 www.fraedom.com
-www.visa.com.cn
-cw.visa.com
 www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-developer.authorize.net
 bm.visa.com
+developer.authorize.net
+www.visa.com.cn
+cw.visa.com
 www.visa.com.mx
 bq.visa.com
 www.visa.co.uk
@@ -880,9 +879,9 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+sync.services.mozilla.com
 developer.mozilla.org
 push.services.mozilla.com
-sync.services.mozilla.com
 accounts.firefox.com
 profiler.firefox.com
 vpn.mozilla.org
@@ -898,8 +897,8 @@ community-tc.services.mozilla.com
 hg.mozilla.org
 phabricator.allizom.org
 lando.services.mozilla.com
-crash-stats.allizom.org
 crash-reports.allizom.org
+crash-stats.allizom.org
 aus5.mozilla.org
 www.mozilla.org
 monitor.mozilla.org
@@ -976,8 +975,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1086,8 +1085,8 @@ api.sokos.fi
 cfapi.voikukka.fi
 auth.skypicker.com
 jobs.kiwi.com
-*.skypicker.com
 tequila.kiwi.com
+*.skypicker.com
 www.kiwi.com
 *.kiwi.com
 *.kiwi.com
@@ -1142,8 +1141,8 @@ admin.8x8.com
 *.napoleoncasino.be
 *.luckydays.com
 *.napoleondice.be
-*.superbet.com
 *.superbet.ro
+*.superbet.com
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -1225,8 +1224,8 @@ www.travelocity.com
 www.lastminute.com.au
 www.flights.com
 www.hotwirepartnercentral.com
+*.hotwire.com
 *.carrentals.com
-www.lastminute.co.nz
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1263,8 +1262,8 @@ www.flights.com
 bookus.expediacruises.com
 www.expediataap.com
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.dev
+magiceden.io
 *.magiceden.io
 magiceden.io
 *.magiceden.io
@@ -1276,8 +1275,8 @@ tools.deribit.com
 metrics.deribit.com
 test.deribit.com
 insights.deribit.com
-*.deribit.com
 pb.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1564,6 +1563,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1750,8 +1750,8 @@ https://www.xvideos.net/app/
 www.elastic.co
 *.swiftype.com
 cloud.elastic.co
-*.found.io
 *.elastic.co
+*.found.io
 *.elastic.co
 *.found.io
 *.swiftype.com
@@ -1858,8 +1858,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 *.chmfin.com
 app.staging.saltlabs.com
 *.chime.com
@@ -1939,8 +1939,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-core.yoti.com
 hub.yoti.com
+core.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -1978,8 +1978,8 @@ list-v2--netlify-plugins.netlify.app
 internal-docs.netlify.com
 supportal.netlify.app
 3.basecamp.com
-*.hey.com
 world.hey.com
+*.hey.com
 launchpad.37signals.com
 *.hey.com
 3.basecamp.com
@@ -2020,7 +2020,6 @@ developers.tiktok.com
 affiliate-id.tokopedia.com
 live-backstage.tiktok.com
 fp-sg.tiktokv.com
-www.pangleglobal.com
 partner.tiktokshop.com
 tiktok.com
 seller-id.tokopedia.com
@@ -2029,6 +2028,7 @@ business.tiktok.com
 academy-outbound-ads.tiktok.com
 *.tiktok.com
 ads.tiktok.com
+www.pangleglobal.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2269,8 +2269,8 @@ mackeeper.com
 wallets.api.playstation.com
 *.api.playstation.com
 direct.playstation.com
-ca.account.sony.com
 api.direct.playstation.com
+ca.account.sony.com
 transact.playstation.com
 my.account.sony.com
 my.playstation.com
@@ -2713,25 +2713,25 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-res.hyattinclusivecollection.com
-jira.hyattdev.com
-res.funjet.com
-new.www.vaxvacationaccess.com
-res.universalorlandovacations.com
-www.funjet.com
-res.vacations.united.com
-www.beachbound.com
 book.beachbound.com
 www.triseptsolutions.com
+www.funjet.com
+res.universalorlandovacations.com
+res.vacations.united.com
+res.hyattinclusivecollection.com
+res.funjet.com
+jira.hyattdev.com
+new.www.vaxvacationaccess.com
+www.beachbound.com
 login.en.travelbrandsagent.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-res.blueskytours.globalbookingsolutions.com
-vacations.travelimpressions.com
 vacations.universalstudioshollywood.com
+login.fr.travelbrandsagent.com
+holidays-nz.fijiairways.com
 res.vacations.discoverycove.com
 holidays-us.fijiairways.com
-newsroom.images.hyatt.com
+world.hyatt.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -3058,8 +3058,8 @@ playartifact.com
 support.steampowered.com
 developer.valvesoftware.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 help.steampowered.com
 steamcommunity.com
 api.steampowered.com
@@ -3401,8 +3401,8 @@ gist.github.com
 education.github.com
 classroom.github.com
 api.github.com
-github.com
 npmjs.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3515,10 +3515,10 @@ shopify.plus
 your-store.myshopify.com
 *.shopify.io
 shop.app
-accounts.shopify.com
 *.shopify.com
 admin.shopify.com
 partners.shopify.com
+accounts.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3538,11 +3538,11 @@ map.snapchat.com
 www.bitstrips.com
 scan.snapchat.com
 store.playcanvas.com
-story.snapchat.com
 relay.playcanvas.com
 msg.playcanvas.com
 rt.playcanvas.com
 launch.playcanvas.com
+story.snapchat.com
 login.playcanvas.com
 spectacles.com
 snappublisher.snapchat.com
@@ -3555,8 +3555,8 @@ developer.playcanvas.com
 *.sc-core.net
 ads.snapchat.com
 www.bitmoji.com
-app.snapchat.com
 *.sc-corp.net
+app.snapchat.com
 code.playcanvas.com
 store.snapchat.com
 my.snapchat.com
@@ -3732,9 +3732,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+gnip.com
 x.com
 *.twitter.com
-gnip.com
 *.twitter.com
 *.vine.co
 *.twimg.com
