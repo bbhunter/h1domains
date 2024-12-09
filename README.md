@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  9 21:24:12 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  9 22:24:38 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -37,8 +37,8 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-api.khealth.com
 start.khealth.com
+api.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 salesforce.khealth.com
@@ -198,8 +198,8 @@ nmtracking.netflix.com
 ichnaea.netflix.com
 beacon.netflix.com
 *.prod.ftl.netflix.com
-*.prod.dradis.netflix.com
 *.nflxvideo.net
+*.prod.dradis.netflix.com
 presentationtracking.netflix.com
 meechum.netflix.com
 *.nflxext.com
@@ -280,8 +280,8 @@ www.dyson.no
 www.dyson.com.mx
 api.dyson.se
 www.dyson.cz
-www.dyson.co.nz
-www.dyson.com.tr
+www.dyson.com.ua
+shop.dyson.co.za
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -375,12 +375,12 @@ app3.rewire.to
 blog.remitly.com
 api.remitly.io
 *.dev.remitly.com
-careers.remitly.com
 *.int.remitly.com
+careers.remitly.com
 app.rewire.to
 site.rewire.com
-remitly.com
 rewire.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -411,8 +411,8 @@ toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 *.toolsforhumanity.com
+*.worldcoin.dev
 developer.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin.org
@@ -508,20 +508,20 @@ therapeutics.23andme.com
 you.23andme.com
 research.23andme.com
 www.mercadopago.com.pe
-www.mercadolibre.com.uy
 www.mercadopago.com.mx
+www.mercadolibre.com.uy
 www.mercadopago.com.co
 www.mercadopago.cl
 www.mercadopago.com.uy
 api.mercadolibre.com
-www.mercadolibre.com.mx
 www.mercadolibre.cl
 www.mercadolibre.com.co
+www.mercadolibre.com.mx
 www.mercadopago.com.ar
 www.mercadolibre.com.pe
+www.mercadolibre.com.ar
 www.mercadolivre.com.br
 api.mercadopago.com
-www.mercadolibre.com.ar
 www.mercadopago.com.br
 api.mercadopago.com
 www.mercadopago.com.ar
@@ -557,19 +557,19 @@ taxis.booking.com
 autocomplete.booking.com
 widget.rentalcars.com
 teleport.fareharbor.engineering
-sites.fareharbor.com
 readonly.fareharbor.com
+sites.fareharbor.com
 careers.booking.com
 marketing.fareharbor.com
 *.fareharbor.engineering
 fhdn.fareharbor.com
 fareharborsites.com
 taxi.booking.com
+spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-spark.fareharbor.com
-cars.booking.com
 kyc-onboarding.booking.com
+cars.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -632,8 +632,8 @@ api2.frontapp.com
 *.travix.io
 *.trip.com
 *.trainpal.com
-*.mytrainpal.com
 *.travix.com
+*.mytrainpal.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -662,8 +662,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 api-sandbox.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
@@ -701,8 +701,8 @@ api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -856,8 +856,8 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshchat.com
 yourdomain.freshcaller.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
+yourdomain.freshdesk.com
 yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -994,8 +994,8 @@ ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1208,9 +1208,9 @@ share.doppler.com
 *.yugalabs.io
 *.cryptopunks.app
 *.meebits.app
-*.yuga.com
 *.otherside.xyz
 *.boredapeyachtclub.com
+*.yuga.com
 *.boredapeyachtclub.com
 *.yuga.com
 *.yugalabs.io
@@ -1220,8 +1220,8 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.fewo-direkt.de
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 *.lastminute.co.nz
 *.travelocity.ca
 www.expediataap.com
@@ -1236,8 +1236,8 @@ www.ebookers.com
 www.bookabach.co.nz
 *.wotif.com
 *.cheaptickets.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.hotels.com
 *.vrbo.com
 bookus.expediacruises.com
@@ -1245,6 +1245,7 @@ www.expediagroup.com
 www.expedia.com
 www.flights.com
 www.hotwirepartnercentral.com
+*.hotwire.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1582,7 +1583,6 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
-hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -1643,8 +1643,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1768,8 +1768,8 @@ https://www.xvideos.net/app/
 *.elstc.co
 www.elastic.co
 *.swiftype.com
-*.found.io
 *.elastic.co
+*.found.io
 cloud.elastic.co
 *.elastic.co
 *.found.io
@@ -1803,9 +1803,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-amp.reddit.com
-*.redditblog.com
 meta-api.reddit.com
+*.redditblog.com
+amp.reddit.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -1815,8 +1815,8 @@ strapi.reddit.com
 m.reddit.com
 api.reddit.com
 *.memorable.io
-matrix.redditspace.com
 *.redditmedia.com
+matrix.redditspace.com
 *.spiketrap.io
 accounts.reddit.com
 *.reddithelp.com
@@ -1958,8 +1958,8 @@ ccloud.yoti.com
 api.yoti.com
 www.yotisign.com
 code.yoti.com
-hub.yoti.com
 core.yoti.com
+hub.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2041,10 +2041,10 @@ careers.tiktok.com
 live-backstage.tiktok.com
 www.pangleglobal.com
 affiliate-id.tokopedia.com
+tiktok.com
 *.tiktokv.com
 shop-id.tokopedia.com
 seller-id.tokopedia.com
-tiktok.com
 business.tiktok.com
 *.tiktok.com
 ads.tiktok.com
@@ -2114,8 +2114,8 @@ api.faraday.ai
 *.acronis.work
 *.5nine.com
 account.acronis.com
-*.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2312,9 +2312,9 @@ my.account.sony.com
 staking-api.polygon.technology
 staking.polygon.technology
 ecosystem.polygon.technology
-faucet.polygon.technology
 ecosystem-api.polygon.technology
 portal.polygon.technology
+faucet.polygon.technology
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -2449,8 +2449,8 @@ api.fortmatic.com
 dashboard.fortmatic.com
 api.magic.link
 dashboard.magic.link
-fortmatic.com
 auth.magic.link
+fortmatic.com
 api.fortmatic.com
 x2.fortmatic.com
 careers.fortmatic.com
@@ -2527,9 +2527,9 @@ blox.link
 *.ra.roblox.com
 blox.link
 cdn.localizestaging.com
+localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
-localizestaging.com
 localizestaging.com
 api.localizestaging.com
 app.localizestaging.com
@@ -3182,11 +3182,11 @@ wiki.grab.com
 manage.grab.co
 *.grabpay.com
 p.grabtaxi.com
+jira.grab.com
+grab.careers
+*.taralite.com
 gifts.grab.com
 *.grab.co
-grab.careers
-jira.grab.com
-*.taralite.com
 *.myteksi.net
 api.grabpay.com
 *.grabtaxi.com
@@ -3388,8 +3388,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-search.brave.com
 account.brave.com
+search.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3419,8 +3419,8 @@ npmjs.org
 education.github.com
 classroom.github.com
 gist.github.com
-api.github.com
 github.com
+api.github.com
 npmjs.com
 github.com
 api.github.com
@@ -3492,8 +3492,8 @@ secure-dfadmin.deriv.com
 cashier.deriv.com
 *.derivws.com
 oauth.deriv.com
-smarttrader.deriv.com
 api.deriv.com
+smarttrader.deriv.com
 *.binary.com
 derivws.com
 *.deriv.com
@@ -3533,9 +3533,9 @@ shopify.plus
 partners.shopify.com
 *.shopify.io
 *.shopifycloud.com
-shop.app
 *.shopify.com
 accounts.shopify.com
+shop.app
 your-store.myshopify.com
 admin.shopify.com
 *.shopifycs.com
@@ -3578,11 +3578,11 @@ web.snapchat.com
 ads.snapchat.com
 *.sc-corp.net
 accounts.snapchat.com
-www.bitmoji.com
 app.snapchat.com
 kit.snapchat.com
 playcanvas.com
 forum.playcanvas.com
+www.bitmoji.com
 business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
@@ -3675,9 +3675,9 @@ next.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 api.airbnb.com
-*.withairbnb.com
-*.hoteltonight.com
 *.hoteltonight-test.com
+*.hoteltonight.com
+*.withairbnb.com
 www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
@@ -3783,10 +3783,10 @@ api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
 wordpress.com
-mailpoet.com
-simperium.com
 intensedebate.com
 *.tumblr.com
+simperium.com
+mailpoet.com
 my.pressable.com
 www.tumblr.com
 simplenote.com
