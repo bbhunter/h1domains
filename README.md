@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec  8 23:23:07 UTC 2024)
+## Domains with Bounties (Last Updated Mon Dec  9 01:51:20 UTC 2024)
 ```
 bcny.com
 thebrowser.company
@@ -80,9 +80,9 @@ bestfiends.com
 *.seriously.com
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
-vfo03.vodafone.om
-apix.vodafone.om
 vfo02.vodafone.om
+apix.vodafone.om
+vfo03.vodafone.om
 vfo01.vodafone.om
 www.vodafone.om
 www.vodafone.om
@@ -154,8 +154,8 @@ outlook.insightly.com
 mobileapi.insightly.com
 mobileapi.na1.insightly.com
 accounts.insightly.com
-crm.na1.insightly.com
 login.insightly.com
+crm.na1.insightly.com
 marketing.na1.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
@@ -269,6 +269,7 @@ www.dyson.ae
 api.dyson.se
 www.dyson.cz
 www.dyson.co.nz
+www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -362,8 +363,8 @@ app3.rewire.to
 blog.remitly.com
 api.remitly.io
 *.dev.remitly.com
-careers.remitly.com
 *.int.remitly.com
+careers.remitly.com
 rewire.com
 remitly.com
 app.rewire.to
@@ -397,8 +398,8 @@ bioid-management.app
 toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
-*.consumer.worldcoin.org
 developer.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.worldcoin.dev
 *.toolsforhumanity.com
@@ -497,7 +498,6 @@ research.23andme.com
 www.mercadopago.com.co
 www.mercadopago.com.ar
 www.mercadopago.com.pe
-www.mercadolibre.com.ar
 www.mercadolibre.com.co
 www.mercadopago.com.mx
 www.mercadopago.cl
@@ -510,6 +510,7 @@ www.mercadolibre.cl
 www.mercadolibre.com.mx
 www.mercadopago.com.br
 www.mercadolibre.com.pe
+www.mercadolibre.com.ar
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -555,8 +556,8 @@ taxi.booking.com
 spark.fareharbor.com
 chat.booking.com
 admin.booking.com
-kyc-onboarding.booking.com
 demo.fareharbor.com
+cars.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -697,8 +698,8 @@ launch.gamma.redoxstage.com
 evening-earth.gamma.redoxstage.com
 www.redoxengine.com
 app.gamma.redoxstage.com
-10x.redoxengine.com
 testapi.redoxengine.com
+10x.redoxengine.com
 testapp.redoxengine.com
 dashboard.gamma.redoxstage.com
 10x.redoxengine.com
@@ -858,9 +859,9 @@ avtoelon.uz
 m.avtoelon.uz
 id.kolesa.kz
 kolesa.kz
-app.kolesa.kz
 krisha.kz
 api.krisha.kz
+app.kolesa.kz
 kolesa.kz
 m.kolesa.kz
 krisha.kz
@@ -881,32 +882,32 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-sync.services.mozilla.com
+relay.firefox.com
 push.services.mozilla.com
+sync.services.mozilla.com
 profiler.firefox.com
 vpn.mozilla.org
 api.profiler.firefox.com
-relay.firefox.com
 support.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
 shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 firefox-ci-tc.services.mozilla.com
-hg.mozilla.org
 phabricator.allizom.org
 lando.services.mozilla.com
-crash-reports.allizom.org
 crash-stats.allizom.org
+crash-reports.allizom.org
 aus5.mozilla.org
+hg.mozilla.org
 firefox.settings.services.mozilla.com
 addons.allizom.org
 www.mozilla.org
 community-tc.services.mozilla.com
+monitor.mozilla.org
+accounts.firefox.com
 developer.mozilla.org
 bugzilla.mozilla.org
-accounts.firefox.com
-monitor.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1065,8 +1066,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.s-kaupat.fi
 www.prisma.fi
+www.s-kaupat.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1139,8 +1140,8 @@ admin.8x8.com
 *.superbet.pl
 *.napoleongames.be
 *.magicjackpot.ro
-*.spinaway.com
 *.napoleoncasino.be
+*.spinaway.com
 *.luckydays.com
 *.napoleondice.be
 *.superbet.com
@@ -1203,8 +1204,8 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.fewo-direkt.de
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 *.lastminute.co.nz
 *.travelocity.ca
 www.expediataap.com
@@ -1219,8 +1220,8 @@ www.ebookers.com
 www.bookabach.co.nz
 *.wotif.com
 *.cheaptickets.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.lastminute.co.nz
 www.hotels.com
 *.vrbo.com
@@ -1522,8 +1523,8 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
-upld.krisp.ai
 download.krisp.ai
+upld.krisp.ai
 teams.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
@@ -1785,9 +1786,9 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-meta-api.reddit.com
-*.redditblog.com
 amp.reddit.com
+*.redditblog.com
+meta-api.reddit.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -1798,8 +1799,8 @@ m.reddit.com
 *.snooguts.net
 api.reddit.com
 *.memorable.io
-*.redditmedia.com
 matrix.redditspace.com
+*.redditmedia.com
 *.spiketrap.io
 accounts.reddit.com
 *.reddithelp.com
@@ -2050,6 +2051,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2524,8 +2526,8 @@ downloads.datastax.com
 langflow.datastax.com
 langflow.org
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2714,7 +2716,7 @@ www.globalhotelchoices.com
 blueskytours.globalbookingsolutions.com
 booking.cheapcaribbean.com
 booking.applevacations.com
-book.beachbound.com
+www.beachbound.com
 www.funjet.com
 res.universalorlandovacations.com
 res.vacations.united.com
@@ -2722,17 +2724,17 @@ res.hyattinclusivecollection.com
 res.funjet.com
 jira.hyattdev.com
 new.www.vaxvacationaccess.com
-www.beachbound.com
+book.beachbound.com
 login.en.travelbrandsagent.com
 res.en.travelbrandsagent.com
 res.skyteam.com
-vacations.universalstudioshollywood.com
-login.fr.travelbrandsagent.com
+vacations.travelimpressions.com
+res.blueskytours.globalbookingsolutions.com
 holidays-nz.fijiairways.com
-res.vacations.discoverycove.com
-holidays-us.fijiairways.com
 world.hyatt.com
 newsroom.images.hyatt.com
+login.fr.travelbrandsagent.com
+vacations.universalstudioshollywood.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2811,8 +2813,8 @@ capi.grammarly.com
 *.grammarlyaws.com
 *.grammarly.io
 app.grammarly.com
-*.grammarly.com
 grammarly.ai
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -2918,8 +2920,8 @@ sandbox.braintreegateway.com
 *.paydiant.com
 *.braintree.tools
 paypalobjects.com
-*.paypal.com
 paypal.me
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3164,11 +3166,11 @@ wiki.grab.com
 manage.grab.co
 *.grabpay.com
 p.grabtaxi.com
-jira.grab.com
-grab.careers
-*.taralite.com
 gifts.grab.com
 *.grab.co
+grab.careers
+jira.grab.com
+*.taralite.com
 *.myteksi.net
 api.grabpay.com
 *.grabtaxi.com
@@ -3370,8 +3372,8 @@ api.blockchain.info
 ws.blockchain.info
 basicattentiontoken.org
 creators.basicattentiontoken.org
-account.brave.com
 search.brave.com
+account.brave.com
 talk.brave.com
 brave.com
 brave.com
@@ -3687,9 +3689,9 @@ checkout.vimeo.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
+donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
-donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3759,8 +3761,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 gravatar.com
 api.tumblr.com
 assets.tumblr.com
