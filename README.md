@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 14 10:23:57 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 14 11:20:06 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -94,9 +94,9 @@ bestfiends.com
 *.seriously.com
 gnocchi-www.buffalo-ggn.net
 bestfiends.com
-vfo02.vodafone.om
-apix.vodafone.om
 vfo03.vodafone.om
+apix.vodafone.om
+vfo02.vodafone.om
 vfo01.vodafone.om
 www.vodafone.om
 www.vodafone.om
@@ -108,13 +108,13 @@ content-api-nextgen-prod.nba.com
 core-api.nba.com
 content-api-prod.nba.com
 stats.nba.com
+cweb-ott.nba.com
+stats.gleague.nba.com
+stats.2kleague.nba.com
 manage-teams.nba.com
 mcd.nba.com
 mcdalerts.nba.com
 elm.nba.com
-cweb-ott.nba.com
-stats.gleague.nba.com
-stats.2kleague.nba.com
 nbafedsvc.nba.com
 cdn-bal.nba.com
 cdn.nba.com
@@ -125,8 +125,8 @@ stats-trafficcop-prod.nba.com
 corp-dev.nba.com
 bal.nba.com
 manage.nba.com
-cms.nba.com
 id.nba.com
+cms.nba.com
 vote.nba.com
 identity.nba.com
 www.wnba.com
@@ -166,11 +166,11 @@ elm.nba.com
 lockervision.nba.com
 outlook.insightly.com
 mobileapi.na1.insightly.com
-login.insightly.com
 mobileapi.insightly.com
 marketing.na1.insightly.com
 accounts.insightly.com
 crm.na1.insightly.com
+login.insightly.com
 crm.na1.insightly.com
 accounts.insightly.com
 outlook.insightly.com
@@ -280,9 +280,9 @@ www.dyson.dk
 www.dyson.no
 api.dyson.se
 www.dyson.cz
+www.dyson.co.nz
 www.dyson.com.ua
 shop.dyson.co.za
-www.dyson.com.tr
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -412,8 +412,8 @@ bioid-management.app
 toolsforhumanity.com
 worldcoin.org
 id.worldcoin.org
-*.worldcoin.dev
 *.toolsforhumanity.com
+*.worldcoin.dev
 *.consumer.worldcoin.org
 developer.worldcoin.org
 *.worldcoin.org
@@ -491,7 +491,6 @@ hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 education.23andme.com
-therapeutics.23andme.com
 auth.23andme.com
 research.23andme.com
 store.23andme.com
@@ -500,6 +499,7 @@ medical.23andme.com
 blog.23andme.com
 you.23andme.com
 api.23andme.com
+therapeutics.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -515,9 +515,9 @@ www.mercadopago.com.uy
 www.mercadopago.com.ar
 api.mercadolibre.com
 www.mercadolibre.com.uy
+www.mercadopago.cl
 www.mercadopago.com.mx
 www.mercadopago.com.co
-www.mercadopago.cl
 api.mercadopago.com
 www.mercadolibre.com.co
 www.mercadolibre.com.mx
@@ -621,8 +621,8 @@ tableau.fareharbor.engineering
 fareharborsites.com
 *.bybit.com
 *.bybit.com
-portal.au.frontegg.com
 api.au.frontegg.com
+portal.au.frontegg.com
 api.au.frontegg.com
 portal.au.frontegg.com
 api2.frontapp.com
@@ -707,8 +707,8 @@ api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 sftp.gamma.redoxstage.com
 help.redoxengine.com
-clientcert.gamma.redoxstage.com
 explore.redoxengine.com
+clientcert.gamma.redoxstage.com
 docs.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
@@ -904,12 +904,12 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
-relay.firefox.com
 push.services.mozilla.com
 sync.services.mozilla.com
 profiler.firefox.com
 vpn.mozilla.org
 api.profiler.firefox.com
+relay.firefox.com
 support.mozilla.org
 mozilla-pontoon-staging.herokuapp.com
 merino.services.mozilla.com
@@ -990,14 +990,14 @@ hiltonlocalbiz.com
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-debug.clairvoyance.indrive.tech
 external.indrive.dev
+debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 super-services.indriverapp.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1009,8 +1009,8 @@ new-order.eu-east-1.indriverapp.com
 auth2.indrive.tech
 *.indriver.com
 cargo.indrive.com
-*.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indrive.com
 *.indriverapp.com
 *.indrive.com
@@ -1296,8 +1296,8 @@ tools.deribit.com
 metrics.deribit.com
 test.deribit.com
 insights.deribit.com
-pb.deribit.com
 *.deribit.com
+pb.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1509,9 +1509,9 @@ admin.instacart.com
 shoppers.instacart.com
 demo.cloud.databricks.com
 marketplace.databricks.com
+support.databricks.com
 advocates.databricks.com
 docs.databricks.com
-support.databricks.com
 labs.databricks.com
 help.databricks.com
 customer-academy.databricks.com
@@ -1541,9 +1541,9 @@ payoneer.com.cn
 *.payoneer.com
 *.payoneer.com
 payoneer.com.cn
+upld.krisp.ai
 download.krisp.ai
 teams.krisp.ai
-upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
 app.krisp.ai
@@ -1804,8 +1804,8 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-meta-api.reddit.com
 *.redditblog.com
+meta-api.reddit.com
 *.redditinc.com
 mod.reddit.com
 redditforbusiness.com
@@ -1814,8 +1814,8 @@ strapi.reddit.com
 m.reddit.com
 api.reddit.com
 *.memorable.io
-*.redditmedia.com
 matrix.redditspace.com
+*.redditmedia.com
 *.spiketrap.io
 *.reddithelp.com
 sh.reddit.com
@@ -1959,8 +1959,8 @@ code.yoti.com
 core.yoti.com
 hub.yoti.com
 ccloud.yoti.com
-api.yoti.com
 www.yotisign.com
+api.yoti.com
 identity.yoti.com
 core.yoti.com
 api.yoti.com
@@ -2043,8 +2043,8 @@ developers.tiktok.com
 seller-id.tokopedia.com
 careers.tiktok.com
 www.pangleglobal.com
-*.tiktokv.com
 business.tiktok.com
+*.tiktokv.com
 tiktok.com
 partner.tiktokshop.com
 ads.tiktok.com
@@ -2069,6 +2069,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2113,8 +2114,8 @@ api.faraday.ai
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
+*.acronis.work
 beta-cloud.acronis.com
 *.acronis.com
 *-api-*.acronis.com
@@ -2299,8 +2300,8 @@ my.playstation.com
 social.playstation.com
 my.account.sony.com
 *.playstation.net
-*.sonyentertainmentnetwork.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2482,8 +2483,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 mgs.marriott.com
 www.marriott.com
@@ -2871,8 +2872,8 @@ login.tvg.com
 www.tvg.com
 ia.tvg.com
 tvg.com
-sportsbook.fanduel.com
 *.numberfire.com
+sportsbook.fanduel.com
 fdbox.net
 fanduel.com
 *racing.fanduel.com
@@ -2933,7 +2934,6 @@ api.loanbuilder.com
 *.venmo.com
 sandbox.braintreegateway.com
 *.paypalcorp.com
-*.hyperwallet.com
 *.braintree-api.com
 *.braintreepayments.com
 *.paydiant.com
@@ -2943,6 +2943,7 @@ paypal.me
 paypalobjects.com
 *.xoom.com
 *.paypal.com
+*.hyperwallet.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -2993,8 +2994,8 @@ m.chaturbate.com
 billingsupport.chaturbate.com
 secure.chaturbate.com
 testnet.bitmex.com
-www.bitmex.com
 *.bitmex.com
+www.bitmex.com
 *.bitmex.com
 testnet.bitmex.com
 www.bitmex.com
@@ -3189,10 +3190,10 @@ wiki.grab.com
 manage.grab.co
 *.grabpay.com
 p.grabtaxi.com
-jira.grab.com
-grab.careers
-*.taralite.com
 gifts.grab.com
+grab.careers
+jira.grab.com
+*.taralite.com
 *.grab-sure.com
 kartaview.org
 *.ovo.id
@@ -3475,8 +3476,8 @@ api2.grofers.com
 *.hyperpure.com
 winecellar.zomato.com
 *.zomans.com
-*.zomato.com
 blinkit.com
+*.zomato.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3582,11 +3583,11 @@ code.playcanvas.com
 kit.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
-playcanvas.com
+business.snapchat.com
 *.sc-core.net
 ads.snapchat.com
+playcanvas.com
 my.snapchat.com
 accounts.snapchat.com
 www.bitmoji.com
@@ -3679,8 +3680,8 @@ next.airbnb.com
 www.hoteltonight.com
 *.airbnbcitizen.com
 api.airbnb.com
-*.hoteltonight.com
 *.hoteltonight-test.com
+*.hoteltonight.com
 *.withairbnb.com
 www.airbnb.com
 *.airbnb.com
@@ -3780,8 +3781,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
@@ -3900,8 +3901,8 @@ hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 www.hackerone.com
 api.hackerone.com
 hackerone.live
-hackerone.com
 reviewer.pullrequest.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
