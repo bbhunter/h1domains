@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 14 15:24:06 UTC 2024)
+## Domains with Bounties (Last Updated Sat Dec 14 16:28:02 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -17,8 +17,8 @@ https://maps.bykea.net
 https://leaflet-map.bykea.net
 https://nominatim.bykea.net
 https://geocode-beta.bykea.net
-thebrowser.company
 arc.net
+thebrowser.company
 bcny.com
 arc.net
 thebrowser.company
@@ -78,7 +78,6 @@ gnocchi-www.buffalo-ggn.net
 *.bingoblitz.com
 bestfiends.com
 *.houseoffun.com
-*.caesarsgames.com
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -380,8 +379,8 @@ site.rewire.com
 remitly.com
 app.rewire.to
 rewire.com
-careers.remitly.com
 blog.remitly.com
+careers.remitly.com
 *.int.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -499,8 +498,8 @@ medical.23andme.com
 blog.23andme.com
 api.23andme.com
 therapeutics.23andme.com
-you.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -525,8 +524,8 @@ www.mercadolibre.com.ar
 www.mercadolibre.cl
 www.mercadopago.cl
 api.mercadopago.com
-api.mercadolibre.com
 www.mercadopago.com.ar
+api.mercadolibre.com
 api.mercadopago.com
 www.mercadopago.com.ar
 www.mercadopago.com.br
@@ -570,8 +569,8 @@ fareharborsites.com
 taxi.booking.com
 spark.fareharbor.com
 chat.booking.com
-cars.booking.com
 kyc-onboarding.booking.com
+cars.booking.com
 accommodations.booking.com
 www.fareharbor.com
 flights.booking.com
@@ -768,8 +767,8 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-bm.visa.com
 developer.authorize.net
+bm.visa.com
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -787,8 +786,8 @@ www.visa.com.kz
 www.visa.co.in
 www.yellowpepper.com
 www.visa.com.br
-www.visa.com.cy
 bb.visa.com
+www.visa.com.cy
 test.payworks.io
 www.visa.com.tr
 bd.visa.com
@@ -1068,8 +1067,8 @@ cloud.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
 my.malwarebytes.com
-*.threatdown.com
 *.malwarebytes.com
+*.threatdown.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1085,8 +1084,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1223,8 +1222,8 @@ share.doppler.com
 *.mdvmm.xyz
 www.abritel.fr
 www.fewo-direkt.de
-*.lastminute.com.au
 www.carrentals.com
+*.lastminute.com.au
 *.lastminute.co.nz
 www.expediataap.com
 www.expediaagents.com
@@ -1236,8 +1235,8 @@ www.travelocity.ca
 www.bookabach.co.nz
 *.wotif.com
 *.cheaptickets.com
-www.travelocity.com
 *.expediacruises.com
+www.travelocity.com
 www.hotels.com
 www.flights.com
 www.hotwirepartnercentral.com
@@ -1297,8 +1296,8 @@ tools.deribit.com
 metrics.deribit.com
 test.deribit.com
 insights.deribit.com
-pb.deribit.com
 *.deribit.com
+pb.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1543,14 +1542,14 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-teams.krisp.ai
 upld.krisp.ai
+teams.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
-app.krisp.ai
 api.krisp.ai
 krisp.ai
 *.krisp.ai
+app.krisp.ai
 *.krisp.ai
 krisp.ai
 account.krisp.ai
@@ -2071,7 +2070,6 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
-gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2114,8 +2112,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.5nine.com
 *.devicelock.com
+*.5nine.com
 *.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
@@ -2302,8 +2300,8 @@ my.playstation.com
 social.playstation.com
 my.account.sony.com
 *.playstation.net
-*.sonyentertainmentnetwork.com
 store.playstation.com
+*.sonyentertainmentnetwork.com
 api.direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2409,20 +2407,20 @@ amazonpayinsurance.in
 *.amazon.sg
 *.amazon.se
 *.amazon.com.co
-*.amazon.eg
 *.amazon.com.au
-*.amazon.sa
+*.amazon.eg
 *.amazon.com.br
+*.amazon.sa
 *.amazon.co.jp
-*.amazon.fr
 *.amazon.cn
+*.amazon.fr
 *.amazon.de
 *.amazon.co.uk
-*.amazon.ca
 *.amazon.ae
 *.amazon.com.mx
-*.amazon.com
 *.amazon.in
+*.amazon.ca
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2485,8 +2483,8 @@ moments.marriottbonvoy.com
 jobs.marriott.com
 homes-and-villas.marriott.com
 *uat.marriott.com
-all-inclusive.marriott.com
 hotel-deals.marriott.com
+all-inclusive.marriott.com
 www.ritzcarlton.com
 mgs.marriott.com
 www.marriott.com
@@ -2535,8 +2533,8 @@ blox.link
 *.ra.roblox.com
 blox.link
 cdn.localizestaging.com
-localizestaging.com
 api.localizestaging.com
+localizestaging.com
 app.localizestaging.com
 localizestaging.com
 api.localizestaging.com
@@ -2752,12 +2750,12 @@ res.en.travelbrandsagent.com
 res.skyteam.com
 res.blueskytours.globalbookingsolutions.com
 vacations.travelimpressions.com
-login.fr.travelbrandsagent.com
 vacations.universalstudioshollywood.com
-holidays-nz.fijiairways.com
-newsroom.images.hyatt.com
 res.vacations.discoverycove.com
 holidays-us.fijiairways.com
+newsroom.images.hyatt.com
+login.fr.travelbrandsagent.com
+holidays-nz.fijiairways.com
 world.hyatt.com
 hyatt.com
 www.hyatt.com
@@ -3086,8 +3084,8 @@ www.fitvermogen.nl
 playartifact.com
 support.steampowered.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 www.valvesoftware.com
 developer.valvesoftware.com
 www.counter-strike.net
@@ -3192,10 +3190,10 @@ wiki.grab.com
 manage.grab.co
 *.grabpay.com
 p.grabtaxi.com
-jira.grab.com
-grab.careers
-*.taralite.com
 gifts.grab.com
+grab.careers
+jira.grab.com
+*.taralite.com
 *.grab-sure.com
 kartaview.org
 *.ovo.id
@@ -3478,8 +3476,8 @@ api2.grofers.com
 *.hyperpure.com
 winecellar.zomato.com
 *.zomans.com
-blinkit.com
 *.zomato.com
+blinkit.com
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3540,7 +3538,6 @@ shopifyinbox.com
 *.shopifycs.com
 shopify.plus
 *.shopify.io
-*.shopifycloud.com
 arrive-server.shopifycloud.com
 shop.app
 *.shopify.com
@@ -3548,6 +3545,7 @@ partners.shopify.com
 admin.shopify.com
 your-store.myshopify.com
 accounts.shopify.com
+*.shopifycloud.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3585,15 +3583,15 @@ code.playcanvas.com
 kit.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-business.snapchat.com
 web.snapchat.com
-playcanvas.com
 *.sc-core.net
 ads.snapchat.com
+playcanvas.com
 my.snapchat.com
 accounts.snapchat.com
 www.bitmoji.com
 store.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3783,8 +3781,8 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-akismet.com
 t.umblr.com
+akismet.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
