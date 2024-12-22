@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 22 04:24:02 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 22 05:21:37 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -26,22 +26,22 @@ bcny.com
 www.starbucks.com.cn/
 www.starbucks.com.cn/
 www.starbucks.at
-www.starbucks.co.uk/
-www.starbucks.fr/
-www.starbucks.hu
-www.starbucks.it/
-www.starbucks.mt
-www.starbucks.nl
-www.starbucks.no
-www.starbucks.pt/
-www.starbucks.ie/
-www.starbucks.ro
 www.starbucks.be
 www.starbucks.bg
 www.starbucks.cz/
 www.starbucks.eg
+www.starbucks.fr/
+www.starbucks.hu
+www.starbucks.nl
+www.starbucks.it/
+www.starbucks.mt
+www.starbucks.no
+www.starbucks.pt/
+www.starbucks.ie/
+www.starbucks.ro
 www.starbucksslovakia.sk/
 www.starbucks.es
+www.starbucks.co.uk/
 www.starbucks.de
 www.starbucks.com.tr
 www.starbucks.pl
@@ -171,7 +171,6 @@ teamportal.nba.com
 corp-dev.nba.com
 stats.wnba.com
 stats-trafficcop-prod.nba.com
-manage.nba.com
 vote.nba.com
 gleague.nba.com
 syndication.nba.com
@@ -185,6 +184,7 @@ id.nba.com
 identity.nba.com
 core-api.nba.com
 www.nba.com
+manage.nba.com
 www.nba.com
 gleague.nba.com
 2kleague.nba.com
@@ -397,8 +397,8 @@ www.gr.dyson.com
 www.dyson.com.ee
 *.dyson.com
 *-asia-south1.truecaller.com
-*-eu.truecaller.com
 *-noneu.truecaller.com
+*-eu.truecaller.com
 business-resources.truecaller.com
 web.truecaller.com
 business.truecaller.com
@@ -462,8 +462,8 @@ bioid-management.app
 toolsforhumanity.com
 id.worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
 worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.dev
 *.consumer.worldcoin.org
@@ -495,8 +495,8 @@ verify.arkoselabs.com
 iframe.arkoselabs.com
 www.arkoselabs.com
 demo.arkoselabs.com
-www.sheer.com
 my.sheer.com
+www.sheer.com
 www.sheer.com
 my.sheer.com
 www.pornworld.com
@@ -546,10 +546,10 @@ api.23andme.com
 therapeutics.23andme.com
 store.23andme.com
 blog.23andme.com
-you.23andme.com
-research.23andme.com
 medical.23andme.com
+research.23andme.com
 auth.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -563,8 +563,8 @@ research.23andme.com
 www.mercadolibre.cl
 www.mercadopago.com.co
 www.mercadopago.com.mx
-www.mercadopago.com.ar
 www.mercadopago.com.br
+www.mercadopago.com.ar
 www.mercadolibre.com.uy
 www.mercadopago.com.uy
 api.mercadopago.com
@@ -726,8 +726,8 @@ oauth-sandbox.gocardless.com
 *.gocardless-banking.io
 auth0.gocardless.com
 *.gocardless-lab.io
-www.gocardless.com
 *.gocardless-cicd.io
+www.gocardless.com
 api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
@@ -1046,8 +1046,8 @@ debug.clairvoyance.indrive.tech
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 watchdocs.indriverapp.com
-wga.volans.tech
 ci.indrive.dev
+wga.volans.tech
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1059,9 +1059,9 @@ auth2.indrive.tech
 cargo.indrive.com
 ab-platform-api.eu-east-1.indriverapp.com
 *.indriver.com
-*.indriverapp.com
 volans.tech
 *.indrive.com
+*.indriverapp.com
 super-services.indriverapp.com
 *.indriverapp.com
 *.indrive.com
@@ -1294,10 +1294,10 @@ www.ebookers.com
 www.wotif.com
 www.cheaptickets.com
 www.vrbo.com
-*.expediapartnercentral.com
 *.cheaptickets.com
 www.ebookers.fi
 *.travelocity.ca
+*.expediapartnercentral.com
 *.vrbo.com
 *.hotwire.com
 *.carrentals.com
@@ -1635,6 +1635,7 @@ www.evernote.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+hc2services.com
 *.singspacegame.com
 *.hmxwebservices.com
 *.epicgames.dev
@@ -2094,12 +2095,12 @@ www.pangleglobal.com
 developers.tiktok.com
 business.tiktok.com
 fp-sg.tiktokv.com
-*.tiktok.com
 tiktok.com
 ads.tiktok.com
-affiliate-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
+*.tiktok.com
+affiliate-id.tokopedia.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2163,8 +2164,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.devicelock.com
 *.5nine.com
+*.devicelock.com
 account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
@@ -2350,9 +2351,9 @@ store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
+api.direct.playstation.com
 my.account.sony.com
 *.playstation.net
-api.direct.playstation.com
 direct.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2459,8 +2460,8 @@ amazonpayinsurance.in
 *.amazon.com.br
 *.amazon.com.mx
 *.amazon.com.co
-*.amazon.cn
 *.amazon.com.au
+*.amazon.cn
 *.amazon.com.be
 *.amazon.ca
 *.amazon.eg
@@ -2470,8 +2471,8 @@ amazonpayinsurance.in
 *.amazon.co.jp
 *.amazon.es
 *.amazon.ae
-*.amazon.com
 *.amazon.in
+*.amazon.com
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2536,8 +2537,8 @@ homes-and-villas.marriott.com
 all-inclusive.marriott.com
 hotel-deals.marriott.com
 www.ritzcarlton.com
-gatewaydsaptst2.marriott.com
 careers.marriott.com
+gatewaydsaptst2.marriott.com
 mgs.marriott.com
 traveler.marriott.com
 activities.marriott.com
@@ -2634,7 +2635,6 @@ sensei.pixiv.net
 vroid.com
 novel.pixiv.net
 coban.pixiv.net
-*.fanbox.cc
 dic.pixiv.net
 booth.pm
 hub.vroid.com
@@ -2643,6 +2643,7 @@ accounts.pixiv.net
 payment.pixiv.net
 www.pixiv.net
 pastela.app
+*.fanbox.cc
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -3135,8 +3136,8 @@ www.fitvermogen.nl
 playartifact.com
 support.steampowered.com
 www.teamfortress.com
-www.dota2.com
 partner.steampowered.com
+www.dota2.com
 developer.valvesoftware.com
 api.steampowered.com
 www.counter-strike.net
@@ -3242,10 +3243,10 @@ wiki.grab.com
 *.myteksi.com
 manage.grab.co
 p.grabtaxi.com
-jira.grab.com
-grab.careers
-*.taralite.com
 gifts.grab.com
+grab.careers
+jira.grab.com
+*.taralite.com
 kartaview.org
 *.ovo.id
 api.grabpay.com
@@ -3388,11 +3389,11 @@ gutenberg.run
  github.com/WordPress
 store.rockstargames.com
 socialclub.rockstargames.com
-circolocorecords.com/
 prod.ros.rockstargames.com
-support.rockstargames.com
 rockstarnorth.com
+support.rockstargames.com
 *.rockstargames.com
+circolocorecords.com/
 socialclub.rockstargames.com
 prod.ros.rockstargames.com
 support.rockstargames.com
@@ -3400,8 +3401,8 @@ support.rockstargames.com
 store.rockstargames.com
 rockstarnorth.com
 circolocorecords.com/
-www.files.com
 app.files.com
+www.files.com
 your-assigned-subdomain.files.com
 app.files.com
 your-assigned-subdomain.files.com
@@ -3734,8 +3735,8 @@ next.airbnb.com
 *.muscache.com
 *.airbnbcitizen.com
 api.airbnb.com
-*.hoteltonight-test.com
 *.hoteltonight.com
+*.hoteltonight-test.com
 www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
@@ -3764,9 +3765,9 @@ www.hoteltonight.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+donations.livestream.com
 *.cloud.vimeo.com
 *.vimeo.com
 *.vhx.tv
@@ -3795,9 +3796,9 @@ jss.greenhouse.io
 interseller.io
 boards.greenhouse.io
 api.greenhouse.io
+support.greenhouse.io
 app.greenhouse.io
 app.interseller.io
-support.greenhouse.io
 onboarding.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
@@ -3840,16 +3841,16 @@ waf.cumulusfire.net
 secure.tumblr.com
 embed.tumblr.com
 *.srvcs.tumblr.com
-t.umblr.com
 akismet.com
+t.umblr.com
 api.tumblr.com
 assets.tumblr.com
 safe.tumblr.com
 mailpoet.com
 my.pressable.com
 simperium.com
-*.tumblr.com
 www.tumblr.com
+*.tumblr.com
 simplenote.com
 gravatar.com
 intensedebate.com
@@ -3941,8 +3942,8 @@ www.quip.com
 *.quip.com
 slack-status.com
 profile-photos-us-east-2.hackerone-user-content.com
-hackathon-photos.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
+hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone-user-content.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -3950,18 +3951,18 @@ hackerone-ext-content.com
 cover-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 www.wearehackerone.com
-errors.hackerone.net
 a5s.hackerone-ext-content.com
-hackerone.live
-mta-sts.wearehackerone.com
+errors.hackerone.net
 b5s.hackerone-ext-content.com
 reviewer.pullrequest.com
+mta-sts.wearehackerone.com
+hackerone.live
 ctf.hacker101.com
-api.hackerone.com
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 app.pullrequest.com
-www.hackerone.com
 hackerone.com
+www.hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
