@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 22 22:21:29 UTC 2024)
+## Domains with Bounties (Last Updated Sun Dec 22 23:23:04 UTC 2024)
 ```
 http://--your-own-1password-account--.1password.com
 https://bugbounty-ctf.1password.com/
@@ -87,13 +87,13 @@ eligibility.khealth.com
 treatments.khealth.com
 anthem.khealth.com
 api.khealth.io
-start.khealth.com
 api.khealth.com
+start.khealth.com
 app.khealth.com
 www.kpharmacyllc.com
 salesforce.khealth.com
-accounts.khealth.com
 kaccount.khealth.com
+accounts.khealth.com
 api.khealth.io
 accounts.khealth.com
 eligibility.khealth.com
@@ -127,8 +127,8 @@ gnocchi-www.buffalo-ggn.net
 *.boardkingsgame.com
 *.caesarsgames.com
 *.seriously.com
-*.serious.li
 *.playwsop.com
+*.serious.li
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -462,8 +462,8 @@ bioid-management.app
 toolsforhumanity.com
 id.worldcoin.org
 *.toolsforhumanity.com
-getworldcoin.com
 worldcoin.org
+getworldcoin.com
 *.worldcoin.org
 *.worldcoin.dev
 *.consumer.worldcoin.org
@@ -566,8 +566,8 @@ www.mercadopago.com.ar
 www.mercadolibre.com.uy
 www.mercadopago.com.uy
 api.mercadopago.com
-www.mercadolibre.com.mx
 www.mercadolivre.com.br
+www.mercadolibre.com.mx
 www.mercadolibre.com.co
 www.mercadopago.com.pe
 www.mercadolibre.com.pe
@@ -618,8 +618,8 @@ fareharborsites.com
 taxi.booking.com
 spark.fareharbor.com
 chat.booking.com
-kyc-onboarding.booking.com
 cars.booking.com
+kyc-onboarding.booking.com
 accommodations.booking.com
 www.fareharbor.com
 paymentcomponent.booking.com
@@ -719,8 +719,8 @@ https://api-test.nicex.com
 https://api-test.nicehash.com
 test.nicex.com
 pay-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
 connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
 *.gocardless-staging.io
 *.gocardless.io
 *.gocardless-banking.io
@@ -818,8 +818,8 @@ www.visa.com.vn
 visa.co.za
 www.practicalmoneyskills.com
 visa.com.au
-bm.visa.com
 developer.authorize.net
+bm.visa.com
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -837,8 +837,8 @@ www.visa.com.kz
 www.visa.co.in
 www.yellowpepper.com
 www.visa.com.br
-www.visa.com.cy
 bb.visa.com
+www.visa.com.cy
 test.payworks.io
 www.visa.com.tr
 bd.visa.com
@@ -955,10 +955,10 @@ api.tideplatform.in
 *.tide.co
 *.tide.co
 api.tideplatform.in
+relay.firefox.com
 sync.services.mozilla.com
 vpn.mozilla.org
 api.profiler.firefox.com
-relay.firefox.com
 mozilla-pontoon-staging.herokuapp.com
 shavar.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
@@ -971,10 +971,10 @@ firefox.settings.services.mozilla.com
 bugzilla.mozilla.org
 hg.mozilla.org
 push.services.mozilla.com
-merino.services.mozilla.com
-monitor.mozilla.org
 support.mozilla.org
 profiler.firefox.com
+merino.services.mozilla.com
+monitor.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 developer.mozilla.org
 www.mozilla.org
@@ -1041,13 +1041,13 @@ hiltonlocalbiz.com
 *.oklink.com
 priority.eu-east-1.indriverapp.com
 messenger.eu-east-1.indriverapp.com
-external.indrive.dev
 debug.clairvoyance.indrive.tech
+external.indrive.dev
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 watchdocs.indriverapp.com
-ci.indrive.dev
 wga.volans.tech
+ci.indrive.dev
 profile-api.eu-east-1.indriverapp.com
 auth.indrive.tech
 argocd.indrive.dev
@@ -1061,8 +1061,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 *.indriver.com
 volans.tech
 *.indrive.com
-*.indriverapp.com
 super-services.indriverapp.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1135,8 +1135,8 @@ oneview.malwarebytes.com
 mobile.s-pankki.fi
 extranet.s-pankki.fi
 tunnistus.s-ryhma.fi
-www.prisma.fi
 www.s-kaupat.fi
+www.prisma.fi
 api.sokos.fi
 cfapi.voikukka.fi
 www.sokos.fi
@@ -1158,8 +1158,8 @@ cfapi.voikukka.fi
 jobs.kiwi.com
 auth.skypicker.com
 tequila.kiwi.com
-*.kiwi.com
 www.kiwi.com
+*.kiwi.com
 *.skypicker.com
 *.kiwi.com
 *.skypicker.com
@@ -1407,8 +1407,8 @@ invoices.razorpay.com
 checkout.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-dashboard.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1548,9 +1548,9 @@ delta.app
 bullsheet.me
 *.instacart.tools
 *.instacart.com
+www.instacart.com
 admin.instacart.com
 api.instacart.com
-www.instacart.com
 shoppers.instacart.com
 *.instacart.com
 *.instacart.tools
@@ -1593,8 +1593,8 @@ payoneer.com.cn
 *.payoneer.com
 payoneer.com.cn
 download.krisp.ai
-upld.krisp.ai
 teams.krisp.ai
+upld.krisp.ai
 analytics.krisp.ai
 account.krisp.ai
 krisp.ai
@@ -1855,23 +1855,23 @@ www.urbanclap.com
 www.urbancompany.com
 www.urbancompany.com
 www.urbanclap.com
-meta-api.reddit.com
 *.redditblog.com
+meta-api.reddit.com
 redditforbusiness.com
 gateway.reddit.com
 strapi.reddit.com
 m.reddit.com
 api.reddit.com
-*.redditmedia.com
 matrix.redditspace.com
+*.redditmedia.com
 *.spiketrap.io
 *.reddithelp.com
 business.reddithelp.com
 *.snooguts.net
 amp.reddit.com
 new.reddit.com
-*.reddit.com
 ads.reddit.com
+*.reddit.com
 gql.reddit.com
 *.memorable.io
 developers.reddit.com
@@ -1929,8 +1929,8 @@ wp-integ.chime.com
 wp-qa.chime.com
 *.chimecard.com
 *.1debit.com
-www.chime.com
 wp-dev5.chime.com
+www.chime.com
 app.staging.saltlabs.com
 saltlabs.com
 *.chimebank.com
@@ -2066,8 +2066,8 @@ api.adm.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 adm.cloud.com
 (youriwssubdomain).cloud.com
-*.citrixworkspacesapi.net
 accounts.cloud.com
+*.citrixworkspacesapi.net
 ap-s.cloud.com
 eu.cloud.com
 us.cloud.com
@@ -2120,6 +2120,7 @@ seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
 meetiobook.com
+gaming.logicool.co.jp
 circle.logi.com
 accounts.logi.com
 *vc.logitech.com
@@ -2162,8 +2163,8 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.devicelock.com
 *.5nine.com
+*.devicelock.com
 account.acronis.com
 *.acronis.work
 beta-cloud.acronis.com
@@ -2349,8 +2350,8 @@ store.playstation.com
 *.sonyentertainmentnetwork.com
 my.playstation.com
 ca.account.sony.com
-api.direct.playstation.com
 my.account.sony.com
+api.direct.playstation.com
 direct.playstation.com
 *.playstation.net
 *.playstation.net
@@ -2468,9 +2469,9 @@ amazonpayinsurance.in
 *.amazon.co.jp
 *.amazon.es
 *.amazon.ae
+*.amazon.co.uk
 *.amazon.com
 *.amazon.in
-*.amazon.co.uk
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -2991,9 +2992,9 @@ paypalobjects.com
 *.hyperwallet.com
 *.braintreepayments.com
 sandbox.braintreegateway.com
-*.braintreegateway.com
 *.xoom.com
 *.paypal.com
+*.braintreegateway.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3051,8 +3052,8 @@ testnet.bitmex.com
 www.bitmex.com
 api-staging.airtable.com
 *.staging-airtableblocks.com
-*.staging.airtable.com
 staging.airtable.com
+*.staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3160,8 +3161,8 @@ developer.valvesoftware.com
 js.crypto.com
 app.mona.co
 *.mona.co
-merchant.crypto.com
 developer-platform-api.crypto.com
+merchant.crypto.com
 tax.crypto.com
 web.crypto.com
 nadex.com
@@ -3241,15 +3242,15 @@ wiki.grab.com
 *.myteksi.com
 manage.grab.co
 p.grabtaxi.com
-gifts.grab.com
-grab.careers
 jira.grab.com
+grab.careers
 *.taralite.com
+gifts.grab.com
 kartaview.org
+*.myteksi.net
 *.ovo.id
 api.grabpay.com
 *.grab.co
-*.myteksi.net
 *.grab-sure.com
 *.grabtaxi.com
 *.grabpay.com
@@ -3387,8 +3388,8 @@ gutenberg.run
  github.com/WordPress
 store.rockstargames.com
 socialclub.rockstargames.com
-rockstarnorth.com
 support.rockstargames.com
+rockstarnorth.com
 *.rockstargames.com
 circolocorecords.com/
 prod.ros.rockstargames.com
@@ -3592,12 +3593,12 @@ shopifyinbox.com
 arrive-server.shopifycloud.com
 *.shopify.io
 shopify.plus
-*.shopify.com
-shop.app
 accounts.shopify.com
+shop.app
+*.shopify.com
 your-store.myshopify.com
-partners.shopify.com
 admin.shopify.com
+partners.shopify.com
 *.shopifycs.com
 *.shopify.io
 *.shopify.com
@@ -3628,8 +3629,8 @@ blog.playcanvas.com
 playcanv.as
 geofilters.snapchat.com
 developer.playcanvas.com
-forum.playcanvas.com
 kit.snapchat.com
+forum.playcanvas.com
 *.sc-core.net
 playcanvas.com
 my.snapchat.com
@@ -3763,9 +3764,9 @@ www.hoteltonight.com
 staging.magisto.com
 applause1.magisto.com
 www.livestream.com
-donations.livestream.com
 embed.vhx.tv
 vimeo.magisto.com
+donations.livestream.com
 vimeopro.com
 *.cloud.vimeo.com
 *.vimeo.com
@@ -3795,9 +3796,9 @@ jss.greenhouse.io
 interseller.io
 boards.greenhouse.io
 api.greenhouse.io
-support.greenhouse.io
 app.greenhouse.io
 app.interseller.io
+support.greenhouse.io
 onboarding.greenhouse.io
 www.greenhouse.io
 app.greenhouse.io
@@ -3960,8 +3961,8 @@ hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 app.pullrequest.com
 api.hackerone.com
 reviewer.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
