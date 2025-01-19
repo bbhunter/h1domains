@@ -2,13 +2,13 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 19 21:16:47 UTC 2025)
+## Domains with Bounties (Last Updated Sun Jan 19 22:19:39 UTC 2025)
 ```
 http://api.lightspark.com
 http://app.lightspark.com
 https://link.uma.me
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -46,16 +46,16 @@ www.starbucks.cz/
 www.starbucks.hu
 www.starbucks.nl
 www.starbucks.no
-www.starbucks.es
 www.starbucks.ro
+www.starbucks.es
 www.starbucks.de
 www.starbucks.pl
 www.starbucks.at
-www.starbucks.co.za
-www.starbucks.com.om
 www.starbucks.com.kz
-www.starbucks.com.bh
 www.starbucks.co.ma
+www.starbucks.co.za
+www.starbucks.com.bh
+www.starbucks.com.om
 www.roastery.starbucks.it
 www.starbucks.com.jo
 card.starbucks.com.gr/
@@ -67,6 +67,7 @@ www.starbucks.sa
 www.starbucks.be
 www.starbucks.ch
 www.starbucks.mt
+www.starbucks.ie/
 https://www.starbucks.at
 www.starbucks.be
 www.starbucks.bg
@@ -106,11 +107,11 @@ www.starbucks.co.za
 www.starbucks.rs
 www.starbucks.com.ar/
 www.starbucks.cl
+www.starbucks.co.cr/
 www.starbucks.com.mx/
 www.starbucks.pa/
 www.starbucks.com.py/
 www.starbucks.com.uy
-www.starbucks.co.cr/
 www.starbucks.com.sv
 www.starbucks.tt
 www.starbucks.pe
@@ -202,29 +203,29 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 content-api-prod.nba.com
-cweb-ott.nba.com
 manage-teams.nba.com
-mcdalerts.nba.com
 elm.nba.com
+cweb-ott.nba.com
+mcdalerts.nba.com
 nbafedsvc.nba.com
 teamportal.nba.com
 stats-trafficcop-prod.nba.com
 syndication.nba.com
 stats.2kleague.nba.com
-stats.nba.com
 stats.gleague.nba.com
+stats.nba.com
 stats.wnba.com
 2kleague.nba.com
 cms.nba.com
 cdn.nba.com
 mcd.nba.com
+content-api-nextgen-prod.nba.com
+manage.nba.com
 www.wnba.com
 gleague.nba.com
-manage.nba.com
-content-api-nextgen-prod.nba.com
+corp-dev.nba.com
 cdn-bal.nba.com
 core-api.nba.com
-corp-dev.nba.com
 identity.nba.com
 vote.nba.com
 bal.nba.com
@@ -261,8 +262,8 @@ mcd.nba.com
 mcdalerts.nba.com
 elm.nba.com
 lockervision.nba.com
-app.circle.com
 api.circle.com
+app.circle.com
 console.circle.com
 api.circle.com
 app.circle.com
@@ -287,8 +288,8 @@ secure.netflix.com
 help.netflix.com
 *.nflxext.com
 www.netflix.com
-*.nflxso.net
 *.prod.cloud.netflix.com
+*.nflxso.net
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -351,7 +352,6 @@ api.fi.dyson.com
 *.cp.dyson.com
 api.dyson.de
 www.dyson.se
-www.dyson.ch
 www.dyson.co.il
 www.dyson.nl
 www.dyson.be
@@ -362,6 +362,7 @@ www.dyson.cz
 shop.dyson.co.za
 api.dyson.fr
 www.dyson.es
+www.dyson.hk
 *.dyson.com
 www.dyson.co.uk
 www.dyson.com
@@ -490,12 +491,12 @@ api.vault.chiatest.net
 id.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.dev
-*.consumer.worldcoin.org
 bioid-management.app
+*.consumer.worldcoin.org
 worldcoin.org
 *.worldcoin.org
-developer.worldcoin.org
 *.toolsforhumanity.com
+developer.worldcoin.org
 getworldcoin.com
 *.worldcoin.org
 *.consumer.worldcoin.org
@@ -570,9 +571,9 @@ hpanel.hostinger.com
 payments.hostinger.com
 builder.hostinger.com
 research.23andme.com
+education.23andme.com
 therapeutics.23andme.com
 api.23andme.com
-education.23andme.com
 auth.23andme.com
 blog.23andme.com
 store.23andme.com
@@ -719,8 +720,8 @@ kronor.io
 *.cheaptickets.nl
 *.trainpal.com
 *.mytrainpal.com
-*.trip.com
 *.travix.com
+*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -745,17 +746,17 @@ test.nicehash.com
 test.nicehash.com
 https://test.nicehash.com/shop/
 https://api-test.nicehash.com
-connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
+connect-sandbox.gocardless.com
 auth0.gocardless.com
 *.gocardless-lab.io
 *.gocardless-cicd.io
 *.gocardless-staging.io
 www.gocardless.com
 api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
-pay-sandbox.gocardless.com
 manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -784,8 +785,8 @@ api.wisdomtreeprimeapp.com
 api.wisdomtreeprimeapp.com
 eets.gamma.redoxstage.com
 help.redoxengine.com
-explore.redoxengine.com
 clientcert.gamma.redoxstage.com
+explore.redoxengine.com
 fhir.redoxengine.com
 blob.gamma.redoxstage.com
 api.gamma.redoxstage.com
@@ -844,8 +845,8 @@ www.visa.co.th
 www.visa.com.vn
 www.practicalmoneyskills.com
 visa.com.au
-bm.visa.com
 developer.authorize.net
+bm.visa.com
 www.visa.com.cn
 cw.visa.com
 www.visa.com.mx
@@ -862,8 +863,8 @@ www.practicalmoneyskills.org
 www.visa.com.kz
 www.yellowpepper.com
 www.visa.com.br
-www.visa.com.cy
 bb.visa.com
+www.visa.com.cy
 test.payworks.io
 www.visa.com.tr
 bd.visa.com
@@ -942,9 +943,9 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -959,8 +960,8 @@ api.krisha.kz
 app.kolesa.kz
 id.kolesa.kz
 m.kolesa.kz
-api.avtoelon.uz
 krisha.kz
+api.avtoelon.uz
 avtoelon.uz
 api.kolesa.kz
 kolesa.kz
@@ -986,8 +987,8 @@ api.tideplatform.in
 api.tideplatform.in
 sync.services.mozilla.com
 vpn.mozilla.org
-shavar.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
+shavar.services.mozilla.com
 phabricator.allizom.org
 lando.services.mozilla.com
 crash-stats.allizom.org
@@ -1090,8 +1091,8 @@ cargo.indrive.com
 profile-api.eu-east-1.indriverapp.com
 *.indriver.com
 *.indrive.com
-*.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1385,8 +1386,8 @@ read.amazon.com
 skills-store.amazon.com
 creator.amazon.com
 a4k.amazon.com
-alexaanswers.amazon.com
 alexa.amazon.com
+alexaanswers.amazon.com
 blueprints.amazon.com
 read.amazon.com
 alexaanswers.amazon.com
@@ -1431,8 +1432,8 @@ https://user-storage.api.cx.metamask.io
 portfolio.metamask.io
 invoices.razorpay.com
 checkout.razorpay.com
-payroll.razorpay.com
 x.razorpay.com
+payroll.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
@@ -1441,10 +1442,4 @@ checkout.razorpay.com
 invoices.razorpay.com
 payroll.razorpay.com
 x.razorpay.com
-business.linkedin.com
-api.linkedin.com
-www.linkedin.com
-www.linkedin.com
-api.linkedin.com
-business.linkedin.com
 ```
