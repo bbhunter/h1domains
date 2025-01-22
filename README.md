@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 22 09:23:25 UTC 2025)
+## Domains with Bounties (Last Updated Wed Jan 22 10:21:21 UTC 2025)
 ```
 http://bumba.global
 http://api.lightspark.com
