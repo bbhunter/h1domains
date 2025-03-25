@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Mar 25 14:25:56 UTC 2025)
+## Domains with Bounties (Last Updated Tue Mar 25 15:24:43 UTC 2025)
 ```
 zooplus.net
 www.zooplus.de
