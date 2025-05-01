@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  1 14:21:10 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  1 15:22:55 UTC 2025)
 ```
 wallet.tg
 pay.wallet.tg
