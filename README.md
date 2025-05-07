@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 16:33:57 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 17:24:33 UTC 2025)
 ```
 pay.wallet.tg
 wallet.tg
@@ -30,10 +30,10 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 alfred.syfe.com
+api.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 www.syfe.com
-api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -439,15 +439,15 @@ careers.remitly.com
 news.remitly.com
 ir.remitly.com
 *.int.remitly.com
-app.rewire.to
 access.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-remitly.com
-auth.remitly.com
 site.rewire.com
+auth.remitly.com
+remitly.com
 rewire.com
+app.rewire.to
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -551,8 +551,8 @@ demo.dynamic.xyz
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -573,8 +573,8 @@ auth.23andme.com
 pd-api.polkadoc.com
 api.23andme.com
 you.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -709,13 +709,13 @@ widget.rentalcars.com
 tableau.fareharbor.engineering
 demo.fareharbor.com
 fhdn.fareharbor.com
-spark.fareharbor.com
 taxis.booking.com
 chat.booking.com
 kyc-onboarding.booking.com
 careers.booking.com
 paymentcomponent.booking.com
 taxi.booking.com
+cars.booking.com
 *.fareharbor.com
 *.booking.com
 *.rentalcars.com
@@ -1205,8 +1205,8 @@ cloud.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 *.malwarebytes.com
-my.malwarebytes.com
 *.cloud.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1246,8 +1246,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.kiwi.com
-www.kiwi.com
 *.skypicker.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-dashboard.razorpay.com
 payroll.razorpay.com
 checkout.razorpay.com
 api.razorpay.com
+dashboard.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1966,9 +1966,9 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
+*.redditinc.com
 *.reddit.com
 *.memorable.io
-*.redditinc.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2188,8 +2188,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2211,9 +2211,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
-*.acronis.work
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -3512,9 +3512,9 @@ design.gitlab.com
 *.gitlap.com
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.net
 docs.gitlab.com
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3562,8 +3562,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3648,10 +3648,10 @@ story.snapchat.com
 snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
-web.snapchat.com
 app.snapchat.com
 accounts.snapchat.com
 playcanvas.com
+web.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3718,7 +3718,6 @@ account.adobe.com
 photos.adobe.io
 fonts.adobe.com
 marketplace.magento.com
-firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,12 +3754,12 @@ assets.airbnb.com
 *.withairbnb.com
 www.hoteltonight.com
 *.hoteltonight-test.com
-next.airbnb.com
 *.muscache.com
 *.hoteltonight.com
-api.airbnb.com
 www.airbnb.com
 *.airbnb.com
+next.airbnb.com
+api.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3982,11 +3981,11 @@ hackathon-photos.hackerone-user-content.com
 *.vpn.hackerone.net
 hackerone.live
 api.hackerone.com
-a5s.hackerone-ext-content.com
 www.hackerone.com
 reviewer.pullrequest.com
 app.pullrequest.com
 hackerone.com
+a5s.hackerone-ext-content.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
