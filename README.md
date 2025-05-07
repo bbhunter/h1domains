@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 21:23:09 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 22:25:40 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -32,9 +32,9 @@ zooplus.net
 mark8.syfe.com
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 www.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -1636,8 +1636,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-*.instacart.com
 www.instacart.com
+*.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1967,8 +1967,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.memorable.io
 *.redditinc.com
+*.memorable.io
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2148,8 +2148,8 @@ business.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
 seller-id.tokopedia.com
-tiktok.com
 ads.tiktok.com
+tiktok.com
 *.tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2189,8 +2189,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2212,12 +2212,12 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
-beta-cloud.acronis.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2367,8 +2367,8 @@ store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
-*.api.playstation.com
 *.sonyentertainmentnetwork.com
+*.api.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2560,8 +2560,8 @@ www.goodrx.com
 *.ra.roblox.com
 *.rbx.com
 blox.link
-*.roblox.com
 *.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2987,9 +2987,9 @@ loanbuilder.com
 *.venmo.com
 *.braintreegateway.com
 *.xoom.com
-*.braintree-api.com
 *.hyperwallet.com
 *.paypal.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3483,8 +3483,8 @@ classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-gist.github.com
 api.github.com
+gist.github.com
 github.com
 *.githubapp.com
 github.com
@@ -3563,8 +3563,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3600,8 +3600,8 @@ arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 *.shopify.io
 partners.shopify.com
-admin.shopify.com
 accounts.shopify.com
+admin.shopify.com
 shop.app
 *.shopify.com
 shopifyinbox.com
@@ -3651,8 +3651,8 @@ business.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
 web.snapchat.com
-playcanvas.com
 accounts.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,7 +3715,6 @@ account.magento.com
 photoshop.adobe.com
 learningmanagerstage4.adobe.com
 magento.com
-account.adobe.com
 photos.adobe.io
 marketplace.magento.com
 contributor.stock.adobe.com
@@ -3757,10 +3756,10 @@ www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
 *.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
-api.airbnb.com
 next.airbnb.com
+api.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3831,13 +3830,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-x.com
 *.twitter.com
 grok.com
 *.grok.com
 gnip.com
 *.x.ai
 *.x.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
