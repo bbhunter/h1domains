@@ -2,11 +2,11 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May  7 20:26:13 UTC 2025)
+## Domains with Bounties (Last Updated Wed May  7 21:23:09 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
 pay.wallet.tg
+wallet.tg
 walletbot.me
 walletbot.me
 pay.wallet.tg
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -436,7 +436,6 @@ cards.remitly.io
 ablink.info.remitly.com
 partner-webhook.remitly.io
 metrics.int.remitly.com
-careers.remitly.com
 news.remitly.com
 ir.remitly.com
 *.int.remitly.com
@@ -449,6 +448,7 @@ remitly.com
 rewire.com
 auth.remitly.com
 app.rewire.to
+careers.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -484,8 +484,8 @@ getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
 *.worldcoin.org
-developer.worldcoin.org
 *.worldcoin.dev
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -552,8 +552,8 @@ demo.dynamic.xyz
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-www.hostinger.com
 hpanel.hostinger.com
+www.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -773,8 +773,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1534,8 +1534,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1636,8 +1636,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1927,11 +1927,11 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
-*.lemonsqueezy.com
 app.taxjar.com
 js.stripe.com
 *.stripe.com
+*.lemonsqueezy.com
+api.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2036,8 +2036,8 @@ open.larksuite.com
 file.larksuite.com
 app.larksuite.com
 status.larksuite.com
-api.larksuite.com
 larksuite.com
+api.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2145,12 +2145,12 @@ www.pangleglobal.com
 shop-id.tokopedia.com
 business.tiktok.com
 *.tiktokv.com
-*.tiktok.com
 shop.tiktok.com
 live-backstage.tiktok.com
-ads.tiktok.com
 seller-id.tokopedia.com
 tiktok.com
+ads.tiktok.com
+*.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2211,10 +2211,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2367,8 +2367,8 @@ store.playstation.com
 wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
-*.sonyentertainmentnetwork.com
 *.api.playstation.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2524,8 +2524,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2558,10 +2558,10 @@ http://www.shopmarriott.com
 www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
-*.guilded.gg
 *.rbx.com
 blox.link
 *.roblox.com
+*.guilded.gg
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2890,9 +2890,9 @@ booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
-app.grammarly.com
 *.grammarly.io
 *.grammarly.com
+app.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3274,8 +3274,8 @@ sockets.geneva-staging.chat
 sockets.geneva-staging.com
 gateway.geneva-staging.chat
 www.geneva-staging.com
-presence.geneva-staging.chat
 api.geneva-staging.com
+deeplinks.geneva-staging.chat
 www.bumble.com
 bma.bumble.com
 badoo.com
@@ -3428,8 +3428,8 @@ cdna.lystit.com
 mobileapi.lystit.com
 try.discourse.org
 try.discourse.org
-*.quora.com
 poe.com
+*.quora.com
 *.quora.com
 http://poe.com
 forum.portswigger.net
@@ -3484,9 +3484,9 @@ npmjs.com
 npmjs.org
 education.github.com
 gist.github.com
-*.githubapp.com
 api.github.com
 github.com
+*.githubapp.com
 github.com
 api.github.com
 gist.github.com
@@ -3563,8 +3563,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3578,8 +3578,8 @@ derivws.com
 secure-dfadmin.deriv.com
 zopim.com
 developer.zendesk.com
-h1-your-domain.zendesk.com
 www.zendesk.com
+h1-your-domain.zendesk.com
 www.zendesk.com
 h1-your-domain.zendesk.com
 zopim.com
@@ -3595,17 +3595,17 @@ shopify.plus
 linkpop.com
 *.shopifykloud.com
 *.shopifycloud.com
-shopifyinbox.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
-shop.app
-*.shopify.com
 *.pci.shopifyinc.com
 *.shopify.io
-your-store.myshopify.com
-admin.shopify.com
 partners.shopify.com
+admin.shopify.com
 accounts.shopify.com
+shop.app
+*.shopify.com
+shopifyinbox.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3650,9 +3650,9 @@ snappublisher.snapchat.com
 business.snapchat.com
 forum.playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 web.snapchat.com
 playcanvas.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
