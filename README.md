@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 19:23:20 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 20:29:41 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
 walletbot.me
 wallet.tg
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -21,10 +21,10 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
-www.zooplus.co.uk
 zooplus.net
-www.zooplus.de
+www.zooplus.co.uk
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -128,8 +128,8 @@ http://app.lightspark.com
 https://link.uma.me
 lrc20.lightspark.com
 app.uma.money
-auth.privy.io
 dashboard.privy.io
+auth.privy.io
 auth.privy.io
 dashboard.privy.io
 http://--your-own-1password-account--.1password.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -433,19 +433,19 @@ cards.remitly.io
 ablink.info.remitly.com
 partner-webhook.remitly.io
 metrics.int.remitly.com
-news.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
 *.int.remitly.com
-site.rewire.com
-careers.remitly.com
-remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
 auth.remitly.com
+site.rewire.com
+careers.remitly.com
+remitly.com
+news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -549,8 +549,8 @@ demo.dynamic.xyz
 payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
@@ -571,8 +571,8 @@ pd-api.polkadoc.com
 api.23andme.com
 research.23andme.com
 clinic.lemonaidhealth.com
-you.23andme.com
 blog.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -771,8 +771,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 kronor.io
-*.booztlet.com
 *.boozt.com
+*.booztlet.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -815,9 +815,9 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
-pay-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
+pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1061,7 +1061,6 @@ aus5.mozilla.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
 firefox-ci-tc.services.mozilla.com
-www.mozilla.org
 community-tc.services.mozilla.com
 developer.mozilla.org
 relay.firefox.com
@@ -1070,6 +1069,7 @@ addons.allizom.org
 profiler.firefox.com
 accounts.firefox.com
 bugzilla.mozilla.org
+www.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1203,8 +1203,8 @@ cloud.malwarebytes.com
 www.malwarebytes.com
 *.mwbsys.com
 my.malwarebytes.com
-*.cloud.malwarebytes.com
 *.threatdown.com
+*.cloud.malwarebytes.com
 *.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1428,8 +1428,8 @@ zerobounce.net
 zerobounce.net
 insights.deribit.com
 pb.deribit.com
-*.deribit.com
 test.deribit.com
+*.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1961,8 +1961,8 @@ accounts.reddit.com
 matrix.redditspace.com
 m.reddit.com
 *.redditinc.com
-*.reddit.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2138,8 +2138,8 @@ shop-id.tokopedia.com
 business.tiktok.com
 shop.tiktok.com
 *.tiktokv.com
-tiktok.com
 seller-id.tokopedia.com
+tiktok.com
 live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2360,9 +2360,9 @@ wallets.api.playstation.com
 my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
-*.playstation.net
 *.sonyentertainmentnetwork.com
 store.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2551,9 +2551,9 @@ www.goodrx.com
 www.goodrx.com
 *.ra.roblox.com
 blox.link
-*.roblox.com
-*.guilded.gg
 *.rbx.com
+*.guilded.gg
+*.roblox.com
 *.roblox.com
 *.rbx.com
 *.guilded.gg
@@ -2882,9 +2882,9 @@ booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
-*.grammarly.com
 app.grammarly.com
 *.grammarly.io
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3133,9 +3133,9 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
-developer.crypto.com
-*.crypto.com
 developer-api.crypto.com
+*.crypto.com
+developer.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3222,8 +3222,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.net
 *.myteksi.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3593,15 +3593,15 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-*.shopify.io
-accounts.shopify.com
 shopifyinbox.com
+*.shopifycloud.com
 *.shopify.com
 partners.shopify.com
-*.shopifycloud.com
-shop.app
+*.shopify.io
+accounts.shopify.com
 admin.shopify.com
 your-store.myshopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3713,7 +3713,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 fonts.adobe.com
-stock.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3826,13 +3826,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.x.com
-*.twitter.com
 x.com
 grok.com
+*.twitter.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3947,8 +3947,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 slack.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 api.slack.com
 slackb.com
