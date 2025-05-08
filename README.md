@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 13:36:28 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 14:24:01 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
 wallet.tg
 walletbot.me
+pay.wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitalone.com
 *.capitaloneshopping.com
+*.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -444,11 +444,11 @@ api.remitly.io
 app3.rewire.to
 site.rewire.com
 app.rewire.to
-rewire.com
 careers.remitly.com
-remitly.com
-access.remitly.com
+rewire.com
 auth.remitly.com
+access.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -478,7 +478,6 @@ api.vault.chiatest.net
 worldcoin.org
 id.worldcoin.org
 world.org
-toolsforhumanity.com
 *.consumer.worldcoin.org
 getworldcoin.com
 *.toolsforhumanity.com
@@ -486,6 +485,7 @@ bioid-management.app
 *.worldcoin.org
 *.worldcoin.dev
 developer.worldcoin.org
+toolsforhumanity.com
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -781,9 +781,9 @@ kronor.io
 *.travix.io
 *.travix.com
 *.cheaptickets.nl
+*.trip.com
 *.trainpal.com
 *.mytrainpal.com
-*.trip.com
 *.trip.com
 *.travix.com
 *.travix.io
@@ -817,8 +817,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 api-sandbox.gocardless.com
-manage-sandbox.gocardless.com
 *.gocardless.com
+manage-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1488,10 +1488,10 @@ https://user-storage.api.cx.metamask.io
 signature-insights.api.cx.metamask.io
 invoices.razorpay.com
 x.razorpay.com
-payroll.razorpay.com
 api.razorpay.com
 dashboard.razorpay.com
 checkout.razorpay.com
+payroll.razorpay.com
 dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
@@ -1533,8 +1533,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1967,10 +1967,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
-*.reddit.com
+*.redditinc.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2052,9 +2052,9 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
-*.exodus.com
 *.exodus.io
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2148,10 +2148,10 @@ business.tiktok.com
 shop.tiktok.com
 ads.tiktok.com
 *.tiktokv.com
-tiktok.com
 seller-id.tokopedia.com
-live-backstage.tiktok.com
 *.tiktok.com
+tiktok.com
+live-backstage.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2212,13 +2212,13 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 account.acronis.com
-*.acronis.com
 beta-cloud.acronis.com
+*.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2987,8 +2987,8 @@ loanbuilder.com
 *.hyperwallet.com
 *.braintree-api.com
 *.braintreegateway.com
-*.paylution.com
 *.xoom.com
+*.paylution.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3027,8 +3027,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3141,9 +3141,9 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 web.crypto.com
+developer-api.crypto.com
 *.crypto.com
 developer.crypto.com
-developer-api.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3488,8 +3488,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 github.com
 github.com
 api.github.com
@@ -3605,11 +3605,11 @@ arrive-server.shopifycloud.com
 partners.shopify.com
 accounts.shopify.com
 shopifyinbox.com
-your-store.myshopify.com
-shop.app
 *.shopifycloud.com
 admin.shopify.com
 *.shopify.com
+shop.app
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3722,6 +3722,7 @@ magento.com
 photos.adobe.io
 marketplace.magento.com
 contributor.stock.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3760,10 +3761,10 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
+*.withairbnb.com
 next.airbnb.com
 *.airbnb.com
 www.airbnb.com
-*.withairbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3855,8 +3856,6 @@ api.cloudflare.com
 cloudflareworkers.com
 waf.cumulusfire.net
 one.dash.cloudflare.com
-dash.cloudflare.com
-*.cloudflarepartners.com
 dash.cloudflare.com
 cloudflareworkers.com
 *.teams.cloudflare.com
@@ -3954,9 +3953,9 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 slack.com
 api.slack.com
+app.slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3987,9 +3986,9 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-www.hackerone.com
 api.hackerone.com
 hackerone.live
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
