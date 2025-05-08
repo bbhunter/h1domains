@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May  8 15:28:33 UTC 2025)
+## Domains with Bounties (Last Updated Thu May  8 16:33:38 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-wallet.tg
-walletbot.me
 pay.wallet.tg
+walletbot.me
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -207,9 +207,6 @@ api.khealth.com
 *.boardkingsgame.com
 *.serious.li
 *.playticorp.com
-*.justfall.lol
-*.justplay.lol
-*.1v1.lol
 *.slotomania.com
 *.playtika.com
 *.bingoblitz.com
@@ -359,8 +356,8 @@ secure.netflix.com
 help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
-meechum.netflix.com
 www.netflix.com
+meechum.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -438,7 +435,6 @@ partner-webhook.remitly.io
 metrics.int.remitly.com
 news.remitly.com
 ir.remitly.com
-*.int.remitly.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
@@ -446,8 +442,9 @@ site.rewire.com
 app.rewire.to
 careers.remitly.com
 rewire.com
-access.remitly.com
 auth.remitly.com
+access.remitly.com
+*.int.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -478,14 +475,14 @@ api.vault.chiatest.net
 worldcoin.org
 id.worldcoin.org
 world.org
-*.consumer.worldcoin.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.org
 developer.worldcoin.org
 toolsforhumanity.com
 *.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -1005,8 +1002,8 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
@@ -1063,7 +1060,6 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 aus5.mozilla.org
 lando.services.mozilla.com
 firefox.settings.services.mozilla.com
-bugzilla.mozilla.org
 firefox-ci-tc.services.mozilla.com
 www.mozilla.org
 community-tc.services.mozilla.com
@@ -1073,6 +1069,7 @@ monitor.mozilla.org
 addons.allizom.org
 profiler.firefox.com
 accounts.firefox.com
+bugzilla.mozilla.org
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1205,10 +1202,10 @@ cloud.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
 *.mwbsys.com
-*.cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+*.cloud.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1534,8 +1531,8 @@ sorare.com
 api.sorare.com
 ws.sorare.com
 *.sheingsp.com
-*.romwe.com
 *.shein.com
+*.romwe.com
 *.shein.com
 *.romwe.com
 *.sheingsp.com
@@ -1596,8 +1593,8 @@ bullsheet.me
 api.etoro.com
 etoropartners.com
 billing-pci.etoro.com
-www.etoro.com
 helpers.bullsheet.me
+www.etoro.com
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1638,8 +1635,8 @@ api.instacart.com
 admin.instacart.com
 shoppers.instacart.com
 *.instacart.tools
-www.instacart.com
 *.instacart.com
+www.instacart.com
 *.instacart.com
 *.instacart.tools
 api.instacart.com
@@ -1701,12 +1698,6 @@ upld.krisp.ai
 app.krisp.ai
 admin.wickr.com
 admin.wickr.com
-*.joinclubhouse.com
-*.clubhouse.com
-*.clubhouseapi.com
-*.clubhouse.com
-*.joinclubhouse.com
-*.clubhouseapi.com
 bigcommerce-adapter.judge.me
 shop.judge.me
 woocommerce-adapter.judge.me
@@ -1786,8 +1777,8 @@ playwonderbox.com
 *.tstaging.tools
 *.tinderwebstaging.com
 *.tinderops.net
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinder.com
 *.gotinder.com
 *.tinderops.net
@@ -1968,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2213,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -2639,10 +2630,10 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-dic.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 booth.pm
 comic.pixiv.net
@@ -2989,8 +2980,8 @@ loanbuilder.com
 *.braintree-api.com
 *.braintreegateway.com
 *.paylution.com
-*.xoom.com
 *.paypal.com
+*.xoom.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3231,8 +3222,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.net
 *.myteksi.com
-*.grab.com
 *.ovo.id
+*.grab.com
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3489,8 +3480,8 @@ npmjs.com
 npmjs.org
 education.github.com
 api.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 github.com
 github.com
 api.github.com
@@ -3605,12 +3596,12 @@ arrive-server.shopifycloud.com
 *.shopify.io
 accounts.shopify.com
 shopifyinbox.com
-your-store.myshopify.com
-partners.shopify.com
-admin.shopify.com
 *.shopify.com
-*.shopifycloud.com
 shop.app
+partners.shopify.com
+*.shopifycloud.com
+your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3762,8 +3753,8 @@ www.hoteltonight.com
 *.muscache.com
 *.hoteltonight.com
 api.airbnb.com
-next.airbnb.com
 *.airbnb.com
+next.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
@@ -3956,8 +3947,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
 app.slack.com
+api.slack.com
 slack.com
 slack.com
 api.slack.com
@@ -3990,9 +3981,9 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-hackerone.com
 hackerone.live
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
