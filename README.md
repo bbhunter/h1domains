@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 22:24:42 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 23:24:43 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -197,8 +197,8 @@ middle-force.khealth.io
 api.khealth.com
 *.capitalonegslbex.com
 *.capitalone.ca
-*.capitaloneshopping.com
 *.capitalone.com
+*.capitaloneshopping.com
 *.capitalone.com
 *.capitaloneshopping.com
 *.capitalonegslbex.com
@@ -435,16 +435,16 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-site.rewire.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
 blog.remitly.com
+access.remitly.com
+news.remitly.com
+*.int.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-*.int.remitly.com
-access.remitly.com
-news.remitly.com
 remitly.com
 *.int.remitly.com
 *.dev.remitly.com
@@ -528,12 +528,12 @@ sandbox.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://sb-console-api.fireblocks.io
 http://sandbox-api.fireblocks.io
-university-staging.dynatracelabs.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+university-staging.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
 account-sprint.dynatracelabs.com
@@ -561,7 +561,6 @@ horizons.hostinger.com
 education.23andme.com
 sapi-live.lh.us-west-2.prd.23andme.us
 mediacenter.23andme.com
-healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
@@ -573,6 +572,7 @@ auth.23andme.com
 pd-api.polkadoc.com
 clinic.lemonaidhealth.com
 lemonaidhealth.com
+healthaid.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -1125,8 +1125,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1204,9 +1204,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+*.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
-*.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1381,10 +1381,10 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
+www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1418,9 +1418,9 @@ www.expediagroup.com
 www.flights.com
 www.expediataap.com
 *.magiceden.workers.dev
-*.magiceden.dev
 magiceden.io
 *.magiceden.io
+*.magiceden.dev
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -1429,8 +1429,8 @@ zerobounce.net
 zerobounce.net
 pb.deribit.com
 *.deribit.com
-test.deribit.com
 insights.deribit.com
+test.deribit.com
 *.deribit.com
 test.deribit.com
 insights.deribit.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1962,8 +1962,8 @@ matrix.redditspace.com
 m.reddit.com
 *.redditinc.com
 *.memorable.io
-developers.reddit.com
 *.reddit.com
+developers.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2141,10 +2141,10 @@ developers.tiktok.com
 business.tiktok.com
 live-backstage.tiktok.com
 ads.tiktok.com
-*.tiktokv.com
 tiktok.com
-careers.tiktok.com
 *.tiktok.com
+careers.tiktok.com
+*.tiktokv.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2362,8 +2362,8 @@ ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 store.playstation.com
-*.playstation.net
 social.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2597,8 +2597,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2978,12 +2978,12 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.braintree-api.com
 *.hyperwallet.com
 *.xoom.com
 *.braintreegateway.com
 *.paylution.com
 *.paypal.com
+*.braintree-api.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3021,8 +3021,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3109,11 +3109,11 @@ www.dota2.com
 www.valvesoftware.com
 developer.valvesoftware.com
 help.steampowered.com
-steamcommunity.com
-partner.steamgames.com
 api.steampowered.com
 www.counter-strike.net
 store.steampowered.com
+partner.steamgames.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3134,8 +3134,8 @@ nadex.com
 *.mona.co
 web.crypto.com
 developer-api.crypto.com
-app.mona.co
 developer.crypto.com
+app.mona.co
 merchant.crypto.com
 *.crypto.com
 *.crypto.com
@@ -3341,9 +3341,9 @@ backstage.io
 logs.dashlane.com
 console.dashlane.com
 ws1.dashlane.com
-www.dashlane.com
 api.dashlane.com
 app.dashlane.com
+www.dashlane.com
 ws1.dashlane.com
 www.dashlane.com
 console.dashlane.com
@@ -3595,15 +3595,15 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-*.shopify.io
 *.shopifycloud.com
+*.shopify.io
 shopifyinbox.com
-*.shopify.com
-accounts.shopify.com
+shop.app
 partners.shopify.com
 your-store.myshopify.com
+*.shopify.com
 admin.shopify.com
-shop.app
+accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3649,8 +3649,8 @@ web.snapchat.com
 ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
-business.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3714,9 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
-auth.services.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3756,8 +3755,8 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-www.airbnb.com
 *.withairbnb.com
+www.airbnb.com
 *.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3982,10 +3981,10 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-www.hackerone.com
 hackerone.live
 api.hackerone.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
