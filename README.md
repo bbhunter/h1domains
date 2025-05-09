@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 15:27:14 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 16:31:45 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -161,8 +161,8 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 www.starbucks.com.cn/
 www.starbucks.com.cn/
-connect.secure.wellsfargo.com
 *.wellsfargo.com
+connect.secure.wellsfargo.com
 *.wellsfargo.com
 connect.secure.wellsfargo.com
 http://wellsfargo.com
@@ -439,13 +439,13 @@ access.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
-careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
+careers.remitly.com
 auth.remitly.com
-remitly.com
 news.remitly.com
 blog.remitly.com
+remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -565,14 +565,14 @@ healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-pd-api.polkadoc.com
 research.23andme.com
-clinic.lemonaidhealth.com
 blog.23andme.com
 lemonaidhealth.com
 api.23andme.com
 you.23andme.com
 auth.23andme.com
+pd-api.polkadoc.com
+clinic.lemonaidhealth.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -788,8 +788,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1002,9 +1002,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
+yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1541,8 +1541,8 @@ pwapi.ex2b.com
 api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
-exness.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-tria.ge
 securitytrails.com
+tria.ge
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2022,7 +2022,6 @@ passport.larksuite.com
 internal-api-drive-stream.larksuite.com
 lark-frontier.byteoversea.com
 internal-api.larksuite.com
-hackers_chosendomain.larksuite.com
 internal-api-lark-api.larksuite.com
 caldav.larksuite.com
 open.larksuite.com
@@ -2031,6 +2030,7 @@ app.larksuite.com
 status.larksuite.com
 api.larksuite.com
 larksuite.com
+hackers_chosendomain.larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2142,8 +2142,8 @@ live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
 developers.tiktok.com
-tiktok.com
 business.tiktok.com
+tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,13 +2204,13 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
-beta-cloud.acronis.com
 *.acronis.com
+beta-cloud.acronis.com
 *-api-*.acronis.com
 *.acronis.com
 *.5nine.com
@@ -2361,8 +2361,8 @@ my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-*.playstation.net
 store.playstation.com
+*.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2631,8 +2631,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2884,8 +2884,8 @@ grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-*.grammarly.com
 app.grammarly.com
+*.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3510,9 +3510,9 @@ design.gitlab.com
 *.gitlap.com
 customers.gitlab.com
 about.gitlab.com
-*.gitlab.net
 docs.gitlab.com
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3533,10 +3533,10 @@ winecellar.zomato.com
 blinkit.com
 *.zomans.com
 *.hyperpure.com
-*.insider.in
 *.district.in
 *.tktnew.com
 *.zomato.com
+*.insider.in
 *.zomato.com
 *.zdev.net
 *.zomans.com
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3594,15 +3594,15 @@ linkpop.com
 *.shopifycs.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
-shopifyinbox.com
 *.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 shop.app
-accounts.shopify.com
-admin.shopify.com
 *.shopify.com
+shopifyinbox.com
+accounts.shopify.com
 your-store.myshopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3646,10 +3646,10 @@ snappublisher.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
-business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 playcanvas.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3755,8 +3755,8 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-*.withairbnb.com
 *.airbnb.com
+*.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
@@ -3828,9 +3828,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.twitter.com
 grok.com
 *.x.com
@@ -3948,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-slack.com
 api.slack.com
+slack.com
 app.slack.com
 slack.com
 api.slack.com
