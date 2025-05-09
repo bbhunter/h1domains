@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 16:31:45 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 17:23:13 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-pay.wallet.tg
-walletbot.me
-wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
+walletbot.me
+pay.wallet.tg
+wallet.tg
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.de
-www.zooplus.com
 www.zooplus.co.uk
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -45,8 +45,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 app.whoop.com
-shop.whoop.com
 api.prod.whoop.com
+shop.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -228,8 +228,8 @@ bestfiends.com
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
-apix.vodafone.om
 www.vodafone.om
+apix.vodafone.om
 www.vodafone.om
 apix.vodafone.om
 vfo01.vodafone.om
@@ -435,17 +435,17 @@ metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
 rewire.com
-access.remitly.com
+*.int.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
-*.int.remitly.com
-ablink.info.remitly.com
 careers.remitly.com
-auth.remitly.com
-news.remitly.com
+ablink.info.remitly.com
 blog.remitly.com
+auth.remitly.com
+access.remitly.com
 remitly.com
+news.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -567,8 +567,8 @@ therapeutics.23andme.com
 store.23andme.com
 research.23andme.com
 blog.23andme.com
-lemonaidhealth.com
 api.23andme.com
+lemonaidhealth.com
 you.23andme.com
 auth.23andme.com
 pd-api.polkadoc.com
@@ -1002,9 +1002,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1922,9 +1922,9 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.lemonsqueezy.com
 *.stripe.com
 api.stripe.com
+*.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -1959,10 +1959,10 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-*.redditinc.com
 m.reddit.com
-*.reddit.com
+*.redditinc.com
 *.memorable.io
+*.reddit.com
 *.snooguts.net
 *.reddit.com
 *.redditmedia.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2142,8 +2142,8 @@ live-backstage.tiktok.com
 *.tiktok.com
 ads.tiktok.com
 developers.tiktok.com
-business.tiktok.com
 tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 *.acronis.com
 beta-cloud.acronis.com
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3131,11 +3131,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
+web.crypto.com
 developer-api.crypto.com
 *.crypto.com
 merchant.crypto.com
 developer.crypto.com
-web.crypto.com
 app.mona.co
 *.crypto.com
 *.mona.co
@@ -3482,8 +3482,8 @@ education.github.com
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3597,12 +3597,12 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 partners.shopify.com
 *.shopify.io
-shop.app
 *.shopify.com
 shopifyinbox.com
-accounts.shopify.com
 your-store.myshopify.com
 admin.shopify.com
+accounts.shopify.com
+shop.app
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3828,13 +3828,13 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
-*.x.ai
 *.grok.com
 gnip.com
+*.x.ai
 *.twitter.com
 grok.com
-*.x.com
 x.com
+*.x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3875,8 +3875,8 @@ akismet.com
 my.pressable.com
 gravatar.com
 secure.tumblr.com
-wordpress.com
 www.tumblr.com
+wordpress.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3949,8 +3949,8 @@ slackb.com
 slack-status.com
 slackatwork.com
 api.slack.com
-slack.com
 app.slack.com
+slack.com
 slack.com
 api.slack.com
 slackb.com
@@ -3981,10 +3981,10 @@ hackathon-photos.hackerone-user-content.com
 reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
-api.hackerone.com
 hackerone.live
 www.hackerone.com
 hackerone.com
+api.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
