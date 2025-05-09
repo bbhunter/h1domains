@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 14:23:30 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 15:27:14 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 pay.wallet.tg
+walletbot.me
 wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -22,9 +22,9 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.com
+www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -356,8 +356,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 ichnaea.netflix.com
-www.netflix.com
 meechum.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -436,7 +436,6 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
-blog.remitly.com
 api.remitly.io
 app3.rewire.to
 site.rewire.com
@@ -446,6 +445,7 @@ ablink.info.remitly.com
 auth.remitly.com
 remitly.com
 news.remitly.com
+blog.remitly.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -517,8 +517,8 @@ www.sheer.com
 my.sheer.com
 www.ddfcontent.com
 www.pornworld.com
-www.pornbox.com
 www.analvids.com
+www.pornbox.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
@@ -814,10 +814,10 @@ connect-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
-manage-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.com
 api-sandbox.gocardless.com
+manage-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1002,9 +1002,9 @@ direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
-yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1068,8 +1068,8 @@ monitor.mozilla.org
 addons.allizom.org
 profiler.firefox.com
 bugzilla.mozilla.org
-accounts.firefox.com
 www.mozilla.org
+accounts.firefox.com
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
@@ -1245,8 +1245,8 @@ auth.skypicker.com
 tequila.kiwi.com
 jobs.kiwi.com
 *.skypicker.com
-www.kiwi.com
 *.kiwi.com
+www.kiwi.com
 *.kiwi.com
 *.skypicker.com
 www.kiwi.com
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
+*.cheaptickets.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1834,8 +1834,8 @@ api.data.gov
 api.fr.cloud.gov
 catalog.data.gov
 federalist.18f.gov
-cloud.gov
 inventory.data.gov
+www.data.gov
 federalist-proxy.app.cloud.gov
 account.fr.cloud.gov
 ci.fr.cloud.gov
@@ -1935,8 +1935,8 @@ app.taxjar.com
 *.reckoproduction.com
 *.reckostaging.com
 *.link.co
-www.urbanclap.com
 www.urbancompany.com
+www.urbanclap.com
 www.urbancompany.com
 www.urbanclap.com
 *.redditblog.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2134,16 +2134,16 @@ academy-outbound-ads.tiktok.com
 affiliate-id.tokopedia.com
 www.pangleglobal.com
 shop-id.tokopedia.com
-business.tiktok.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
-tiktok.com
 seller-id.tokopedia.com
 live-backstage.tiktok.com
 *.tiktokv.com
 *.tiktok.com
-developers.tiktok.com
 ads.tiktok.com
+developers.tiktok.com
+tiktok.com
+business.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2361,8 +2361,8 @@ my.account.sony.com
 ca.account.sony.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
-store.playstation.com
 *.playstation.net
+store.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2589,15 +2589,15 @@ docs.datastax.com
 astra.datastax.com
 langflow.org
 langflow.datastax.com
-*.nordvpn.com
 app.nordpass.com
+*.nordvpn.com
 *.nordvpn.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2631,8 +2631,8 @@ hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
 comic.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 *.fanbox.cc
 booth.pm
@@ -2744,8 +2744,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2883,9 +2883,9 @@ booking.applevacations.com
 grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
-app.grammarly.com
 *.grammarly.io
 *.grammarly.com
+app.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3131,11 +3131,11 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-web.crypto.com
 developer-api.crypto.com
 *.crypto.com
-developer.crypto.com
 merchant.crypto.com
+developer.crypto.com
+web.crypto.com
 app.mona.co
 *.crypto.com
 *.mona.co
@@ -3482,8 +3482,8 @@ education.github.com
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-api.github.com
 github.com
+api.github.com
 github.com
 api.github.com
 gist.github.com
@@ -3510,8 +3510,8 @@ design.gitlab.com
 *.gitlap.com
 customers.gitlab.com
 about.gitlab.com
-docs.gitlab.com
 *.gitlab.net
+docs.gitlab.com
 gitlab.com
 *.gitlab.net
 *.gitlab.org
@@ -3559,8 +3559,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3595,14 +3595,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
+*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
 shop.app
-*.shopifycloud.com
-your-store.myshopify.com
 accounts.shopify.com
 admin.shopify.com
 *.shopify.com
+your-store.myshopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3646,10 +3646,10 @@ snappublisher.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 ads.snapchat.com
-playcanvas.com
-app.snapchat.com
 business.snapchat.com
 accounts.snapchat.com
+app.snapchat.com
+playcanvas.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3713,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
+contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
-contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3755,9 @@ www.hoteltonight.com
 *.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
-www.airbnb.com
 *.withairbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3948,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-api.slack.com
 slack.com
+api.slack.com
 app.slack.com
 slack.com
 api.slack.com
@@ -3982,8 +3982,8 @@ reviewer.pullrequest.com
 app.pullrequest.com
 a5s.hackerone-ext-content.com
 api.hackerone.com
-www.hackerone.com
 hackerone.live
+www.hackerone.com
 hackerone.com
 hackerone.com
 api.hackerone.com
