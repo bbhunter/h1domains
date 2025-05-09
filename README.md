@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 10:27:19 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 11:22:27 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -44,9 +44,9 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-api.prod.whoop.com
-shop.whoop.com
 app.whoop.com
+shop.whoop.com
+api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -356,8 +356,8 @@ help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
 ichnaea.netflix.com
-meechum.netflix.com
 www.netflix.com
+meechum.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -401,8 +401,8 @@ platform.cat.earlywarning.io
 usercontent.koho.ca
 app.koho.ca
 web.koho.ca
-www.koho.ca
 webgateway.koho.ca
+www.koho.ca
 web.koho.ca
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -1382,8 +1382,8 @@ www.wotif.com
 www.vrbo.com
 *.carrentals.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
-*.cheaptickets.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1959,8 +1959,8 @@ ads.reddit.com
 developers.reddit.com
 accounts.reddit.com
 matrix.redditspace.com
-m.reddit.com
 *.redditinc.com
+m.reddit.com
 *.reddit.com
 *.memorable.io
 *.snooguts.net
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2141,9 +2141,9 @@ creatormarketplace.tiktok.com
 tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
 live-backstage.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,10 +2204,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 account.acronis.com
 beta-cloud.acronis.com
 *.acronis.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3132,11 +3132,11 @@ js.crypto.com
 app.mona.co
 nadex.com
 *.mona.co
-merchant.crypto.com
 developer.crypto.com
 web.crypto.com
 developer-api.crypto.com
 *.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3479,8 +3479,8 @@ classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-*.githubapp.com
 gist.github.com
+*.githubapp.com
 *.githubusercontent.com
 api.github.com
 github.com
@@ -3595,8 +3595,8 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
-*.shopify.com
 *.shopifycloud.com
+*.shopify.com
 partners.shopify.com
 *.shopify.io
 admin.shopify.com
@@ -3648,8 +3648,8 @@ web.snapchat.com
 ads.snapchat.com
 playcanvas.com
 app.snapchat.com
-accounts.snapchat.com
 business.snapchat.com
+accounts.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3713,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3756,8 +3756,8 @@ www.hoteltonight.com
 api.airbnb.com
 next.airbnb.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3828,9 +3828,9 @@ app.interseller.io
 www.greenhouse.io
 *.vine.co
 *.twimg.com
+*.x.ai
 *.grok.com
 gnip.com
-*.x.ai
 *.twitter.com
 grok.com
 *.x.com
