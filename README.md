@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 08:32:30 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 09:27:39 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
-walletbot.me
 pay.wallet.tg
 wallet.tg
 walletbot.me
+walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -30,10 +30,10 @@ www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 mark8.syfe.com
-api-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
-uat-bugbounty.nonprod.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
+uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
@@ -355,8 +355,8 @@ secure.netflix.com
 help.netflix.com
 *.prod.ftl.netflix.com
 *.nflximg.net
-meechum.netflix.com
 ichnaea.netflix.com
+meechum.netflix.com
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -436,14 +436,14 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
+site.rewire.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
-site.rewire.com
 news.remitly.com
-careers.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
+careers.remitly.com
 auth.remitly.com
 remitly.com
 *.int.remitly.com
@@ -478,9 +478,9 @@ world.org
 getworldcoin.com
 *.toolsforhumanity.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -547,11 +547,11 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
 builder.hostinger.com
-hpanel.hostinger.com
 cpanel.hostinger.com
 www.hostinger.com
 payments.hostinger.com
 horizons.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -570,9 +570,9 @@ pd-api.polkadoc.com
 research.23andme.com
 clinic.lemonaidhealth.com
 blog.23andme.com
-you.23andme.com
 lemonaidhealth.com
 api.23andme.com
+you.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -816,8 +816,8 @@ ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
 api-sandbox.gocardless.com
-*.gocardless.com
 pay-sandbox.gocardless.com
+*.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1003,8 +1003,8 @@ https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1198,14 +1198,14 @@ web.grindr.com
 *.mb-cosmos.com
 *.cyrus-security.com
 oneview.malwarebytes.com
-cloud.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
 *.mwbsys.com
-my.malwarebytes.com
 *.threatdown.com
 *.cloud.malwarebytes.com
 *.malwarebytes.com
+cloud.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2094,8 +2094,8 @@ internal-docs.netlify.com
 supportal.netlify.app
 world.hey.com
 launchpad.37signals.com
-*.hey.com
 3.basecamp.com
+*.hey.com
 *.hey.com
 3.basecamp.com
 launchpad.37signals.com
@@ -2182,8 +2182,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2581,8 +2581,8 @@ downloads.datastax.com
 langflow.org
 langflow.datastax.com
 docs.datastax.com
-astra.datastax.com
 www.datastax.com
+astra.datastax.com
 www.datastax.com
 downloads.datastax.com
 docs.datastax.com
@@ -2738,7 +2738,7 @@ flyiin.com
 priceline.com
 ir.bookingholdings.com
 bookingholdings-coe.com
-http://www.priceline.com/pwd/v0/pcln-graphql/
+https://www.priceline.com/pwd/v0/pcln-graphql/
 press.priceline.com
 www.bookingholdings.com
 api.creditkarma.com
@@ -2979,9 +2979,9 @@ loanbuilder.com
 *.venmo.com
 *.braintree-api.com
 *.hyperwallet.com
+*.xoom.com
 *.braintreegateway.com
 *.paylution.com
-*.xoom.com
 *.paypal.com
 *.xoom.com
 *.paypal.com
@@ -3134,8 +3134,8 @@ nadex.com
 *.mona.co
 merchant.crypto.com
 developer.crypto.com
-developer-api.crypto.com
 web.crypto.com
+developer-api.crypto.com
 *.crypto.com
 *.crypto.com
 *.mona.co
@@ -3494,8 +3494,8 @@ education.github.com
 *.githubusercontent.com
 npmjs.com
 npmjs.org
-*.uberinternal.com
 *ubereats.com
+*.uberinternal.com
 *.uberinternal.com
 *ubereats.com
 www.mapbox.com
@@ -3595,14 +3595,14 @@ linkpop.com
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 shopifyinbox.com
-*.shopifycloud.com
 *.shopify.com
+*.shopifycloud.com
 partners.shopify.com
 *.shopify.io
-accounts.shopify.com
 admin.shopify.com
-shop.app
 your-store.myshopify.com
+shop.app
+accounts.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3714,9 +3714,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3832,10 +3832,10 @@ www.greenhouse.io
 *.grok.com
 gnip.com
 *.x.ai
-*.x.com
-x.com
 *.twitter.com
 grok.com
+*.x.com
+x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3949,8 +3949,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 api.slack.com
+app.slack.com
 slack.com
 slack.com
 api.slack.com
