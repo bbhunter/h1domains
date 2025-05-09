@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May  9 09:27:39 UTC 2025)
+## Domains with Bounties (Last Updated Fri May  9 10:27:19 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -436,10 +436,10 @@ ir.remitly.com
 app.rewire.to
 rewire.com
 access.remitly.com
-site.rewire.com
 blog.remitly.com
 api.remitly.io
 app3.rewire.to
+site.rewire.com
 news.remitly.com
 *.int.remitly.com
 ablink.info.remitly.com
@@ -565,7 +565,6 @@ healthaid.lemonaidhealth.com
 medical.23andme.com
 therapeutics.23andme.com
 store.23andme.com
-auth.23andme.com
 pd-api.polkadoc.com
 research.23andme.com
 clinic.lemonaidhealth.com
@@ -573,6 +572,7 @@ blog.23andme.com
 lemonaidhealth.com
 api.23andme.com
 you.23andme.com
+auth.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -815,9 +815,9 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 www.gocardless.com
 manage-sandbox.gocardless.com
-api-sandbox.gocardless.com
 pay-sandbox.gocardless.com
 *.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
 *.gocardless-cicd.io
@@ -1923,8 +1923,8 @@ api.taxjar.com
 app.taxjar.com
 js.stripe.com
 api.stripe.com
-*.stripe.com
 *.lemonsqueezy.com
+*.stripe.com
 *.lemonsqueezy.com
 api.stripe.com
 *.stripe.com
@@ -2045,8 +2045,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.a.exodus.io
 *.exodus.com
+*.a.exodus.io
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2138,12 +2138,12 @@ business.tiktok.com
 shop.tiktok.com
 developers.tiktok.com
 creatormarketplace.tiktok.com
-ads.tiktok.com
 tiktok.com
 *.tiktok.com
 seller-id.tokopedia.com
-*.tiktokv.com
 live-backstage.tiktok.com
+*.tiktokv.com
+ads.tiktok.com
 *.tiktok.com
 business.tiktok.com
 ads.tiktok.com
@@ -2204,8 +2204,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -3020,8 +3020,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3223,8 +3223,8 @@ kartaview.org
 *.grabpay.com
 *.myteksi.com
 *.ovo.id
-*.myteksi.net
 *.grab.com
+*.myteksi.net
 *.myteksi.com
 *.myteksi.net
 *.grab.com
@@ -3479,8 +3479,8 @@ classroom.github.com
 npmjs.com
 npmjs.org
 education.github.com
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 api.github.com
 github.com
@@ -3706,7 +3706,6 @@ adobeid-na1.services.adobe.com
 *.lightroom.adobe.com
 net.s2stagehance.com
 portfolio.ccpsx.com
-*.acrobat.adobe.com
 account.magento.com
 photoshop.adobe.com
 learningmanagerstage4.adobe.com
@@ -3714,9 +3713,9 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
+contributor.stock.adobe.com
 auth.services.adobe.com
 firefly.adobe.com
-contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
