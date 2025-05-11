@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 03:20:18 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 04:29:59 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -478,12 +478,12 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
-toolsforhumanity.com
 *.worldcoin.dev
-*.worldcoin.org
 *.consumer.worldcoin.org
-developer.worldcoin.org
+*.worldcoin.org
+toolsforhumanity.com
 *.toolsforhumanity.com
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -774,8 +774,8 @@ app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
 *.booztlet.com
-*.boozt.com
 kronor.io
+*.boozt.com
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1381,10 +1381,10 @@ www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
 *.expediapartnercentral.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
+www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1962,8 +1962,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-api.reddit.com
 m.reddit.com
+api.reddit.com
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2031,8 +2031,8 @@ file.larksuite.com
 app.larksuite.com
 status.larksuite.com
 api.larksuite.com
-larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -2142,9 +2142,9 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+seller-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
-seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2359,11 +2359,11 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
+my.playstation.com
+social.playstation.com
 ca.account.sony.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
-my.playstation.com
-social.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2632,8 +2632,8 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-dic.pixiv.net
 www.pixiv.net
+dic.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-support.creditkarma.ca
 accounts.creditkarma.com
+support.creditkarma.ca
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -2802,7 +2802,6 @@ scapegoat.hyatt.com
 plannerrequest.hyatt.com
 res.blueskytours.globalbookingsolutions.com
 res.universalorlandovacations.com
-roominglist.hyatt.com
 vacations.us.palladiumhotelgroup.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.sesameplace.com
@@ -2814,6 +2813,7 @@ www.hyattconnect.com
 www.wynnvacations.com
 booking.applevacations.com
 res.southwestvacations.com
+res.secretsresorts.com
 hyatt.com
 www.hyatt.com
 world.hyatt.com
@@ -2979,12 +2979,12 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
-*.xoom.com
 *.braintreegateway.com
+*.xoom.com
 paypalobjects.com
-*.paypal.com
 *.braintree-api.com
 *.paylution.com
+*.paypal.com
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3136,9 +3136,9 @@ web.crypto.com
 merchant.crypto.com
 app.mona.co
 developer.crypto.com
-developer-api.crypto.com
 *.crypto.com
 *.mona.co
+developer-api.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3324,8 +3324,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 *.withspotify.com
-*.spotify.com
 api.spotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3482,8 +3482,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-classroom.github.com
 education.github.com
+classroom.github.com
 github.com
 api.github.com
 github.com
@@ -3511,8 +3511,8 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-*.gitlab.net
 docs.gitlab.com
+*.gitlab.net
 gitlab.com
 customers.gitlab.com
 *.gitlab.net
@@ -3561,8 +3561,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-app.deriv.com
 *.deriv.com
+app.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3647,11 +3647,11 @@ story.snapchat.com
 forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
-business.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
-ads.snapchat.com
 playcanvas.com
+ads.snapchat.com
+app.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3717,6 +3717,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
