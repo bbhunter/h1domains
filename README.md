@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 20:25:58 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 21:22:59 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -23,8 +23,8 @@ https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
 www.zooplus.co.uk
-www.zooplus.com
 www.zooplus.de
+www.zooplus.com
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -33,8 +33,8 @@ api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 mark8.syfe.com
 www.syfe.com
-uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -342,7 +342,6 @@ console.circle.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
-*.nflxso.net
 customerevents.netflix.com
 presentationtracking.netflix.com
 *.nflxvideo.net
@@ -357,6 +356,7 @@ meechum.netflix.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
 nmtracking.netflix.com
+*.nflxso.net
 www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
@@ -476,9 +476,9 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 world.org
@@ -570,9 +570,9 @@ pd-api.polkadoc.com
 clinic.lemonaidhealth.com
 lemonaidhealth.com
 healthaid.lemonaidhealth.com
-store.23andme.com
 auth.23andme.com
 you.23andme.com
+store.23andme.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -790,14 +790,14 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.gethypr.com
 *.hypr.com
+*.gethypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1374,7 +1374,6 @@ www.expediataap.com
 www.stayz.com.au
 www.abritel.fr
 www.hotels.com
-www.orbitz.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
@@ -1384,6 +1383,7 @@ www.ebookers.fi
 www.lastminute.co.nz
 www.expedia.com
 www.fewo-direkt.de
+www.expediagroup.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1960,8 +1960,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-m.reddit.com
 api.reddit.com
+m.reddit.com
 *.reddit.com
 accounts.reddit.com
 *.snooguts.net
@@ -2046,8 +2046,8 @@ internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
 *.exodus.io
-*.exodus.com
 *.a.exodus.io
+*.exodus.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -2516,8 +2516,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2596,8 +2596,8 @@ app.nordpass.com
 app.nordpass.com
 *.line.naver.jp
 *.line.biz
-*.linecorp.com
 *.line.me
+*.linecorp.com
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -3110,8 +3110,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-partner.steamgames.com
 steamcommunity.com
+partner.steamgames.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3130,8 +3130,8 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-merchant.crypto.com
 app.mona.co
+merchant.crypto.com
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
@@ -3644,12 +3644,12 @@ businesshelp.snapchat.com
 story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
-snappublisher.snapchat.com
 playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3980,9 +3980,9 @@ app.pullrequest.com
 hackerone.live
 api.hackerone.com
 a5s.hackerone-ext-content.com
+mta-sts.wearehackerone.com
 www.hackerone.com
 hackerone.com
-mta-sts.wearehackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

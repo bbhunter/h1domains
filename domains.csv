@@ -216,8 +216,8 @@ lichess,cerebro.lichess.ovh,False
 lichess,deb.lichess.ovh,False
 zooplus,zooplus.net,True
 zooplus,www.zooplus.co.uk,True
-zooplus,www.zooplus.com,True
 zooplus,www.zooplus.de,True
+zooplus,www.zooplus.com,True
 zooplus,www.zooplus.de,True
 zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.com,True
@@ -226,8 +226,8 @@ syfe_bbp,api-uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,api.syfe.com,True
 syfe_bbp,mark8.syfe.com,True
 syfe_bbp,www.syfe.com,True
-syfe_bbp,uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,alfred.syfe.com,True
+syfe_bbp,uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,api-uat-bugbounty.nonprod.syfe.com,True
 syfe_bbp,www.syfe.com,True
@@ -3252,7 +3252,6 @@ varonis,*.varonis.com,True
 varonis,*.varonis.com,True
 varonis,*.varonis.io,True
 varonis,*.varonis.net,True
-netflix,*.nflxso.net,True
 netflix,customerevents.netflix.com,True
 netflix,presentationtracking.netflix.com,True
 netflix,*.nflxvideo.net,True
@@ -3267,6 +3266,7 @@ netflix,*.nflximg.net,True
 netflix,*.prod.ftl.netflix.com,True
 netflix,*.prod.cloud.netflix.com,True
 netflix,nmtracking.netflix.com,True
+netflix,*.nflxso.net,True
 netflix,www.netflix.com,True
 netflix,*.nflxext.com,True
 netflix,*.prod.ftl.netflix.com,True
@@ -4712,9 +4712,9 @@ toolsforhumanity,worldcoin.org,True
 toolsforhumanity,id.worldcoin.org,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,bioid-management.app,True
+toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin.org,True
-toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,world.org,True
@@ -4895,9 +4895,9 @@ egress-vdp,www.egress.com,False
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,lemonaidhealth.com,True
 23andme_bbp,healthaid.lemonaidhealth.com,True
-23andme_bbp,store.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,you.23andme.com,True
+23andme_bbp,store.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -6054,8 +6054,8 @@ trip_com,*.trainpal.com,True
 trip_com,*.mytrainpal.com,True
 trip_com,*.cheaptickets.nl,True
 trip_com,*.staging.travix.com,False
-mergify,dashboard.mergify.com,True
 mergify,api.mergify.com,True
+mergify,dashboard.mergify.com,True
 mergify,api.mergify.com,True
 mergify,dashboard.mergify.com,True
 compass-bbp,www.compass.com,True
@@ -6065,8 +6065,8 @@ wonder-vdp,https://blog.blueapron.com/,False
 wonder-vdp,www.blueapron.com,False
 wonder-vdp,http://www.blueapron.com/graphql,False
 wonder-vdp,https://order.wonder.com,False
-hypr-corp,*.gethypr.com,True
 hypr-corp,*.hypr.com,True
+hypr-corp,*.gethypr.com,True
 hypr-corp,*.hypr.com,True
 hypr-corp,*.gethypr.com,True
 modern_treasury,cdn.moderntreasury.com,True
@@ -8509,7 +8509,6 @@ expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,www.stayz.com.au,True
 expediagroup_bbp,www.abritel.fr,True
 expediagroup_bbp,www.hotels.com,True
-expediagroup_bbp,www.orbitz.com,True
 expediagroup_bbp,www.lastminute.com.au,True
 expediagroup_bbp,www.wotif.com,True
 expediagroup_bbp,www.vrbo.com,True
@@ -8519,6 +8518,7 @@ expediagroup_bbp,www.ebookers.fi,True
 expediagroup_bbp,www.lastminute.co.nz,True
 expediagroup_bbp,www.expedia.com,True
 expediagroup_bbp,www.fewo-direkt.de,True
+expediagroup_bbp,www.expediagroup.com,True
 expediagroup_bbp,*.vrbo.com,True
 expediagroup_bbp,*.carrentals.com,True
 expediagroup_bbp,*.wotif.com,True
@@ -9347,8 +9347,8 @@ anywhererealestate,*.corcoran.com,False
 anywhererealestate,*.coldwellbanker.com,False
 anywhererealestate,*.century21global.com,False
 anywhererealestate,*.c21.com,False
-anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.sothebysrealty.com,False
+anywhererealestate,*.anywhere.re,False
 anywhererealestate,*.century21.com,False
 anywhererealestate,*.era.com,False
 anywhererealestate,*.trgc.com,False
@@ -10042,8 +10042,8 @@ epicgames,forum.sketchfab.com,False
 tinder,*.tstaging.com,True
 tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
-tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
+tinder,*.tinder.com,True
 tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
@@ -11371,8 +11371,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.redditinc.com,True
 reddit,*.memorable.io,True
 reddit,developers.reddit.com,True
-reddit,m.reddit.com,True
 reddit,api.reddit.com,True
+reddit,m.reddit.com,True
 reddit,*.reddit.com,True
 reddit,accounts.reddit.com,True
 reddit,*.snooguts.net,True
@@ -12022,8 +12022,8 @@ mendix,k8s-licbrk-licenseb-11d216e80e-384217420.eu-central-1.elb.amazonaws.com,F
 mendix,marketplaceadmin.mendixcloud.com,False
 mendix,notification.billing.appservices.mendix.com,False
 exodus,*.exodus.io,True
-exodus,*.exodus.com,True
 exodus,*.a.exodus.io,True
+exodus,*.exodus.com,True
 exodus,*.exodus.io,True
 exodus,*.a.exodus.io,True
 exodus,*.exodus.com,True
@@ -12671,8 +12671,8 @@ marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,help.marriott.com,True
 marriott,traveler.marriott.com,True
-marriott,www.marriott.com,True
 marriott,all-inclusive.marriott.com,True
+marriott,www.marriott.com,True
 marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,careers.marriott.com,True
@@ -13328,8 +13328,8 @@ streak_com,mailfoogae.appspot.com,False
 streak_com,streaklinks.com,False
 line,*.line.naver.jp,True
 line,*.line.biz,True
-line,*.linecorp.com,True
 line,*.line.me,True
+line,*.linecorp.com,True
 line,*.line-apps.com,True
 line,*.line.me,True
 line,*.line-apps.com,True
@@ -14284,8 +14284,8 @@ valve,developer.valvesoftware.com,True
 valve,help.steampowered.com,True
 valve,api.steampowered.com,True
 valve,www.counter-strike.net,True
-valve,partner.steamgames.com,True
 valve,steamcommunity.com,True
+valve,partner.steamgames.com,True
 valve,store.steampowered.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
@@ -14306,8 +14306,8 @@ crypto,tax.crypto.com,True
 crypto,js.crypto.com,True
 crypto,nadex.com,True
 crypto,web.crypto.com,True
-crypto,merchant.crypto.com,True
 crypto,app.mona.co,True
+crypto,merchant.crypto.com,True
 crypto,*.mona.co,True
 crypto,developer.crypto.com,True
 crypto,developer-platform-api.crypto.com,True
@@ -14953,12 +14953,12 @@ snapchat,*.sc-core.net,True
 snapchat,story.snapchat.com,True
 snapchat,forum.playcanvas.com,True
 snapchat,accounts.snapchat.com,True
-snapchat,snappublisher.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,business.snapchat.com,True
 snapchat,web.snapchat.com,True
 snapchat,ads.snapchat.com,True
 snapchat,app.snapchat.com,True
+snapchat,snappublisher.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -15311,9 +15311,9 @@ security,app.pullrequest.com,True
 security,hackerone.live,True
 security,api.hackerone.com,True
 security,a5s.hackerone-ext-content.com,True
+security,mta-sts.wearehackerone.com,True
 security,www.hackerone.com,True
 security,hackerone.com,True
-security,mta-sts.wearehackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
 security,www.hackerone.com,True
