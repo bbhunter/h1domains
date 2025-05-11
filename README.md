@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 01:58:52 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 03:20:18 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
-wallet.tg
 walletbot.me
+wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -31,8 +31,8 @@ www.zooplus.com
 zooplus.net
 mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 www.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
@@ -478,10 +478,10 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 developer.worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin.org
@@ -773,9 +773,9 @@ api2.frontapp.com
 app.frontapp.com
 app.frontapp.com
 api2.frontapp.com
-kronor.io
 *.booztlet.com
 *.boozt.com
+kronor.io
 *.boozt.com
 *.booztlet.com
 kronor.io
@@ -1127,8 +1127,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.oklink.com
 *.okx.com
+*.oklink.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1381,10 +1381,10 @@ www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
 *.expediapartnercentral.com
+www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
-www.lastminute.co.nz
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1539,11 +1539,11 @@ ws.sorare.com
 *.sheingsp.com
 pay.ibex.exchange
 pwapi.ex2b.com
-api.excalls.mobi
 social-trading.exness.com
 exnessaffiliates.com
 my.exness.com
 exness.com
+api.excalls.mobi
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -2206,10 +2206,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
+*.acronis.work
 *.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
@@ -2359,11 +2359,11 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-my.playstation.com
-social.playstation.com
 ca.account.sony.com
 my.account.sony.com
 *.sonyentertainmentnetwork.com
+my.playstation.com
+social.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2508,7 +2508,6 @@ homes-and-villas.marriott.com
 hotel-deals.marriott.com
 moments.marriottbonvoy.com
 activities.marriott.com
-marrtool.com
 passwordchallenge.marriott.com
 gatewaydsaptst1.marriott.com
 *uat.marriott.com
@@ -2520,6 +2519,7 @@ help.marriott.com
 traveler.marriott.com
 www.marriott.com
 all-inclusive.marriott.com
+marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
 sso.marriott.com
@@ -2598,8 +2598,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2632,8 +2632,8 @@ novel.pixiv.net
 hub.vroid.com
 sketch.pixiv.net
 accounts.pixiv.net
-www.pixiv.net
 dic.pixiv.net
+www.pixiv.net
 *.fanbox.cc
 comic.pixiv.net
 *.fanbox.cc
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3112,9 +3112,9 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
-partner.steamgames.com
 store.steampowered.com
+partner.steamgames.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3324,8 +3324,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 *.withspotify.com
-api.spotify.com
 *.spotify.com
+api.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3453,9 +3453,9 @@ secureui.starbucks.com
 talk.brave.com
 creators.basicattentiontoken.org
 account.brave.com
-search.brave.com
 basicattentiontoken.org
 brave.com
+search.brave.com
 brave.com
 basicattentiontoken.org
 creators.basicattentiontoken.org
@@ -3482,8 +3482,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 github.com
 api.github.com
 github.com
@@ -3603,8 +3603,8 @@ linkpop.com
 accounts.shopify.com
 partners.shopify.com
 shop.app
-admin.shopify.com
 *.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3715,8 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3865,7 +3865,6 @@ simperium.com
 safe.tumblr.com
 assets.tumblr.com
 simplenote.com
-api.tumblr.com
 embed.tumblr.com
 t.umblr.com
 mailpoet.com
@@ -3877,6 +3876,7 @@ wordpress.com
 *.tumblr.com
 www.tumblr.com
 intensedebate.com
+api.tumblr.com
 *.tumblr.com
 *.srvcs.tumblr.com
 api.tumblr.com
@@ -3948,8 +3948,8 @@ slackb.com
 *.quip.com
 slack-status.com
 slackatwork.com
-app.slack.com
 slack.com
+app.slack.com
 api.slack.com
 slack.com
 api.slack.com
