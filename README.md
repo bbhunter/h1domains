@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 05:24:31 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 06:33:17 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-tax.audible.com
 *.audible.(TLD)
+tax.audible.com
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -33,8 +33,8 @@ mark8.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 alfred.syfe.com
-www.syfe.com
 api.syfe.com
+www.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -175,10 +175,10 @@ middle-force.khealth.io
 start.khealth.com
 ask.khealth.com
 kaccount.khealth.com
-api.khealth.com
 www.kpharmacyllc.com
 accounts.khealth.com
 app.khealth.com
+api.khealth.com
 api.khealth.io
 accounts.khealth.com
 eligibility.khealth.com
@@ -353,12 +353,12 @@ beacon.netflix.com
 *.prod.dradis.netflix.com
 secure.netflix.com
 help.netflix.com
-*.prod.ftl.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
 www.netflix.com
 *.prod.cloud.netflix.com
+*.prod.ftl.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -442,8 +442,8 @@ access.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 news.remitly.com
 remitly.com
 api.remitly.io
@@ -478,10 +478,10 @@ id.worldcoin.org
 world.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
-*.consumer.worldcoin.org
-*.worldcoin.org
 toolsforhumanity.com
+*.worldcoin.dev
+*.worldcoin.org
+*.consumer.worldcoin.org
 *.toolsforhumanity.com
 developer.worldcoin.org
 *.worldcoin.org
@@ -591,7 +591,6 @@ lemonaidhealth.com
 research.23andme.com
 *.mercadoshops.com.uy
 *.mercadoshops.com.ec
-*.mercadoshops.com.co
 *.mercadoshops.com.pa
 *.mercadoshops.com.mx
 *.mercadoshops.com.do
@@ -623,6 +622,7 @@ meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
 mercadoplay.com.pe
+portalinmobiliario.cl
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -791,8 +791,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-dashboard.mergify.com
 api.mergify.com
+dashboard.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1795,8 +1795,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 www.recordedfuture.com
-securitytrails.com
 tria.ge
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1924,8 +1924,8 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -1962,8 +1962,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-m.reddit.com
 api.reddit.com
+m.reddit.com
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2138,13 +2138,13 @@ shop-id.tokopedia.com
 shop.tiktok.com
 creatormarketplace.tiktok.com
 developers.tiktok.com
-live-backstage.tiktok.com
 careers.tiktok.com
+live-backstage.tiktok.com
 business.tiktok.com
 *.tiktokv.com
+seller-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
-seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2359,12 +2359,12 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-ca.account.sony.com
-my.account.sony.com
-social.playstation.com
-*.sonyentertainmentnetwork.com
 my.playstation.com
+social.playstation.com
+ca.account.sony.com
+*.sonyentertainmentnetwork.com
 *.playstation.net
+my.account.sony.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2598,8 +2598,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.line-apps.com
 *.linecorp.com
+*.line-apps.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2746,8 +2746,8 @@ www.bookingholdings.com
 api.creditkarma.com
 blog.creditkarma.com
 www.creditkarma.ca
-accounts.creditkarma.com
 support.creditkarma.ca
+accounts.creditkarma.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -3022,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-m.chaturbate.com
 *.mmcdn.com
+m.chaturbate.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3044,8 +3044,8 @@ www.bitmex.com
 blog.bitmex.com
 *.staging-airtableblocks.com
 api-staging.airtable.com
-staging.airtable.com
 *.staging.airtable.com
+staging.airtable.com
 *.staging-airtableblocks.com
 *.staging.airtable.com
 staging.airtable.com
@@ -3112,9 +3112,9 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-store.steampowered.com
-partner.steamgames.com
 steamcommunity.com
+partner.steamgames.com
+store.steampowered.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3133,9 +3133,9 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-merchant.crypto.com
 app.mona.co
 developer.crypto.com
+merchant.crypto.com
 *.crypto.com
 *.mona.co
 developer-api.crypto.com
@@ -3479,13 +3479,13 @@ moneybirdstorage.com
 *.github.net
 npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 classroom.github.com
 education.github.com
-github.com
 api.github.com
+github.com
 github.com
 api.github.com
 gist.github.com
@@ -3648,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
-business.snapchat.com
+app.snapchat.com
 ads.snapchat.com
+business.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,8 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3750,7 +3750,6 @@ one.airbnb.com
 m.airbnb.com
 assets.airbnb.com
 *.airbnb-aws.com
-www.hoteltonight.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
@@ -3759,6 +3758,7 @@ next.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
