@@ -77,9 +77,9 @@ ferrero,*.thorntons.com,False
 ferrero,*.fiestaferrero.it,False
 ferrero,*.keebler.com,False
 ferrero,*.kinder.com,False
+ferrero,*.ferrerorocher.com,False
 ferrero,*.nutella.com,False
 ferrero,*.estathe.it,False
-ferrero,*.ferrerorocher.com,False
 ferrero,*.fanniemay.com,False
 ferrero,*.moncheri.it,False
 ferrero,*.kinder.com,False
@@ -216,8 +216,8 @@ lichess,cerebro.lichess.ovh,False
 lichess,deb.lichess.ovh,False
 zooplus,zooplus.net,True
 zooplus,www.zooplus.de,True
-zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.com,True
+zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.de,True
 zooplus,www.zooplus.co.uk,True
 zooplus,www.zooplus.com,True
@@ -237,8 +237,8 @@ syfe_bbp,mark8.syfe.com,True
 neon_bbp,https://console.neon.tech/api/v2/,True
 neon_bbp,https://console.neon.tech/,True
 neon_bbp,https://console-stage.neon.build/,True
-whoop_bug_bounty,shop.whoop.com,True
 whoop_bug_bounty,app.whoop.com,True
+whoop_bug_bounty,shop.whoop.com,True
 whoop_bug_bounty,api.prod.whoop.com,True
 whoop_bug_bounty,api.prod.whoop.com,True
 whoop_bug_bounty,app.whoop.com,True
@@ -2704,8 +2704,8 @@ pagerduty,events.pagerduty.com,False
 pagerduty,api.pagerduty.com,False
 pagerduty,hackerone.stg.runbook.pagerduty.cloud,False
 pagerduty,pentest-uat.pushbot.com,False
-pagerduty,www.pagerduty.com,False
 pagerduty,*.pagerduty.com,False
+pagerduty,www.pagerduty.com,False
 pagerduty,*.pagerduty.com,False
 pagerduty,events.pagerduty.com,False
 pagerduty,api.pagerduty.com,False
@@ -4636,13 +4636,13 @@ remitly,site.rewire.com,True
 remitly,blog.remitly.com,True
 remitly,ablink.info.remitly.com,True
 remitly,careers.remitly.com,True
-remitly,auth.remitly.com,True
 remitly,app3.rewire.to,True
 remitly,*.int.remitly.com,True
 remitly,news.remitly.com,True
 remitly,remitly.com,True
 remitly,api.remitly.io,True
 remitly,access.remitly.com,True
+remitly,auth.remitly.com,True
 remitly,*.int.remitly.com,True
 remitly,*.dev.remitly.com,True
 remitly,remitly.com,True
@@ -4711,7 +4711,6 @@ interco_vdp,*.interpag.co,False
 toolsforhumanity,*.worldcoin-distributors.com,True
 toolsforhumanity,worldcoin.org,True
 toolsforhumanity,id.worldcoin.org,True
-toolsforhumanity,world.org,True
 toolsforhumanity,getworldcoin.com,True
 toolsforhumanity,bioid-management.app,True
 toolsforhumanity,*.consumer.worldcoin.org,True
@@ -4720,6 +4719,7 @@ toolsforhumanity,*.worldcoin.dev,True
 toolsforhumanity,toolsforhumanity.com,True
 toolsforhumanity,*.toolsforhumanity.com,True
 toolsforhumanity,developer.worldcoin.org,True
+toolsforhumanity,world.org,True
 toolsforhumanity,*.worldcoin.org,True
 toolsforhumanity,*.consumer.worldcoin.org,True
 toolsforhumanity,*.worldcoin-distributors.com,True
@@ -4897,8 +4897,8 @@ egress-vdp,www.egress.com,False
 23andme_bbp,clinic.lemonaidhealth.com,True
 23andme_bbp,lemonaidhealth.com,True
 23andme_bbp,healthaid.lemonaidhealth.com,True
-23andme_bbp,auth.23andme.com,True
 23andme_bbp,store.23andme.com,True
+23andme_bbp,auth.23andme.com,True
 23andme_bbp,api.23andme.com,True
 23andme_bbp,auth.23andme.com,True
 23andme_bbp,blog.23andme.com,True
@@ -6055,8 +6055,8 @@ trip_com,*.trainpal.com,True
 trip_com,*.mytrainpal.com,True
 trip_com,*.cheaptickets.nl,True
 trip_com,*.staging.travix.com,False
-mergify,api.mergify.com,True
 mergify,dashboard.mergify.com,True
+mergify,api.mergify.com,True
 mergify,api.mergify.com,True
 mergify,dashboard.mergify.com,True
 compass-bbp,www.compass.com,True
@@ -7879,12 +7879,12 @@ apnic,rpki.apnic.net,False
 apnic,submission.apnic.net,False
 apnic,* IPv4 addresses,False
 apnic,* IPv6 addresses,False
-okg,*.oklink.com,True
-okg,*.okx.com,True
 okg,*.okx.com,True
 okg,*.oklink.com,True
-city_of_los_angeles_vdp,*.lacity.org,False
+okg,*.okx.com,True
+okg,*.oklink.com,True
 city_of_los_angeles_vdp,*.lacity.gov,False
+city_of_los_angeles_vdp,*.lacity.org,False
 city_of_los_angeles_vdp,*.lacity.org,False
 city_of_los_angeles_vdp,*.lacity.gov,False
 fastly-vdp,*.signalsciences.com,False
@@ -8213,9 +8213,9 @@ malwarebytes,www.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.cloud.malwarebytes.com,True
 malwarebytes,cloud.malwarebytes.com,True
-malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.threatdown.com,True
 malwarebytes,*.malwarebytes.com,True
+malwarebytes,my.malwarebytes.com,True
 malwarebytes,*.mwbsys.com,True
 malwarebytes,*.mb-cosmos.com,True
 malwarebytes,*.mbamupdates.com,True
@@ -10043,8 +10043,8 @@ epicgames,forum.sketchfab.com,False
 tinder,*.tstaging.com,True
 tinder,*.tstaging.tools,True
 tinder,*.tinderwebstaging.com,True
-tinder,*.gotinder.com,True
 tinder,*.tinder.com,True
+tinder,*.gotinder.com,True
 tinder,*.tinderops.net,True
 tinder,*.tinder.com,True
 tinder,*.gotinder.com,True
@@ -10061,8 +10061,8 @@ recorded-future,app.recordedfuture.com,True
 recorded-future,therecord.media,True
 recorded-future,id.recordedfuture.com,True
 recorded-future,www.recordedfuture.com,True
-recorded-future,securitytrails.com,True
 recorded-future,tria.ge,True
+recorded-future,securitytrails.com,True
 recorded-future,www.recordedfuture.com,True
 recorded-future,api.recordedfuture.com,True
 recorded-future,app.recordedfuture.com,True
@@ -11172,8 +11172,8 @@ aig,mall.aig.com.cn,False
 aig,https://mall.aig.com.cn/efapiao/,False
 aig,www.americanhome.co.jp,False
 blackrock,*.ishares.com,False
-blackrock,*.blackrock.com,False
 blackrock,*.isharesonline.com,False
+blackrock,*.blackrock.com,False
 blackrock,*.blackrock.com,False
 blackrock,*.ishares.com,False
 blackrock,*.isharesonline.com,False
@@ -11373,8 +11373,8 @@ reddit,matrix.redditspace.com,True
 reddit,*.redditinc.com,True
 reddit,*.memorable.io,True
 reddit,developers.reddit.com,True
-reddit,m.reddit.com,True
 reddit,api.reddit.com,True
+reddit,m.reddit.com,True
 reddit,*.reddit.com,True
 reddit,*.snooguts.net,True
 reddit,*.reddit.com,True
@@ -12121,9 +12121,9 @@ tiktok,careers.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,*.tiktokv.com,True
 tiktok,seller-id.tokopedia.com,True
-tiktok,*.tiktok.com,True
 tiktok,ads.tiktok.com,True
 tiktok,tiktok.com,True
+tiktok,*.tiktok.com,True
 tiktok,*.tiktok.com,True
 tiktok,business.tiktok.com,True
 tiktok,ads.tiktok.com,True
@@ -12232,8 +12232,8 @@ logitech,select.logitech.com,False
 logitech,https://www.logitech.com/blog,False
 logitech,alert.logitech.com,False
 enjin,*.enjinusercontent.com,False
-enjin,platform.enjin.io,True
 enjin,nft.io,True
+enjin,platform.enjin.io,True
 enjin,nft.io,True
 enjin,platform.enjin.io,True
 enjin,*.enjinusercontent.com,False
@@ -12272,9 +12272,9 @@ rebellion-defense,*.moochirp.io,False
 rebellion-defense,*.mooch.rip,False
 rebellion-defense,www.rebelliondefense.com,False
 acronis,*-api-*.acronis.com,True
+acronis,*.acronis.work,True
 acronis,*.devicelock.com,True
 acronis,*.5nine.com,True
-acronis,*.acronis.work,True
 acronis,beta-cloud.acronis.com,True
 acronis,account.acronis.com,True
 acronis,*.acronis.com,True
@@ -12451,8 +12451,8 @@ playstation,ca.account.sony.com,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,my.playstation.com,True
 playstation,social.playstation.com,True
-playstation,*.playstation.net,True
 playstation,my.account.sony.com,True
+playstation,*.playstation.net,True
 playstation,*.playstation.net,True
 playstation,*.sonyentertainmentnetwork.com,True
 playstation,*.api.playstation.com,True
@@ -12672,8 +12672,8 @@ marriott,sso.marriott.com,True
 marriott,mgs.marriott.com,True
 marriott,help.marriott.com,True
 marriott,traveler.marriott.com,True
-marriott,all-inclusive.marriott.com,True
 marriott,www.marriott.com,True
+marriott,all-inclusive.marriott.com,True
 marriott,marrtool.com,True
 marriott,homes-and-villas.marriott.com,True
 marriott,careers.marriott.com,True
@@ -14285,9 +14285,9 @@ valve,developer.valvesoftware.com,True
 valve,help.steampowered.com,True
 valve,api.steampowered.com,True
 valve,www.counter-strike.net,True
-valve,store.steampowered.com,True
-valve,partner.steamgames.com,True
 valve,steamcommunity.com,True
+valve,partner.steamgames.com,True
+valve,store.steampowered.com,True
 valve,www.dota2.com,True
 valve,support.steampowered.com,True
 valve,partner.steampowered.com,True
@@ -14309,8 +14309,8 @@ crypto,js.crypto.com,True
 crypto,nadex.com,True
 crypto,web.crypto.com,True
 crypto,app.mona.co,True
-crypto,merchant.crypto.com,True
 crypto,developer.crypto.com,True
+crypto,merchant.crypto.com,True
 crypto,*.crypto.com,True
 crypto,*.mona.co,True
 crypto,developer-api.crypto.com,True
@@ -14571,8 +14571,8 @@ spotify,*.spotify.net,True
 spotify,*.byspotify.com,True
 spotify,assets.spotify.com,True
 spotify,*.withspotify.com,True
-spotify,api.spotify.com,True
 spotify,*.spotify.com,True
+spotify,api.spotify.com,True
 spotify,*.spotify.com,True
 spotify,*.spotify.net,True
 spotify,*.withspotify.com,True
@@ -14727,8 +14727,8 @@ rubygems,rubygems.org,True
 rubygems,shipit.rubygems.org,False
 yelp,yelptop100.com,True
 yelp,*.yelpwifi.com,True
-yelp,*.yelp.com,True
 yelp,*.yelp-support.com,True
+yelp,*.yelp.com,True
 yelp,*.yelp.com,True
 yelp,*.yelp-support.com,True
 yelp,*.yelpwifi.com,True
@@ -14779,8 +14779,8 @@ github,npmjs.org,True
 github,gist.github.com,True
 github,*.githubapp.com,True
 github,*.githubusercontent.com,True
-github,education.github.com,True
 github,classroom.github.com,True
+github,education.github.com,True
 github,api.github.com,True
 github,github.com,True
 github,github.com,True
@@ -14906,8 +14906,8 @@ shopify,*.pci.shopifyinc.com,True
 shopify,*.shopifycloud.com,True
 shopify,shopifyinbox.com,True
 shopify,your-store.myshopify.com,True
-shopify,accounts.shopify.com,True
 shopify,linkpop.com,True
+shopify,accounts.shopify.com,True
 shopify,shop.app,True
 shopify,*.shopify.com,True
 shopify,admin.shopify.com,True
@@ -14953,13 +14953,13 @@ snapchat,businesshelp.snapchat.com,True
 snapchat,*.sc-core.net,True
 snapchat,story.snapchat.com,True
 snapchat,forum.playcanvas.com,True
-snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,snappublisher.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,playcanvas.com,True
 snapchat,ads.snapchat.com,True
 snapchat,business.snapchat.com,True
+snapchat,web.snapchat.com,True
 snapchat,accounts.snapchat.com,True
 snapchat,app.snapchat.com,True
 snapchat,*.sc-core.net,True
@@ -15040,7 +15040,6 @@ adobe,stock.adobe.com,True
 adobe,account.adobe.com,True
 adobe,contributor.stock.adobe.com,True
 adobe,firefly.adobe.com,True
-adobe,fonts.adobe.com,True
 adobe,*.acrobat.adobe.com,True
 adobe,account.adobe.com,True
 adobe,auth.services.adobe.com,True
@@ -15081,8 +15080,8 @@ airbnb,*.hoteltonight.com,True
 airbnb,api.airbnb.com,True
 airbnb,*.airbnb.com,True
 airbnb,*.withairbnb.com,True
-airbnb,www.hoteltonight.com,True
 airbnb,www.airbnb.com,True
+airbnb,www.hoteltonight.com,True
 airbnb,*.hoteltonight.com,True
 airbnb,www.airbnb.com,True
 airbnb,next.airbnb.com,True
@@ -15141,11 +15140,11 @@ greenhouse,jss.greenhouse.io,True
 greenhouse,app.interseller.io,True
 greenhouse,onboarding.greenhouse.io,True
 greenhouse,support.greenhouse.io,True
-greenhouse,api.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
 greenhouse,interseller.io,True
 greenhouse,app.greenhouse.io,True
 greenhouse,www.greenhouse.io,True
+greenhouse,api.greenhouse.io,True
 greenhouse,app.greenhouse.io,True
 greenhouse,boards.greenhouse.io,True
 greenhouse,api.greenhouse.io,True
@@ -15314,8 +15313,8 @@ security,app.pullrequest.com,True
 security,hackerone.live,True
 security,api.hackerone.com,True
 security,mta-sts.wearehackerone.com,True
-security,hackerone.com,True
 security,a5s.hackerone-ext-content.com,True
+security,hackerone.com,True
 security,www.hackerone.com,True
 security,hackerone.com,True
 security,api.hackerone.com,True
