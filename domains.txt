@@ -15,8 +15,8 @@ recreation.gov
 www.recreation.gov
 cdn.recreation.gov
 manage-cdn.recreation.gov
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 cpms.silabs.com
@@ -111,8 +111,8 @@ https://app.hex.tech
 https://hex.tech
 login8.fiscloudservices.com
 www.virtualterminal.com
-docs.worldpay.com
 www.accessmyiq.com
+docs.worldpay.com
 www.accessmyiq.com
 www.virtualterminal.com
 login8.fiscloudservices.com
@@ -4637,8 +4637,8 @@ access.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 news.remitly.com
 remitly.com
 api.remitly.io
@@ -7878,8 +7878,8 @@ rpki.apnic.net
 submission.apnic.net
 * IPv4 addresses
 * IPv6 addresses
-*.okx.com
 *.oklink.com
+*.okx.com
 *.okx.com
 *.oklink.com
 *.lacity.org
@@ -9184,8 +9184,8 @@ app.s02.callsign.com
 b2b.s02.callsign.com
 southfields-v2.s02.t00-csglobal.a2develop.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -11093,8 +11093,8 @@ www.stripe.partners
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -11262,8 +11262,8 @@ www.urbanclap.com
 *legacy.huntingtonhospital.org
 *apps.huntingtonhospital.com/
 *appofchoice.huntingtonhospital.com/
-*.thomsonreuters.com
 *.reuters.com
+*.thomsonreuters.com
 *.thomsonreuters.com
 *.reuters.com
 *.fetchcore-cloud.com
@@ -12119,9 +12119,9 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
+seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -12231,8 +12231,8 @@ select.logitech.com
 https://www.logitech.com/blog
 alert.logitech.com
 *.enjinusercontent.com
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 *.enjinusercontent.com
@@ -12270,10 +12270,10 @@ www.rebelliondefense.com
 *.moochirp.io
 *.mooch.rip
 www.rebelliondefense.com
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 *.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
@@ -12446,11 +12446,11 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-my.playstation.com
-social.playstation.com
 ca.account.sony.com
 my.account.sony.com
+social.playstation.com
 *.sonyentertainmentnetwork.com
+my.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -12671,8 +12671,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -13329,8 +13329,8 @@ streaklinks.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -14142,8 +14142,8 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
-*.braintreegateway.com
 *.xoom.com
+*.braintreegateway.com
 paypalobjects.com
 *.braintree-api.com
 *.paylution.com
@@ -14185,8 +14185,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -14779,8 +14779,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 github.com
 api.github.com
 github.com
@@ -14808,10 +14808,10 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-docs.gitlab.com
 *.gitlab.net
-gitlab.com
+docs.gitlab.com
 customers.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -14862,8 +14862,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -14904,15 +14904,15 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 *.shopifycloud.com
-*.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
-linkpop.com
 accounts.shopify.com
+linkpop.com
 partners.shopify.com
 shop.app
 *.shopify.com
 admin.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -14956,10 +14956,10 @@ forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
-ads.snapchat.com
 app.snapchat.com
+playcanvas.com
 business.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -15037,9 +15037,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -15078,8 +15077,8 @@ www.hoteltonight.com
 *.muscache.com
 next.airbnb.com
 *.hoteltonight.com
-api.airbnb.com
 *.airbnb.com
+api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
@@ -15313,9 +15312,9 @@ app.pullrequest.com
 hackerone.live
 api.hackerone.com
 mta-sts.wearehackerone.com
-www.hackerone.com
 a5s.hackerone-ext-content.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com

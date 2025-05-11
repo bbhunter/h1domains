@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 04:29:59 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 05:24:31 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 pay.wallet.tg
@@ -11,8 +11,8 @@ wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
-*.audible.(TLD)
 tax.audible.com
+*.audible.(TLD)
 tax.audible.com
 *.audible.(TLD)
 https://api.myntra.com
@@ -442,8 +442,8 @@ access.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
 auth.remitly.com
-app3.rewire.to
 *.int.remitly.com
+app3.rewire.to
 news.remitly.com
 remitly.com
 api.remitly.io
@@ -1127,8 +1127,8 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-*.okx.com
 *.oklink.com
+*.okx.com
 *.okx.com
 *.oklink.com
 bridekidnapping.alternativa.film
@@ -1526,8 +1526,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 ws.sorare.com
-sorare.com
 api.sorare.com
+sorare.com
 sorare.com
 api.sorare.com
 ws.sorare.com
@@ -1924,8 +1924,8 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -2142,9 +2142,9 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 *.tiktok.com
 ads.tiktok.com
+seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 business.tiktok.com
@@ -2184,8 +2184,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-nft.io
 platform.enjin.io
+nft.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2206,10 +2206,10 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
+*.acronis.work
 *-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 *.acronis.com
 beta-cloud.acronis.com
 account.acronis.com
@@ -2359,11 +2359,11 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-my.playstation.com
-social.playstation.com
 ca.account.sony.com
 my.account.sony.com
+social.playstation.com
 *.sonyentertainmentnetwork.com
+my.playstation.com
 *.playstation.net
 *.playstation.net
 *.sonyentertainmentnetwork.com
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2598,8 +2598,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2979,8 +2979,8 @@ loanbuilder.com
 *.paydiant.com
 *.venmo.com
 *.hyperwallet.com
-*.braintreegateway.com
 *.xoom.com
+*.braintreegateway.com
 paypalobjects.com
 *.braintree-api.com
 *.paylution.com
@@ -3022,8 +3022,8 @@ secure.chaturbate.com
 *.securegatewayaccess.com
 *.cb.dev
 billingsupport.chaturbate.com
-*.mmcdn.com
 m.chaturbate.com
+*.mmcdn.com
 chaturbate.com
 *.highwebmedia.com
 *.securegatewayaccess.com
@@ -3482,8 +3482,8 @@ npmjs.org
 gist.github.com
 *.githubapp.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 github.com
 api.github.com
 github.com
@@ -3511,10 +3511,10 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-docs.gitlab.com
 *.gitlab.net
-gitlab.com
+docs.gitlab.com
 customers.gitlab.com
+gitlab.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3561,8 +3561,8 @@ oauth.deriv.com
 *.binary.com
 cashier.deriv.com
 derivws.com
-*.deriv.com
 app.deriv.com
+*.deriv.com
 api.deriv.com
 *.deriv.com
 *.deriv.cloud
@@ -3596,15 +3596,15 @@ shopify.plus
 arrive-server.shopifycloud.com
 *.pci.shopifyinc.com
 *.shopifycloud.com
-*.shopify.io
 shopifyinbox.com
 your-store.myshopify.com
-linkpop.com
 accounts.shopify.com
+linkpop.com
 partners.shopify.com
 shop.app
 *.shopify.com
 admin.shopify.com
+*.shopify.io
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3648,10 +3648,10 @@ forum.playcanvas.com
 web.snapchat.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-playcanvas.com
-ads.snapchat.com
 app.snapchat.com
+playcanvas.com
 business.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3715,9 +3715,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3756,8 +3755,8 @@ www.hoteltonight.com
 *.muscache.com
 next.airbnb.com
 *.hoteltonight.com
-api.airbnb.com
 *.airbnb.com
+api.airbnb.com
 *.withairbnb.com
 www.airbnb.com
 *.hoteltonight.com
@@ -3983,9 +3982,9 @@ app.pullrequest.com
 hackerone.live
 api.hackerone.com
 mta-sts.wearehackerone.com
-www.hackerone.com
 a5s.hackerone-ext-content.com
 hackerone.com
+www.hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
