@@ -2,12 +2,12 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 11 10:21:41 UTC 2025)
+## Domains with Bounties (Last Updated Sun May 11 11:20:28 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+wallet.tg
 pay.wallet.tg
 walletbot.me
-wallet.tg
 walletbot.me
 pay.wallet.tg
 wallet.tg
@@ -44,8 +44,8 @@ mark8.syfe.com
 https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 api.prod.whoop.com
 app.whoop.com
@@ -195,9 +195,9 @@ salesforce.khealth.com
 http://clinical-quality.khealth.com/api/v1
 middle-force.khealth.io
 api.khealth.com
-*.capitalonegslbex.com
 *.capitalone.ca
 *.capitaloneshopping.com
+*.capitalonegslbex.com
 *.capitalone.com
 *.capitalone.com
 *.capitaloneshopping.com
@@ -477,9 +477,9 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 developer.worldcoin.org
@@ -547,12 +547,12 @@ app.dynamic.xyz
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-cpanel.hostinger.com
 payments.hostinger.com
 horizons.hostinger.com
 hpanel.hostinger.com
 builder.hostinger.com
 www.hostinger.com
+cpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -1206,9 +1206,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
-my.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -1462,8 +1462,8 @@ artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
 artifactory.corp.mongodb.com/
-sandbox-royal.securegateway.com
 sandbox.securegateway.com
+sandbox-royal.securegateway.com
 sandbox.securegateway.com
 sandbox-royal.securegateway.com
 www.dolap.com
@@ -1777,8 +1777,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinder.com
 *.gotinder.com
+*.tinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1924,8 +1924,8 @@ cloud.elastic.co
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -1962,8 +1962,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-api.reddit.com
 m.reddit.com
+api.reddit.com
 *.reddit.com
 *.snooguts.net
 *.reddit.com
@@ -2142,8 +2142,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-seller-id.tokopedia.com
 ads.tiktok.com
+seller-id.tokopedia.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2206,8 +2206,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 beta-cloud.acronis.com
@@ -2359,10 +2359,10 @@ transact.playstation.com
 wallets.api.playstation.com
 *.api.playstation.com
 store.playstation.com
-ca.account.sony.com
-*.sonyentertainmentnetwork.com
 my.playstation.com
 social.playstation.com
+ca.account.sony.com
+*.sonyentertainmentnetwork.com
 my.account.sony.com
 *.playstation.net
 *.playstation.net
@@ -2517,8 +2517,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-www.marriott.com
 all-inclusive.marriott.com
+www.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -2598,8 +2598,8 @@ app.nordpass.com
 *.line.naver.jp
 *.line.biz
 *.line.me
-*.linecorp.com
 *.line-apps.com
+*.linecorp.com
 *.line.me
 *.line-apps.com
 *.line.naver.jp
@@ -2885,8 +2885,8 @@ grammarly.ai
 *.grammarlyaws.com
 capi.grammarly.com
 *.grammarly.io
-app.grammarly.com
 *.grammarly.com
+app.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.grammarly.com
@@ -3111,9 +3111,9 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
-partner.steamgames.com
 store.steampowered.com
+partner.steamgames.com
+steamcommunity.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -3133,11 +3133,11 @@ js.crypto.com
 nadex.com
 web.crypto.com
 app.mona.co
-developer.crypto.com
 merchant.crypto.com
-*.crypto.com
 *.mona.co
 developer-api.crypto.com
+*.crypto.com
+developer.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3178,8 +3178,8 @@ falcon-sandbox.com
 *.bionic.ai
 *.flowsecurity.app
 *.securecircle.com
-www.crowdstrike.com
 *.crowdstrike.com
+www.crowdstrike.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3323,8 +3323,8 @@ backstage.io
 *.byspotify.com
 assets.spotify.com
 *.withspotify.com
-*.spotify.com
 api.spotify.com
+*.spotify.com
 *.spotify.com
 *.spotify.net
 *.withspotify.com
@@ -3476,15 +3476,15 @@ moneybird.com
 moneybird.com
 moneybirdstorage.com
 *.github.net
-npmjs.com
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
 classroom.github.com
 education.github.com
 api.github.com
 github.com
+npmjs.com
 github.com
 api.github.com
 gist.github.com
@@ -3597,13 +3597,13 @@ arrive-server.shopifycloud.com
 *.shopifycloud.com
 shopifyinbox.com
 your-store.myshopify.com
-linkpop.com
 accounts.shopify.com
+linkpop.com
 shop.app
 *.shopify.com
-admin.shopify.com
 *.shopify.io
 partners.shopify.com
+admin.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -3646,11 +3646,11 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
-ads.snapchat.com
+app.snapchat.com
 business.snapchat.com
 web.snapchat.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3755,10 +3755,10 @@ assets.airbnb.com
 next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
-*.airbnb.com
 *.withairbnb.com
-www.airbnb.com
 www.hoteltonight.com
+www.airbnb.com
+*.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3983,8 +3983,8 @@ hackerone.live
 api.hackerone.com
 mta-sts.wearehackerone.com
 a5s.hackerone-ext-content.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
