@@ -66,7 +66,6 @@ about.espnbet.com
 *.yogurette.de
 *.eatnatural.com
 *.duplo.de
-*.raffaello.com
 *.littlebrowniebakers.com
 *.pocketcoffee.it
 *.babyruth.com
@@ -79,8 +78,9 @@ about.espnbet.com
 *.nutella.com
 *.estathe.it
 *.ferrerorocher.com
-*.fanniemay.com
 *.moncheri.it
+*.raffaello.com
+*.fanniemay.com
 *.kinder.com
 *.nutella.com
 *.tictac.com
@@ -214,9 +214,9 @@ eight.lichess.ovh
 cerebro.lichess.ovh
 deb.lichess.ovh
 zooplus.net
-www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
+www.zooplus.de
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
@@ -225,8 +225,8 @@ api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
 mark8.syfe.com
 www.syfe.com
-alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -1228,7 +1228,6 @@ http://mwffcu-dn.financial-net.com
 http://mwrdecu-dn.financial-net.com
 www.farmerslife.com
 brokers.zurich.com.au
-www.zurichna.com
 www.bristolwest.com
 www.farmers.com
 www.rcis.com
@@ -1240,6 +1239,7 @@ www.zurich.com
 blueinsurance.ie
 www.foremost.com
 sfera.zurich.it
+www.zurichna.com
 www.bristolwest.com
 www.rcis.com
 www.zurich.com
@@ -2649,7 +2649,6 @@ https://multiplayer.dev
 https://supabase.help
 https://supabase.link
 *.gop3.nl
-*.playwsop.com
 *.governorofpoker.com
 *.boardkingsgame.com
 *.serious.li
@@ -2703,8 +2702,8 @@ events.pagerduty.com
 api.pagerduty.com
 hackerone.stg.runbook.pagerduty.cloud
 pentest-uat.pushbot.com
-*.pagerduty.com
 www.pagerduty.com
+*.pagerduty.com
 *.pagerduty.com
 events.pagerduty.com
 api.pagerduty.com
@@ -3266,8 +3265,8 @@ meechum.netflix.com
 *.nflximg.net
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
-www.netflix.com
 nmtracking.netflix.com
+www.netflix.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -4630,7 +4629,6 @@ partner-webhook.remitly.io
 metrics.int.remitly.com
 ir.remitly.com
 app.rewire.to
-rewire.com
 site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
@@ -4642,6 +4640,7 @@ remitly.com
 api.remitly.io
 access.remitly.com
 auth.remitly.com
+rewire.com
 *.int.remitly.com
 *.dev.remitly.com
 remitly.com
@@ -4712,13 +4711,13 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
-developer.worldcoin.org
 world.org
+developer.worldcoin.org
 *.worldcoin.org
 *.consumer.worldcoin.org
 *.worldcoin-distributors.com
@@ -4928,7 +4927,6 @@ www.mercadolibre.com.gt
 www.mercadolibre.co.cr
 www.mercadolibre.com.hn
 www.mercadolibre.com.ec
-*.mercadoshops.com.ar
 *.mercadoshops.com.pe
 *.mercadopago.cl
 *.mercadolibre.com.pe
@@ -4947,6 +4945,7 @@ meliplay.com.pe
 meliplay.com.uy
 mercadoplay.com.pe
 portalinmobiliario.cl
+mercadoplay.com.uy
 *.adminml.com
 *.mercadolibre.cl
 *.mercadolibre.com
@@ -6054,8 +6053,8 @@ kronor.io
 *.mytrainpal.com
 *.cheaptickets.nl
 *.staging.travix.com
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -6065,8 +6064,8 @@ https://blog.blueapron.com/
 www.blueapron.com
 http://www.blueapron.com/graphql
 https://order.wonder.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -8205,7 +8204,6 @@ eip.abb.com.cn
 *.cyrus-security.com
 blog.malwarebytes.com
 forums.malwarebytes.com
-oneview.malwarebytes.com
 support.malwarebytes.com
 *.mbamupdates.com
 www.malwarebytes.com
@@ -8215,6 +8213,7 @@ cloud.malwarebytes.com
 my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -8510,15 +8509,15 @@ www.stayz.com.au
 www.abritel.fr
 www.hotels.com
 www.orbitz.com
-www.hotwire.com
 www.lastminute.com.au
 www.wotif.com
 www.vrbo.com
-www.lastminute.co.nz
 *.travelocity.com
 *.cheaptickets.com
 www.ebookers.fi
+www.lastminute.co.nz
 www.expedia.com
+www.fewo-direkt.de
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -8615,9 +8614,9 @@ www.ebookers.fi
 eng.magiceden.dev
 eng.magiceden.io
 *.magiceden.workers.dev
-magiceden.io
 *.magiceden.io
 *.magiceden.dev
+magiceden.io
 magiceden.io
 *.magiceden.io
 *.magiceden.dev
@@ -9339,7 +9338,6 @@ www.alohi.com
 *.realogy.com
 *.mycbdesk.com
 *.trgc.com
-*.century21.com
 *.cbcworldwide.com
 *.cartus.com
 *.era.com
@@ -9348,8 +9346,9 @@ www.alohi.com
 *.coldwellbanker.com
 *.century21global.com
 *.c21.com
-*.sothebysrealty.com
 *.anywhere.re
+*.sothebysrealty.com
+*.century21.com
 *.era.com
 *.trgc.com
 *.leadrouter.com
@@ -10042,8 +10041,8 @@ forum.sketchfab.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -11093,8 +11092,8 @@ www.stripe.partners
 api.taxjar.com
 app.taxjar.com
 js.stripe.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
 api.stripe.com
@@ -12270,8 +12269,8 @@ www.rebelliondefense.com
 *.moochirp.io
 *.mooch.rip
 www.rebelliondefense.com
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 beta-cloud.acronis.com
@@ -12671,8 +12670,8 @@ sso.marriott.com
 mgs.marriott.com
 help.marriott.com
 traveler.marriott.com
-all-inclusive.marriott.com
 www.marriott.com
+all-inclusive.marriott.com
 marrtool.com
 homes-and-villas.marriott.com
 careers.marriott.com
@@ -13328,8 +13327,8 @@ mailfoogae.appspot.com
 streaklinks.com
 *.line.naver.jp
 *.line.biz
-*.line.me
 *.linecorp.com
+*.line.me
 *.line-apps.com
 *.line.me
 *.line-apps.com
@@ -14311,8 +14310,8 @@ app.mona.co
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
-*.crypto.com
 developer-api.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -14910,8 +14909,8 @@ shop.app
 *.shopify.io
 accounts.shopify.com
 admin.shopify.com
-*.shopify.com
 partners.shopify.com
+*.shopify.com
 *.shopifycs.com
 *.pci.shopifyinc.com
 *.shopify.io
@@ -14954,11 +14953,11 @@ story.snapchat.com
 forum.playcanvas.com
 accounts.snapchat.com
 snappublisher.snapchat.com
-app.snapchat.com
 playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -15037,8 +15036,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-firefly.adobe.com
 contributor.stock.adobe.com
+firefly.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -15079,8 +15078,8 @@ next.airbnb.com
 api.airbnb.com
 *.withairbnb.com
 www.hoteltonight.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -15160,10 +15159,10 @@ xadsacademy.com
 *.grok.com
 gnip.com
 *.twitter.com
-*.x.com
 grok.com
 *.x.ai
 x.com
+*.x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
