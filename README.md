@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 03:19:45 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 04:31:28 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -22,19 +22,19 @@ https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
 zooplus.net
-www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
+www.zooplus.co.uk
 www.zooplus.de
 www.zooplus.co.uk
 www.zooplus.com
 zooplus.net
 api-uat-bugbounty.nonprod.syfe.com
 mark8.syfe.com
-alfred.syfe.com
 www.syfe.com
 api.syfe.com
 uat-bugbounty.nonprod.syfe.com
+alfred.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -352,12 +352,12 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.cloud.netflix.com
 *.prod.ftl.netflix.com
 nmtracking.netflix.com
 *.nflxso.net
-*.nflxext.com
 www.netflix.com
+*.prod.cloud.netflix.com
+*.nflxext.com
 *.nflxext.com
 *.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
@@ -476,9 +476,9 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
+*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
-*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 world.org
@@ -796,8 +796,8 @@ api.mergify.com
 dashboard.mergify.com
 www.compass.com
 www.compass.com
-*.hypr.com
 *.gethypr.com
+*.hypr.com
 *.hypr.com
 *.gethypr.com
 cdn.moderntreasury.com
@@ -1003,10 +1003,10 @@ developer.currencycloud.com
 direct-demo.currencycloud.com
 https://www.visa.com.az/az_az/account/registration
 yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
-yourdomain.freshchat.com
 yourdomain.freshservice.com
 yourdomain.freshdesk.com
+yourdomain.freshchat.com
+yourdomain.myfreshworks.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.freshchat.com
@@ -1157,8 +1157,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-*.indrive.com
 *.indriverapp.com
+*.indrive.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1204,9 +1204,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
+my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
-my.malwarebytes.com
 oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1794,8 +1794,8 @@ app.recordedfuture.com
 therecord.media
 id.recordedfuture.com
 tria.ge
-securitytrails.com
 www.recordedfuture.com
+securitytrails.com
 www.recordedfuture.com
 api.recordedfuture.com
 app.recordedfuture.com
@@ -1922,8 +1922,8 @@ cloud.elastic.co
 *.link.co
 api.taxjar.com
 js.stripe.com
-*.stripe.com
 api.stripe.com
+*.stripe.com
 *.lemonsqueezy.com
 app.taxjar.com
 *.lemonsqueezy.com
@@ -1960,8 +1960,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-api.reddit.com
 m.reddit.com
+api.reddit.com
 *.reddit.com
 accounts.reddit.com
 *.snooguts.net
@@ -2141,8 +2141,8 @@ live-backstage.tiktok.com
 careers.tiktok.com
 business.tiktok.com
 *.tiktokv.com
-ads.tiktok.com
 seller-id.tokopedia.com
+ads.tiktok.com
 tiktok.com
 *.tiktok.com
 *.tiktok.com
@@ -2205,8 +2205,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 beta-cloud.acronis.com
@@ -2359,8 +2359,8 @@ wallets.api.playstation.com
 store.playstation.com
 social.playstation.com
 my.account.sony.com
-my.playstation.com
 *.playstation.net
+my.playstation.com
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
@@ -3110,8 +3110,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-steamcommunity.com
 partner.steamgames.com
+steamcommunity.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3130,13 +3130,13 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 web.crypto.com
-app.mona.co
 merchant.crypto.com
+app.mona.co
 *.mona.co
 developer.crypto.com
 developer-platform-api.crypto.com
-*.crypto.com
 developer-api.crypto.com
+*.crypto.com
 *.crypto.com
 *.mona.co
 https://crypto.com/exchange
@@ -3509,10 +3509,10 @@ design.gitlab.com
 *.gitlab.org
 *.gitlap.com
 about.gitlab.com
-*.gitlab.net
 customers.gitlab.com
 docs.gitlab.com
 gitlab.com
+*.gitlab.net
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3648,8 +3648,8 @@ playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
-snappublisher.snapchat.com
 app.snapchat.com
+snappublisher.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3714,9 +3714,8 @@ photos.adobe.io
 marketplace.magento.com
 stock.adobe.com
 account.adobe.com
-contributor.stock.adobe.com
 firefly.adobe.com
-fonts.adobe.com
+contributor.stock.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3756,9 +3755,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
+www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
-www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
