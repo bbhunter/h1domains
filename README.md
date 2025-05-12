@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 12 01:57:18 UTC 2025)
+## Domains with Bounties (Last Updated Mon May 12 03:19:45 UTC 2025)
 ```
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 wallet.tg
@@ -32,9 +32,9 @@ zooplus.net
 api-uat-bugbounty.nonprod.syfe.com
 mark8.syfe.com
 alfred.syfe.com
-uat-bugbounty.nonprod.syfe.com
-api.syfe.com
 www.syfe.com
+api.syfe.com
+uat-bugbounty.nonprod.syfe.com
 uat-bugbounty.nonprod.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 www.syfe.com
@@ -352,8 +352,8 @@ help.netflix.com
 ichnaea.netflix.com
 meechum.netflix.com
 *.nflximg.net
-*.prod.ftl.netflix.com
 *.prod.cloud.netflix.com
+*.prod.ftl.netflix.com
 nmtracking.netflix.com
 *.nflxso.net
 *.nflxext.com
@@ -438,8 +438,8 @@ site.rewire.com
 blog.remitly.com
 ablink.info.remitly.com
 careers.remitly.com
-*.int.remitly.com
 app3.rewire.to
+*.int.remitly.com
 news.remitly.com
 api.remitly.io
 access.remitly.com
@@ -476,9 +476,9 @@ worldcoin.org
 id.worldcoin.org
 getworldcoin.com
 bioid-management.app
-*.worldcoin.dev
 *.consumer.worldcoin.org
 *.worldcoin.org
+*.worldcoin.dev
 toolsforhumanity.com
 *.toolsforhumanity.com
 world.org
@@ -790,8 +790,8 @@ kronor.io
 *.trainpal.com
 *.mytrainpal.com
 *.cheaptickets.nl
-api.mergify.com
 dashboard.mergify.com
+api.mergify.com
 api.mergify.com
 dashboard.mergify.com
 www.compass.com
@@ -1154,11 +1154,11 @@ auroratechaward.com
 alternativa.film
 new-order.eu-east-1.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
-*.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
 *.indrive.com
+*.indriverapp.com
 *.indriverapp.com
 *.indrive.com
 *.indriver.com
@@ -1204,9 +1204,9 @@ www.malwarebytes.com
 *.mwbsys.com
 *.cloud.malwarebytes.com
 cloud.malwarebytes.com
-my.malwarebytes.com
 *.threatdown.com
 *.malwarebytes.com
+my.malwarebytes.com
 oneview.malwarebytes.com
 *.mwbsys.com
 *.mb-cosmos.com
@@ -1383,7 +1383,7 @@ www.ebookers.fi
 www.lastminute.co.nz
 www.expedia.com
 www.fewo-direkt.de
-*.wotif.com
+www.expediagroup.com
 *.vrbo.com
 *.carrentals.com
 *.wotif.com
@@ -1776,8 +1776,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.gotinder.com
 *.tinder.com
+*.gotinder.com
 *.tinderops.net
 *.tinder.com
 *.gotinder.com
@@ -1922,8 +1922,8 @@ cloud.elastic.co
 *.link.co
 api.taxjar.com
 js.stripe.com
-api.stripe.com
 *.stripe.com
+api.stripe.com
 *.lemonsqueezy.com
 app.taxjar.com
 *.lemonsqueezy.com
@@ -1960,8 +1960,8 @@ matrix.redditspace.com
 *.redditinc.com
 *.memorable.io
 developers.reddit.com
-m.reddit.com
 api.reddit.com
+m.reddit.com
 *.reddit.com
 accounts.reddit.com
 *.snooguts.net
@@ -2183,8 +2183,8 @@ meetiobook.com
 www.logicool.co.jp
 logitechg.com.cn
 gaming.logicool.co.jp
-platform.enjin.io
 nft.io
+platform.enjin.io
 nft.io
 platform.enjin.io
 api.figma.com
@@ -2206,9 +2206,9 @@ app.faraday.ai
 app.faraday.ai
 api.faraday.ai
 *-api-*.acronis.com
+*.acronis.work
 *.devicelock.com
 *.5nine.com
-*.acronis.work
 beta-cloud.acronis.com
 account.acronis.com
 *.acronis.com
@@ -2359,8 +2359,8 @@ wallets.api.playstation.com
 store.playstation.com
 social.playstation.com
 my.account.sony.com
-*.playstation.net
 my.playstation.com
+*.playstation.net
 *.api.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
@@ -2964,7 +2964,6 @@ swiftfinancial.com
 my.swiftfinancial.com
 my.loanbuilder.com
 www.loanbuilder.com
-paypal.me
 *.braintree.tools
 api.swiftfinancial.com
 swiftcapital.com
@@ -2976,13 +2975,14 @@ loanbuilder.com
 *.braintreepayments.com
 *.paydiant.com
 *.venmo.com
-*.xoom.com
 *.braintreegateway.com
+*.xoom.com
 *.braintree-api.com
-*.paylution.com
 paypalobjects.com
+*.paylution.com
 *.hyperwallet.com
 *.paypal.com
+paypal.me
 *.xoom.com
 *.paypal.com
 *.braintreegateway.com
@@ -3110,8 +3110,8 @@ developer.valvesoftware.com
 help.steampowered.com
 api.steampowered.com
 www.counter-strike.net
-partner.steamgames.com
 steamcommunity.com
+partner.steamgames.com
 store.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3157,8 +3157,8 @@ secure.plaid.com
 plaid.com
 demo.plaid.com
 my.plaid.com
-cdn.plaid.com
 dashboard.plaid.com
+cdn.plaid.com
 production.plaid.com
 dashboard.plaid.com
 cdn.plaid.com
@@ -3172,13 +3172,13 @@ www.crowdstrike.org
 *.adaptive-shield.com
 *.reposify.com
 hybrid-analysis.com
-*.humio.com
 falcon-sandbox.com
 *.bionic.ai
 *.flowsecurity.app
 *.securecircle.com
 *.crowdstrike.com
 www.crowdstrike.com
+*.humio.com
 *.crowdstrike.com
 *.humio.com
 *.securecircle.com
@@ -3476,11 +3476,11 @@ moneybird.com
 moneybirdstorage.com
 *.github.net
 npmjs.org
-gist.github.com
 *.githubapp.com
+gist.github.com
 *.githubusercontent.com
-education.github.com
 classroom.github.com
+education.github.com
 api.github.com
 npmjs.com
 github.com
@@ -3648,8 +3648,8 @@ playcanvas.com
 business.snapchat.com
 web.snapchat.com
 ads.snapchat.com
-app.snapchat.com
 snappublisher.snapchat.com
+app.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3716,6 +3716,7 @@ stock.adobe.com
 account.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
+fonts.adobe.com
 *.acrobat.adobe.com
 account.adobe.com
 auth.services.adobe.com
@@ -3755,9 +3756,9 @@ next.airbnb.com
 *.hoteltonight.com
 api.airbnb.com
 *.withairbnb.com
-www.hoteltonight.com
 *.airbnb.com
 www.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
