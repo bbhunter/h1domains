@@ -2,17 +2,17 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed May 14 22:22:21 UTC 2025)
+## Domains with Bounties (Last Updated Wed May 14 23:24:38 UTC 2025)
 ```
 connect.com
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.hubspotemail.net
 chatspot.ai
-*.hubspotpagebuilder.eu
+app-eu1.hubspot.com
 api.hubapi.com
 api.hubspot.com
-app-eu1.hubspot.com
 app.hubspot.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
@@ -65,8 +65,8 @@ https://console.neon.tech/api/v2/
 https://console.neon.tech/
 https://console-stage.neon.build/
 api.prod.whoop.com
-app.whoop.com
 shop.whoop.com
+app.whoop.com
 api.prod.whoop.com
 app.whoop.com
 shop.whoop.com
@@ -457,13 +457,13 @@ careers.remitly.com
 api.remitly.io
 news.remitly.com
 blog.remitly.com
-*.dev.remitly.com
 access.remitly.com
+*.dev.remitly.com
 auth.remitly.com
 remitly.com
 app3.rewire.to
-*.int.remitly.com
 rates.rewire.com
+*.int.remitly.com
 site.rewire.com
 rewire.com
 *.int.remitly.com
@@ -570,8 +570,8 @@ cpanel.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 payments.hostinger.com
-hpanel.hostinger.com
 www.hostinger.com
+hpanel.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
@@ -586,9 +586,9 @@ therapeutics.23andme.com
 research.23andme.com
 api.23andme.com
 you.23andme.com
+clinic.lemonaidhealth.com
 healthaid.lemonaidhealth.com
 auth.23andme.com
-clinic.lemonaidhealth.com
 pd-api.polkadoc.com
 store.23andme.com
 blog.23andme.com
@@ -839,8 +839,8 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 pay-sandbox.gocardless.com
 www.gocardless.com
-api-sandbox.gocardless.com
 manage-sandbox.gocardless.com
+api-sandbox.gocardless.com
 *.gocardless.com
 *.gocardless.io
 *.gocardless-banking.io
@@ -1039,12 +1039,12 @@ api.avtoelon.uz
 m.krisha.kz
 app.krisha.kz
 m.avtoelon.uz
-api.kolesa.kz
 app.kolesa.kz
+api.kolesa.kz
 m.kolesa.kz
 api.krisha.kz
-kolesa.kz
 krisha.kz
+kolesa.kz
 id.avtoelon.uz
 id.kolesa.kz
 avtoelon.uz
@@ -1088,12 +1088,12 @@ community-tc.services.mozilla.com
 relay.firefox.com
 monitor.mozilla.org
 addons.allizom.org
-mozilla-pontoon-staging.herokuapp.com
 support.mozilla.org
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-bugzilla.mozilla.org
+mozilla-pontoon-staging.herokuapp.com
 www.mozilla.org
 developer.mozilla.org
+bugzilla.mozilla.org
 profiler.firefox.com
 accounts.firefox.com
 addons.allizom.org
@@ -1179,8 +1179,8 @@ ab-platform-api.eu-east-1.indriverapp.com
 file-storage-front.eu-east-1.indriverapp.com
 cargo.indrive.com
 *.indriver.com
-new-order.eu-east-1.indriverapp.com
 *.indriverapp.com
+new-order.eu-east-1.indriverapp.com
 volans.tech
 *.indrive.com
 *.indriverapp.com
@@ -1566,9 +1566,9 @@ pay.ibex.exchange
 pwapi.ex2b.com
 social-trading.exness.com
 api.excalls.mobi
-exness.com
 exnessaffiliates.com
 my.exness.com
+exness.com
 my.exness.com
 pay.ibex.exchange
 https://my.exness.com/webtrading/
@@ -1619,8 +1619,8 @@ bullsheet.me
 api.etoro.com
 etoropartners.com
 billing-pci.etoro.com
-helpers.bullsheet.me
 www.etoro.com
+helpers.bullsheet.me
 www.etoro.com
 etoropartners.com
 partners.etoro.com
@@ -1802,8 +1802,8 @@ playwonderbox.com
 *.tstaging.com
 *.tstaging.tools
 *.tinderwebstaging.com
-*.tinderops.net
 *.gotinder.com
+*.tinderops.net
 *.tinder.com
 *.tinder.com
 *.gotinder.com
@@ -1947,9 +1947,9 @@ cloud.elastic.co
 *.recko.io
 *.link.co
 api.taxjar.com
-api.stripe.com
 js.stripe.com
 app.taxjar.com
+api.stripe.com
 *.stripe.com
 *.lemonsqueezy.com
 *.lemonsqueezy.com
@@ -2232,8 +2232,8 @@ api.faraday.ai
 app.faraday.ai
 app.faraday.ai
 api.faraday.ai
-*-api-*.acronis.com
 *.acronis.work
+*-api-*.acronis.com
 *.devicelock.com
 *.5nine.com
 account.acronis.com
@@ -2384,8 +2384,8 @@ api.direct.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
 store.playstation.com
-my.playstation.com
 social.playstation.com
+my.playstation.com
 *.sonyentertainmentnetwork.com
 ca.account.sony.com
 *.playstation.net
@@ -2752,9 +2752,9 @@ de.forescout.cloud
 cloud.forescout.com
 reservations.rezserver.com
 www.getaroom.com
+admin.rezserver.com
 secure.rezserver.com
 www.bookingholdings.com
-admin.rezserver.com
 www.priceline.com
 secure.rezserver.com
 reservations.rezserver.com
@@ -2782,11 +2782,11 @@ blog.creditkarma.com
 https://www.creditkarma.com/savings
 support.creditkarma.ca
 vault.omise.co
-api.omise.co
 offsite.omise.co
 www.omise.co
 www.opn.ooo
 dashboard.omise.co
+api.omise.co
 vault.omise.co
 api.omise.co
 dashboard.omise.co
@@ -3137,8 +3137,8 @@ developer.valvesoftware.com
 help.steampowered.com
 steamcommunity.com
 partner.steamgames.com
-www.counter-strike.net
 store.steampowered.com
+www.counter-strike.net
 api.steampowered.com
 www.dota2.com
 support.steampowered.com
@@ -3157,10 +3157,10 @@ tax.crypto.com
 js.crypto.com
 nadex.com
 *.mona.co
-developer-platform-api.crypto.com
 app.mona.co
 developer.crypto.com
 web.crypto.com
+developer-platform-api.crypto.com
 developer-api.crypto.com
 *.crypto.com
 merchant.crypto.com
@@ -3534,12 +3534,12 @@ registry.gitlab.com
 advisories.gitlab.com
 design.gitlab.com
 *.gitlab.org
-*.gitlap.com
 about.gitlab.com
 customers.gitlab.com
 docs.gitlab.com
 *.gitlab.net
 gitlab.com
+*.gitlap.com
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
@@ -3587,8 +3587,8 @@ oauth.deriv.com
 cashier.deriv.com
 derivws.com
 app.deriv.com
-*.deriv.com
 api.deriv.com
+*.deriv.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -3624,9 +3624,9 @@ shopifyinbox.com
 linkpop.com
 partners.shopify.com
 *.shopifycs.com
-shop.app
 your-store.myshopify.com
 *.shopify.com
+shop.app
 *.shopify.io
 accounts.shopify.com
 admin.shopify.com
@@ -3674,9 +3674,9 @@ app.snapchat.com
 accounts.snapchat.com
 web.snapchat.com
 login.playcanvas.com
-ads.snapchat.com
 business.snapchat.com
 playcanvas.com
+ads.snapchat.com
 accounts.snapchat.com
 app.snapchat.com
 *.sc-core.net
@@ -3781,12 +3781,12 @@ assets.airbnb.com
 *.hoteltonight-test.com
 *.muscache.com
 next.airbnb.com
-www.hoteltonight.com
 api.airbnb.com
+www.hoteltonight.com
 *.hoteltonight.com
 *.withairbnb.com
-www.airbnb.com
 *.airbnb.com
+www.airbnb.com
 *.hoteltonight.com
 www.airbnb.com
 next.airbnb.com
@@ -3860,10 +3860,10 @@ gnip.com
 *.twimg.com
 *.twitter.com
 *.grok.com
+x.com
 *.x.com
 grok.com
 *.x.ai
-x.com
 *.twitter.com
 *.vine.co
 *.twimg.com
@@ -3947,11 +3947,11 @@ api.custody.coinbase.com
 prime.coinbase.com
 international.coinbase.com
 commerce.coinbase.com
-*.coinbase.com
 coinbase.com
 *.base.org
 api.coinbase.com
 *.cbhq.net
+*.coinbase.com
 *.coinbase.com
 *.cbhq.net
 pro.coinbase.com
@@ -4011,8 +4011,8 @@ api.hackerone.com
 hackerone.live
 www.wearehackerone.com
 app.pullrequest.com
-hackerone.com
 www.hackerone.com
+hackerone.com
 hackerone.com
 api.hackerone.com
 www.hackerone.com
