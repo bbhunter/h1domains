@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 30 15:27:53 UTC 2025)
+## Domains with Bounties (Last Updated Fri May 30 16:29:37 UTC 2025)
 ```
 *.hubspotpagebuilder.eu
 chatspot.ai
