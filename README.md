@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  2 22:23:33 UTC 2025)
+## Domains with Bounties (Last Updated Sat Aug  2 23:25:46 UTC 2025)
 ```
 mpa.ekyc.selfregister.m-pesa.com
 openapi.m-pesa.com
