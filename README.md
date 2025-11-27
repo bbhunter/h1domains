@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 27 21:20:53 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 27 22:23:14 UTC 2025)
 ```
 staging.hosted.mender.io
 staging.hosted.mender.io
