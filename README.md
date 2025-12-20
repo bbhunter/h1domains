@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 20 16:32:05 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 20 17:19:52 UTC 2025)
 ```
 mail.notion.so
 calendar.notion.so
