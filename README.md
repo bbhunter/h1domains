@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 21 05:37:28 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 21 06:44:00 UTC 2026)
 ```
 *.andurildev.au
 *.anduril.com.au
