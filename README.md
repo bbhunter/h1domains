@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  5 21:08:14 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jul  5 23:05:20 UTC 2026)
 ```
 https://www.agoda.com/book/
 support.anthropic.com
