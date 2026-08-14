@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 14 02:14:05 UTC 2026)
+## Domains with Bounties (Last Updated Fri Aug 14 04:50:14 UTC 2026)
 ```
 m.box.com
 upload.box.com
